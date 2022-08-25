@@ -1,0 +1,34 @@
+name: push issues data to goals
+
+on:
+  issues:
+    types:
+      - opened
+      - edited
+      - deleted
+      - labeled
+      - unlabeled
+  schedule:
+    - cron: 42 1 * * 2,5
+
+jobs:
+  sauce-grab:
+    name: Open Sauced Issue Caching
+    if: github.repository_owner != 'open-sauced'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: open-sauced/actions/goals-caching@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOGIN: ${{ github.repository_owner }}
+
+      - name: "🚀 Commit changes"
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: ./*.json
+          commit_message: "chore: update the goals cache"
+          commit_user_name: open-sauced[bot]
+          commit_user_email: 63161813+open-sauced[bot]@users.noreply.github.com
+
