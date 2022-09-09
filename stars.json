@@ -1,45 +1,99 @@
 [
   {
-    "full_name": "foxcpp/maddy",
-    "stargazers_count": 3422,
-    "open_issues_count": 68,
-    "forks_count": 147
+    "full_name": "opcode-eu-org-libs/asciicast2movie",
+    "stargazers_count": 31,
+    "open_issues_count": 2,
+    "forks_count": 8
   },
   {
-    "full_name": "cruller0704/stable-diffusion-intel-mac",
-    "stargazers_count": 4,
+    "full_name": "asciinema/agg",
+    "stargazers_count": 267,
+    "open_issues_count": 4,
+    "forks_count": 2
+  },
+  {
+    "full_name": "immich-app/immich",
+    "stargazers_count": 4117,
+    "open_issues_count": 89,
+    "forks_count": 131
+  },
+  {
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "stargazers_count": 1225,
+    "open_issues_count": 63,
+    "forks_count": 114
+  },
+  {
+    "full_name": "IdreesInc/Minecraft-Font",
+    "stargazers_count": 157,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
+    "full_name": "IdreesInc/Monocraft",
+    "stargazers_count": 3003,
+    "open_issues_count": 21,
+    "forks_count": 30
+  },
+  {
+    "full_name": "nassimsoftware/zeldabotwstreetview",
+    "stargazers_count": 128,
+    "open_issues_count": 2,
+    "forks_count": 9
+  },
+  {
+    "full_name": "MyOwnClone/quake_watch",
+    "stargazers_count": 476,
+    "open_issues_count": 1,
+    "forks_count": 9
+  },
+  {
+    "full_name": "CompVis/stable-diffusion",
+    "stargazers_count": 19690,
+    "open_issues_count": 174,
+    "forks_count": 2796
+  },
+  {
+    "full_name": "foxcpp/maddy",
+    "stargazers_count": 3466,
+    "open_issues_count": 70,
+    "forks_count": 149
+  },
+  {
+    "full_name": "cruller0704/stable-diffusion-intel-mac",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "AshleyYakeley/stable-diffusion-rocm",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 3,
     "forks_count": 1
   },
   {
-    "full_name": "hlky/stable-diffusion-webui",
-    "stargazers_count": 1933,
-    "open_issues_count": 76,
-    "forks_count": 187
+    "full_name": "sd-webui/stable-diffusion-webui",
+    "stargazers_count": 2613,
+    "open_issues_count": 103,
+    "forks_count": 289
   },
   {
     "full_name": "apple/swift-book",
-    "stargazers_count": 1089,
+    "stargazers_count": 1154,
     "open_issues_count": 15,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "tashapiro/tanya-data-viz",
-    "stargazers_count": 166,
+    "stargazers_count": 175,
     "open_issues_count": 1,
-    "forks_count": 30
+    "forks_count": 33
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 8349,
+    "stargazers_count": 8363,
     "open_issues_count": 29,
-    "forks_count": 304
+    "forks_count": 305
   },
   {
     "full_name": "xuhuisheng/rocm-build",
@@ -49,25 +103,25 @@
   },
   {
     "full_name": "bes-dev/stable_diffusion.openvino",
-    "stargazers_count": 776,
-    "open_issues_count": 24,
-    "forks_count": 79
+    "stargazers_count": 832,
+    "open_issues_count": 32,
+    "forks_count": 89
   },
   {
     "full_name": "Birch-san/stable-diffusion",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "lstein/stable-diffusion",
-    "stargazers_count": 1474,
-    "open_issues_count": 101,
-    "forks_count": 168
+    "stargazers_count": 1714,
+    "open_issues_count": 120,
+    "forks_count": 206
   },
   {
     "full_name": "magnusviri/stable-diffusion-old",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -79,39 +133,39 @@
   },
   {
     "full_name": "tholman/cursor-effects",
-    "stargazers_count": 2100,
-    "open_issues_count": 7,
-    "forks_count": 155
+    "stargazers_count": 2143,
+    "open_issues_count": 9,
+    "forks_count": 156
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 3361,
-    "open_issues_count": 25,
-    "forks_count": 38
+    "stargazers_count": 3518,
+    "open_issues_count": 34,
+    "forks_count": 43
   },
   {
     "full_name": "webredone/theme-redone",
-    "stargazers_count": 73,
+    "stargazers_count": 76,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 3834,
+    "stargazers_count": 3915,
     "open_issues_count": 20,
-    "forks_count": 86
+    "forks_count": 88
   },
   {
     "full_name": "kubevela/kubevela",
-    "stargazers_count": 4141,
-    "open_issues_count": 306,
-    "forks_count": 589
+    "stargazers_count": 4158,
+    "open_issues_count": 308,
+    "forks_count": 591
   },
   {
     "full_name": "bootdotdev/curriculum",
-    "stargazers_count": 356,
+    "stargazers_count": 361,
     "open_issues_count": 2,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "spacecloud-io/space-cloud",
@@ -121,62 +175,8 @@
   },
   {
     "full_name": "apex/up",
-    "stargazers_count": 8601,
+    "stargazers_count": 8604,
     "open_issues_count": 285,
-    "forks_count": 372
-  },
-  {
-    "full_name": "github/trilogy",
-    "stargazers_count": 437,
-    "open_issues_count": 5,
-    "forks_count": 20
-  },
-  {
-    "full_name": "danielyaa5/puml-for-markdown",
-    "stargazers_count": 184,
-    "open_issues_count": 1,
-    "forks_count": 27
-  },
-  {
-    "full_name": "pi1541/Pi1541",
-    "stargazers_count": 291,
-    "open_issues_count": 121,
-    "forks_count": 68
-  },
-  {
-    "full_name": "snesrev/zelda3",
-    "stargazers_count": 987,
-    "open_issues_count": 9,
-    "forks_count": 72
-  },
-  {
-    "full_name": "cemu-project/Cemu",
-    "stargazers_count": 2624,
-    "open_issues_count": 59,
-    "forks_count": 137
-  },
-  {
-    "full_name": "onetrueawk/awk",
-    "stargazers_count": 1417,
-    "open_issues_count": 9,
-    "forks_count": 133
-  },
-  {
-    "full_name": "jotaen/xit",
-    "stargazers_count": 921,
-    "open_issues_count": 3,
-    "forks_count": 9
-  },
-  {
-    "full_name": "headwaymaps/headway",
-    "stargazers_count": 1545,
-    "open_issues_count": 25,
-    "forks_count": 30
-  },
-  {
-    "full_name": "s-macke/FSHistory",
-    "stargazers_count": 224,
-    "open_issues_count": 3,
-    "forks_count": 21
+    "forks_count": 373
   }
 ]
