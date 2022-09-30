@@ -1,45 +1,75 @@
 [
   {
+    "full_name": "WordPress/wordpress-wasm",
+    "stargazers_count": 584,
+    "open_issues_count": 18,
+    "forks_count": 18
+  },
+  {
+    "full_name": "Stage-Whisper/Stage-Whisper",
+    "stargazers_count": 30,
+    "open_issues_count": 9,
+    "forks_count": 5
+  },
+  {
+    "full_name": "octokit/octokit.rb",
+    "stargazers_count": 3679,
+    "open_issues_count": 60,
+    "forks_count": 1242
+  },
+  {
+    "full_name": "cloudflare/workerd",
+    "stargazers_count": 2961,
+    "open_issues_count": 18,
+    "forks_count": 59
+  },
+  {
+    "full_name": "weaveworks/ignite",
+    "stargazers_count": 2955,
+    "open_issues_count": 158,
+    "forks_count": 187
+  },
+  {
     "full_name": "svenko99/MacOS-free-apps-gems",
-    "stargazers_count": 21,
+    "stargazers_count": 24,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 32264,
+    "stargazers_count": 32318,
     "open_issues_count": 75,
-    "forks_count": 2071
+    "forks_count": 2072
   },
   {
     "full_name": "aonez/Keka",
-    "stargazers_count": 3201,
-    "open_issues_count": 189,
+    "stargazers_count": 3205,
+    "open_issues_count": 188,
     "forks_count": 196
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 27974,
-    "open_issues_count": 80,
-    "forks_count": 734
+    "stargazers_count": 28109,
+    "open_issues_count": 77,
+    "forks_count": 741
   },
   {
     "full_name": "m1guelpf/yt-whisper",
-    "stargazers_count": 262,
-    "open_issues_count": 2,
-    "forks_count": 9
+    "stargazers_count": 428,
+    "open_issues_count": 3,
+    "forks_count": 17
   },
   {
     "full_name": "Rezmason/matrix",
-    "stargazers_count": 1401,
-    "open_issues_count": 5,
-    "forks_count": 77
+    "stargazers_count": 1997,
+    "open_issues_count": 8,
+    "forks_count": 104
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 70960,
-    "open_issues_count": 528,
-    "forks_count": 16249
+    "stargazers_count": 71138,
+    "open_issues_count": 510,
+    "forks_count": 16282
   },
   {
     "full_name": "adamkewley/jobson",
@@ -55,63 +85,63 @@
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 9408,
-    "open_issues_count": 5,
-    "forks_count": 539
+    "stargazers_count": 10369,
+    "open_issues_count": 3,
+    "forks_count": 643
   },
   {
     "full_name": "steven-tey/dub",
-    "stargazers_count": 2239,
-    "open_issues_count": 14,
-    "forks_count": 74
+    "stargazers_count": 2766,
+    "open_issues_count": 13,
+    "forks_count": 104
   },
   {
     "full_name": "xibbon/LaTerminal",
-    "stargazers_count": 22,
-    "open_issues_count": 15,
+    "stargazers_count": 25,
+    "open_issues_count": 17,
     "forks_count": 0
   },
   {
     "full_name": "noahgorstein/jqp",
-    "stargazers_count": 1247,
+    "stargazers_count": 1300,
     "open_issues_count": 5,
-    "forks_count": 20
+    "forks_count": 22
   },
   {
     "full_name": "fosslife/devtools-x",
-    "stargazers_count": 507,
+    "stargazers_count": 523,
     "open_issues_count": 1,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "tinyplex/tinybase",
-    "stargazers_count": 1323,
+    "stargazers_count": 1340,
     "open_issues_count": 4,
     "forks_count": 24
   },
   {
     "full_name": "DonDebonair/slack-machine",
-    "stargazers_count": 618,
+    "stargazers_count": 640,
     "open_issues_count": 11,
-    "forks_count": 36
+    "forks_count": 39
   },
   {
     "full_name": "martinvonz/jj",
-    "stargazers_count": 1741,
-    "open_issues_count": 57,
-    "forks_count": 41
+    "stargazers_count": 1742,
+    "open_issues_count": 56,
+    "forks_count": 42
   },
   {
     "full_name": "breadthe/sd-buddy",
-    "stargazers_count": 155,
-    "open_issues_count": 1,
+    "stargazers_count": 157,
+    "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "divamgupta/diffusionbee-stable-diffusion-ui",
-    "stargazers_count": 4831,
-    "open_issues_count": 106,
-    "forks_count": 144
+    "stargazers_count": 4956,
+    "open_issues_count": 113,
+    "forks_count": 153
   },
   {
     "full_name": "migueldeicaza/SwiftTermApp",
@@ -121,62 +151,32 @@
   },
   {
     "full_name": "migueldeicaza/SwiftTerm",
-    "stargazers_count": 609,
-    "open_issues_count": 55,
+    "stargazers_count": 611,
+    "open_issues_count": 56,
     "forks_count": 77
   },
   {
     "full_name": "opcode-eu-org-libs/asciicast2movie",
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 2,
     "forks_count": 8
   },
   {
     "full_name": "asciinema/agg",
-    "stargazers_count": 300,
-    "open_issues_count": 4,
+    "stargazers_count": 305,
+    "open_issues_count": 5,
     "forks_count": 4
   },
   {
     "full_name": "immich-app/immich",
-    "stargazers_count": 5182,
-    "open_issues_count": 107,
-    "forks_count": 166
+    "stargazers_count": 5208,
+    "open_issues_count": 105,
+    "forks_count": 169
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 4615,
-    "open_issues_count": 311,
-    "forks_count": 542
-  },
-  {
-    "full_name": "IdreesInc/Minecraft-Font",
-    "stargazers_count": 232,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "IdreesInc/Monocraft",
-    "stargazers_count": 4581,
-    "open_issues_count": 30,
-    "forks_count": 48
-  },
-  {
-    "full_name": "nassimsoftware/zeldabotwstreetview",
-    "stargazers_count": 162,
-    "open_issues_count": 2,
-    "forks_count": 11
-  },
-  {
-    "full_name": "MyOwnClone/quake_watch",
-    "stargazers_count": 703,
-    "open_issues_count": 2,
-    "forks_count": 25
-  },
-  {
-    "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 25379,
-    "open_issues_count": 235,
-    "forks_count": 4005
+    "stargazers_count": 5141,
+    "open_issues_count": 340,
+    "forks_count": 613
   }
 ]
