@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "CamHenlin/FocusedEdit",
+    "stargazers_count": 42,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "ultralight-ux/Ultralight",
+    "stargazers_count": 4017,
+    "open_issues_count": 219,
+    "forks_count": 179
+  },
+  {
+    "full_name": "ImVexed/muon",
+    "stargazers_count": 2548,
+    "open_issues_count": 21,
+    "forks_count": 60
+  },
+  {
+    "full_name": "google/woff2",
+    "stargazers_count": 1084,
+    "open_issues_count": 61,
+    "forks_count": 171
+  },
+  {
     "full_name": "WordPress/wordpress-wasm",
-    "stargazers_count": 584,
-    "open_issues_count": 18,
-    "forks_count": 18
+    "stargazers_count": 616,
+    "open_issues_count": 20,
+    "forks_count": 19
   },
   {
     "full_name": "Stage-Whisper/Stage-Whisper",
-    "stargazers_count": 30,
-    "open_issues_count": 9,
-    "forks_count": 5
+    "stargazers_count": 50,
+    "open_issues_count": 11,
+    "forks_count": 8
   },
   {
     "full_name": "octokit/octokit.rb",
-    "stargazers_count": 3679,
+    "stargazers_count": 3680,
     "open_issues_count": 60,
     "forks_count": 1242
   },
   {
     "full_name": "cloudflare/workerd",
-    "stargazers_count": 2961,
-    "open_issues_count": 18,
-    "forks_count": 59
+    "stargazers_count": 3574,
+    "open_issues_count": 23,
+    "forks_count": 81
   },
   {
     "full_name": "weaveworks/ignite",
-    "stargazers_count": 2955,
+    "stargazers_count": 2993,
     "open_issues_count": 158,
     "forks_count": 187
   },
   {
     "full_name": "svenko99/MacOS-free-apps-gems",
-    "stargazers_count": 24,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 32318,
-    "open_issues_count": 75,
-    "forks_count": 2072
+    "stargazers_count": 32384,
+    "open_issues_count": 81,
+    "forks_count": 2079
   },
   {
     "full_name": "aonez/Keka",
-    "stargazers_count": 3205,
+    "stargazers_count": 3211,
     "open_issues_count": 188,
-    "forks_count": 196
+    "forks_count": 195
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 28109,
-    "open_issues_count": 77,
-    "forks_count": 741
+    "stargazers_count": 28213,
+    "open_issues_count": 78,
+    "forks_count": 744
   },
   {
     "full_name": "m1guelpf/yt-whisper",
-    "stargazers_count": 428,
-    "open_issues_count": 3,
-    "forks_count": 17
+    "stargazers_count": 470,
+    "open_issues_count": 8,
+    "forks_count": 20
   },
   {
     "full_name": "Rezmason/matrix",
-    "stargazers_count": 1997,
-    "open_issues_count": 8,
-    "forks_count": 104
+    "stargazers_count": 2306,
+    "open_issues_count": 5,
+    "forks_count": 115
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 71138,
-    "open_issues_count": 510,
-    "forks_count": 16282
+    "stargazers_count": 71323,
+    "open_issues_count": 530,
+    "forks_count": 16324
   },
   {
     "full_name": "adamkewley/jobson",
-    "stargazers_count": 239,
+    "stargazers_count": 240,
     "open_issues_count": 6,
     "forks_count": 14
   },
   {
     "full_name": "notlmn/awesome-icons",
-    "stargazers_count": 454,
+    "stargazers_count": 456,
     "open_issues_count": 1,
     "forks_count": 23
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 10369,
-    "open_issues_count": 3,
-    "forks_count": 643
+    "stargazers_count": 11060,
+    "open_issues_count": 6,
+    "forks_count": 724
   },
   {
     "full_name": "steven-tey/dub",
-    "stargazers_count": 2766,
-    "open_issues_count": 13,
-    "forks_count": 104
+    "stargazers_count": 3009,
+    "open_issues_count": 14,
+    "forks_count": 113
   },
   {
     "full_name": "xibbon/LaTerminal",
-    "stargazers_count": 25,
-    "open_issues_count": 17,
-    "forks_count": 0
+    "stargazers_count": 27,
+    "open_issues_count": 20,
+    "forks_count": 1
   },
   {
     "full_name": "noahgorstein/jqp",
-    "stargazers_count": 1300,
-    "open_issues_count": 5,
-    "forks_count": 22
-  },
-  {
-    "full_name": "fosslife/devtools-x",
-    "stargazers_count": 523,
-    "open_issues_count": 1,
-    "forks_count": 14
-  },
-  {
-    "full_name": "tinyplex/tinybase",
-    "stargazers_count": 1340,
-    "open_issues_count": 4,
+    "stargazers_count": 1347,
+    "open_issues_count": 6,
     "forks_count": 24
   },
   {
+    "full_name": "fosslife/devtools-x",
+    "stargazers_count": 535,
+    "open_issues_count": 2,
+    "forks_count": 16
+  },
+  {
+    "full_name": "tinyplex/tinybase",
+    "stargazers_count": 1351,
+    "open_issues_count": 3,
+    "forks_count": 25
+  },
+  {
     "full_name": "DonDebonair/slack-machine",
-    "stargazers_count": 640,
-    "open_issues_count": 11,
-    "forks_count": 39
+    "stargazers_count": 649,
+    "open_issues_count": 9,
+    "forks_count": 40
   },
   {
     "full_name": "martinvonz/jj",
-    "stargazers_count": 1742,
+    "stargazers_count": 1762,
     "open_issues_count": 56,
     "forks_count": 42
   },
   {
     "full_name": "breadthe/sd-buddy",
-    "stargazers_count": 157,
-    "open_issues_count": 0,
+    "stargazers_count": 162,
+    "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "divamgupta/diffusionbee-stable-diffusion-ui",
-    "stargazers_count": 4956,
-    "open_issues_count": 113,
-    "forks_count": 153
+    "stargazers_count": 5071,
+    "open_issues_count": 129,
+    "forks_count": 163
   },
   {
     "full_name": "migueldeicaza/SwiftTermApp",
-    "stargazers_count": 212,
+    "stargazers_count": 214,
     "open_issues_count": 72,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "migueldeicaza/SwiftTerm",
-    "stargazers_count": 611,
-    "open_issues_count": 56,
+    "stargazers_count": 617,
+    "open_issues_count": 49,
     "forks_count": 77
-  },
-  {
-    "full_name": "opcode-eu-org-libs/asciicast2movie",
-    "stargazers_count": 32,
-    "open_issues_count": 2,
-    "forks_count": 8
-  },
-  {
-    "full_name": "asciinema/agg",
-    "stargazers_count": 305,
-    "open_issues_count": 5,
-    "forks_count": 4
-  },
-  {
-    "full_name": "immich-app/immich",
-    "stargazers_count": 5208,
-    "open_issues_count": 105,
-    "forks_count": 169
-  },
-  {
-    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 5141,
-    "open_issues_count": 340,
-    "forks_count": 613
   }
 ]
