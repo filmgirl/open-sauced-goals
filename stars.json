@@ -1,139 +1,157 @@
 [
   {
+    "full_name": "CharlesChiuGit/Logseq-Git-Sync-101",
+    "stargazers_count": 245,
+    "open_issues_count": 0,
+    "forks_count": 26
+  },
+  {
+    "full_name": "logseq/logseq",
+    "stargazers_count": 17513,
+    "open_issues_count": 1785,
+    "forks_count": 1052
+  },
+  {
+    "full_name": "jackyzha0/quartz",
+    "stargazers_count": 1140,
+    "open_issues_count": 28,
+    "forks_count": 807
+  },
+  {
     "full_name": "Shopify/pitchfork",
-    "stargazers_count": 400,
-    "open_issues_count": 2,
+    "stargazers_count": 422,
+    "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "obsidianmd/obsidian-releases",
-    "stargazers_count": 3129,
-    "open_issues_count": 82,
-    "forks_count": 716
+    "stargazers_count": 3227,
+    "open_issues_count": 91,
+    "forks_count": 730
   },
   {
     "full_name": "glsorre/amethystwindows",
-    "stargazers_count": 339,
+    "stargazers_count": 342,
     "open_issues_count": 23,
     "forks_count": 23
   },
   {
     "full_name": "LGUG2Z/komorebi",
-    "stargazers_count": 2025,
-    "open_issues_count": 42,
+    "stargazers_count": 2130,
+    "open_issues_count": 45,
     "forks_count": 37
   },
   {
     "full_name": "alok/notational-fzf-vim",
-    "stargazers_count": 1095,
+    "stargazers_count": 1096,
     "open_issues_count": 16,
     "forks_count": 60
   },
   {
     "full_name": "viktorstrate/color-picker-plus",
-    "stargazers_count": 111,
+    "stargazers_count": 113,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "bjango/Color-Creator",
-    "stargazers_count": 465,
+    "stargazers_count": 467,
     "open_issues_count": 1,
     "forks_count": 21
   },
   {
     "full_name": "sindresorhus/System-Color-Picker",
-    "stargazers_count": 715,
+    "stargazers_count": 722,
     "open_issues_count": 11,
     "forks_count": 36
   },
   {
     "full_name": "mangerlahn/Latest",
-    "stargazers_count": 1081,
-    "open_issues_count": 35,
+    "stargazers_count": 1089,
+    "open_issues_count": 36,
     "forks_count": 41
   },
   {
     "full_name": "devwaseem/TempBox",
-    "stargazers_count": 129,
+    "stargazers_count": 135,
     "open_issues_count": 3,
     "forks_count": 2
   },
   {
     "full_name": "tsileo/microblog.pub",
-    "stargazers_count": 728,
+    "stargazers_count": 734,
     "open_issues_count": 19,
-    "forks_count": 46
+    "forks_count": 49
   },
   {
     "full_name": "zydeco/macemu",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 0,
     "forks_count": 21
   },
   {
     "full_name": "haugene/docker-transmission-openvpn",
-    "stargazers_count": 3252,
-    "open_issues_count": 4,
-    "forks_count": 1074
+    "stargazers_count": 3257,
+    "open_issues_count": 5,
+    "forks_count": 1076
   },
   {
     "full_name": "sandydoo/flux",
-    "stargazers_count": 529,
+    "stargazers_count": 538,
     "open_issues_count": 3,
-    "forks_count": 15
+    "forks_count": 17
   },
   {
     "full_name": "devcontainers/feature-template",
-    "stargazers_count": 19,
-    "open_issues_count": 1,
+    "stargazers_count": 20,
+    "open_issues_count": 2,
     "forks_count": 5
   },
   {
     "full_name": "supabase-community/postgres-wasm",
-    "stargazers_count": 75,
+    "stargazers_count": 80,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1614,
+    "stargazers_count": 1736,
     "open_issues_count": 5,
-    "forks_count": 41
+    "forks_count": 44
   },
   {
     "full_name": "dekuNukem/RGBeeb",
-    "stargazers_count": 145,
+    "stargazers_count": 148,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "sofn-xyz/mailing",
-    "stargazers_count": 2938,
+    "stargazers_count": 2987,
     "open_issues_count": 30,
-    "forks_count": 47
+    "forks_count": 50
   },
   {
     "full_name": "jdrouet/mrml",
-    "stargazers_count": 205,
+    "stargazers_count": 206,
     "open_issues_count": 35,
     "forks_count": 11
   },
   {
     "full_name": "huggingface/datasets-server",
-    "stargazers_count": 380,
-    "open_issues_count": 15,
+    "stargazers_count": 382,
+    "open_issues_count": 14,
     "forks_count": 6
   },
   {
     "full_name": "rochacbruno/py2rs",
-    "stargazers_count": 1740,
+    "stargazers_count": 1755,
     "open_issues_count": 13,
-    "forks_count": 61
+    "forks_count": 62
   },
   {
     "full_name": "minimaxir/hacker-news-undocumented",
-    "stargazers_count": 2914,
+    "stargazers_count": 2915,
     "open_issues_count": 26,
     "forks_count": 100
   },
@@ -145,38 +163,20 @@
   },
   {
     "full_name": "ultralight-ux/Ultralight",
-    "stargazers_count": 4058,
+    "stargazers_count": 4064,
     "open_issues_count": 222,
     "forks_count": 181
   },
   {
     "full_name": "ImVexed/muon",
-    "stargazers_count": 2642,
+    "stargazers_count": 2647,
     "open_issues_count": 22,
-    "forks_count": 62
+    "forks_count": 61
   },
   {
     "full_name": "google/woff2",
-    "stargazers_count": 1085,
+    "stargazers_count": 1091,
     "open_issues_count": 61,
     "forks_count": 171
-  },
-  {
-    "full_name": "WordPress/wordpress-wasm",
-    "stargazers_count": 666,
-    "open_issues_count": 13,
-    "forks_count": 23
-  },
-  {
-    "full_name": "Stage-Whisper/Stage-Whisper",
-    "stargazers_count": 68,
-    "open_issues_count": 20,
-    "forks_count": 12
-  },
-  {
-    "full_name": "octokit/octokit.rb",
-    "stargazers_count": 3685,
-    "open_issues_count": 60,
-    "forks_count": 1242
   }
 ]
