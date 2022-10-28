@@ -1,5 +1,41 @@
 [
   {
+    "full_name": "vercel/turbo",
+    "stargazers_count": 14409,
+    "open_issues_count": 295,
+    "forks_count": 807
+  },
+  {
+    "full_name": "dstein64/gifcast",
+    "stargazers_count": 169,
+    "open_issues_count": 2,
+    "forks_count": 26
+  },
+  {
+    "full_name": "charmbracelet/vhs",
+    "stargazers_count": 1841,
+    "open_issues_count": 16,
+    "forks_count": 6
+  },
+  {
+    "full_name": "HaveAGitGat/Tdarr",
+    "stargazers_count": 1718,
+    "open_issues_count": 77,
+    "forks_count": 68
+  },
+  {
+    "full_name": "fduran/sadservers",
+    "stargazers_count": 203,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "swiftwasm/swift",
+    "stargazers_count": 1057,
+    "open_issues_count": 54,
+    "forks_count": 25
+  },
+  {
     "full_name": "ttscoff/bunch",
     "stargazers_count": 69,
     "open_issues_count": 25,
@@ -7,99 +43,99 @@
   },
   {
     "full_name": "stateful/vscode-runme",
-    "stargazers_count": 44,
-    "open_issues_count": 10,
-    "forks_count": 1
+    "stargazers_count": 58,
+    "open_issues_count": 11,
+    "forks_count": 2
   },
   {
     "full_name": "google/prompt-to-prompt",
-    "stargazers_count": 921,
-    "open_issues_count": 1,
-    "forks_count": 55
+    "stargazers_count": 974,
+    "open_issues_count": 2,
+    "forks_count": 59
   },
   {
     "full_name": "gradio-app/gradio",
-    "stargazers_count": 10330,
-    "open_issues_count": 246,
-    "forks_count": 647
+    "stargazers_count": 10402,
+    "open_issues_count": 248,
+    "forks_count": 653
   },
   {
     "full_name": "Wamphyre/BSD-XFCE",
-    "stargazers_count": 216,
-    "open_issues_count": 1,
-    "forks_count": 8
+    "stargazers_count": 220,
+    "open_issues_count": 0,
+    "forks_count": 10
   },
   {
     "full_name": "0kzh/minimal-youtube",
-    "stargazers_count": 125,
+    "stargazers_count": 127,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "dephraiim/minimal-youtube",
-    "stargazers_count": 137,
+    "stargazers_count": 140,
     "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "nvim-telescope/telescope.nvim",
-    "stargazers_count": 7587,
-    "open_issues_count": 155,
-    "forks_count": 511
+    "stargazers_count": 7612,
+    "open_issues_count": 156,
+    "forks_count": 514
   },
   {
     "full_name": "ShivamShrirao/diffusers",
-    "stargazers_count": 550,
-    "open_issues_count": 27,
-    "forks_count": 91
+    "stargazers_count": 584,
+    "open_issues_count": 35,
+    "forks_count": 100
   },
   {
     "full_name": "madler/pigz",
-    "stargazers_count": 2163,
+    "stargazers_count": 2174,
     "open_issues_count": 13,
     "forks_count": 151
   },
   {
     "full_name": "CharlesChiuGit/Logseq-Git-Sync-101",
-    "stargazers_count": 261,
-    "open_issues_count": 0,
-    "forks_count": 27
+    "stargazers_count": 266,
+    "open_issues_count": 1,
+    "forks_count": 26
   },
   {
     "full_name": "logseq/logseq",
-    "stargazers_count": 17760,
-    "open_issues_count": 1823,
-    "forks_count": 1069
+    "stargazers_count": 17830,
+    "open_issues_count": 1822,
+    "forks_count": 1073
   },
   {
     "full_name": "jackyzha0/quartz",
-    "stargazers_count": 1171,
-    "open_issues_count": 27,
-    "forks_count": 841
+    "stargazers_count": 1188,
+    "open_issues_count": 25,
+    "forks_count": 854
   },
   {
     "full_name": "Shopify/pitchfork",
-    "stargazers_count": 434,
+    "stargazers_count": 439,
     "open_issues_count": 1,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "obsidianmd/obsidian-releases",
-    "stargazers_count": 3303,
-    "open_issues_count": 91,
-    "forks_count": 744
+    "stargazers_count": 3328,
+    "open_issues_count": 95,
+    "forks_count": 748
   },
   {
     "full_name": "glsorre/amethystwindows",
     "stargazers_count": 351,
     "open_issues_count": 23,
-    "forks_count": 24
+    "forks_count": 23
   },
   {
     "full_name": "LGUG2Z/komorebi",
-    "stargazers_count": 2195,
-    "open_issues_count": 46,
-    "forks_count": 41
+    "stargazers_count": 2216,
+    "open_issues_count": 47,
+    "forks_count": 42
   },
   {
     "full_name": "alok/notational-fzf-vim",
@@ -121,62 +157,26 @@
   },
   {
     "full_name": "sindresorhus/System-Color-Picker",
-    "stargazers_count": 722,
+    "stargazers_count": 725,
     "open_issues_count": 12,
     "forks_count": 36
   },
   {
     "full_name": "mangerlahn/Latest",
-    "stargazers_count": 1099,
-    "open_issues_count": 36,
+    "stargazers_count": 1105,
+    "open_issues_count": 37,
     "forks_count": 42
   },
   {
     "full_name": "devwaseem/TempBox",
-    "stargazers_count": 150,
+    "stargazers_count": 153,
     "open_issues_count": 3,
     "forks_count": 3
   },
   {
     "full_name": "tsileo/microblog.pub",
-    "stargazers_count": 746,
+    "stargazers_count": 751,
     "open_issues_count": 19,
-    "forks_count": 51
-  },
-  {
-    "full_name": "zydeco/macemu",
-    "stargazers_count": 77,
-    "open_issues_count": 0,
-    "forks_count": 21
-  },
-  {
-    "full_name": "haugene/docker-transmission-openvpn",
-    "stargazers_count": 3262,
-    "open_issues_count": 5,
-    "forks_count": 1076
-  },
-  {
-    "full_name": "sandydoo/flux",
-    "stargazers_count": 542,
-    "open_issues_count": 3,
-    "forks_count": 17
-  },
-  {
-    "full_name": "devcontainers/feature-template",
-    "stargazers_count": 22,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "supabase-community/postgres-wasm",
-    "stargazers_count": 84,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1794,
-    "open_issues_count": 5,
     "forks_count": 51
   }
 ]
