@@ -1,32 +1,38 @@
 [
   {
+    "full_name": "joyeusenoelle/GuideToMastodon",
+    "stargazers_count": 567,
+    "open_issues_count": 1,
+    "forks_count": 25
+  },
+  {
     "full_name": "github/hubot-sans",
-    "stargazers_count": 857,
-    "open_issues_count": 2,
-    "forks_count": 7
+    "stargazers_count": 967,
+    "open_issues_count": 4,
+    "forks_count": 11
   },
   {
     "full_name": "github/mona-sans",
-    "stargazers_count": 1609,
-    "open_issues_count": 9,
-    "forks_count": 22
+    "stargazers_count": 1786,
+    "open_issues_count": 11,
+    "forks_count": 26
   },
   {
     "full_name": "simonw/action-transcription",
-    "stargazers_count": 121,
+    "stargazers_count": 122,
     "open_issues_count": 24,
     "forks_count": 18
   },
   {
     "full_name": "apenwarr/blip",
-    "stargazers_count": 1428,
+    "stargazers_count": 1446,
     "open_issues_count": 13,
     "forks_count": 46
   },
   {
     "full_name": "alldritt/UIBrowser4",
-    "stargazers_count": 159,
-    "open_issues_count": 0,
+    "stargazers_count": 161,
+    "open_issues_count": 1,
     "forks_count": 9
   },
   {
@@ -37,15 +43,15 @@
   },
   {
     "full_name": "ShaunLawrie/PwshPaint",
-    "stargazers_count": 167,
+    "stargazers_count": 169,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "JohnEarnest/Decker",
-    "stargazers_count": 329,
+    "stargazers_count": 344,
     "open_issues_count": 1,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "get-iplayer/get_iplayer",
@@ -55,27 +61,27 @@
   },
   {
     "full_name": "faressoft/terminalizer",
-    "stargazers_count": 13094,
+    "stargazers_count": 13098,
     "open_issues_count": 100,
     "forks_count": 467
   },
   {
     "full_name": "sloria/doitlive",
-    "stargazers_count": 3210,
+    "stargazers_count": 3211,
     "open_issues_count": 17,
     "forks_count": 97
   },
   {
     "full_name": "asciinema/asciinema",
-    "stargazers_count": 10947,
+    "stargazers_count": 10954,
     "open_issues_count": 94,
-    "forks_count": 842
+    "forks_count": 843
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 17283,
-    "open_issues_count": 299,
-    "forks_count": 948
+    "stargazers_count": 17436,
+    "open_issues_count": 308,
+    "forks_count": 964
   },
   {
     "full_name": "dstein64/gifcast",
@@ -85,26 +91,26 @@
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 7787,
-    "open_issues_count": 31,
-    "forks_count": 109
+    "stargazers_count": 7954,
+    "open_issues_count": 32,
+    "forks_count": 108
   },
   {
     "full_name": "HaveAGitGat/Tdarr",
-    "stargazers_count": 1760,
-    "open_issues_count": 77,
+    "stargazers_count": 1763,
+    "open_issues_count": 79,
     "forks_count": 70
   },
   {
     "full_name": "fduran/sadservers",
-    "stargazers_count": 514,
+    "stargazers_count": 538,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "swiftwasm/swift",
-    "stargazers_count": 1062,
-    "open_issues_count": 55,
+    "stargazers_count": 1063,
+    "open_issues_count": 56,
     "forks_count": 25
   },
   {
@@ -115,25 +121,25 @@
   },
   {
     "full_name": "stateful/vscode-runme",
-    "stargazers_count": 79,
-    "open_issues_count": 15,
-    "forks_count": 1
+    "stargazers_count": 81,
+    "open_issues_count": 10,
+    "forks_count": 2
   },
   {
     "full_name": "google/prompt-to-prompt",
-    "stargazers_count": 1151,
-    "open_issues_count": 3,
-    "forks_count": 79
+    "stargazers_count": 1214,
+    "open_issues_count": 4,
+    "forks_count": 83
   },
   {
     "full_name": "gradio-app/gradio",
-    "stargazers_count": 10700,
-    "open_issues_count": 262,
-    "forks_count": 669
+    "stargazers_count": 10748,
+    "open_issues_count": 263,
+    "forks_count": 670
   },
   {
     "full_name": "Wamphyre/BSD-XFCE",
-    "stargazers_count": 226,
+    "stargazers_count": 227,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "nvim-telescope/telescope.nvim",
-    "stargazers_count": 7798,
-    "open_issues_count": 168,
-    "forks_count": 527
+    "stargazers_count": 7839,
+    "open_issues_count": 169,
+    "forks_count": 528
   },
   {
     "full_name": "ShivamShrirao/diffusers",
-    "stargazers_count": 852,
-    "open_issues_count": 56,
-    "forks_count": 180
+    "stargazers_count": 872,
+    "open_issues_count": 60,
+    "forks_count": 183
   },
   {
     "full_name": "madler/pigz",
-    "stargazers_count": 2215,
+    "stargazers_count": 2222,
     "open_issues_count": 13,
     "forks_count": 154
   },
   {
     "full_name": "CharlesChiuGit/Logseq-Git-Sync-101",
-    "stargazers_count": 295,
+    "stargazers_count": 298,
     "open_issues_count": 1,
-    "forks_count": 27
-  },
-  {
-    "full_name": "logseq/logseq",
-    "stargazers_count": 18200,
-    "open_issues_count": 1891,
-    "forks_count": 1096
+    "forks_count": 28
   }
 ]
