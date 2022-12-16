@@ -1,14 +1,14 @@
 [
   {
     "full_name": "sissbruecker/linkding",
-    "stargazers_count": 2678,
-    "open_issues_count": 71,
+    "stargazers_count": 2693,
+    "open_issues_count": 72,
     "forks_count": 148
   },
   {
     "full_name": "anthonyraymond/joal-desktop",
     "stargazers_count": 140,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 26
   },
   {
@@ -19,75 +19,75 @@
   },
   {
     "full_name": "benphelps/homepage",
-    "stargazers_count": 3147,
-    "open_issues_count": 84,
-    "forks_count": 153
+    "stargazers_count": 3292,
+    "open_issues_count": 89,
+    "forks_count": 162
   },
   {
     "full_name": "hestiacp/hestiacp",
-    "stargazers_count": 1991,
+    "stargazers_count": 2000,
     "open_issues_count": 110,
-    "forks_count": 441
+    "forks_count": 442
   },
   {
     "full_name": "cloudpanel-io/cloudpanel-ce",
-    "stargazers_count": 412,
+    "stargazers_count": 414,
     "open_issues_count": 1,
     "forks_count": 50
   },
   {
     "full_name": "chunkypixel/atari-dev-studio",
-    "stargazers_count": 53,
+    "stargazers_count": 56,
     "open_issues_count": 9,
     "forks_count": 8
   },
   {
     "full_name": "wong2/chat-gpt-google-extension",
-    "stargazers_count": 6357,
+    "stargazers_count": 6662,
     "open_issues_count": 18,
-    "forks_count": 370
+    "forks_count": 359
   },
   {
     "full_name": "wasmerio/wasmer-pack",
-    "stargazers_count": 23,
+    "stargazers_count": 25,
     "open_issues_count": 22,
     "forks_count": 1
   },
   {
     "full_name": "zenorocha/react-email",
-    "stargazers_count": 1681,
-    "open_issues_count": 35,
-    "forks_count": 38
+    "stargazers_count": 1787,
+    "open_issues_count": 33,
+    "forks_count": 40
   },
   {
     "full_name": "zachlatta/openai-whisper-speaker-identification",
-    "stargazers_count": 55,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "stargazers_count": 57,
+    "open_issues_count": 1,
+    "forks_count": 2
   },
   {
     "full_name": "greshake/Alice",
-    "stargazers_count": 212,
+    "stargazers_count": 219,
     "open_issues_count": 2,
     "forks_count": 10
   },
   {
     "full_name": "hetznercloud/awesome-hcloud",
-    "stargazers_count": 659,
+    "stargazers_count": 660,
     "open_issues_count": 9,
     "forks_count": 59
   },
   {
     "full_name": "eoin-barr/weatherme",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 3,
     "forks_count": 6
   },
   {
     "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 8253,
-    "open_issues_count": 40,
-    "forks_count": 612
+    "stargazers_count": 8279,
+    "open_issues_count": 38,
+    "forks_count": 613
   },
   {
     "full_name": "cu/silicon",
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "silverbulletmd/silverbullet",
-    "stargazers_count": 743,
-    "open_issues_count": 67,
-    "forks_count": 41
+    "stargazers_count": 807,
+    "open_issues_count": 69,
+    "forks_count": 45
   },
   {
     "full_name": "apple/ml-stable-diffusion",
-    "stargazers_count": 4097,
-    "open_issues_count": 55,
-    "forks_count": 144
+    "stargazers_count": 4231,
+    "open_issues_count": 51,
+    "forks_count": 160
   },
   {
     "full_name": "jgosar/mine-city-2000",
-    "stargazers_count": 680,
+    "stargazers_count": 693,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "bambax/Remsi",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "beringresearch/macpine",
-    "stargazers_count": 635,
+    "stargazers_count": 642,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "sherlock-project/sherlock",
-    "stargazers_count": 37739,
-    "open_issues_count": 214,
-    "forks_count": 4452
+    "stargazers_count": 37800,
+    "open_issues_count": 215,
+    "forks_count": 4456
   },
   {
     "full_name": "cdalvaro/github-vscode-theme-iterm",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "terrastruct/d2",
-    "stargazers_count": 7948,
-    "open_issues_count": 125,
-    "forks_count": 114
+    "stargazers_count": 8045,
+    "open_issues_count": 130,
+    "forks_count": 116
   },
   {
     "full_name": "vscode-neovim/vscode-neovim",
-    "stargazers_count": 3906,
-    "open_issues_count": 119,
-    "forks_count": 144
+    "stargazers_count": 3911,
+    "open_issues_count": 122,
+    "forks_count": 147
   },
   {
     "full_name": "mwt/apfollow",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 37452,
-    "open_issues_count": 3450,
-    "forks_count": 5635
+    "stargazers_count": 37578,
+    "open_issues_count": 3374,
+    "forks_count": 5649
   },
   {
     "full_name": "simonw/playing-with-github-pages",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "haiwen/seafile",
-    "stargazers_count": 10270,
-    "open_issues_count": 190,
+    "stargazers_count": 10276,
+    "open_issues_count": 192,
     "forks_count": 1478
   },
   {
     "full_name": "microsoft/Codex-CLI",
-    "stargazers_count": 1133,
+    "stargazers_count": 1195,
     "open_issues_count": 19,
-    "forks_count": 39
+    "forks_count": 41
   }
 ]
