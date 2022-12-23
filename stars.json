@@ -1,51 +1,63 @@
 [
   {
+    "full_name": "paolomainardi/docker-backstage-devcontainers",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "elanmart/cbp-translate",
+    "stargazers_count": 225,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
     "full_name": "terhechte/twitvault",
-    "stargazers_count": 46,
+    "stargazers_count": 69,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "dariusk/twitter-archiver",
-    "stargazers_count": 120,
+    "stargazers_count": 203,
     "open_issues_count": 1,
-    "forks_count": 4
-  },
-  {
-    "full_name": "Spotifyd/spotifyd",
-    "stargazers_count": 7394,
-    "open_issues_count": 60,
-    "forks_count": 386
-  },
-  {
-    "full_name": "Lartsch/FediAct",
-    "stargazers_count": 241,
-    "open_issues_count": 5,
     "forks_count": 6
   },
   {
+    "full_name": "Spotifyd/spotifyd",
+    "stargazers_count": 8316,
+    "open_issues_count": 59,
+    "forks_count": 399
+  },
+  {
+    "full_name": "Lartsch/FediAct",
+    "stargazers_count": 302,
+    "open_issues_count": 11,
+    "forks_count": 7
+  },
+  {
     "full_name": "bramses/bramses-highly-opinionated-vault-2023",
-    "stargazers_count": 544,
+    "stargazers_count": 616,
     "open_issues_count": 0,
-    "forks_count": 16
+    "forks_count": 20
   },
   {
     "full_name": "willmcgugan/textual-markdown",
-    "stargazers_count": 365,
+    "stargazers_count": 388,
     "open_issues_count": 6,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 19802,
-    "open_issues_count": 426,
-    "forks_count": 3385
+    "stargazers_count": 19961,
+    "open_issues_count": 428,
+    "forks_count": 3404
   },
   {
     "full_name": "sissbruecker/linkding",
-    "stargazers_count": 2704,
-    "open_issues_count": 70,
-    "forks_count": 148
+    "stargazers_count": 2717,
+    "open_issues_count": 69,
+    "forks_count": 149
   },
   {
     "full_name": "anthonyraymond/joal-desktop",
@@ -55,27 +67,27 @@
   },
   {
     "full_name": "anthonyraymond/joal",
-    "stargazers_count": 375,
-    "open_issues_count": 15,
+    "stargazers_count": 377,
+    "open_issues_count": 16,
     "forks_count": 49
   },
   {
     "full_name": "benphelps/homepage",
-    "stargazers_count": 3383,
-    "open_issues_count": 84,
-    "forks_count": 167
+    "stargazers_count": 3421,
+    "open_issues_count": 90,
+    "forks_count": 170
   },
   {
     "full_name": "hestiacp/hestiacp",
-    "stargazers_count": 2004,
-    "open_issues_count": 112,
-    "forks_count": 443
+    "stargazers_count": 2012,
+    "open_issues_count": 110,
+    "forks_count": 445
   },
   {
     "full_name": "cloudpanel-io/cloudpanel-ce",
-    "stargazers_count": 420,
+    "stargazers_count": 425,
     "open_issues_count": 1,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "chunkypixel/atari-dev-studio",
@@ -85,51 +97,51 @@
   },
   {
     "full_name": "wong2/chat-gpt-google-extension",
-    "stargazers_count": 6908,
-    "open_issues_count": 16,
-    "forks_count": 389
+    "stargazers_count": 7112,
+    "open_issues_count": 12,
+    "forks_count": 415
   },
   {
     "full_name": "wasmerio/wasmer-pack",
-    "stargazers_count": 25,
-    "open_issues_count": 22,
+    "stargazers_count": 26,
+    "open_issues_count": 21,
     "forks_count": 1
   },
   {
     "full_name": "zenorocha/react-email",
-    "stargazers_count": 1844,
-    "open_issues_count": 35,
-    "forks_count": 41
+    "stargazers_count": 2002,
+    "open_issues_count": 27,
+    "forks_count": 47
   },
   {
     "full_name": "zachlatta/openai-whisper-speaker-identification",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "greshake/Alice",
-    "stargazers_count": 226,
+    "stargazers_count": 232,
     "open_issues_count": 2,
-    "forks_count": 10
+    "forks_count": 12
   },
   {
     "full_name": "hetznercloud/awesome-hcloud",
-    "stargazers_count": 663,
+    "stargazers_count": 666,
     "open_issues_count": 3,
-    "forks_count": 59
+    "forks_count": 58
   },
   {
     "full_name": "eoin-barr/weatherme",
     "stargazers_count": 75,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 8316,
-    "open_issues_count": 38,
-    "forks_count": 615
+    "stargazers_count": 8324,
+    "open_issues_count": 39,
+    "forks_count": 619
   },
   {
     "full_name": "cu/silicon",
@@ -139,19 +151,19 @@
   },
   {
     "full_name": "silverbulletmd/silverbullet",
-    "stargazers_count": 824,
-    "open_issues_count": 74,
+    "stargazers_count": 842,
+    "open_issues_count": 73,
     "forks_count": 47
   },
   {
     "full_name": "apple/ml-stable-diffusion",
-    "stargazers_count": 4310,
-    "open_issues_count": 60,
-    "forks_count": 165
+    "stargazers_count": 4373,
+    "open_issues_count": 57,
+    "forks_count": 167
   },
   {
     "full_name": "jgosar/mine-city-2000",
-    "stargazers_count": 699,
+    "stargazers_count": 703,
     "open_issues_count": 1,
     "forks_count": 12
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "beringresearch/macpine",
-    "stargazers_count": 646,
+    "stargazers_count": 650,
     "open_issues_count": 1,
     "forks_count": 10
-  },
-  {
-    "full_name": "sherlock-project/sherlock",
-    "stargazers_count": 37869,
-    "open_issues_count": 217,
-    "forks_count": 4470
-  },
-  {
-    "full_name": "cdalvaro/github-vscode-theme-iterm",
-    "stargazers_count": 210,
-    "open_issues_count": 0,
-    "forks_count": 12
   }
 ]
