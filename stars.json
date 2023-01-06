@@ -1,122 +1,146 @@
 [
   {
+    "full_name": "arp242/goatcounter",
+    "stargazers_count": 3023,
+    "open_issues_count": 48,
+    "forks_count": 117
+  },
+  {
+    "full_name": "MichalStrehovsky/zerosharp",
+    "stargazers_count": 1731,
+    "open_issues_count": 9,
+    "forks_count": 88
+  },
+  {
+    "full_name": "remotion-dev/remotion",
+    "stargazers_count": 15007,
+    "open_issues_count": 57,
+    "forks_count": 676
+  },
+  {
+    "full_name": "yt-dlp/FFmpeg-Builds",
+    "stargazers_count": 254,
+    "open_issues_count": 0,
+    "forks_count": 20
+  },
+  {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 3921,
-    "open_issues_count": 31,
-    "forks_count": 99
+    "stargazers_count": 4118,
+    "open_issues_count": 34,
+    "forks_count": 107
   },
   {
     "full_name": "justjake/Gauss",
-    "stargazers_count": 1126,
-    "open_issues_count": 0,
-    "forks_count": 25
+    "stargazers_count": 1189,
+    "open_issues_count": 4,
+    "forks_count": 26
   },
   {
     "full_name": "microfeed/microfeed",
-    "stargazers_count": 1685,
-    "open_issues_count": 2,
-    "forks_count": 213
+    "stargazers_count": 1880,
+    "open_issues_count": 3,
+    "forks_count": 257
   },
   {
     "full_name": "tpwrules/nixos-m1",
-    "stargazers_count": 345,
-    "open_issues_count": 7,
+    "stargazers_count": 352,
+    "open_issues_count": 6,
     "forks_count": 27
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 1398,
-    "open_issues_count": 64,
-    "forks_count": 51
+    "stargazers_count": 1423,
+    "open_issues_count": 67,
+    "forks_count": 56
   },
   {
     "full_name": "paolomainardi/docker-backstage-devcontainers",
     "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "elanmart/cbp-translate",
-    "stargazers_count": 1115,
-    "open_issues_count": 1,
-    "forks_count": 44
+    "stargazers_count": 1151,
+    "open_issues_count": 0,
+    "forks_count": 43
   },
   {
     "full_name": "terhechte/twitvault",
-    "stargazers_count": 77,
+    "stargazers_count": 80,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "dariusk/twitter-archiver",
-    "stargazers_count": 233,
+    "stargazers_count": 235,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "Spotifyd/spotifyd",
-    "stargazers_count": 8454,
-    "open_issues_count": 64,
-    "forks_count": 403
+    "stargazers_count": 8476,
+    "open_issues_count": 65,
+    "forks_count": 402
   },
   {
     "full_name": "Lartsch/FediAct",
-    "stargazers_count": 343,
-    "open_issues_count": 15,
-    "forks_count": 9
+    "stargazers_count": 347,
+    "open_issues_count": 18,
+    "forks_count": 10
   },
   {
     "full_name": "bramses/bramses-highly-opinionated-vault-2023",
-    "stargazers_count": 663,
-    "open_issues_count": 0,
+    "stargazers_count": 675,
+    "open_issues_count": 1,
     "forks_count": 27
   },
   {
     "full_name": "willmcgugan/textual-markdown",
-    "stargazers_count": 420,
+    "stargazers_count": 422,
     "open_issues_count": 10,
-    "forks_count": 6
+    "forks_count": 8
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 20084,
-    "open_issues_count": 402,
-    "forks_count": 3420
+    "stargazers_count": 20162,
+    "open_issues_count": 410,
+    "forks_count": 3428
   },
   {
     "full_name": "sissbruecker/linkding",
-    "stargazers_count": 2767,
+    "stargazers_count": 2788,
     "open_issues_count": 73,
-    "forks_count": 157
+    "forks_count": 158
   },
   {
     "full_name": "anthonyraymond/joal-desktop",
-    "stargazers_count": 144,
-    "open_issues_count": 11,
+    "stargazers_count": 145,
+    "open_issues_count": 10,
     "forks_count": 27
   },
   {
     "full_name": "anthonyraymond/joal",
-    "stargazers_count": 380,
+    "stargazers_count": 381,
     "open_issues_count": 16,
     "forks_count": 49
   },
   {
     "full_name": "benphelps/homepage",
-    "stargazers_count": 3602,
+    "stargazers_count": 3650,
     "open_issues_count": 92,
-    "forks_count": 187
+    "forks_count": 194
   },
   {
     "full_name": "hestiacp/hestiacp",
-    "stargazers_count": 2035,
-    "open_issues_count": 119,
-    "forks_count": 451
+    "stargazers_count": 2038,
+    "open_issues_count": 120,
+    "forks_count": 453
   },
   {
     "full_name": "cloudpanel-io/cloudpanel-ce",
-    "stargazers_count": 436,
-    "open_issues_count": 1,
+    "stargazers_count": 440,
+    "open_issues_count": 2,
     "forks_count": 51
   },
   {
@@ -127,21 +151,21 @@
   },
   {
     "full_name": "wong2/chat-gpt-google-extension",
-    "stargazers_count": 7765,
-    "open_issues_count": 11,
-    "forks_count": 473
+    "stargazers_count": 7949,
+    "open_issues_count": 12,
+    "forks_count": 496
   },
   {
     "full_name": "wasmerio/wasmer-pack",
-    "stargazers_count": 28,
+    "stargazers_count": 30,
     "open_issues_count": 22,
     "forks_count": 1
   },
   {
     "full_name": "zenorocha/react-email",
-    "stargazers_count": 2203,
-    "open_issues_count": 39,
-    "forks_count": 54
+    "stargazers_count": 2350,
+    "open_issues_count": 40,
+    "forks_count": 61
   },
   {
     "full_name": "zachlatta/openai-whisper-speaker-identification",
@@ -151,32 +175,8 @@
   },
   {
     "full_name": "greshake/Alice",
-    "stargazers_count": 251,
+    "stargazers_count": 257,
     "open_issues_count": 2,
-    "forks_count": 12
-  },
-  {
-    "full_name": "hetznercloud/awesome-hcloud",
-    "stargazers_count": 667,
-    "open_issues_count": 3,
-    "forks_count": 58
-  },
-  {
-    "full_name": "eoin-barr/weatherme",
-    "stargazers_count": 75,
-    "open_issues_count": 2,
-    "forks_count": 7
-  },
-  {
-    "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 8449,
-    "open_issues_count": 28,
-    "forks_count": 630
-  },
-  {
-    "full_name": "cu/silicon",
-    "stargazers_count": 13,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 13
   }
 ]
