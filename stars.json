@@ -1,21 +1,93 @@
 [
   {
+    "full_name": "automerge/automerge",
+    "stargazers_count": 14371,
+    "open_issues_count": 76,
+    "forks_count": 4065
+  },
+  {
+    "full_name": "kensanata/mastodon-archive",
+    "stargazers_count": 270,
+    "open_issues_count": 15,
+    "forks_count": 26
+  },
+  {
+    "full_name": "Ptujec/LaunchBar",
+    "stargazers_count": 149,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
+    "full_name": "mastodon/documentation",
+    "stargazers_count": 1611,
+    "open_issues_count": 218,
+    "forks_count": 903
+  },
+  {
+    "full_name": "biscuitehh/pam-watchid",
+    "stargazers_count": 661,
+    "open_issues_count": 15,
+    "forks_count": 59
+  },
+  {
+    "full_name": "brentsimmons/wildcat",
+    "stargazers_count": 53,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
+    "full_name": "djhworld/theunwrapper",
+    "stargazers_count": 34,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "microdotblog/microblog-mac",
+    "stargazers_count": 34,
+    "open_issues_count": 4,
+    "forks_count": 6
+  },
+  {
+    "full_name": "microdotblog/microblog-react",
+    "stargazers_count": 18,
+    "open_issues_count": 5,
+    "forks_count": 0
+  },
+  {
+    "full_name": "elliotekj/orbit",
+    "stargazers_count": 30,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "NickColley/semaphore",
+    "stargazers_count": 63,
+    "open_issues_count": 7,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Opticos/OpenInWSL-Source",
+    "stargazers_count": 72,
+    "open_issues_count": 5,
+    "forks_count": 12
+  },
+  {
     "full_name": "volfpeter/mastodon-social-graph",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "cheeaun/phanpy",
-    "stargazers_count": 62,
-    "open_issues_count": 12,
-    "forks_count": 4
+    "stargazers_count": 63,
+    "open_issues_count": 13,
+    "forks_count": 5
   },
   {
     "full_name": "linto-ai/whisper-timestamped",
-    "stargazers_count": 51,
-    "open_issues_count": 2,
-    "forks_count": 7
+    "stargazers_count": 66,
+    "open_issues_count": 5,
+    "forks_count": 9
   },
   {
     "full_name": "eramdam/tokimeki-mastodon",
@@ -25,158 +97,86 @@
   },
   {
     "full_name": "tmm1/flyapp-mastodon",
-    "stargazers_count": 54,
+    "stargazers_count": 56,
     "open_issues_count": 1,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "glacasa/Mastonet",
-    "stargazers_count": 172,
-    "open_issues_count": 6,
+    "stargazers_count": 175,
+    "open_issues_count": 7,
     "forks_count": 25
   },
   {
     "full_name": "barredo/mastodeck",
-    "stargazers_count": 9,
-    "open_issues_count": 33,
+    "stargazers_count": 11,
+    "open_issues_count": 32,
     "forks_count": 0
   },
   {
     "full_name": "klausi/mastodon-twitter-sync",
-    "stargazers_count": 174,
+    "stargazers_count": 186,
     "open_issues_count": 17,
     "forks_count": 21
   },
   {
     "full_name": "renatolond/mastodon-twitter-poster",
-    "stargazers_count": 783,
+    "stargazers_count": 786,
     "open_issues_count": 100,
     "forks_count": 63
   },
   {
     "full_name": "rugk/mastodon-simplified-federation",
-    "stargazers_count": 205,
+    "stargazers_count": 206,
     "open_issues_count": 31,
     "forks_count": 11
   },
   {
     "full_name": "tleb/awesome-mastodon",
-    "stargazers_count": 720,
+    "stargazers_count": 726,
     "open_issues_count": 23,
-    "forks_count": 64
+    "forks_count": 65
   },
   {
     "full_name": "tuskyapp/Tusky",
-    "stargazers_count": 1935,
-    "open_issues_count": 397,
-    "forks_count": 350
+    "stargazers_count": 1948,
+    "open_issues_count": 400,
+    "forks_count": 348
   },
   {
     "full_name": "FedStoa/moa",
-    "stargazers_count": 334,
+    "stargazers_count": 335,
     "open_issues_count": 35,
     "forks_count": 18
   },
   {
     "full_name": "cloudflare/wildebeest",
-    "stargazers_count": 998,
-    "open_issues_count": 19,
-    "forks_count": 142
+    "stargazers_count": 1032,
+    "open_issues_count": 12,
+    "forks_count": 144
   },
   {
     "full_name": "sk22/megalodon",
-    "stargazers_count": 273,
-    "open_issues_count": 96,
-    "forks_count": 19
+    "stargazers_count": 285,
+    "open_issues_count": 109,
+    "forks_count": 20
   },
   {
     "full_name": "hodgesmr/mastodon_digest",
-    "stargazers_count": 389,
-    "open_issues_count": 12,
-    "forks_count": 50
+    "stargazers_count": 393,
+    "open_issues_count": 10,
+    "forks_count": 51
   },
   {
     "full_name": "ihabunek/toot",
-    "stargazers_count": 895,
+    "stargazers_count": 898,
     "open_issues_count": 84,
     "forks_count": 88
   },
   {
     "full_name": "martinwoodward/octolamp",
-    "stargazers_count": 324,
+    "stargazers_count": 385,
     "open_issues_count": 0,
-    "forks_count": 10
-  },
-  {
-    "full_name": "sampsyo/emfed",
-    "stargazers_count": 32,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Dimillian/IceCubesApp",
-    "stargazers_count": 1500,
-    "open_issues_count": 148,
-    "forks_count": 126
-  },
-  {
-    "full_name": "ali-h-kudeir/transcribe-video-audio",
-    "stargazers_count": 6,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "elk-zone/elk",
-    "stargazers_count": 2383,
-    "open_issues_count": 334,
-    "forks_count": 171
-  },
-  {
-    "full_name": "insin/tweak-new-twitter",
-    "stargazers_count": 901,
-    "open_issues_count": 33,
-    "forks_count": 29
-  },
-  {
-    "full_name": "dosdude1/2.5-inch-ide-ssd",
-    "stargazers_count": 168,
-    "open_issues_count": 2,
-    "forks_count": 6
-  },
-  {
-    "full_name": "hackergolucky/PlaySimsOnMac",
-    "stargazers_count": 71,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "antiboredom/audiogrep",
-    "stargazers_count": 957,
-    "open_issues_count": 19,
-    "forks_count": 68
-  },
-  {
-    "full_name": "openai/openai-cookbook",
-    "stargazers_count": 10177,
-    "open_issues_count": 7,
-    "forks_count": 999
-  },
-  {
-    "full_name": "iheartla/iheartla",
-    "stargazers_count": 183,
-    "open_issues_count": 67,
-    "forks_count": 14
-  },
-  {
-    "full_name": "red-data-tools/YouPlot",
-    "stargazers_count": 2886,
-    "open_issues_count": 10,
-    "forks_count": 37
-  },
-  {
-    "full_name": "AlbanCrepel/compiiile",
-    "stargazers_count": 65,
-    "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 11
   }
 ]
