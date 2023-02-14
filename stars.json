@@ -1,51 +1,69 @@
 [
   {
+    "full_name": "schibsted/WAAS",
+    "stargazers_count": 396,
+    "open_issues_count": 13,
+    "forks_count": 15
+  },
+  {
+    "full_name": "TheR1D/shell_gpt",
+    "stargazers_count": 855,
+    "open_issues_count": 4,
+    "forks_count": 32
+  },
+  {
+    "full_name": "benbrown/shuttlecraft",
+    "stargazers_count": 179,
+    "open_issues_count": 43,
+    "forks_count": 16
+  },
+  {
     "full_name": "scandum/fluxsort",
-    "stargazers_count": 572,
+    "stargazers_count": 588,
     "open_issues_count": 3,
     "forks_count": 16
   },
   {
     "full_name": "transitive-bullshit/chatgpt-api",
-    "stargazers_count": 7602,
-    "open_issues_count": 7,
-    "forks_count": 864
+    "stargazers_count": 8209,
+    "open_issues_count": 11,
+    "forks_count": 946
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 23322,
-    "open_issues_count": 550,
-    "forks_count": 683
+    "stargazers_count": 23486,
+    "open_issues_count": 553,
+    "forks_count": 685
   },
   {
     "full_name": "openziti/zrok",
-    "stargazers_count": 459,
-    "open_issues_count": 31,
-    "forks_count": 8
+    "stargazers_count": 551,
+    "open_issues_count": 34,
+    "forks_count": 11
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 5565,
+    "stargazers_count": 5591,
     "open_issues_count": 0,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "Rishikant181/Rettiwt-API",
-    "stargazers_count": 31,
-    "open_issues_count": 4,
+    "stargazers_count": 36,
+    "open_issues_count": 6,
     "forks_count": 4
   },
   {
     "full_name": "sabre-io/dav",
-    "stargazers_count": 1325,
+    "stargazers_count": 1345,
     "open_issues_count": 212,
     "forks_count": 334
   },
   {
     "full_name": "Effective-Immediately/effective-immediately",
-    "stargazers_count": 129,
+    "stargazers_count": 155,
     "open_issues_count": 2,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "joelface/bg1",
@@ -67,45 +85,45 @@
   },
   {
     "full_name": "krestaino/macos-folder-icons",
-    "stargazers_count": 180,
+    "stargazers_count": 181,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "lgarron/folderify",
-    "stargazers_count": 831,
+    "stargazers_count": 845,
     "open_issues_count": 13,
     "forks_count": 27
   },
   {
     "full_name": "othyn/github-folder-icon-macOS",
-    "stargazers_count": 37,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "activepieces/activepieces",
-    "stargazers_count": 657,
-    "open_issues_count": 50,
-    "forks_count": 29
+    "stargazers_count": 1218,
+    "open_issues_count": 61,
+    "forks_count": 47
   },
   {
     "full_name": "anacrolix/torrent",
-    "stargazers_count": 4658,
-    "open_issues_count": 43,
-    "forks_count": 573
+    "stargazers_count": 4661,
+    "open_issues_count": 45,
+    "forks_count": 576
   },
   {
     "full_name": "norvig/pytudes",
-    "stargazers_count": 20059,
+    "stargazers_count": 20063,
     "open_issues_count": 21,
-    "forks_count": 2276
+    "forks_count": 2277
   },
   {
     "full_name": "TootSDK/TootSDK",
-    "stargazers_count": 214,
-    "open_issues_count": 12,
-    "forks_count": 4
+    "stargazers_count": 226,
+    "open_issues_count": 15,
+    "forks_count": 8
   },
   {
     "full_name": "alsutton/mastodon-aws-architecture",
@@ -116,13 +134,13 @@
   {
     "full_name": "davecheney/pub",
     "stargazers_count": 137,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 8
   },
   {
     "full_name": "snarfed/bridgy-fed",
     "stargazers_count": 150,
-    "open_issues_count": 38,
+    "open_issues_count": 34,
     "forks_count": 14
   },
   {
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "mastodon/mastodon-ansible",
-    "stargazers_count": 133,
+    "stargazers_count": 134,
     "open_issues_count": 9,
     "forks_count": 54
-  },
-  {
-    "full_name": "glitch-soc/mastodon",
-    "stargazers_count": 504,
-    "open_issues_count": 253,
-    "forks_count": 137
-  },
-  {
-    "full_name": "ToxicFrog/Ligaturizer",
-    "stargazers_count": 1971,
-    "open_issues_count": 20,
-    "forks_count": 99
-  },
-  {
-    "full_name": "automerge/automerge",
-    "stargazers_count": 14742,
-    "open_issues_count": 74,
-    "forks_count": 4075
   }
 ]
