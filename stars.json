@@ -1,73 +1,109 @@
 [
   {
+    "full_name": "Cvaniak/NoteSH",
+    "stargazers_count": 177,
+    "open_issues_count": 4,
+    "forks_count": 5
+  },
+  {
+    "full_name": "pulsejet/memories",
+    "stargazers_count": 846,
+    "open_issues_count": 109,
+    "forks_count": 22
+  },
+  {
+    "full_name": "microsoft/prompt-engine",
+    "stargazers_count": 1051,
+    "open_issues_count": 6,
+    "forks_count": 27
+  },
+  {
+    "full_name": "neatnik/omg.lol",
+    "stargazers_count": 281,
+    "open_issues_count": 142,
+    "forks_count": 41
+  },
+  {
+    "full_name": "daveearley/screenshot.rocks",
+    "stargazers_count": 490,
+    "open_issues_count": 3,
+    "forks_count": 39
+  },
+  {
+    "full_name": "Nutlope/aicommits",
+    "stargazers_count": 1322,
+    "open_issues_count": 16,
+    "forks_count": 59
+  },
+  {
     "full_name": "schibsted/WAAS",
-    "stargazers_count": 396,
+    "stargazers_count": 1122,
     "open_issues_count": 13,
-    "forks_count": 15
+    "forks_count": 50
   },
   {
     "full_name": "TheR1D/shell_gpt",
-    "stargazers_count": 855,
-    "open_issues_count": 4,
-    "forks_count": 32
+    "stargazers_count": 1386,
+    "open_issues_count": 6,
+    "forks_count": 55
   },
   {
     "full_name": "benbrown/shuttlecraft",
-    "stargazers_count": 179,
+    "stargazers_count": 184,
     "open_issues_count": 43,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "scandum/fluxsort",
-    "stargazers_count": 588,
+    "stargazers_count": 590,
     "open_issues_count": 3,
     "forks_count": 16
   },
   {
     "full_name": "transitive-bullshit/chatgpt-api",
-    "stargazers_count": 8209,
-    "open_issues_count": 11,
-    "forks_count": 946
+    "stargazers_count": 8623,
+    "open_issues_count": 18,
+    "forks_count": 1001
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 23486,
-    "open_issues_count": 553,
-    "forks_count": 685
+    "stargazers_count": 23593,
+    "open_issues_count": 563,
+    "forks_count": 692
   },
   {
     "full_name": "openziti/zrok",
-    "stargazers_count": 551,
-    "open_issues_count": 34,
-    "forks_count": 11
+    "stargazers_count": 574,
+    "open_issues_count": 43,
+    "forks_count": 12
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 5591,
+    "stargazers_count": 5614,
     "open_issues_count": 0,
-    "forks_count": 106
+    "forks_count": 105
   },
   {
     "full_name": "Rishikant181/Rettiwt-API",
-    "stargazers_count": 36,
-    "open_issues_count": 6,
+    "stargazers_count": 37,
+    "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "sabre-io/dav",
-    "stargazers_count": 1345,
+    "stargazers_count": 1349,
     "open_issues_count": 212,
     "forks_count": 334
   },
   {
     "full_name": "Effective-Immediately/effective-immediately",
-    "stargazers_count": 155,
+    "stargazers_count": 163,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "joelface/bg1",
-    "stargazers_count": 38,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 12
   },
@@ -79,19 +115,19 @@
   },
   {
     "full_name": "petl/USB-C-cable-tester-C2C-caberQU",
-    "stargazers_count": 78,
+    "stargazers_count": 80,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "krestaino/macos-folder-icons",
-    "stargazers_count": 181,
+    "stargazers_count": 182,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "lgarron/folderify",
-    "stargazers_count": 845,
+    "stargazers_count": 851,
     "open_issues_count": 13,
     "forks_count": 27
   },
@@ -103,27 +139,27 @@
   },
   {
     "full_name": "activepieces/activepieces",
-    "stargazers_count": 1218,
-    "open_issues_count": 61,
-    "forks_count": 47
+    "stargazers_count": 1296,
+    "open_issues_count": 67,
+    "forks_count": 50
   },
   {
     "full_name": "anacrolix/torrent",
-    "stargazers_count": 4661,
-    "open_issues_count": 45,
-    "forks_count": 576
+    "stargazers_count": 4666,
+    "open_issues_count": 46,
+    "forks_count": 577
   },
   {
     "full_name": "norvig/pytudes",
-    "stargazers_count": 20063,
+    "stargazers_count": 20066,
     "open_issues_count": 21,
-    "forks_count": 2277
+    "forks_count": 2275
   },
   {
     "full_name": "TootSDK/TootSDK",
-    "stargazers_count": 226,
-    "open_issues_count": 15,
-    "forks_count": 8
+    "stargazers_count": 229,
+    "open_issues_count": 13,
+    "forks_count": 9
   },
   {
     "full_name": "alsutton/mastodon-aws-architecture",
@@ -133,50 +169,14 @@
   },
   {
     "full_name": "davecheney/pub",
-    "stargazers_count": 137,
-    "open_issues_count": 8,
+    "stargazers_count": 138,
+    "open_issues_count": 7,
     "forks_count": 8
   },
   {
     "full_name": "snarfed/bridgy-fed",
     "stargazers_count": 150,
-    "open_issues_count": 34,
+    "open_issues_count": 36,
     "forks_count": 14
-  },
-  {
-    "full_name": "Aly-ve/Mastodon-share-button",
-    "stargazers_count": 57,
-    "open_issues_count": 0,
-    "forks_count": 9
-  },
-  {
-    "full_name": "bramus/mastodon-profile-redirect",
-    "stargazers_count": 75,
-    "open_issues_count": 3,
-    "forks_count": 3
-  },
-  {
-    "full_name": "DavidLibeau/mastodon-tools",
-    "stargazers_count": 48,
-    "open_issues_count": 4,
-    "forks_count": 8
-  },
-  {
-    "full_name": "schwa/MastodonAgain",
-    "stargazers_count": 79,
-    "open_issues_count": 56,
-    "forks_count": 4
-  },
-  {
-    "full_name": "FGRibreau/import-tweets-to-mastodon",
-    "stargazers_count": 78,
-    "open_issues_count": 1,
-    "forks_count": 14
-  },
-  {
-    "full_name": "mastodon/mastodon-ansible",
-    "stargazers_count": 134,
-    "open_issues_count": 9,
-    "forks_count": 54
   }
 ]
