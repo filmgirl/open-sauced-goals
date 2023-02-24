@@ -1,115 +1,163 @@
 [
   {
+    "full_name": "mjl-/mox",
+    "stargazers_count": 1303,
+    "open_issues_count": 3,
+    "forks_count": 21
+  },
+  {
+    "full_name": "lakinduakash/linux-wifi-hotspot",
+    "stargazers_count": 1695,
+    "open_issues_count": 63,
+    "forks_count": 200
+  },
+  {
+    "full_name": "o-oconnell/minixfromscratch",
+    "stargazers_count": 627,
+    "open_issues_count": 2,
+    "forks_count": 21
+  },
+  {
+    "full_name": "abhirooptalasila/AutoSub",
+    "stargazers_count": 439,
+    "open_issues_count": 8,
+    "forks_count": 86
+  },
+  {
+    "full_name": "gh4s-workshop/startups-workshop",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "GeekTrainer/pets-walkthrough",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "microsoft/BioGPT",
+    "stargazers_count": 2955,
+    "open_issues_count": 34,
+    "forks_count": 272
+  },
+  {
+    "full_name": "yobulkdev/yobulkdev",
+    "stargazers_count": 614,
+    "open_issues_count": 55,
+    "forks_count": 21
+  },
+  {
     "full_name": "MaxLaumeister/PageCrypt",
-    "stargazers_count": 413,
+    "stargazers_count": 418,
     "open_issues_count": 4,
     "forks_count": 82
   },
   {
     "full_name": "robinmoisson/staticrypt",
-    "stargazers_count": 4223,
+    "stargazers_count": 4720,
     "open_issues_count": 10,
-    "forks_count": 327
+    "forks_count": 346
   },
   {
     "full_name": "manicmaniac/sips-js-api",
-    "stargazers_count": 56,
+    "stargazers_count": 61,
     "open_issues_count": 1,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "ITzTravelInTime/TINU",
-    "stargazers_count": 425,
+    "stargazers_count": 426,
     "open_issues_count": 2,
     "forks_count": 27
   },
   {
     "full_name": "sveinbjornt/Sloth",
-    "stargazers_count": 7146,
+    "stargazers_count": 7448,
     "open_issues_count": 4,
-    "forks_count": 136
+    "forks_count": 143
   },
   {
     "full_name": "Cvaniak/NoteSH",
-    "stargazers_count": 196,
-    "open_issues_count": 4,
+    "stargazers_count": 198,
+    "open_issues_count": 3,
     "forks_count": 5
   },
   {
     "full_name": "pulsejet/memories",
-    "stargazers_count": 876,
-    "open_issues_count": 115,
+    "stargazers_count": 904,
+    "open_issues_count": 117,
     "forks_count": 22
   },
   {
     "full_name": "microsoft/prompt-engine",
-    "stargazers_count": 1262,
+    "stargazers_count": 1334,
     "open_issues_count": 7,
-    "forks_count": 35
+    "forks_count": 36
   },
   {
     "full_name": "neatnik/omg.lol",
-    "stargazers_count": 283,
-    "open_issues_count": 145,
+    "stargazers_count": 287,
+    "open_issues_count": 147,
     "forks_count": 41
   },
   {
     "full_name": "daveearley/screenshot.rocks",
-    "stargazers_count": 501,
+    "stargazers_count": 503,
     "open_issues_count": 3,
     "forks_count": 41
   },
   {
     "full_name": "Nutlope/aicommits",
-    "stargazers_count": 2222,
+    "stargazers_count": 2522,
     "open_issues_count": 27,
-    "forks_count": 87
+    "forks_count": 101
   },
   {
     "full_name": "schibsted/WAAS",
-    "stargazers_count": 1196,
+    "stargazers_count": 1252,
     "open_issues_count": 16,
-    "forks_count": 51
+    "forks_count": 53
   },
   {
     "full_name": "TheR1D/shell_gpt",
-    "stargazers_count": 1592,
+    "stargazers_count": 1658,
     "open_issues_count": 8,
-    "forks_count": 67
+    "forks_count": 73
   },
   {
     "full_name": "benbrown/shuttlecraft",
-    "stargazers_count": 196,
+    "stargazers_count": 197,
     "open_issues_count": 44,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "scandum/fluxsort",
-    "stargazers_count": 594,
+    "stargazers_count": 597,
     "open_issues_count": 3,
     "forks_count": 17
   },
   {
     "full_name": "transitive-bullshit/chatgpt-api",
-    "stargazers_count": 8984,
-    "open_issues_count": 4,
-    "forks_count": 1057
+    "stargazers_count": 9270,
+    "open_issues_count": 8,
+    "forks_count": 1090
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 23674,
-    "open_issues_count": 565,
-    "forks_count": 694
+    "stargazers_count": 23739,
+    "open_issues_count": 567,
+    "forks_count": 696
   },
   {
     "full_name": "openziti/zrok",
-    "stargazers_count": 586,
-    "open_issues_count": 42,
+    "stargazers_count": 592,
+    "open_issues_count": 37,
     "forks_count": 12
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 5631,
+    "stargazers_count": 5660,
     "open_issues_count": 0,
     "forks_count": 106
   },
@@ -121,62 +169,14 @@
   },
   {
     "full_name": "sabre-io/dav",
-    "stargazers_count": 1350,
+    "stargazers_count": 1351,
     "open_issues_count": 212,
-    "forks_count": 335
+    "forks_count": 334
   },
   {
     "full_name": "Effective-Immediately/effective-immediately",
-    "stargazers_count": 165,
+    "stargazers_count": 168,
     "open_issues_count": 2,
     "forks_count": 13
-  },
-  {
-    "full_name": "joelface/bg1",
-    "stargazers_count": 40,
-    "open_issues_count": 0,
-    "forks_count": 12
-  },
-  {
-    "full_name": "ruthsarian/RuthsarianBladeController",
-    "stargazers_count": 17,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "petl/USB-C-cable-tester-C2C-caberQU",
-    "stargazers_count": 81,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "krestaino/macos-folder-icons",
-    "stargazers_count": 183,
-    "open_issues_count": 2,
-    "forks_count": 7
-  },
-  {
-    "full_name": "lgarron/folderify",
-    "stargazers_count": 854,
-    "open_issues_count": 13,
-    "forks_count": 27
-  },
-  {
-    "full_name": "othyn/github-folder-icon-macOS",
-    "stargazers_count": 40,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "activepieces/activepieces",
-    "stargazers_count": 1343,
-    "open_issues_count": 66,
-    "forks_count": 51
-  },
-  {
-    "full_name": "anacrolix/torrent",
-    "stargazers_count": 4671,
-    "open_issues_count": 46,
-    "forks_count": 578
   }
 ]
