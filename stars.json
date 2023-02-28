@@ -1,25 +1,97 @@
 [
   {
+    "full_name": "clayrisser/linux-factory",
+    "stargazers_count": 76,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "DeterminateSystems/nix-installer",
+    "stargazers_count": 180,
+    "open_issues_count": 27,
+    "forks_count": 6
+  },
+  {
+    "full_name": "Hesse/gitgpt",
+    "stargazers_count": 65,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "timhutton/twitter-archive-parser",
+    "stargazers_count": 2243,
+    "open_issues_count": 35,
+    "forks_count": 105
+  },
+  {
+    "full_name": "lucahammer/fediporter",
+    "stargazers_count": 55,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
+    "full_name": "KevinPayravi/twitter-archive-to-mastodon",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "roots/wp-password-bcrypt",
+    "stargazers_count": 582,
+    "open_issues_count": 2,
+    "forks_count": 65
+  },
+  {
+    "full_name": "vinkla/wordplate",
+    "stargazers_count": 1873,
+    "open_issues_count": 0,
+    "forks_count": 146
+  },
+  {
+    "full_name": "davidz-yt/desk-controller",
+    "stargazers_count": 454,
+    "open_issues_count": 0,
+    "forks_count": 22
+  },
+  {
+    "full_name": "fastn-stack/fastn-old",
+    "stargazers_count": 17,
+    "open_issues_count": 23,
+    "forks_count": 7
+  },
+  {
+    "full_name": "fastn-stack/fastn",
+    "stargazers_count": 48,
+    "open_issues_count": 76,
+    "forks_count": 5
+  },
+  {
+    "full_name": "wustho/epr",
+    "stargazers_count": 974,
+    "open_issues_count": 18,
+    "forks_count": 44
+  },
+  {
     "full_name": "mjl-/mox",
-    "stargazers_count": 1303,
-    "open_issues_count": 3,
-    "forks_count": 21
+    "stargazers_count": 2134,
+    "open_issues_count": 6,
+    "forks_count": 35
   },
   {
     "full_name": "lakinduakash/linux-wifi-hotspot",
-    "stargazers_count": 1695,
-    "open_issues_count": 63,
+    "stargazers_count": 1734,
+    "open_issues_count": 62,
     "forks_count": 200
   },
   {
     "full_name": "o-oconnell/minixfromscratch",
-    "stargazers_count": 627,
-    "open_issues_count": 2,
-    "forks_count": 21
+    "stargazers_count": 974,
+    "open_issues_count": 3,
+    "forks_count": 46
   },
   {
     "full_name": "abhirooptalasila/AutoSub",
-    "stargazers_count": 439,
+    "stargazers_count": 438,
     "open_issues_count": 8,
     "forks_count": 86
   },
@@ -37,146 +109,74 @@
   },
   {
     "full_name": "microsoft/BioGPT",
-    "stargazers_count": 2955,
-    "open_issues_count": 34,
-    "forks_count": 272
+    "stargazers_count": 3219,
+    "open_issues_count": 35,
+    "forks_count": 305
   },
   {
     "full_name": "yobulkdev/yobulkdev",
-    "stargazers_count": 614,
+    "stargazers_count": 656,
     "open_issues_count": 55,
     "forks_count": 21
   },
   {
     "full_name": "MaxLaumeister/PageCrypt",
-    "stargazers_count": 418,
+    "stargazers_count": 419,
     "open_issues_count": 4,
     "forks_count": 82
   },
   {
     "full_name": "robinmoisson/staticrypt",
-    "stargazers_count": 4720,
-    "open_issues_count": 10,
-    "forks_count": 346
+    "stargazers_count": 4945,
+    "open_issues_count": 11,
+    "forks_count": 352
   },
   {
     "full_name": "manicmaniac/sips-js-api",
-    "stargazers_count": 61,
-    "open_issues_count": 1,
-    "forks_count": 2
+    "stargazers_count": 71,
+    "open_issues_count": 2,
+    "forks_count": 3
   },
   {
     "full_name": "ITzTravelInTime/TINU",
-    "stargazers_count": 426,
+    "stargazers_count": 428,
     "open_issues_count": 2,
     "forks_count": 27
   },
   {
     "full_name": "sveinbjornt/Sloth",
-    "stargazers_count": 7448,
+    "stargazers_count": 7571,
     "open_issues_count": 4,
     "forks_count": 143
   },
   {
     "full_name": "Cvaniak/NoteSH",
-    "stargazers_count": 198,
-    "open_issues_count": 3,
-    "forks_count": 5
+    "stargazers_count": 239,
+    "open_issues_count": 4,
+    "forks_count": 7
   },
   {
     "full_name": "pulsejet/memories",
-    "stargazers_count": 904,
-    "open_issues_count": 117,
+    "stargazers_count": 927,
+    "open_issues_count": 111,
     "forks_count": 22
   },
   {
     "full_name": "microsoft/prompt-engine",
-    "stargazers_count": 1334,
+    "stargazers_count": 1373,
     "open_issues_count": 7,
-    "forks_count": 36
+    "forks_count": 39
   },
   {
     "full_name": "neatnik/omg.lol",
-    "stargazers_count": 287,
-    "open_issues_count": 147,
-    "forks_count": 41
+    "stargazers_count": 288,
+    "open_issues_count": 151,
+    "forks_count": 42
   },
   {
     "full_name": "daveearley/screenshot.rocks",
-    "stargazers_count": 503,
+    "stargazers_count": 505,
     "open_issues_count": 3,
     "forks_count": 41
-  },
-  {
-    "full_name": "Nutlope/aicommits",
-    "stargazers_count": 2522,
-    "open_issues_count": 27,
-    "forks_count": 101
-  },
-  {
-    "full_name": "schibsted/WAAS",
-    "stargazers_count": 1252,
-    "open_issues_count": 16,
-    "forks_count": 53
-  },
-  {
-    "full_name": "TheR1D/shell_gpt",
-    "stargazers_count": 1658,
-    "open_issues_count": 8,
-    "forks_count": 73
-  },
-  {
-    "full_name": "benbrown/shuttlecraft",
-    "stargazers_count": 197,
-    "open_issues_count": 44,
-    "forks_count": 18
-  },
-  {
-    "full_name": "scandum/fluxsort",
-    "stargazers_count": 597,
-    "open_issues_count": 3,
-    "forks_count": 17
-  },
-  {
-    "full_name": "transitive-bullshit/chatgpt-api",
-    "stargazers_count": 9270,
-    "open_issues_count": 8,
-    "forks_count": 1090
-  },
-  {
-    "full_name": "lapce/lapce",
-    "stargazers_count": 23739,
-    "open_issues_count": 567,
-    "forks_count": 696
-  },
-  {
-    "full_name": "openziti/zrok",
-    "stargazers_count": 592,
-    "open_issues_count": 37,
-    "forks_count": 12
-  },
-  {
-    "full_name": "marp-team/marp",
-    "stargazers_count": 5660,
-    "open_issues_count": 0,
-    "forks_count": 106
-  },
-  {
-    "full_name": "Rishikant181/Rettiwt-API",
-    "stargazers_count": 39,
-    "open_issues_count": 3,
-    "forks_count": 5
-  },
-  {
-    "full_name": "sabre-io/dav",
-    "stargazers_count": 1351,
-    "open_issues_count": 212,
-    "forks_count": 334
-  },
-  {
-    "full_name": "Effective-Immediately/effective-immediately",
-    "stargazers_count": 168,
-    "open_issues_count": 2,
-    "forks_count": 13
   }
 ]
