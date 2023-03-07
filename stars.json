@@ -1,63 +1,111 @@
 [
   {
-    "full_name": "Nutlope/roomGPT",
-    "stargazers_count": 339,
-    "open_issues_count": 2,
+    "full_name": "shapehq/slack-chatgpt",
+    "stargazers_count": 57,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "lucahammer/fedifinder",
+    "stargazers_count": 205,
+    "open_issues_count": 31,
+    "forks_count": 25
+  },
+  {
+    "full_name": "sacredheartsc/selfhosted",
+    "stargazers_count": 117,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "jeanslack/Videomass",
+    "stargazers_count": 490,
+    "open_issues_count": 8,
     "forks_count": 32
   },
   {
+    "full_name": "tweedegolf/mailcrab",
+    "stargazers_count": 336,
+    "open_issues_count": 4,
+    "forks_count": 7
+  },
+  {
+    "full_name": "maximevaillancourt/digital-garden-jekyll-template",
+    "stargazers_count": 615,
+    "open_issues_count": 8,
+    "forks_count": 555
+  },
+  {
+    "full_name": "Asabeneh/30-Days-Of-Python",
+    "stargazers_count": 21581,
+    "open_issues_count": 183,
+    "forks_count": 4615
+  },
+  {
+    "full_name": "jasoneckert/sway-dotfiles",
+    "stargazers_count": 25,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Nutlope/roomGPT",
+    "stargazers_count": 3702,
+    "open_issues_count": 8,
+    "forks_count": 278
+  },
+  {
     "full_name": "svofski/glasstty",
-    "stargazers_count": 210,
+    "stargazers_count": 211,
     "open_issues_count": 1,
     "forks_count": 16
   },
   {
     "full_name": "livingcomputermuseum/Darkstar",
-    "stargazers_count": 181,
+    "stargazers_count": 183,
     "open_issues_count": 10,
     "forks_count": 14
   },
   {
     "full_name": "ggerganov/whisper.cpp",
-    "stargazers_count": 7536,
-    "open_issues_count": 111,
-    "forks_count": 572
+    "stargazers_count": 7753,
+    "open_issues_count": 115,
+    "forks_count": 593
   },
   {
     "full_name": "jackdoe/emacs-chatgpt-jarvis",
-    "stargazers_count": 25,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "m-bain/whisperX",
-    "stargazers_count": 1753,
-    "open_issues_count": 44,
-    "forks_count": 124
+    "stargazers_count": 1839,
+    "open_issues_count": 57,
+    "forks_count": 133
   },
   {
     "full_name": "lllyasviel/ControlNet",
-    "stargazers_count": 10781,
-    "open_issues_count": 117,
-    "forks_count": 843
+    "stargazers_count": 11942,
+    "open_issues_count": 131,
+    "forks_count": 941
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 58643,
-    "open_issues_count": 8734,
-    "forks_count": 10166
+    "stargazers_count": 58928,
+    "open_issues_count": 8830,
+    "forks_count": 10201
   },
   {
     "full_name": "IceWhaleTech/CasaOS",
-    "stargazers_count": 8792,
-    "open_issues_count": 157,
-    "forks_count": 582
+    "stargazers_count": 8874,
+    "open_issues_count": 153,
+    "forks_count": 586
   },
   {
     "full_name": "oneearedrabbit/badger-system-ii",
-    "stargazers_count": 144,
+    "stargazers_count": 166,
     "open_issues_count": 1,
-    "forks_count": 4
+    "forks_count": 7
   },
   {
     "full_name": "eikehein/hyelicht",
@@ -67,39 +115,39 @@
   },
   {
     "full_name": "Mikubill/sd-webui-controlnet",
-    "stargazers_count": 3746,
-    "open_issues_count": 134,
-    "forks_count": 361
+    "stargazers_count": 4122,
+    "open_issues_count": 138,
+    "forks_count": 403
   },
   {
     "full_name": "replicate/scribble-diffusion",
-    "stargazers_count": 1191,
-    "open_issues_count": 15,
-    "forks_count": 153
+    "stargazers_count": 1322,
+    "open_issues_count": 16,
+    "forks_count": 180
   },
   {
     "full_name": "clayrisser/linux-factory",
-    "stargazers_count": 257,
-    "open_issues_count": 0,
-    "forks_count": 5
+    "stargazers_count": 266,
+    "open_issues_count": 1,
+    "forks_count": 7
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 257,
-    "open_issues_count": 35,
+    "stargazers_count": 290,
+    "open_issues_count": 32,
     "forks_count": 6
   },
   {
     "full_name": "Hesse/gitgpt",
-    "stargazers_count": 156,
+    "stargazers_count": 172,
     "open_issues_count": 2,
     "forks_count": 10
   },
   {
     "full_name": "timhutton/twitter-archive-parser",
-    "stargazers_count": 2244,
+    "stargazers_count": 2262,
     "open_issues_count": 35,
-    "forks_count": 104
+    "forks_count": 106
   },
   {
     "full_name": "lucahammer/fediporter",
@@ -121,62 +169,14 @@
   },
   {
     "full_name": "vinkla/wordplate",
-    "stargazers_count": 1874,
+    "stargazers_count": 1877,
     "open_issues_count": 0,
     "forks_count": 147
   },
   {
     "full_name": "davidz-yt/desk-controller",
-    "stargazers_count": 461,
+    "stargazers_count": 464,
     "open_issues_count": 0,
     "forks_count": 22
-  },
-  {
-    "full_name": "fastn-stack/fastn-old",
-    "stargazers_count": 17,
-    "open_issues_count": 23,
-    "forks_count": 7
-  },
-  {
-    "full_name": "fastn-stack/fastn",
-    "stargazers_count": 48,
-    "open_issues_count": 76,
-    "forks_count": 5
-  },
-  {
-    "full_name": "wustho/epr",
-    "stargazers_count": 974,
-    "open_issues_count": 18,
-    "forks_count": 44
-  },
-  {
-    "full_name": "mjl-/mox",
-    "stargazers_count": 2260,
-    "open_issues_count": 6,
-    "forks_count": 38
-  },
-  {
-    "full_name": "lakinduakash/linux-wifi-hotspot",
-    "stargazers_count": 1738,
-    "open_issues_count": 64,
-    "forks_count": 202
-  },
-  {
-    "full_name": "o-oconnell/minixfromscratch",
-    "stargazers_count": 999,
-    "open_issues_count": 3,
-    "forks_count": 49
-  },
-  {
-    "full_name": "abhirooptalasila/AutoSub",
-    "stargazers_count": 439,
-    "open_issues_count": 8,
-    "forks_count": 87
-  },
-  {
-    "full_name": "gh4s-workshop/startups-workshop",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
