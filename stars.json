@@ -1,45 +1,81 @@
 [
   {
+    "full_name": "meeb/django-distill",
+    "stargazers_count": 285,
+    "open_issues_count": 5,
+    "forks_count": 29
+  },
+  {
+    "full_name": "wieslawsoltes/ChatGPT",
+    "stargazers_count": 298,
+    "open_issues_count": 1,
+    "forks_count": 50
+  },
+  {
+    "full_name": "sindresorhus/macos-wallpaper",
+    "stargazers_count": 568,
+    "open_issues_count": 5,
+    "forks_count": 33
+  },
+  {
+    "full_name": "sindresorhus/wallpaper-cli",
+    "stargazers_count": 158,
+    "open_issues_count": 3,
+    "forks_count": 16
+  },
+  {
+    "full_name": "sindresorhus/wallpaper",
+    "stargazers_count": 944,
+    "open_issues_count": 10,
+    "forks_count": 87
+  },
+  {
+    "full_name": "superseriousbusiness/gotosocial",
+    "stargazers_count": 2434,
+    "open_issues_count": 209,
+    "forks_count": 200
+  },
+  {
     "full_name": "shapehq/slack-chatgpt",
-    "stargazers_count": 57,
-    "open_issues_count": 0,
+    "stargazers_count": 73,
+    "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "lucahammer/fedifinder",
-    "stargazers_count": 205,
+    "stargazers_count": 206,
     "open_issues_count": 31,
     "forks_count": 25
   },
   {
     "full_name": "sacredheartsc/selfhosted",
-    "stargazers_count": 117,
+    "stargazers_count": 135,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "jeanslack/Videomass",
-    "stargazers_count": 490,
+    "stargazers_count": 491,
     "open_issues_count": 8,
     "forks_count": 32
   },
   {
     "full_name": "tweedegolf/mailcrab",
-    "stargazers_count": 336,
-    "open_issues_count": 4,
-    "forks_count": 7
+    "stargazers_count": 399,
+    "open_issues_count": 3,
+    "forks_count": 9
   },
   {
     "full_name": "maximevaillancourt/digital-garden-jekyll-template",
-    "stargazers_count": 615,
+    "stargazers_count": 619,
     "open_issues_count": 8,
-    "forks_count": 555
+    "forks_count": 557
   },
   {
     "full_name": "Asabeneh/30-Days-Of-Python",
-    "stargazers_count": 21581,
-    "open_issues_count": 183,
-    "forks_count": 4615
+    "stargazers_count": 21951,
+    "open_issues_count": 184,
+    "forks_count": 4666
   },
   {
     "full_name": "jasoneckert/sway-dotfiles",
@@ -49,13 +85,13 @@
   },
   {
     "full_name": "Nutlope/roomGPT",
-    "stargazers_count": 3702,
+    "stargazers_count": 4755,
     "open_issues_count": 8,
-    "forks_count": 278
+    "forks_count": 352
   },
   {
     "full_name": "svofski/glasstty",
-    "stargazers_count": 211,
+    "stargazers_count": 215,
     "open_issues_count": 1,
     "forks_count": 16
   },
@@ -67,45 +103,45 @@
   },
   {
     "full_name": "ggerganov/whisper.cpp",
-    "stargazers_count": 7753,
-    "open_issues_count": 115,
-    "forks_count": 593
+    "stargazers_count": 8806,
+    "open_issues_count": 121,
+    "forks_count": 652
   },
   {
     "full_name": "jackdoe/emacs-chatgpt-jarvis",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "m-bain/whisperX",
-    "stargazers_count": 1839,
-    "open_issues_count": 57,
-    "forks_count": 133
+    "stargazers_count": 1934,
+    "open_issues_count": 63,
+    "forks_count": 141
   },
   {
     "full_name": "lllyasviel/ControlNet",
-    "stargazers_count": 11942,
-    "open_issues_count": 131,
-    "forks_count": 941
+    "stargazers_count": 12600,
+    "open_issues_count": 146,
+    "forks_count": 1019
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 58928,
-    "open_issues_count": 8830,
-    "forks_count": 10201
+    "stargazers_count": 59117,
+    "open_issues_count": 8862,
+    "forks_count": 10213
   },
   {
     "full_name": "IceWhaleTech/CasaOS",
-    "stargazers_count": 8874,
-    "open_issues_count": 153,
-    "forks_count": 586
+    "stargazers_count": 8937,
+    "open_issues_count": 157,
+    "forks_count": 590
   },
   {
     "full_name": "oneearedrabbit/badger-system-ii",
-    "stargazers_count": 166,
+    "stargazers_count": 172,
     "open_issues_count": 1,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "eikehein/hyelicht",
@@ -115,68 +151,32 @@
   },
   {
     "full_name": "Mikubill/sd-webui-controlnet",
-    "stargazers_count": 4122,
-    "open_issues_count": 138,
-    "forks_count": 403
+    "stargazers_count": 4372,
+    "open_issues_count": 152,
+    "forks_count": 434
   },
   {
     "full_name": "replicate/scribble-diffusion",
-    "stargazers_count": 1322,
-    "open_issues_count": 16,
-    "forks_count": 180
+    "stargazers_count": 1592,
+    "open_issues_count": 17,
+    "forks_count": 216
   },
   {
     "full_name": "clayrisser/linux-factory",
-    "stargazers_count": 266,
+    "stargazers_count": 270,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 290,
-    "open_issues_count": 32,
+    "stargazers_count": 316,
+    "open_issues_count": 30,
     "forks_count": 6
   },
   {
     "full_name": "Hesse/gitgpt",
-    "stargazers_count": 172,
-    "open_issues_count": 2,
-    "forks_count": 10
-  },
-  {
-    "full_name": "timhutton/twitter-archive-parser",
-    "stargazers_count": 2262,
-    "open_issues_count": 35,
-    "forks_count": 106
-  },
-  {
-    "full_name": "lucahammer/fediporter",
-    "stargazers_count": 55,
-    "open_issues_count": 2,
-    "forks_count": 2
-  },
-  {
-    "full_name": "KevinPayravi/twitter-archive-to-mastodon",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "roots/wp-password-bcrypt",
-    "stargazers_count": 581,
-    "open_issues_count": 2,
-    "forks_count": 65
-  },
-  {
-    "full_name": "vinkla/wordplate",
-    "stargazers_count": 1877,
-    "open_issues_count": 0,
-    "forks_count": 147
-  },
-  {
-    "full_name": "davidz-yt/desk-controller",
-    "stargazers_count": 464,
-    "open_issues_count": 0,
-    "forks_count": 22
+    "stargazers_count": 174,
+    "open_issues_count": 3,
+    "forks_count": 11
   }
 ]
