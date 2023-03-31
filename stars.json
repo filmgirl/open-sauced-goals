@@ -1,61 +1,109 @@
 [
   {
+    "full_name": "Picsart-AI-Research/Text2Video-Zero",
+    "stargazers_count": 1894,
+    "open_issues_count": 7,
+    "forks_count": 73
+  },
+  {
+    "full_name": "nuxt/nuxt",
+    "stargazers_count": 44503,
+    "open_issues_count": 844,
+    "forks_count": 3710
+  },
+  {
+    "full_name": "analogjs/analog",
+    "stargazers_count": 896,
+    "open_issues_count": 31,
+    "forks_count": 69
+  },
+  {
+    "full_name": "camenduru/stable-diffusion-webui-colab",
+    "stargazers_count": 6228,
+    "open_issues_count": 16,
+    "forks_count": 1017
+  },
+  {
+    "full_name": "intitni/CopilotForXcode",
+    "stargazers_count": 2129,
+    "open_issues_count": 21,
+    "forks_count": 68
+  },
+  {
+    "full_name": "miguelsolorio/vscode-symbols",
+    "stargazers_count": 128,
+    "open_issues_count": 16,
+    "forks_count": 19
+  },
+  {
+    "full_name": "microsoft/vscode-icons",
+    "stargazers_count": 757,
+    "open_issues_count": 1,
+    "forks_count": 101
+  },
+  {
+    "full_name": "catppuccin/vscode",
+    "stargazers_count": 539,
+    "open_issues_count": 4,
+    "forks_count": 32
+  },
+  {
     "full_name": "hacks-guide/Guide_3DS",
-    "stargazers_count": 1274,
-    "open_issues_count": 12,
+    "stargazers_count": 1277,
+    "open_issues_count": 10,
     "forks_count": 289
   },
   {
     "full_name": "HamburgChimps/apple-notes-liberator",
-    "stargazers_count": 598,
+    "stargazers_count": 719,
     "open_issues_count": 9,
-    "forks_count": 10
+    "forks_count": 16
   },
   {
     "full_name": "gd3kr/BlenderGPT",
-    "stargazers_count": 1832,
-    "open_issues_count": 26,
-    "forks_count": 99
+    "stargazers_count": 2766,
+    "open_issues_count": 33,
+    "forks_count": 151
   },
   {
     "full_name": "ad-aures/castopod",
-    "stargazers_count": 414,
+    "stargazers_count": 415,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "motifland/markprompt",
-    "stargazers_count": 866,
+    "stargazers_count": 1267,
     "open_issues_count": 7,
-    "forks_count": 46
+    "forks_count": 77
   },
   {
     "full_name": "prasanaworld/puppeteer-screen-recorder",
-    "stargazers_count": 220,
+    "stargazers_count": 221,
     "open_issues_count": 23,
     "forks_count": 32
   },
   {
     "full_name": "dtinth/html5-animation-video-renderer",
-    "stargazers_count": 144,
+    "stargazers_count": 145,
     "open_issues_count": 6,
     "forks_count": 19
   },
   {
     "full_name": "tungs/timesnap",
     "stargazers_count": 214,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 54
   },
   {
     "full_name": "tungs/timecut",
-    "stargazers_count": 542,
+    "stargazers_count": 543,
     "open_issues_count": 27,
     "forks_count": 68
   },
   {
     "full_name": "devforth/scriptimate",
-    "stargazers_count": 31,
+    "stargazers_count": 33,
     "open_issues_count": 5,
     "forks_count": 6
   },
@@ -67,116 +115,68 @@
   },
   {
     "full_name": "apple/ml-ane-transformers",
-    "stargazers_count": 1995,
+    "stargazers_count": 2073,
     "open_issues_count": 1,
-    "forks_count": 53
+    "forks_count": 52
   },
   {
     "full_name": "mrsked/mrsk",
-    "stargazers_count": 4603,
-    "open_issues_count": 15,
-    "forks_count": 135
+    "stargazers_count": 4761,
+    "open_issues_count": 12,
+    "forks_count": 137
   },
   {
     "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 9908,
-    "open_issues_count": 47,
-    "forks_count": 1027
+    "stargazers_count": 11811,
+    "open_issues_count": 61,
+    "forks_count": 1421
   },
   {
     "full_name": "cebix/macemu",
-    "stargazers_count": 1221,
+    "stargazers_count": 1224,
     "open_issues_count": 105,
     "forks_count": 258
   },
   {
     "full_name": "pynecone-io/pynecone",
-    "stargazers_count": 7625,
+    "stargazers_count": 7721,
     "open_issues_count": 149,
-    "forks_count": 250
+    "forks_count": 255
   },
   {
     "full_name": "pycob/pyvibe",
-    "stargazers_count": 345,
-    "open_issues_count": 0,
-    "forks_count": 10
+    "stargazers_count": 380,
+    "open_issues_count": 1,
+    "forks_count": 11
   },
   {
     "full_name": "MarkEdit-app/MarkEdit",
-    "stargazers_count": 466,
-    "open_issues_count": 1,
+    "stargazers_count": 477,
+    "open_issues_count": 2,
     "forks_count": 20
   },
   {
     "full_name": "project-copacetic/copacetic",
-    "stargazers_count": 234,
-    "open_issues_count": 16,
+    "stargazers_count": 240,
+    "open_issues_count": 11,
     "forks_count": 14
   },
   {
     "full_name": "migueldeicaza/PlaticaBot",
-    "stargazers_count": 115,
-    "open_issues_count": 8,
-    "forks_count": 8
+    "stargazers_count": 134,
+    "open_issues_count": 6,
+    "forks_count": 13
   },
   {
     "full_name": "migueldeicaza/SwiftChatGPT",
-    "stargazers_count": 51,
+    "stargazers_count": 62,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "lotabout/skim",
-    "stargazers_count": 4050,
+    "stargazers_count": 4061,
     "open_issues_count": 116,
-    "forks_count": 160
-  },
-  {
-    "full_name": "ellie/atuin",
-    "stargazers_count": 5790,
-    "open_issues_count": 92,
-    "forks_count": 186
-  },
-  {
-    "full_name": "typst/typst",
-    "stargazers_count": 11366,
-    "open_issues_count": 176,
-    "forks_count": 172
-  },
-  {
-    "full_name": "paulmand3l/delta-inflight",
-    "stargazers_count": 18,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "SubtitleEdit/subtitleedit",
-    "stargazers_count": 5080,
-    "open_issues_count": 306,
-    "forks_count": 703
-  },
-  {
-    "full_name": "Topping1/whispercppGUI",
-    "stargazers_count": 21,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "nlogozzo/NickvisionTubeConverter",
-    "stargazers_count": 120,
-    "open_issues_count": 9,
-    "forks_count": 17
-  },
-  {
-    "full_name": "appsmithorg/appsmith",
-    "stargazers_count": 25769,
-    "open_issues_count": 3288,
-    "forks_count": 2391
-  },
-  {
-    "full_name": "tryretool/retool-onpremise",
-    "stargazers_count": 432,
-    "open_issues_count": 28,
-    "forks_count": 157
+    "forks_count": 161
   }
 ]
