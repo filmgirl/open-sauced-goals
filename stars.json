@@ -1,86 +1,116 @@
 [
   {
+    "full_name": "pandas-dev/pandas",
+    "stargazers_count": 37556,
+    "open_issues_count": 3581,
+    "forks_count": 16004
+  },
+  {
+    "full_name": "firecracker-microvm/firecracker",
+    "stargazers_count": 21226,
+    "open_issues_count": 144,
+    "forks_count": 1516
+  },
+  {
+    "full_name": "hocus-dev/hocus",
+    "stargazers_count": 704,
+    "open_issues_count": 3,
+    "forks_count": 8
+  },
+  {
+    "full_name": "twitter/the-algorithm",
+    "stargazers_count": 44791,
+    "open_issues_count": 407,
+    "forks_count": 8587
+  },
+  {
+    "full_name": "Torantulino/Auto-GPT",
+    "stargazers_count": 5203,
+    "open_issues_count": 79,
+    "forks_count": 453
+  },
+  {
     "full_name": "Picsart-AI-Research/Text2Video-Zero",
-    "stargazers_count": 1894,
-    "open_issues_count": 7,
-    "forks_count": 73
+    "stargazers_count": 2154,
+    "open_issues_count": 8,
+    "forks_count": 87
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 44503,
-    "open_issues_count": 844,
-    "forks_count": 3710
+    "stargazers_count": 44558,
+    "open_issues_count": 847,
+    "forks_count": 3729
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 896,
-    "open_issues_count": 31,
-    "forks_count": 69
+    "stargazers_count": 910,
+    "open_issues_count": 33,
+    "forks_count": 70
   },
   {
     "full_name": "camenduru/stable-diffusion-webui-colab",
-    "stargazers_count": 6228,
-    "open_issues_count": 16,
-    "forks_count": 1017
+    "stargazers_count": 7070,
+    "open_issues_count": 14,
+    "forks_count": 1135
   },
   {
     "full_name": "intitni/CopilotForXcode",
-    "stargazers_count": 2129,
-    "open_issues_count": 21,
-    "forks_count": 68
+    "stargazers_count": 2299,
+    "open_issues_count": 18,
+    "forks_count": 76
   },
   {
     "full_name": "miguelsolorio/vscode-symbols",
-    "stargazers_count": 128,
+    "stargazers_count": 129,
     "open_issues_count": 16,
     "forks_count": 19
   },
   {
     "full_name": "microsoft/vscode-icons",
-    "stargazers_count": 757,
+    "stargazers_count": 759,
     "open_issues_count": 1,
     "forks_count": 101
   },
   {
     "full_name": "catppuccin/vscode",
-    "stargazers_count": 539,
-    "open_issues_count": 4,
-    "forks_count": 32
+    "stargazers_count": 550,
+    "open_issues_count": 3,
+    "forks_count": 33
   },
   {
     "full_name": "hacks-guide/Guide_3DS",
-    "stargazers_count": 1277,
-    "open_issues_count": 10,
-    "forks_count": 289
+    "stargazers_count": 1284,
+    "open_issues_count": 9,
+    "forks_count": 288
   },
   {
     "full_name": "HamburgChimps/apple-notes-liberator",
-    "stargazers_count": 719,
-    "open_issues_count": 9,
+    "stargazers_count": 769,
+    "open_issues_count": 5,
     "forks_count": 16
   },
   {
     "full_name": "gd3kr/BlenderGPT",
-    "stargazers_count": 2766,
-    "open_issues_count": 33,
-    "forks_count": 151
+    "stargazers_count": 2957,
+    "open_issues_count": 35,
+    "forks_count": 175
   },
   {
     "full_name": "ad-aures/castopod",
-    "stargazers_count": 415,
+    "stargazers_count": 417,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "motifland/markprompt",
-    "stargazers_count": 1267,
-    "open_issues_count": 7,
-    "forks_count": 77
+    "stargazers_count": 1393,
+    "open_issues_count": 9,
+    "forks_count": 93
   },
   {
     "full_name": "prasanaworld/puppeteer-screen-recorder",
     "stargazers_count": 221,
-    "open_issues_count": 23,
+    "open_issues_count": 24,
     "forks_count": 32
   },
   {
@@ -115,68 +145,38 @@
   },
   {
     "full_name": "apple/ml-ane-transformers",
-    "stargazers_count": 2073,
+    "stargazers_count": 2110,
     "open_issues_count": 1,
     "forks_count": 52
   },
   {
     "full_name": "mrsked/mrsk",
-    "stargazers_count": 4761,
-    "open_issues_count": 12,
-    "forks_count": 137
+    "stargazers_count": 4844,
+    "open_issues_count": 21,
+    "forks_count": 140
   },
   {
     "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 11811,
-    "open_issues_count": 61,
-    "forks_count": 1421
+    "stargazers_count": 12650,
+    "open_issues_count": 63,
+    "forks_count": 1605
   },
   {
     "full_name": "cebix/macemu",
-    "stargazers_count": 1224,
+    "stargazers_count": 1227,
     "open_issues_count": 105,
-    "forks_count": 258
+    "forks_count": 257
   },
   {
     "full_name": "pynecone-io/pynecone",
-    "stargazers_count": 7721,
-    "open_issues_count": 149,
-    "forks_count": 255
+    "stargazers_count": 7808,
+    "open_issues_count": 143,
+    "forks_count": 257
   },
   {
     "full_name": "pycob/pyvibe",
-    "stargazers_count": 380,
+    "stargazers_count": 398,
     "open_issues_count": 1,
-    "forks_count": 11
-  },
-  {
-    "full_name": "MarkEdit-app/MarkEdit",
-    "stargazers_count": 477,
-    "open_issues_count": 2,
-    "forks_count": 20
-  },
-  {
-    "full_name": "project-copacetic/copacetic",
-    "stargazers_count": 240,
-    "open_issues_count": 11,
-    "forks_count": 14
-  },
-  {
-    "full_name": "migueldeicaza/PlaticaBot",
-    "stargazers_count": 134,
-    "open_issues_count": 6,
-    "forks_count": 13
-  },
-  {
-    "full_name": "migueldeicaza/SwiftChatGPT",
-    "stargazers_count": 62,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "lotabout/skim",
-    "stargazers_count": 4061,
-    "open_issues_count": 116,
-    "forks_count": 161
+    "forks_count": 12
   }
 ]
