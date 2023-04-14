@@ -1,15 +1,51 @@
 [
   {
+    "full_name": "databrickslabs/dolly",
+    "stargazers_count": 6220,
+    "open_issues_count": 6,
+    "forks_count": 593
+  },
+  {
+    "full_name": "alin23/mac-utils",
+    "stargazers_count": 60,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "trevorhobenshield/twitter-api-client",
+    "stargazers_count": 424,
+    "open_issues_count": 0,
+    "forks_count": 23
+  },
+  {
+    "full_name": "electrikmilk/cherri",
+    "stargazers_count": 37,
+    "open_issues_count": 6,
+    "forks_count": 5
+  },
+  {
+    "full_name": "rishimohan/pika",
+    "stargazers_count": 485,
+    "open_issues_count": 0,
+    "forks_count": 87
+  },
+  {
+    "full_name": "muesli/markscribe",
+    "stargazers_count": 282,
+    "open_issues_count": 28,
+    "forks_count": 32
+  },
+  {
     "full_name": "Sharrnah/whispering",
-    "stargazers_count": 117,
+    "stargazers_count": 119,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "chengsokdara/use-whisper",
-    "stargazers_count": 134,
-    "open_issues_count": 11,
-    "forks_count": 19
+    "stargazers_count": 145,
+    "open_issues_count": 12,
+    "forks_count": 20
   },
   {
     "full_name": "premieroctet/screen-guru",
@@ -19,25 +55,25 @@
   },
   {
     "full_name": "mullvad/mullvad-browser",
-    "stargazers_count": 416,
-    "open_issues_count": 32,
+    "stargazers_count": 472,
+    "open_issues_count": 36,
     "forks_count": 8
   },
   {
     "full_name": "facebook/buck2",
-    "stargazers_count": 1920,
-    "open_issues_count": 32,
-    "forks_count": 82
+    "stargazers_count": 2095,
+    "open_issues_count": 39,
+    "forks_count": 85
   },
   {
     "full_name": "Cockpit-HQ/Cockpit",
-    "stargazers_count": 178,
-    "open_issues_count": 9,
+    "stargazers_count": 177,
+    "open_issues_count": 13,
     "forks_count": 23
   },
   {
     "full_name": "9001/copyparty",
-    "stargazers_count": 157,
+    "stargazers_count": 159,
     "open_issues_count": 1,
     "forks_count": 13
   },
@@ -49,39 +85,39 @@
   },
   {
     "full_name": "rejetto/hfs",
-    "stargazers_count": 941,
+    "stargazers_count": 950,
     "open_issues_count": 8,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "guruthree/mac-se-video-converter",
-    "stargazers_count": 55,
+    "stargazers_count": 57,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "acaudwell/Gource",
-    "stargazers_count": 10171,
+    "stargazers_count": 10184,
     "open_issues_count": 97,
-    "forks_count": 696
+    "forks_count": 695
   },
   {
     "full_name": "wasmerio/wcgi-wordpress-demo",
-    "stargazers_count": 5,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "wasmerio/wcgi-php-template",
-    "stargazers_count": 6,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "wasmerio/wasmer",
-    "stargazers_count": 14906,
-    "open_issues_count": 246,
-    "forks_count": 635
+    "stargazers_count": 14943,
+    "open_issues_count": 228,
+    "forks_count": 637
   },
   {
     "full_name": "Relaxed-Theme/relaxed-terminal-themes",
@@ -103,80 +139,44 @@
   },
   {
     "full_name": "curl/trurl",
-    "stargazers_count": 1916,
-    "open_issues_count": 11,
-    "forks_count": 63
+    "stargazers_count": 2070,
+    "open_issues_count": 16,
+    "forks_count": 64
   },
   {
     "full_name": "nat/openplayground",
-    "stargazers_count": 3227,
-    "open_issues_count": 10,
-    "forks_count": 179
+    "stargazers_count": 3541,
+    "open_issues_count": 14,
+    "forks_count": 197
   },
   {
     "full_name": "pandas-dev/pandas",
-    "stargazers_count": 37888,
-    "open_issues_count": 3599,
-    "forks_count": 16052
+    "stargazers_count": 37946,
+    "open_issues_count": 3598,
+    "forks_count": 16064
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 21327,
-    "open_issues_count": 148,
+    "stargazers_count": 21359,
+    "open_issues_count": 145,
     "forks_count": 1519
   },
   {
     "full_name": "hocus-dev/hocus",
-    "stargazers_count": 1999,
-    "open_issues_count": 8,
-    "forks_count": 27
+    "stargazers_count": 2169,
+    "open_issues_count": 9,
+    "forks_count": 33
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 53579,
-    "open_issues_count": 308,
-    "forks_count": 11068
+    "stargazers_count": 54602,
+    "open_issues_count": 313,
+    "forks_count": 11279
   },
   {
     "full_name": "Torantulino/Auto-GPT",
-    "stargazers_count": 21927,
-    "open_issues_count": 349,
-    "forks_count": 2817
-  },
-  {
-    "full_name": "Picsart-AI-Research/Text2Video-Zero",
-    "stargazers_count": 2305,
-    "open_issues_count": 9,
-    "forks_count": 112
-  },
-  {
-    "full_name": "nuxt/nuxt",
-    "stargazers_count": 44670,
-    "open_issues_count": 848,
-    "forks_count": 3759
-  },
-  {
-    "full_name": "analogjs/analog",
-    "stargazers_count": 929,
-    "open_issues_count": 30,
-    "forks_count": 73
-  },
-  {
-    "full_name": "camenduru/stable-diffusion-webui-colab",
-    "stargazers_count": 8171,
-    "open_issues_count": 16,
-    "forks_count": 1341
-  },
-  {
-    "full_name": "intitni/CopilotForXcode",
-    "stargazers_count": 2524,
-    "open_issues_count": 18,
-    "forks_count": 90
-  },
-  {
-    "full_name": "miguelsolorio/vscode-symbols",
-    "stargazers_count": 130,
-    "open_issues_count": 17,
-    "forks_count": 19
+    "stargazers_count": 49240,
+    "open_issues_count": 499,
+    "forks_count": 6592
   }
 ]
