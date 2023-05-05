@@ -1,49 +1,91 @@
 [
   {
-    "full_name": "jcsalterego/Sky.app",
-    "stargazers_count": 6,
+    "full_name": "deklanw/basic_bluesky_analysis",
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
+    "full_name": "retrospectmike/MacDock",
+    "stargazers_count": 95,
+    "open_issues_count": 5,
+    "forks_count": 2
+  },
+  {
+    "full_name": "jessejanderson/skylink",
+    "stargazers_count": 6,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "allanjamesvestal/bluesky-test",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "rileytestut/Delta",
+    "stargazers_count": 2066,
+    "open_issues_count": 123,
+    "forks_count": 167
+  },
+  {
+    "full_name": "bpmarkowitz/SkyPad",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ianklatzco/psky.app",
+    "stargazers_count": 18,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
+    "full_name": "jcsalterego/Sky.app",
+    "stargazers_count": 20,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "jbn/psychonaut",
-    "stargazers_count": 27,
+    "stargazers_count": 30,
     "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "molly/w3igg-crossposter",
-    "stargazers_count": 9,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "mlc-ai/mlc-llm",
-    "stargazers_count": 2009,
-    "open_issues_count": 19,
-    "forks_count": 91
+    "stargazers_count": 4875,
+    "open_issues_count": 39,
+    "forks_count": 293
   },
   {
     "full_name": "hardhackerlabs/theme-vscode",
-    "stargazers_count": 9,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "hardhackerlabs/themes",
-    "stargazers_count": 323,
-    "open_issues_count": 2,
-    "forks_count": 7
+    "stargazers_count": 374,
+    "open_issues_count": 3,
+    "forks_count": 8
   },
   {
     "full_name": "realvjy/nxt-lnk",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "heckj/swiftui-notes",
-    "stargazers_count": 1747,
+    "stargazers_count": 1748,
     "open_issues_count": 22,
     "forks_count": 176
   },
@@ -61,31 +103,31 @@
   },
   {
     "full_name": "jpanther/lynx",
-    "stargazers_count": 185,
+    "stargazers_count": 186,
     "open_issues_count": 6,
     "forks_count": 56
   },
   {
     "full_name": "kiliczsh/gokyuzu",
-    "stargazers_count": 14,
-    "open_issues_count": 0,
+    "stargazers_count": 15,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "myConsciousness/atproto.dart",
-    "stargazers_count": 32,
-    "open_issues_count": 33,
+    "stargazers_count": 34,
+    "open_issues_count": 31,
     "forks_count": 0
   },
   {
     "full_name": "myConsciousness/bluesky-post",
     "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "open_issues_count": 1,
+    "forks_count": 1
   },
   {
     "full_name": "rmcan/swiftsky",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -97,13 +139,13 @@
   },
   {
     "full_name": "ericvolp12/bsky-experiments",
-    "stargazers_count": 18,
-    "open_issues_count": 0,
-    "forks_count": 2
+    "stargazers_count": 26,
+    "open_issues_count": 1,
+    "forks_count": 3
   },
   {
     "full_name": "ShreyanJain9/bsky",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -115,68 +157,26 @@
   },
   {
     "full_name": "ShreyanJain9/bskyrb",
-    "stargazers_count": 11,
+    "stargazers_count": 13,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "mattn/bsky",
-    "stargazers_count": 82,
-    "open_issues_count": 0,
-    "forks_count": 4
+    "stargazers_count": 94,
+    "open_issues_count": 1,
+    "forks_count": 6
   },
   {
-    "full_name": "capjamesg/bsky-link-preview",
-    "stargazers_count": 8,
+    "full_name": "capjamesg/bsky.link",
+    "stargazers_count": 10,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "kawarimidoll/bluestream",
-    "stargazers_count": 17,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "ianklatzco/atprototools",
-    "stargazers_count": 35,
-    "open_issues_count": 14,
-    "forks_count": 9
-  },
-  {
-    "full_name": "bluesky-social/atproto",
-    "stargazers_count": 3810,
-    "open_issues_count": 97,
-    "forks_count": 222
-  },
-  {
-    "full_name": "bluesky-social/atproto-ecosystem",
-    "stargazers_count": 286,
-    "open_issues_count": 19,
-    "forks_count": 40
-  },
-  {
-    "full_name": "mozzius/graysky",
     "stargazers_count": 20,
     "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "xenohunter/bluesky-overhaul",
-    "stargazers_count": 27,
-    "open_issues_count": 15,
-    "forks_count": 2
-  },
-  {
-    "full_name": "ianklatzco/twitter-to-bsky",
-    "stargazers_count": 46,
-    "open_issues_count": 7,
-    "forks_count": 5
-  },
-  {
-    "full_name": "otya128/winevdm",
-    "stargazers_count": 1980,
-    "open_issues_count": 270,
-    "forks_count": 126
+    "forks_count": 1
   }
 ]
