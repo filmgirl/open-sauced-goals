@@ -1,5 +1,59 @@
 [
   {
+    "full_name": "mozzius/community-handles",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "simonw/strip-tags",
+    "stargazers_count": 17,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
+    "full_name": "simonw/llm",
+    "stargazers_count": 153,
+    "open_issues_count": 4,
+    "forks_count": 1
+  },
+  {
+    "full_name": "simonw/ttok",
+    "stargazers_count": 20,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
+    "full_name": "sqfmi/beepberry-hardware",
+    "stargazers_count": 22,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "IronOxidizer/instant-pi",
+    "stargazers_count": 85,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "maubot/maubot",
+    "stargazers_count": 535,
+    "open_issues_count": 60,
+    "forks_count": 73
+  },
+  {
+    "full_name": "tulir/gomuks",
+    "stargazers_count": 1055,
+    "open_issues_count": 157,
+    "forks_count": 108
+  },
+  {
+    "full_name": "justin/skeeet.xyz",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "aliceisjustplaying/atproto-starter-kit",
     "stargazers_count": 46,
     "open_issues_count": 0,
@@ -13,15 +67,15 @@
   },
   {
     "full_name": "ShreyanJain9/xrpc",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
+    "stargazers_count": 3,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "mysticcoders/skeetvites",
     "stargazers_count": 3,
-    "open_issues_count": 5,
-    "forks_count": 0
+    "open_issues_count": 6,
+    "forks_count": 1
   },
   {
     "full_name": "andryou/at-is-where-its-at",
@@ -49,20 +103,20 @@
   },
   {
     "full_name": "beeman/awesome-atproto",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "sugyan/atrium",
     "stargazers_count": 35,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "MarshalX/atproto",
-    "stargazers_count": 53,
-    "open_issues_count": 2,
+    "stargazers_count": 54,
+    "open_issues_count": 1,
     "forks_count": 3
   },
   {
@@ -73,110 +127,56 @@
   },
   {
     "full_name": "bluesky-social/indigo",
-    "stargazers_count": 295,
-    "open_issues_count": 49,
-    "forks_count": 34
+    "stargazers_count": 316,
+    "open_issues_count": 46,
+    "forks_count": 37
   },
   {
     "full_name": "CharlesDardaman/blueskyfirehose",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "callmearta/kite",
-    "stargazers_count": 30,
+    "stargazers_count": 33,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "bluesky-social/social-app",
-    "stargazers_count": 419,
-    "open_issues_count": 22,
-    "forks_count": 34
+    "stargazers_count": 2043,
+    "open_issues_count": 97,
+    "forks_count": 229
   },
   {
     "full_name": "89luca89/distrobox",
-    "stargazers_count": 5342,
-    "open_issues_count": 117,
-    "forks_count": 230
+    "stargazers_count": 5550,
+    "open_issues_count": 121,
+    "forks_count": 232
   },
   {
     "full_name": "windmill-labs/windmill",
-    "stargazers_count": 3919,
-    "open_issues_count": 33,
-    "forks_count": 114
+    "stargazers_count": 4320,
+    "open_issues_count": 32,
+    "forks_count": 119
   },
   {
     "full_name": "xzhih/one-key-hidpi",
-    "stargazers_count": 7564,
+    "stargazers_count": 7571,
     "open_issues_count": 72,
     "forks_count": 939
   },
   {
     "full_name": "zachleat/glyphhanger",
-    "stargazers_count": 506,
+    "stargazers_count": 507,
     "open_issues_count": 14,
     "forks_count": 15
   },
   {
     "full_name": "huggingface/chat-ui",
-    "stargazers_count": 1185,
-    "open_issues_count": 29,
-    "forks_count": 82
-  },
-  {
-    "full_name": "yashash-pugalia/win11-svelte",
-    "stargazers_count": 1143,
-    "open_issues_count": 4,
-    "forks_count": 26
-  },
-  {
-    "full_name": "hubberboss/cobra",
-    "stargazers_count": 27,
-    "open_issues_count": 0,
-    "forks_count": 6
-  },
-  {
-    "full_name": "whitequark/unfork",
-    "stargazers_count": 1417,
-    "open_issues_count": 0,
-    "forks_count": 37
-  },
-  {
-    "full_name": "openstyles/stylus",
-    "stargazers_count": 4533,
-    "open_issues_count": 68,
-    "forks_count": 288
-  },
-  {
-    "full_name": "sindresorhus/emoj",
-    "stargazers_count": 2290,
-    "open_issues_count": 6,
-    "forks_count": 78
-  },
-  {
-    "full_name": "vadimdemedes/ink",
-    "stargazers_count": 23094,
-    "open_issues_count": 39,
-    "forks_count": 562
-  },
-  {
-    "full_name": "ShinoharaTa/bsky-invite-checker",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 69535,
-    "open_issues_count": 638,
-    "forks_count": 34228
-  },
-  {
-    "full_name": "deklanw/basic_bluesky_analysis",
-    "stargazers_count": 11,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 1419,
+    "open_issues_count": 33,
+    "forks_count": 103
   }
 ]
