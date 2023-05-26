@@ -1,13 +1,43 @@
 [
   {
+    "full_name": "paul-gauthier/aider",
+    "stargazers_count": 187,
+    "open_issues_count": 2,
+    "forks_count": 5
+  },
+  {
+    "full_name": "patte/fly-tailscale-exit",
+    "stargazers_count": 1121,
+    "open_issues_count": 2,
+    "forks_count": 61
+  },
+  {
+    "full_name": "microsoft/semantic-kernel",
+    "stargazers_count": 9250,
+    "open_issues_count": 136,
+    "forks_count": 1107
+  },
+  {
+    "full_name": "beeper/beepberry",
+    "stargazers_count": 160,
+    "open_issues_count": 4,
+    "forks_count": 10
+  },
+  {
+    "full_name": "microsoft/devhome",
+    "stargazers_count": 1029,
+    "open_issues_count": 275,
+    "forks_count": 48
+  },
+  {
     "full_name": "TheDen/galvani",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "videah/SkyBridge",
-    "stargazers_count": 123,
+    "stargazers_count": 137,
     "open_issues_count": 8,
     "forks_count": 3
   },
@@ -19,13 +49,13 @@
   },
   {
     "full_name": "Moustachauve/cookie-editor",
-    "stargazers_count": 303,
+    "stargazers_count": 305,
     "open_issues_count": 12,
     "forks_count": 60
   },
   {
     "full_name": "Xfennec/progress",
-    "stargazers_count": 7237,
+    "stargazers_count": 7318,
     "open_issues_count": 61,
     "forks_count": 303
   },
@@ -37,43 +67,43 @@
   },
   {
     "full_name": "simonw/strip-tags",
-    "stargazers_count": 68,
+    "stargazers_count": 71,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "simonw/llm",
-    "stargazers_count": 272,
-    "open_issues_count": 5,
+    "stargazers_count": 307,
+    "open_issues_count": 6,
     "forks_count": 2
   },
   {
     "full_name": "simonw/ttok",
-    "stargazers_count": 84,
+    "stargazers_count": 94,
     "open_issues_count": 4,
     "forks_count": 1
   },
   {
     "full_name": "sqfmi/beepberry-hardware",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "IronOxidizer/instant-pi",
-    "stargazers_count": 88,
+    "stargazers_count": 90,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "maubot/maubot",
-    "stargazers_count": 538,
+    "stargazers_count": 537,
     "open_issues_count": 60,
     "forks_count": 73
   },
   {
     "full_name": "tulir/gomuks",
-    "stargazers_count": 1064,
+    "stargazers_count": 1067,
     "open_issues_count": 157,
     "forks_count": 109
   },
@@ -104,7 +134,7 @@
   {
     "full_name": "mysticcoders/skeetvites",
     "stargazers_count": 3,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
@@ -140,43 +170,13 @@
   {
     "full_name": "sugyan/atrium",
     "stargazers_count": 36,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "MarshalX/atproto",
-    "stargazers_count": 57,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "akiomik/seiun",
-    "stargazers_count": 57,
-    "open_issues_count": 6,
-    "forks_count": 6
-  },
-  {
-    "full_name": "bluesky-social/indigo",
-    "stargazers_count": 324,
-    "open_issues_count": 48,
-    "forks_count": 39
-  },
-  {
-    "full_name": "CharlesDardaman/blueskyfirehose",
-    "stargazers_count": 29,
+    "stargazers_count": 60,
     "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "callmearta/kite",
-    "stargazers_count": 33,
-    "open_issues_count": 1,
     "forks_count": 6
-  },
-  {
-    "full_name": "bluesky-social/social-app",
-    "stargazers_count": 2270,
-    "open_issues_count": 119,
-    "forks_count": 262
   }
 ]
