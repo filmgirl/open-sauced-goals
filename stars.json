@@ -1,33 +1,45 @@
 [
   {
+    "full_name": "ericlewis/GithubLegoSets",
+    "stargazers_count": 27,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "impulse-oss/impulse",
+    "stargazers_count": 403,
+    "open_issues_count": 2,
+    "forks_count": 10
+  },
+  {
     "full_name": "paul-gauthier/aider",
-    "stargazers_count": 247,
+    "stargazers_count": 266,
     "open_issues_count": 3,
-    "forks_count": 7
+    "forks_count": 9
   },
   {
     "full_name": "patte/fly-tailscale-exit",
-    "stargazers_count": 1227,
+    "stargazers_count": 1273,
     "open_issues_count": 1,
     "forks_count": 64
   },
   {
     "full_name": "microsoft/semantic-kernel",
-    "stargazers_count": 9545,
-    "open_issues_count": 155,
-    "forks_count": 1157
+    "stargazers_count": 9706,
+    "open_issues_count": 160,
+    "forks_count": 1188
   },
   {
     "full_name": "beeper/beepberry",
-    "stargazers_count": 173,
+    "stargazers_count": 184,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "microsoft/devhome",
-    "stargazers_count": 1591,
-    "open_issues_count": 318,
-    "forks_count": 114
+    "stargazers_count": 1838,
+    "open_issues_count": 317,
+    "forks_count": 128
   },
   {
     "full_name": "TheDen/galvani",
@@ -37,7 +49,7 @@
   },
   {
     "full_name": "videah/SkyBridge",
-    "stargazers_count": 149,
+    "stargazers_count": 150,
     "open_issues_count": 7,
     "forks_count": 3
   },
@@ -49,15 +61,15 @@
   },
   {
     "full_name": "Moustachauve/cookie-editor",
-    "stargazers_count": 306,
+    "stargazers_count": 308,
     "open_issues_count": 13,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "Xfennec/progress",
-    "stargazers_count": 7496,
+    "stargazers_count": 7575,
     "open_issues_count": 61,
-    "forks_count": 307
+    "forks_count": 308
   },
   {
     "full_name": "mozzius/community-handles",
@@ -67,49 +79,49 @@
   },
   {
     "full_name": "simonw/strip-tags",
-    "stargazers_count": 78,
+    "stargazers_count": 81,
     "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "simonw/llm",
-    "stargazers_count": 314,
+    "stargazers_count": 321,
     "open_issues_count": 6,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "simonw/ttok",
-    "stargazers_count": 99,
+    "stargazers_count": 102,
     "open_issues_count": 5,
     "forks_count": 1
   },
   {
     "full_name": "sqfmi/beepberry-hardware",
-    "stargazers_count": 51,
+    "stargazers_count": 54,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "IronOxidizer/instant-pi",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "maubot/maubot",
-    "stargazers_count": 538,
+    "stargazers_count": 540,
     "open_issues_count": 60,
     "forks_count": 73
   },
   {
     "full_name": "tulir/gomuks",
-    "stargazers_count": 1068,
-    "open_issues_count": 157,
+    "stargazers_count": 1073,
+    "open_issues_count": 159,
     "forks_count": 109
   },
   {
     "full_name": "justin/skeeet.xyz",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -121,7 +133,7 @@
   },
   {
     "full_name": "trozzelle/sunblock",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -152,31 +164,19 @@
   {
     "full_name": "socialweb-php/atproto",
     "stargazers_count": 12,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "kphrx/plc-handle-tracker",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 7,
     "forks_count": 2
   },
   {
     "full_name": "beeman/awesome-atproto",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "sugyan/atrium",
-    "stargazers_count": 37,
-    "open_issues_count": 2,
-    "forks_count": 0
-  },
-  {
-    "full_name": "MarshalX/atproto",
-    "stargazers_count": 62,
-    "open_issues_count": 1,
-    "forks_count": 6
   }
 ]
