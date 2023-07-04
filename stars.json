@@ -1,27 +1,57 @@
 [
   {
+    "full_name": "EthanArbuckle/Apollo-CustomApiCredentials",
+    "stargazers_count": 661,
+    "open_issues_count": 3,
+    "forks_count": 146
+  },
+  {
+    "full_name": "ryannair05/ApolloAPI",
+    "stargazers_count": 76,
+    "open_issues_count": 7,
+    "forks_count": 1
+  },
+  {
+    "full_name": "shaarli/Shaarli",
+    "stargazers_count": 3024,
+    "open_issues_count": 148,
+    "forks_count": 284
+  },
+  {
+    "full_name": "rollup/rollup",
+    "stargazers_count": 23653,
+    "open_issues_count": 458,
+    "forks_count": 1362
+  },
+  {
+    "full_name": "StevenBlack/hosts",
+    "stargazers_count": 23426,
+    "open_issues_count": 57,
+    "forks_count": 2006
+  },
+  {
     "full_name": "ttscoff/searchlink",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 4,
     "forks_count": 3
   },
   {
     "full_name": "pkolyvas/PowerDeleteSuite",
-    "stargazers_count": 62,
+    "stargazers_count": 67,
     "open_issues_count": 3,
     "forks_count": 4
   },
   {
     "full_name": "vriteio/vrite",
-    "stargazers_count": 850,
+    "stargazers_count": 882,
     "open_issues_count": 3,
-    "forks_count": 16
+    "forks_count": 18
   },
   {
     "full_name": "loft-sh/devpod",
-    "stargazers_count": 2604,
-    "open_issues_count": 58,
-    "forks_count": 82
+    "stargazers_count": 2776,
+    "open_issues_count": 67,
+    "forks_count": 86
   },
   {
     "full_name": "kiding/wanna-see-a-whiter-white",
@@ -31,21 +61,21 @@
   },
   {
     "full_name": "dtinth/superwhite",
-    "stargazers_count": 1043,
+    "stargazers_count": 1079,
     "open_issues_count": 4,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "sebgl/htpc-download-box",
-    "stargazers_count": 1665,
+    "stargazers_count": 1666,
     "open_issues_count": 42,
     "forks_count": 304
   },
   {
     "full_name": "oscarotero/Embed",
     "stargazers_count": 2012,
-    "open_issues_count": 58,
-    "forks_count": 304
+    "open_issues_count": 59,
+    "forks_count": 305
   },
   {
     "full_name": "1Password/passkey-rs",
@@ -55,57 +85,57 @@
   },
   {
     "full_name": "vercel-labs/ai",
-    "stargazers_count": 3216,
-    "open_issues_count": 45,
-    "forks_count": 649
+    "stargazers_count": 3305,
+    "open_issues_count": 38,
+    "forks_count": 661
   },
   {
     "full_name": "Glimesh/broadcast-box",
-    "stargazers_count": 282,
+    "stargazers_count": 284,
     "open_issues_count": 9,
     "forks_count": 16
   },
   {
     "full_name": "andrewbanchich/shreddit",
-    "stargazers_count": 143,
-    "open_issues_count": 8,
-    "forks_count": 4
+    "stargazers_count": 154,
+    "open_issues_count": 6,
+    "forks_count": 5
   },
   {
     "full_name": "maltfield/awesome-lemmy-instances",
-    "stargazers_count": 587,
+    "stargazers_count": 673,
     "open_issues_count": 5,
-    "forks_count": 8
+    "forks_count": 10
   },
   {
     "full_name": "akd-io/create-next-stack",
-    "stargazers_count": 480,
+    "stargazers_count": 485,
     "open_issues_count": 53,
     "forks_count": 16
   },
   {
     "full_name": "Gcenx/homebrew-wine",
     "stargazers_count": 522,
-    "open_issues_count": 4,
-    "forks_count": 27
+    "open_issues_count": 0,
+    "forks_count": 28
   },
   {
     "full_name": "Gcenx/macports-wine",
-    "stargazers_count": 53,
-    "open_issues_count": 3,
+    "stargazers_count": 54,
+    "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "GloriousEggroll/wine-ge-custom",
-    "stargazers_count": 1490,
+    "stargazers_count": 1497,
     "open_issues_count": 0,
     "forks_count": 41
   },
   {
     "full_name": "j0be/PowerDeleteSuite",
-    "stargazers_count": 1077,
+    "stargazers_count": 1200,
     "open_issues_count": 17,
-    "forks_count": 68
+    "forks_count": 71
   },
   {
     "full_name": "worthbak/inventory-checker-app",
@@ -115,68 +145,38 @@
   },
   {
     "full_name": "jupyterlab/jupyter-ai",
-    "stargazers_count": 379,
-    "open_issues_count": 62,
-    "forks_count": 32
+    "stargazers_count": 392,
+    "open_issues_count": 65,
+    "forks_count": 33
   },
   {
     "full_name": "WolframResearch/Chatbook",
-    "stargazers_count": 39,
-    "open_issues_count": 25,
+    "stargazers_count": 42,
+    "open_issues_count": 24,
     "forks_count": 0
   },
   {
     "full_name": "ohaiibuzzle/Harbor",
-    "stargazers_count": 62,
-    "open_issues_count": 3,
+    "stargazers_count": 65,
+    "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "andrewmd5/orion",
-    "stargazers_count": 98,
+    "stargazers_count": 97,
     "open_issues_count": 6,
     "forks_count": 5
   },
   {
     "full_name": "anvaka/map-of-github",
-    "stargazers_count": 779,
+    "stargazers_count": 783,
     "open_issues_count": 9,
     "forks_count": 22
   },
   {
     "full_name": "OhMyGuus/I-Still-Dont-Care-About-Cookies",
-    "stargazers_count": 2387,
-    "open_issues_count": 3096,
+    "stargazers_count": 2402,
+    "open_issues_count": 3193,
     "forks_count": 65
-  },
-  {
-    "full_name": "openchatai/OpenChat",
-    "stargazers_count": 3850,
-    "open_issues_count": 21,
-    "forks_count": 529
-  },
-  {
-    "full_name": "IsaacMarovitz/Whisky",
-    "stargazers_count": 3075,
-    "open_issues_count": 24,
-    "forks_count": 108
-  },
-  {
-    "full_name": "ValveSoftware/Proton",
-    "stargazers_count": 20586,
-    "open_issues_count": 3843,
-    "forks_count": 924
-  },
-  {
-    "full_name": "modularml/mojo",
-    "stargazers_count": 8620,
-    "open_issues_count": 77,
-    "forks_count": 174
-  },
-  {
-    "full_name": "apple/homebrew-apple",
-    "stargazers_count": 2146,
-    "open_issues_count": 0,
-    "forks_count": 64
   }
 ]
