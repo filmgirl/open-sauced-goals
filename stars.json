@@ -1,19 +1,85 @@
 [
   {
+    "full_name": "docusealco/docuseal",
+    "stargazers_count": 1141,
+    "open_issues_count": 4,
+    "forks_count": 32
+  },
+  {
+    "full_name": "jmorganca/ollama",
+    "stargazers_count": 625,
+    "open_issues_count": 33,
+    "forks_count": 27
+  },
+  {
+    "full_name": "nomic-ai/gpt4all",
+    "stargazers_count": 49445,
+    "open_issues_count": 453,
+    "forks_count": 5407
+  },
+  {
+    "full_name": "microsoft/TypeChat",
+    "stargazers_count": 599,
+    "open_issues_count": 1,
+    "forks_count": 9
+  },
+  {
+    "full_name": "bartobri/no-more-secrets",
+    "stargazers_count": 6300,
+    "open_issues_count": 2,
+    "forks_count": 269
+  },
+  {
+    "full_name": "facebookresearch/llama-recipes",
+    "stargazers_count": 873,
+    "open_issues_count": 12,
+    "forks_count": 96
+  },
+  {
+    "full_name": "a16z-infra/llama2-chatbot",
+    "stargazers_count": 566,
+    "open_issues_count": 5,
+    "forks_count": 77
+  },
+  {
+    "full_name": "scaleapi/llm-engine",
+    "stargazers_count": 269,
+    "open_issues_count": 14,
+    "forks_count": 12
+  },
+  {
+    "full_name": "ggerganov/llama.cpp",
+    "stargazers_count": 35178,
+    "open_issues_count": 457,
+    "forks_count": 4937
+  },
+  {
+    "full_name": "facebookresearch/llama",
+    "stargazers_count": 30322,
+    "open_issues_count": 336,
+    "forks_count": 4808
+  },
+  {
+    "full_name": "Lxtharia/minegrub-theme",
+    "stargazers_count": 1473,
+    "open_issues_count": 2,
+    "forks_count": 16
+  },
+  {
     "full_name": "dedoussis/icloud-hide-my-email-browser-extension",
-    "stargazers_count": 95,
-    "open_issues_count": 10,
+    "stargazers_count": 103,
+    "open_issues_count": 11,
     "forks_count": 5
   },
   {
     "full_name": "luiserdef/twitter-real-verified",
     "stargazers_count": 42,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "USBGuard/usbguard",
-    "stargazers_count": 960,
+    "stargazers_count": 962,
     "open_issues_count": 99,
     "forks_count": 134
   },
@@ -25,158 +91,92 @@
   },
   {
     "full_name": "rapid7/metasploit-framework",
-    "stargazers_count": 30698,
-    "open_issues_count": 433,
-    "forks_count": 13343
+    "stargazers_count": 30720,
+    "open_issues_count": 439,
+    "forks_count": 13345
   },
   {
     "full_name": "hephaest0s/usbkill",
-    "stargazers_count": 4242,
+    "stargazers_count": 4243,
     "open_issues_count": 29,
     "forks_count": 530
   },
   {
     "full_name": "straker/kontra",
-    "stargazers_count": 819,
-    "open_issues_count": 16,
+    "stargazers_count": 821,
+    "open_issues_count": 17,
     "forks_count": 93
   },
   {
     "full_name": "kaangiray26/geddit-app",
-    "stargazers_count": 417,
-    "open_issues_count": 13,
+    "stargazers_count": 438,
+    "open_issues_count": 10,
     "forks_count": 11
   },
   {
     "full_name": "star-history/star-history",
-    "stargazers_count": 4605,
-    "open_issues_count": 20,
-    "forks_count": 222
+    "stargazers_count": 4620,
+    "open_issues_count": 22,
+    "forks_count": 224
   },
   {
     "full_name": "Svxy/The-Simpsons-Hit-and-Run",
-    "stargazers_count": 524,
+    "stargazers_count": 545,
     "open_issues_count": 0,
-    "forks_count": 37
+    "forks_count": 36
   },
   {
     "full_name": "dilame/instagram-private-api",
-    "stargazers_count": 5287,
-    "open_issues_count": 324,
-    "forks_count": 1099
+    "stargazers_count": 5291,
+    "open_issues_count": 325,
+    "forks_count": 1101
   },
   {
     "full_name": "yssf-io/threads-card",
     "stargazers_count": 3,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 6
   },
   {
     "full_name": "Nainish-Rai/strings-web",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "junhoyeo/threads-api",
-    "stargazers_count": 1348,
-    "open_issues_count": 50,
-    "forks_count": 102
+    "stargazers_count": 1413,
+    "open_issues_count": 60,
+    "forks_count": 108
   },
   {
     "full_name": "runfinch/finch",
-    "stargazers_count": 2887,
-    "open_issues_count": 81,
+    "stargazers_count": 2889,
+    "open_issues_count": 78,
     "forks_count": 75
   },
   {
     "full_name": "abiosoft/colima",
-    "stargazers_count": 12636,
-    "open_issues_count": 186,
+    "stargazers_count": 12711,
+    "open_issues_count": 184,
     "forks_count": 281
   },
   {
     "full_name": "orbstack/orbstack",
-    "stargazers_count": 2317,
-    "open_issues_count": 75,
-    "forks_count": 14
+    "stargazers_count": 2360,
+    "open_issues_count": 74,
+    "forks_count": 15
   },
   {
     "full_name": "Shelf-nu/shelf.nu",
-    "stargazers_count": 1001,
-    "open_issues_count": 39,
-    "forks_count": 22
+    "stargazers_count": 1028,
+    "open_issues_count": 35,
+    "forks_count": 27
   },
   {
     "full_name": "remotely-save/remotely-save",
-    "stargazers_count": 1582,
+    "stargazers_count": 1592,
     "open_issues_count": 142,
     "forks_count": 90
-  },
-  {
-    "full_name": "onweru/compose",
-    "stargazers_count": 251,
-    "open_issues_count": 25,
-    "forks_count": 97
-  },
-  {
-    "full_name": "ventoy/PXE",
-    "stargazers_count": 76,
-    "open_issues_count": 10,
-    "forks_count": 3
-  },
-  {
-    "full_name": "vladkens/twscrape",
-    "stargazers_count": 106,
-    "open_issues_count": 16,
-    "forks_count": 9
-  },
-  {
-    "full_name": "j-fbriere/squawker",
-    "stargazers_count": 70,
-    "open_issues_count": 5,
-    "forks_count": 4
-  },
-  {
-    "full_name": "ichitaso/ApolloPatcher",
-    "stargazers_count": 100,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "akosbalasko/yarle",
-    "stargazers_count": 1006,
-    "open_issues_count": 54,
-    "forks_count": 64
-  },
-  {
-    "full_name": "stefankueng/EvImSync",
-    "stargazers_count": 38,
-    "open_issues_count": 17,
-    "forks_count": 10
-  },
-  {
-    "full_name": "italomandara/CXPatcher",
-    "stargazers_count": 365,
-    "open_issues_count": 22,
-    "forks_count": 13
-  },
-  {
-    "full_name": "007revad/Synology_enable_M2_volume",
-    "stargazers_count": 136,
-    "open_issues_count": 8,
-    "forks_count": 13
-  },
-  {
-    "full_name": "007revad/Synology_HDD_db",
-    "stargazers_count": 742,
-    "open_issues_count": 6,
-    "forks_count": 46
-  },
-  {
-    "full_name": "007revad/Synology_M2_volume",
-    "stargazers_count": 291,
-    "open_issues_count": 2,
-    "forks_count": 22
   }
 ]
