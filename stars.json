@@ -1,27 +1,111 @@
 [
   {
+    "full_name": "cyphar/incus",
+    "stargazers_count": 61,
+    "open_issues_count": 16,
+    "forks_count": 4
+  },
+  {
+    "full_name": "pawelkami/overcast-uploader",
+    "stargazers_count": 12,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
+    "full_name": "codecov/codecov-cli",
+    "stargazers_count": 21,
+    "open_issues_count": 17,
+    "forks_count": 7
+  },
+  {
+    "full_name": "codecov/self-hosted",
+    "stargazers_count": 243,
+    "open_issues_count": 4,
+    "forks_count": 6
+  },
+  {
+    "full_name": "facebookresearch/audiocraft",
+    "stargazers_count": 11237,
+    "open_issues_count": 119,
+    "forks_count": 1001
+  },
+  {
+    "full_name": "ReagentX/imessage-exporter",
+    "stargazers_count": 1787,
+    "open_issues_count": 8,
+    "forks_count": 57
+  },
+  {
+    "full_name": "webrecorder/replayweb.page",
+    "stargazers_count": 493,
+    "open_issues_count": 50,
+    "forks_count": 38
+  },
+  {
+    "full_name": "webrecorder/archiveweb.page",
+    "stargazers_count": 549,
+    "open_issues_count": 57,
+    "forks_count": 38
+  },
+  {
+    "full_name": "webrecorder/specs",
+    "stargazers_count": 105,
+    "open_issues_count": 26,
+    "forks_count": 12
+  },
+  {
+    "full_name": "tidbyt/pixlet",
+    "stargazers_count": 645,
+    "open_issues_count": 42,
+    "forks_count": 95
+  },
+  {
+    "full_name": "tidbyt/hdk",
+    "stargazers_count": 20,
+    "open_issues_count": 2,
+    "forks_count": 3
+  },
+  {
+    "full_name": "btjones/axilla",
+    "stargazers_count": 18,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "4ch1m/pixoo-rest",
+    "stargazers_count": 131,
+    "open_issues_count": 0,
+    "forks_count": 15
+  },
+  {
+    "full_name": "SomethingWithComputers/pixoo",
+    "stargazers_count": 130,
+    "open_issues_count": 9,
+    "forks_count": 17
+  },
+  {
     "full_name": "floccusaddon/floccus",
-    "stargazers_count": 4215,
+    "stargazers_count": 4223,
     "open_issues_count": 96,
     "forks_count": 203
   },
   {
     "full_name": "linkwarden/linkwarden",
-    "stargazers_count": 869,
-    "open_issues_count": 6,
-    "forks_count": 28
+    "stargazers_count": 1553,
+    "open_issues_count": 5,
+    "forks_count": 48
   },
   {
     "full_name": "Caldis/Mos",
-    "stargazers_count": 11984,
-    "open_issues_count": 220,
+    "stargazers_count": 12013,
+    "open_issues_count": 221,
     "forks_count": 454
   },
   {
     "full_name": "noah-nuebling/mac-mouse-fix",
-    "stargazers_count": 3379,
-    "open_issues_count": 276,
-    "forks_count": 94
+    "stargazers_count": 3394,
+    "open_issues_count": 279,
+    "forks_count": 95
   },
   {
     "full_name": "BigBerny/magicquit",
@@ -31,152 +115,68 @@
   },
   {
     "full_name": "liuliu/swift-diffusion",
-    "stargazers_count": 343,
+    "stargazers_count": 344,
     "open_issues_count": 12,
     "forks_count": 29
   },
   {
     "full_name": "comfyanonymous/ComfyUI",
-    "stargazers_count": 9093,
-    "open_issues_count": 402,
-    "forks_count": 806
+    "stargazers_count": 9489,
+    "open_issues_count": 424,
+    "forks_count": 837
   },
   {
     "full_name": "microsoft/torchscale",
-    "stargazers_count": 2223,
-    "open_issues_count": 10,
-    "forks_count": 131
+    "stargazers_count": 2249,
+    "open_issues_count": 9,
+    "forks_count": 139
   },
   {
     "full_name": "rui314/mold",
-    "stargazers_count": 11769,
-    "open_issues_count": 156,
+    "stargazers_count": 11805,
+    "open_issues_count": 157,
     "forks_count": 405
   },
   {
     "full_name": "mayeaux/generate-subtitles",
-    "stargazers_count": 552,
+    "stargazers_count": 554,
     "open_issues_count": 21,
-    "forks_count": 78
+    "forks_count": 79
   },
   {
     "full_name": "CoretechR/OMOTE",
-    "stargazers_count": 585,
+    "stargazers_count": 589,
     "open_issues_count": 6,
-    "forks_count": 64
-  },
-  {
-    "full_name": "karpathy/llama2.c",
-    "stargazers_count": 9847,
-    "open_issues_count": 85,
-    "forks_count": 777
-  },
-  {
-    "full_name": "Stability-AI/generative-models",
-    "stargazers_count": 7621,
-    "open_issues_count": 47,
-    "forks_count": 950
-  },
-  {
-    "full_name": "tatsu-lab/alpaca_eval",
-    "stargazers_count": 454,
-    "open_issues_count": 5,
     "forks_count": 65
   },
   {
+    "full_name": "karpathy/llama2.c",
+    "stargazers_count": 10226,
+    "open_issues_count": 79,
+    "forks_count": 832
+  },
+  {
+    "full_name": "Stability-AI/generative-models",
+    "stargazers_count": 7987,
+    "open_issues_count": 54,
+    "forks_count": 976
+  },
+  {
+    "full_name": "tatsu-lab/alpaca_eval",
+    "stargazers_count": 470,
+    "open_issues_count": 4,
+    "forks_count": 67
+  },
+  {
     "full_name": "tjholm/multiboy",
-    "stargazers_count": 151,
+    "stargazers_count": 161,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "JustWhatsTheData/justwhatsthedata.github.io",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 2,
-    "forks_count": 1
-  },
-  {
-    "full_name": "daviddavo/jgmd",
-    "stargazers_count": 102,
-    "open_issues_count": 7,
-    "forks_count": 24
-  },
-  {
-    "full_name": "jdm-contrib/jdm",
-    "stargazers_count": 749,
-    "open_issues_count": 13,
-    "forks_count": 279
-  },
-  {
-    "full_name": "continuedev/continue",
-    "stargazers_count": 1833,
-    "open_issues_count": 28,
-    "forks_count": 39
-  },
-  {
-    "full_name": "upscayl/upscayl",
-    "stargazers_count": 16252,
-    "open_issues_count": 42,
-    "forks_count": 660
-  },
-  {
-    "full_name": "containers/podman-desktop",
-    "stargazers_count": 3108,
-    "open_issues_count": 504,
-    "forks_count": 166
-  },
-  {
-    "full_name": "Automattic/stream-builder",
-    "stargazers_count": 109,
-    "open_issues_count": 3,
-    "forks_count": 5
-  },
-  {
-    "full_name": "AprilSylph/Palettes-for-Tumblr",
-    "stargazers_count": 26,
-    "open_issues_count": 10,
-    "forks_count": 7
-  },
-  {
-    "full_name": "AprilSylph/XKit-Rewritten",
-    "stargazers_count": 220,
-    "open_issues_count": 109,
-    "forks_count": 35
-  },
-  {
-    "full_name": "AprilSylph/Outbox-for-Tumblr",
-    "stargazers_count": 15,
-    "open_issues_count": 2,
-    "forks_count": 4
-  },
-  {
-    "full_name": "primocms/primo",
-    "stargazers_count": 1438,
-    "open_issues_count": 28,
-    "forks_count": 235
-  },
-  {
-    "full_name": "docusealco/docuseal",
-    "stargazers_count": 2245,
-    "open_issues_count": 8,
-    "forks_count": 61
-  },
-  {
-    "full_name": "jmorganca/ollama",
-    "stargazers_count": 3455,
-    "open_issues_count": 55,
-    "forks_count": 180
-  },
-  {
-    "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 50062,
-    "open_issues_count": 488,
-    "forks_count": 5479
-  },
-  {
-    "full_name": "microsoft/TypeChat",
-    "stargazers_count": 5114,
-    "open_issues_count": 24,
-    "forks_count": 185
+    "forks_count": 2
   }
 ]
