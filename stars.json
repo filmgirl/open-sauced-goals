@@ -1,61 +1,85 @@
 [
   {
-    "full_name": "cyphar/incus",
+    "full_name": "simonw/til",
+    "stargazers_count": 760,
+    "open_issues_count": 18,
+    "forks_count": 75
+  },
+  {
+    "full_name": "sveltejs/svelte",
+    "stargazers_count": 71668,
+    "open_issues_count": 873,
+    "forks_count": 3970
+  },
+  {
+    "full_name": "waferbaby/dimples",
     "stargazers_count": 61,
-    "open_issues_count": 16,
-    "forks_count": 4
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
+    "full_name": "ml-tooling/best-of-jupyter",
+    "stargazers_count": 705,
+    "open_issues_count": 1,
+    "forks_count": 70
+  },
+  {
+    "full_name": "lxc/incus",
+    "stargazers_count": 298,
+    "open_issues_count": 12,
+    "forks_count": 15
   },
   {
     "full_name": "pawelkami/overcast-uploader",
-    "stargazers_count": 12,
+    "stargazers_count": 14,
     "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "codecov/codecov-cli",
-    "stargazers_count": 21,
-    "open_issues_count": 17,
+    "stargazers_count": 22,
+    "open_issues_count": 15,
     "forks_count": 7
   },
   {
     "full_name": "codecov/self-hosted",
-    "stargazers_count": 243,
+    "stargazers_count": 299,
     "open_issues_count": 4,
-    "forks_count": 6
+    "forks_count": 11
   },
   {
     "full_name": "facebookresearch/audiocraft",
-    "stargazers_count": 11237,
-    "open_issues_count": 119,
-    "forks_count": 1001
+    "stargazers_count": 13966,
+    "open_issues_count": 131,
+    "forks_count": 1211
   },
   {
     "full_name": "ReagentX/imessage-exporter",
-    "stargazers_count": 1787,
-    "open_issues_count": 8,
-    "forks_count": 57
+    "stargazers_count": 1822,
+    "open_issues_count": 15,
+    "forks_count": 58
   },
   {
     "full_name": "webrecorder/replayweb.page",
-    "stargazers_count": 493,
+    "stargazers_count": 496,
     "open_issues_count": 50,
-    "forks_count": 38
+    "forks_count": 37
   },
   {
     "full_name": "webrecorder/archiveweb.page",
-    "stargazers_count": 549,
+    "stargazers_count": 551,
     "open_issues_count": 57,
     "forks_count": 38
   },
   {
     "full_name": "webrecorder/specs",
-    "stargazers_count": 105,
+    "stargazers_count": 106,
     "open_issues_count": 26,
     "forks_count": 12
   },
   {
     "full_name": "tidbyt/pixlet",
-    "stargazers_count": 645,
+    "stargazers_count": 650,
     "open_issues_count": 42,
     "forks_count": 95
   },
@@ -73,110 +97,86 @@
   },
   {
     "full_name": "4ch1m/pixoo-rest",
-    "stargazers_count": 131,
+    "stargazers_count": 132,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "SomethingWithComputers/pixoo",
-    "stargazers_count": 130,
-    "open_issues_count": 9,
-    "forks_count": 17
+    "stargazers_count": 131,
+    "open_issues_count": 10,
+    "forks_count": 18
   },
   {
     "full_name": "floccusaddon/floccus",
-    "stargazers_count": 4223,
-    "open_issues_count": 96,
+    "stargazers_count": 4232,
+    "open_issues_count": 97,
     "forks_count": 203
   },
   {
     "full_name": "linkwarden/linkwarden",
-    "stargazers_count": 1553,
-    "open_issues_count": 5,
-    "forks_count": 48
+    "stargazers_count": 1851,
+    "open_issues_count": 14,
+    "forks_count": 60
   },
   {
     "full_name": "Caldis/Mos",
-    "stargazers_count": 12013,
-    "open_issues_count": 221,
-    "forks_count": 454
+    "stargazers_count": 12042,
+    "open_issues_count": 222,
+    "forks_count": 456
   },
   {
     "full_name": "noah-nuebling/mac-mouse-fix",
-    "stargazers_count": 3394,
+    "stargazers_count": 3410,
     "open_issues_count": 279,
     "forks_count": 95
   },
   {
     "full_name": "BigBerny/magicquit",
-    "stargazers_count": 15,
+    "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "liuliu/swift-diffusion",
-    "stargazers_count": 344,
+    "stargazers_count": 345,
     "open_issues_count": 12,
     "forks_count": 29
   },
   {
     "full_name": "comfyanonymous/ComfyUI",
-    "stargazers_count": 9489,
-    "open_issues_count": 424,
-    "forks_count": 837
+    "stargazers_count": 9864,
+    "open_issues_count": 448,
+    "forks_count": 865
   },
   {
     "full_name": "microsoft/torchscale",
-    "stargazers_count": 2249,
-    "open_issues_count": 9,
-    "forks_count": 139
+    "stargazers_count": 2272,
+    "open_issues_count": 10,
+    "forks_count": 142
   },
   {
     "full_name": "rui314/mold",
-    "stargazers_count": 11805,
-    "open_issues_count": 157,
-    "forks_count": 405
+    "stargazers_count": 11846,
+    "open_issues_count": 159,
+    "forks_count": 407
   },
   {
     "full_name": "mayeaux/generate-subtitles",
-    "stargazers_count": 554,
+    "stargazers_count": 556,
     "open_issues_count": 21,
     "forks_count": 79
   },
   {
     "full_name": "CoretechR/OMOTE",
-    "stargazers_count": 589,
-    "open_issues_count": 6,
+    "stargazers_count": 599,
+    "open_issues_count": 9,
     "forks_count": 65
   },
   {
     "full_name": "karpathy/llama2.c",
-    "stargazers_count": 10226,
-    "open_issues_count": 79,
-    "forks_count": 832
-  },
-  {
-    "full_name": "Stability-AI/generative-models",
-    "stargazers_count": 7987,
-    "open_issues_count": 54,
-    "forks_count": 976
-  },
-  {
-    "full_name": "tatsu-lab/alpaca_eval",
-    "stargazers_count": 470,
-    "open_issues_count": 4,
-    "forks_count": 67
-  },
-  {
-    "full_name": "tjholm/multiboy",
-    "stargazers_count": 161,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "JustWhatsTheData/justwhatsthedata.github.io",
-    "stargazers_count": 10,
-    "open_issues_count": 2,
-    "forks_count": 2
+    "stargazers_count": 10483,
+    "open_issues_count": 71,
+    "forks_count": 875
   }
 ]
