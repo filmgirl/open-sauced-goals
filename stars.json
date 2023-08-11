@@ -1,15 +1,135 @@
 [
   {
+    "full_name": "Azure-Samples/azure-ai",
+    "stargazers_count": 64,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
+    "full_name": "r-thomson/Nightfall",
+    "stargazers_count": 383,
+    "open_issues_count": 6,
+    "forks_count": 10
+  },
+  {
+    "full_name": "chathub-dev/chathub",
+    "stargazers_count": 7766,
+    "open_issues_count": 182,
+    "forks_count": 696
+  },
+  {
+    "full_name": "extesy/hoverzoom",
+    "stargazers_count": 891,
+    "open_issues_count": 182,
+    "forks_count": 164
+  },
+  {
+    "full_name": "vim/vim",
+    "stargazers_count": 31886,
+    "open_issues_count": 1565,
+    "forks_count": 4895
+  },
+  {
+    "full_name": "jonschlinkert/gray-matter",
+    "stargazers_count": 3391,
+    "open_issues_count": 58,
+    "forks_count": 132
+  },
+  {
+    "full_name": "marisademeglio/eleventypub",
+    "stargazers_count": 79,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "danburzo/percollate",
+    "stargazers_count": 3931,
+    "open_issues_count": 12,
+    "forks_count": 161
+  },
+  {
+    "full_name": "sindresorhus/execa",
+    "stargazers_count": 5855,
+    "open_issues_count": 25,
+    "forks_count": 213
+  },
+  {
+    "full_name": "sindresorhus/is-wsl",
+    "stargazers_count": 181,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "sindresorhus/awesome-chatgpt",
+    "stargazers_count": 3332,
+    "open_issues_count": 5,
+    "forks_count": 178
+  },
+  {
+    "full_name": "pablopunk/time",
+    "stargazers_count": 88,
+    "open_issues_count": 2,
+    "forks_count": 7
+  },
+  {
+    "full_name": "sindresorhus/KeyboardShortcuts",
+    "stargazers_count": 1412,
+    "open_issues_count": 17,
+    "forks_count": 131
+  },
+  {
+    "full_name": "sindresorhus/Defaults",
+    "stargazers_count": 1556,
+    "open_issues_count": 26,
+    "forks_count": 100
+  },
+  {
+    "full_name": "sindresorhus/Plash",
+    "stargazers_count": 2918,
+    "open_issues_count": 28,
+    "forks_count": 107
+  },
+  {
+    "full_name": "hackclub/putting-the-you-in-cpu",
+    "stargazers_count": 1970,
+    "open_issues_count": 9,
+    "forks_count": 44
+  },
+  {
+    "full_name": "sindresorhus/awesome-whisper",
+    "stargazers_count": 523,
+    "open_issues_count": 1,
+    "forks_count": 28
+  },
+  {
+    "full_name": "kornelski/pngquant",
+    "stargazers_count": 4762,
+    "open_issues_count": 44,
+    "forks_count": 471
+  },
+  {
+    "full_name": "1Password/op-vscode",
+    "stargazers_count": 164,
+    "open_issues_count": 15,
+    "forks_count": 8
+  },
+  {
+    "full_name": "1Password/shell-plugins",
+    "stargazers_count": 391,
+    "open_issues_count": 106,
+    "forks_count": 106
+  },
+  {
     "full_name": "simonw/til",
-    "stargazers_count": 760,
+    "stargazers_count": 763,
     "open_issues_count": 18,
-    "forks_count": 75
+    "forks_count": 76
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 71668,
-    "open_issues_count": 873,
-    "forks_count": 3970
+    "stargazers_count": 71739,
+    "open_issues_count": 871,
+    "forks_count": 3975
   },
   {
     "full_name": "waferbaby/dimples",
@@ -25,9 +145,9 @@
   },
   {
     "full_name": "lxc/incus",
-    "stargazers_count": 298,
-    "open_issues_count": 12,
-    "forks_count": 15
+    "stargazers_count": 752,
+    "open_issues_count": 11,
+    "forks_count": 44
   },
   {
     "full_name": "pawelkami/overcast-uploader",
@@ -37,146 +157,26 @@
   },
   {
     "full_name": "codecov/codecov-cli",
-    "stargazers_count": 22,
-    "open_issues_count": 15,
+    "stargazers_count": 23,
+    "open_issues_count": 14,
     "forks_count": 7
   },
   {
     "full_name": "codecov/self-hosted",
-    "stargazers_count": 299,
+    "stargazers_count": 303,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "facebookresearch/audiocraft",
-    "stargazers_count": 13966,
-    "open_issues_count": 131,
-    "forks_count": 1211
+    "stargazers_count": 14434,
+    "open_issues_count": 136,
+    "forks_count": 1272
   },
   {
     "full_name": "ReagentX/imessage-exporter",
-    "stargazers_count": 1822,
+    "stargazers_count": 1829,
     "open_issues_count": 15,
     "forks_count": 58
-  },
-  {
-    "full_name": "webrecorder/replayweb.page",
-    "stargazers_count": 496,
-    "open_issues_count": 50,
-    "forks_count": 37
-  },
-  {
-    "full_name": "webrecorder/archiveweb.page",
-    "stargazers_count": 551,
-    "open_issues_count": 57,
-    "forks_count": 38
-  },
-  {
-    "full_name": "webrecorder/specs",
-    "stargazers_count": 106,
-    "open_issues_count": 26,
-    "forks_count": 12
-  },
-  {
-    "full_name": "tidbyt/pixlet",
-    "stargazers_count": 650,
-    "open_issues_count": 42,
-    "forks_count": 95
-  },
-  {
-    "full_name": "tidbyt/hdk",
-    "stargazers_count": 20,
-    "open_issues_count": 2,
-    "forks_count": 3
-  },
-  {
-    "full_name": "btjones/axilla",
-    "stargazers_count": 18,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "4ch1m/pixoo-rest",
-    "stargazers_count": 132,
-    "open_issues_count": 0,
-    "forks_count": 15
-  },
-  {
-    "full_name": "SomethingWithComputers/pixoo",
-    "stargazers_count": 131,
-    "open_issues_count": 10,
-    "forks_count": 18
-  },
-  {
-    "full_name": "floccusaddon/floccus",
-    "stargazers_count": 4232,
-    "open_issues_count": 97,
-    "forks_count": 203
-  },
-  {
-    "full_name": "linkwarden/linkwarden",
-    "stargazers_count": 1851,
-    "open_issues_count": 14,
-    "forks_count": 60
-  },
-  {
-    "full_name": "Caldis/Mos",
-    "stargazers_count": 12042,
-    "open_issues_count": 222,
-    "forks_count": 456
-  },
-  {
-    "full_name": "noah-nuebling/mac-mouse-fix",
-    "stargazers_count": 3410,
-    "open_issues_count": 279,
-    "forks_count": 95
-  },
-  {
-    "full_name": "BigBerny/magicquit",
-    "stargazers_count": 19,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "liuliu/swift-diffusion",
-    "stargazers_count": 345,
-    "open_issues_count": 12,
-    "forks_count": 29
-  },
-  {
-    "full_name": "comfyanonymous/ComfyUI",
-    "stargazers_count": 9864,
-    "open_issues_count": 448,
-    "forks_count": 865
-  },
-  {
-    "full_name": "microsoft/torchscale",
-    "stargazers_count": 2272,
-    "open_issues_count": 10,
-    "forks_count": 142
-  },
-  {
-    "full_name": "rui314/mold",
-    "stargazers_count": 11846,
-    "open_issues_count": 159,
-    "forks_count": 407
-  },
-  {
-    "full_name": "mayeaux/generate-subtitles",
-    "stargazers_count": 556,
-    "open_issues_count": 21,
-    "forks_count": 79
-  },
-  {
-    "full_name": "CoretechR/OMOTE",
-    "stargazers_count": 599,
-    "open_issues_count": 9,
-    "forks_count": 65
-  },
-  {
-    "full_name": "karpathy/llama2.c",
-    "stargazers_count": 10483,
-    "open_issues_count": 71,
-    "forks_count": 875
   }
 ]
