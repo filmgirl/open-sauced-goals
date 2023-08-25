@@ -1,56 +1,98 @@
 [
   {
+    "full_name": "intel/intel-one-mono",
+    "stargazers_count": 8257,
+    "open_issues_count": 13,
+    "forks_count": 456
+  },
+  {
+    "full_name": "facebookresearch/codellama",
+    "stargazers_count": 1548,
+    "open_issues_count": 11,
+    "forks_count": 114
+  },
+  {
+    "full_name": "chidiwilliams/buzz",
+    "stargazers_count": 7127,
+    "open_issues_count": 60,
+    "forks_count": 524
+  },
+  {
+    "full_name": "bugbakery/audapolis",
+    "stargazers_count": 544,
+    "open_issues_count": 105,
+    "forks_count": 15
+  },
+  {
+    "full_name": "streetpea/chiaki4deck",
+    "stargazers_count": 282,
+    "open_issues_count": 32,
+    "forks_count": 17
+  },
+  {
+    "full_name": "innovatorved/whisper.api",
+    "stargazers_count": 639,
+    "open_issues_count": 2,
+    "forks_count": 23
+  },
+  {
+    "full_name": "hwayne/autohotkey-scripts",
+    "stargazers_count": 175,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
     "full_name": "leejet/stable-diffusion.cpp",
-    "stargazers_count": 1167,
-    "open_issues_count": 14,
-    "forks_count": 70
+    "stargazers_count": 1426,
+    "open_issues_count": 12,
+    "forks_count": 84
   },
   {
     "full_name": "arthur-ai/bench",
-    "stargazers_count": 142,
-    "open_issues_count": 2,
-    "forks_count": 7
+    "stargazers_count": 172,
+    "open_issues_count": 4,
+    "forks_count": 9
   },
   {
     "full_name": "steven2358/awesome-generative-ai",
-    "stargazers_count": 2747,
-    "open_issues_count": 24,
-    "forks_count": 222
+    "stargazers_count": 2815,
+    "open_issues_count": 25,
+    "forks_count": 229
   },
   {
     "full_name": "octokit/octokit.js",
-    "stargazers_count": 6357,
+    "stargazers_count": 6362,
     "open_issues_count": 23,
     "forks_count": 1072
   },
   {
     "full_name": "opentffoundation/manifesto",
-    "stargazers_count": 2016,
-    "open_issues_count": 19,
-    "forks_count": 521
+    "stargazers_count": 2455,
+    "open_issues_count": 25,
+    "forks_count": 588
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 18394,
-    "open_issues_count": 261,
-    "forks_count": 649
+    "stargazers_count": 18642,
+    "open_issues_count": 260,
+    "forks_count": 659
   },
   {
     "full_name": "varunshenoy/opendream",
-    "stargazers_count": 1411,
-    "open_issues_count": 12,
-    "forks_count": 62
+    "stargazers_count": 1465,
+    "open_issues_count": 11,
+    "forks_count": 64
   },
   {
     "full_name": "Andrews54757/Anti-Anti-Debug",
     "stargazers_count": 29,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "chucker/Mastonaut",
     "stargazers_count": 107,
-    "open_issues_count": 71,
+    "open_issues_count": 74,
     "forks_count": 6
   },
   {
@@ -73,15 +115,15 @@
   },
   {
     "full_name": "asciinema/asciinema-player",
-    "stargazers_count": 2462,
+    "stargazers_count": 2463,
     "open_issues_count": 16,
     "forks_count": 258
   },
   {
     "full_name": "id-Software/quake2-rerelease-dll",
-    "stargazers_count": 1645,
+    "stargazers_count": 1678,
     "open_issues_count": 3,
-    "forks_count": 121
+    "forks_count": 128
   },
   {
     "full_name": "Azure-Samples/azure-ai",
@@ -97,25 +139,25 @@
   },
   {
     "full_name": "chathub-dev/chathub",
-    "stargazers_count": 7919,
-    "open_issues_count": 179,
-    "forks_count": 713
+    "stargazers_count": 7954,
+    "open_issues_count": 177,
+    "forks_count": 715
   },
   {
     "full_name": "extesy/hoverzoom",
-    "stargazers_count": 938,
-    "open_issues_count": 185,
+    "stargazers_count": 942,
+    "open_issues_count": 186,
     "forks_count": 168
   },
   {
     "full_name": "vim/vim",
-    "stargazers_count": 32218,
-    "open_issues_count": 1496,
-    "forks_count": 4926
+    "stargazers_count": 32328,
+    "open_issues_count": 1485,
+    "forks_count": 4944
   },
   {
     "full_name": "jonschlinkert/gray-matter",
-    "stargazers_count": 3407,
+    "stargazers_count": 3411,
     "open_issues_count": 58,
     "forks_count": 132
   },
@@ -127,56 +169,14 @@
   },
   {
     "full_name": "danburzo/percollate",
-    "stargazers_count": 3938,
+    "stargazers_count": 3941,
     "open_issues_count": 12,
     "forks_count": 161
   },
   {
     "full_name": "sindresorhus/execa",
-    "stargazers_count": 5879,
+    "stargazers_count": 5888,
     "open_issues_count": 22,
     "forks_count": 212
-  },
-  {
-    "full_name": "sindresorhus/is-wsl",
-    "stargazers_count": 180,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "sindresorhus/awesome-chatgpt",
-    "stargazers_count": 3392,
-    "open_issues_count": 4,
-    "forks_count": 183
-  },
-  {
-    "full_name": "pablopunk/time",
-    "stargazers_count": 88,
-    "open_issues_count": 2,
-    "forks_count": 7
-  },
-  {
-    "full_name": "sindresorhus/KeyboardShortcuts",
-    "stargazers_count": 1419,
-    "open_issues_count": 18,
-    "forks_count": 134
-  },
-  {
-    "full_name": "sindresorhus/Defaults",
-    "stargazers_count": 1558,
-    "open_issues_count": 26,
-    "forks_count": 99
-  },
-  {
-    "full_name": "sindresorhus/Plash",
-    "stargazers_count": 2931,
-    "open_issues_count": 27,
-    "forks_count": 106
-  },
-  {
-    "full_name": "hackclub/putting-the-you-in-cpu",
-    "stargazers_count": 3089,
-    "open_issues_count": 13,
-    "forks_count": 71
   }
 ]
