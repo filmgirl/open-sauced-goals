@@ -1,79 +1,91 @@
 [
   {
-    "full_name": "thibmaek/awesome-raspberry-pi",
-    "stargazers_count": 11859,
+    "full_name": "linuxserver/docker-swag",
+    "stargazers_count": 2220,
+    "open_issues_count": 11,
+    "forks_count": 222
+  },
+  {
+    "full_name": "trholding/llama2.c",
+    "stargazers_count": 1192,
     "open_issues_count": 2,
-    "forks_count": 964
+    "forks_count": 35
+  },
+  {
+    "full_name": "thibmaek/awesome-raspberry-pi",
+    "stargazers_count": 11877,
+    "open_issues_count": 2,
+    "forks_count": 968
   },
   {
     "full_name": "easydiffusion/easydiffusion",
-    "stargazers_count": 7918,
-    "open_issues_count": 147,
-    "forks_count": 654
+    "stargazers_count": 7940,
+    "open_issues_count": 151,
+    "forks_count": 653
   },
   {
     "full_name": "spotweb/spotweb",
-    "stargazers_count": 482,
+    "stargazers_count": 488,
     "open_issues_count": 1,
     "forks_count": 183
   },
   {
     "full_name": "sergiotapia/torrentinim",
-    "stargazers_count": 756,
+    "stargazers_count": 761,
     "open_issues_count": 5,
     "forks_count": 33
   },
   {
     "full_name": "sergiotapia/magnetissimo",
-    "stargazers_count": 2899,
+    "stargazers_count": 2908,
     "open_issues_count": 11,
-    "forks_count": 188
+    "forks_count": 187
   },
   {
     "full_name": "bitmagnet-io/bitmagnet",
-    "stargazers_count": 308,
-    "open_issues_count": 6,
-    "forks_count": 6
+    "stargazers_count": 839,
+    "open_issues_count": 9,
+    "forks_count": 20
   },
   {
     "full_name": "ublue-os/obs-studio-portable",
-    "stargazers_count": 113,
+    "stargazers_count": 159,
     "open_issues_count": 1,
-    "forks_count": 3
+    "forks_count": 5
   },
   {
     "full_name": "google/graph-mining",
-    "stargazers_count": 484,
-    "open_issues_count": 1,
+    "stargazers_count": 509,
+    "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "macadmins/nudge",
-    "stargazers_count": 834,
+    "stargazers_count": 837,
     "open_issues_count": 55,
-    "forks_count": 161
+    "forks_count": 162
   },
   {
     "full_name": "amhndu/SimpleNES",
-    "stargazers_count": 4550,
+    "stargazers_count": 4554,
     "open_issues_count": 4,
     "forks_count": 1130
   },
   {
     "full_name": "macOScontainers/rund",
-    "stargazers_count": 270,
+    "stargazers_count": 283,
     "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "macOScontainers/homebrew-formula",
-    "stargazers_count": 328,
+    "stargazers_count": 346,
     "open_issues_count": 1,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "pypa/gh-action-pip-audit",
-    "stargazers_count": 54,
+    "stargazers_count": 53,
     "open_issues_count": 2,
     "forks_count": 7
   },
@@ -85,15 +97,15 @@
   },
   {
     "full_name": "compnerd/swift-firebase",
-    "stargazers_count": 41,
+    "stargazers_count": 43,
     "open_issues_count": 2,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "memgraph/odin",
-    "stargazers_count": 446,
+    "stargazers_count": 459,
     "open_issues_count": 5,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "buba447/simpsonstv",
@@ -103,9 +115,9 @@
   },
   {
     "full_name": "mig4ng/ublock-origin-filters",
-    "stargazers_count": 435,
+    "stargazers_count": 439,
     "open_issues_count": 4,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "ttscoff/journal-cli",
@@ -115,9 +127,9 @@
   },
   {
     "full_name": "bevyengine/bevy",
-    "stargazers_count": 26948,
+    "stargazers_count": 27100,
     "open_issues_count": 1686,
-    "forks_count": 2661
+    "forks_count": 2672
   },
   {
     "full_name": "paladin-t/bitty",
@@ -127,56 +139,44 @@
   },
   {
     "full_name": "86Box/86Box",
-    "stargazers_count": 2004,
-    "open_issues_count": 174,
+    "stargazers_count": 2009,
+    "open_issues_count": 175,
     "forks_count": 265
   },
   {
     "full_name": "dortania/OpenCore-Legacy-Patcher",
-    "stargazers_count": 8513,
+    "stargazers_count": 8708,
     "open_issues_count": 21,
-    "forks_count": 855
+    "forks_count": 868
   },
   {
     "full_name": "huggingface/diffusers",
-    "stargazers_count": 18181,
-    "open_issues_count": 425,
-    "forks_count": 3734
+    "stargazers_count": 18250,
+    "open_issues_count": 431,
+    "forks_count": 3757
   },
   {
     "full_name": "langchain-ai/langchainjs",
-    "stargazers_count": 8384,
-    "open_issues_count": 343,
-    "forks_count": 1350
+    "stargazers_count": 8417,
+    "open_issues_count": 342,
+    "forks_count": 1359
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 63846,
-    "open_issues_count": 2033,
-    "forks_count": 9006
+    "stargazers_count": 64156,
+    "open_issues_count": 2032,
+    "forks_count": 9078
   },
   {
     "full_name": "EmNudge/watlings",
-    "stargazers_count": 1510,
+    "stargazers_count": 1525,
     "open_issues_count": 3,
     "forks_count": 34
   },
   {
     "full_name": "eigilnikolajsen/commit-mono",
-    "stargazers_count": 614,
-    "open_issues_count": 11,
+    "stargazers_count": 623,
+    "open_issues_count": 12,
     "forks_count": 7
-  },
-  {
-    "full_name": "facebookresearch/seamless_communication",
-    "stargazers_count": 5447,
-    "open_issues_count": 66,
-    "forks_count": 467
-  },
-  {
-    "full_name": "nyaggah/bedframe",
-    "stargazers_count": 405,
-    "open_issues_count": 5,
-    "forks_count": 3
   }
 ]
