@@ -1,39 +1,75 @@
 [
   {
+    "full_name": "yusukebe/gh-markdown-preview",
+    "stargazers_count": 346,
+    "open_issues_count": 9,
+    "forks_count": 15
+  },
+  {
+    "full_name": "jrnxf/gh-eco",
+    "stargazers_count": 352,
+    "open_issues_count": 3,
+    "forks_count": 8
+  },
+  {
+    "full_name": "dlvhdr/gh-dash",
+    "stargazers_count": 3811,
+    "open_issues_count": 40,
+    "forks_count": 145
+  },
+  {
+    "full_name": "cirruslabs/tart",
+    "stargazers_count": 2425,
+    "open_issues_count": 9,
+    "forks_count": 69
+  },
+  {
+    "full_name": "ptoomey3/Keychain-Dumper",
+    "stargazers_count": 1266,
+    "open_issues_count": 17,
+    "forks_count": 303
+  },
+  {
+    "full_name": "d3vr/yt-siphon",
+    "stargazers_count": 186,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
     "full_name": "nolenroyalty/flappy-dird",
-    "stargazers_count": 96,
-    "open_issues_count": 2,
+    "stargazers_count": 112,
+    "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "XcodesOrg/XcodesApp",
-    "stargazers_count": 5772,
-    "open_issues_count": 95,
-    "forks_count": 240
+    "stargazers_count": 5797,
+    "open_issues_count": 96,
+    "forks_count": 242
   },
   {
     "full_name": "XcodesOrg/xcodes",
-    "stargazers_count": 3117,
+    "stargazers_count": 3126,
     "open_issues_count": 87,
     "forks_count": 104
   },
   {
     "full_name": "microsoft/chat-copilot",
-    "stargazers_count": 914,
-    "open_issues_count": 86,
-    "forks_count": 288
+    "stargazers_count": 935,
+    "open_issues_count": 88,
+    "forks_count": 299
   },
   {
     "full_name": "rlane/oort3",
-    "stargazers_count": 110,
+    "stargazers_count": 173,
     "open_issues_count": 4,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "paintdotnet/release",
-    "stargazers_count": 972,
+    "stargazers_count": 977,
     "open_issues_count": 0,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "MikeMcQuaid/dotfiles",
@@ -49,73 +85,73 @@
   },
   {
     "full_name": "jjjake/internetarchive",
-    "stargazers_count": 1373,
+    "stargazers_count": 1374,
     "open_issues_count": 67,
     "forks_count": 203
   },
   {
     "full_name": "linuxserver/docker-swag",
-    "stargazers_count": 2226,
-    "open_issues_count": 11,
-    "forks_count": 222
+    "stargazers_count": 2231,
+    "open_issues_count": 12,
+    "forks_count": 221
   },
   {
     "full_name": "trholding/llama2.c",
-    "stargazers_count": 1264,
+    "stargazers_count": 1285,
     "open_issues_count": 2,
     "forks_count": 36
   },
   {
     "full_name": "thibmaek/awesome-raspberry-pi",
-    "stargazers_count": 11895,
+    "stargazers_count": 11910,
     "open_issues_count": 2,
-    "forks_count": 969
+    "forks_count": 968
   },
   {
     "full_name": "easydiffusion/easydiffusion",
-    "stargazers_count": 7965,
-    "open_issues_count": 152,
-    "forks_count": 654
+    "stargazers_count": 7991,
+    "open_issues_count": 155,
+    "forks_count": 659
   },
   {
     "full_name": "spotweb/spotweb",
-    "stargazers_count": 488,
+    "stargazers_count": 489,
     "open_issues_count": 1,
     "forks_count": 183
   },
   {
     "full_name": "sergiotapia/torrentinim",
-    "stargazers_count": 761,
+    "stargazers_count": 762,
     "open_issues_count": 5,
     "forks_count": 33
   },
   {
     "full_name": "sergiotapia/magnetissimo",
-    "stargazers_count": 2908,
+    "stargazers_count": 2912,
     "open_issues_count": 11,
-    "forks_count": 187
+    "forks_count": 186
   },
   {
     "full_name": "bitmagnet-io/bitmagnet",
-    "stargazers_count": 929,
+    "stargazers_count": 954,
     "open_issues_count": 12,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "ublue-os/obs-studio-portable",
-    "stargazers_count": 163,
+    "stargazers_count": 165,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "google/graph-mining",
-    "stargazers_count": 514,
+    "stargazers_count": 525,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "macadmins/nudge",
-    "stargazers_count": 840,
+    "stargazers_count": 841,
     "open_issues_count": 55,
     "forks_count": 162
   },
@@ -123,17 +159,17 @@
     "full_name": "amhndu/SimpleNES",
     "stargazers_count": 4557,
     "open_issues_count": 4,
-    "forks_count": 1133
+    "forks_count": 1135
   },
   {
     "full_name": "macOScontainers/rund",
-    "stargazers_count": 294,
+    "stargazers_count": 302,
     "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "macOScontainers/homebrew-formula",
-    "stargazers_count": 380,
+    "stargazers_count": 422,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -141,42 +177,6 @@
     "full_name": "pypa/gh-action-pip-audit",
     "stargazers_count": 53,
     "open_issues_count": 2,
-    "forks_count": 7
-  },
-  {
-    "full_name": "sigstore/gh-action-sigstore-python",
-    "stargazers_count": 29,
-    "open_issues_count": 8,
-    "forks_count": 7
-  },
-  {
-    "full_name": "compnerd/swift-firebase",
-    "stargazers_count": 43,
-    "open_issues_count": 2,
-    "forks_count": 2
-  },
-  {
-    "full_name": "memgraph/odin",
-    "stargazers_count": 465,
-    "open_issues_count": 5,
-    "forks_count": 9
-  },
-  {
-    "full_name": "buba447/simpsonstv",
-    "stargazers_count": 58,
-    "open_issues_count": 7,
-    "forks_count": 43
-  },
-  {
-    "full_name": "mig4ng/ublock-origin-filters",
-    "stargazers_count": 441,
-    "open_issues_count": 4,
-    "forks_count": 17
-  },
-  {
-    "full_name": "ttscoff/journal-cli",
-    "stargazers_count": 11,
-    "open_issues_count": 2,
-    "forks_count": 0
+    "forks_count": 8
   }
 ]
