@@ -1,19 +1,49 @@
 [
   {
+    "full_name": "RobertPeip/Mister64",
+    "stargazers_count": 174,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
+    "full_name": "command-tab/awesome-n64-development",
+    "stargazers_count": 287,
+    "open_issues_count": 0,
+    "forks_count": 25
+  },
+  {
+    "full_name": "simple64/simple64",
+    "stargazers_count": 700,
+    "open_issues_count": 23,
+    "forks_count": 58
+  },
+  {
+    "full_name": "mupen64plus/mupen64plus-core",
+    "stargazers_count": 1146,
+    "open_issues_count": 181,
+    "forks_count": 227
+  },
+  {
+    "full_name": "AerialScreensaver/AerialCompanion",
+    "stargazers_count": 279,
+    "open_issues_count": 18,
+    "forks_count": 7
+  },
+  {
     "full_name": "ckolderup/postmarks",
-    "stargazers_count": 368,
-    "open_issues_count": 61,
+    "stargazers_count": 371,
+    "open_issues_count": 58,
     "forks_count": 29
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 253281,
-    "open_issues_count": 691,
-    "forks_count": 35076
+    "stargazers_count": 253837,
+    "open_issues_count": 689,
+    "forks_count": 35134
   },
   {
     "full_name": "feenkcom/gtoolkit",
-    "stargazers_count": 973,
+    "stargazers_count": 972,
     "open_issues_count": 254,
     "forks_count": 45
   },
@@ -31,73 +61,73 @@
   },
   {
     "full_name": "yusukebe/gh-markdown-preview",
-    "stargazers_count": 346,
+    "stargazers_count": 347,
     "open_issues_count": 9,
     "forks_count": 15
   },
   {
     "full_name": "jrnxf/gh-eco",
-    "stargazers_count": 352,
+    "stargazers_count": 353,
     "open_issues_count": 3,
     "forks_count": 8
   },
   {
     "full_name": "dlvhdr/gh-dash",
-    "stargazers_count": 3817,
+    "stargazers_count": 3823,
     "open_issues_count": 40,
     "forks_count": 147
   },
   {
     "full_name": "cirruslabs/tart",
-    "stargazers_count": 2428,
-    "open_issues_count": 12,
+    "stargazers_count": 2433,
+    "open_issues_count": 11,
     "forks_count": 69
   },
   {
     "full_name": "ptoomey3/Keychain-Dumper",
-    "stargazers_count": 1266,
+    "stargazers_count": 1267,
     "open_issues_count": 17,
     "forks_count": 303
   },
   {
     "full_name": "d3vr/yt-siphon",
-    "stargazers_count": 249,
+    "stargazers_count": 283,
     "open_issues_count": 3,
-    "forks_count": 7
+    "forks_count": 9
   },
   {
     "full_name": "nolenroyalty/flappy-dird",
-    "stargazers_count": 115,
+    "stargazers_count": 121,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "XcodesOrg/XcodesApp",
-    "stargazers_count": 5815,
-    "open_issues_count": 98,
-    "forks_count": 243
+    "stargazers_count": 5827,
+    "open_issues_count": 99,
+    "forks_count": 242
   },
   {
     "full_name": "XcodesOrg/xcodes",
-    "stargazers_count": 3139,
-    "open_issues_count": 89,
-    "forks_count": 104
+    "stargazers_count": 3144,
+    "open_issues_count": 90,
+    "forks_count": 103
   },
   {
     "full_name": "microsoft/chat-copilot",
-    "stargazers_count": 956,
-    "open_issues_count": 77,
-    "forks_count": 307
+    "stargazers_count": 974,
+    "open_issues_count": 70,
+    "forks_count": 310
   },
   {
     "full_name": "rlane/oort3",
-    "stargazers_count": 201,
-    "open_issues_count": 6,
-    "forks_count": 16
+    "stargazers_count": 209,
+    "open_issues_count": 9,
+    "forks_count": 17
   },
   {
     "full_name": "paintdotnet/release",
-    "stargazers_count": 977,
+    "stargazers_count": 981,
     "open_issues_count": 0,
     "forks_count": 34
   },
@@ -109,74 +139,44 @@
   },
   {
     "full_name": "0xmachos/macos-scripts",
-    "stargazers_count": 99,
+    "stargazers_count": 100,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "jjjake/internetarchive",
-    "stargazers_count": 1374,
-    "open_issues_count": 67,
+    "stargazers_count": 1373,
+    "open_issues_count": 69,
     "forks_count": 203
   },
   {
     "full_name": "linuxserver/docker-swag",
-    "stargazers_count": 2234,
-    "open_issues_count": 12,
+    "stargazers_count": 2239,
+    "open_issues_count": 13,
     "forks_count": 221
   },
   {
     "full_name": "trholding/llama2.c",
-    "stargazers_count": 1289,
+    "stargazers_count": 1300,
     "open_issues_count": 2,
     "forks_count": 36
   },
   {
     "full_name": "thibmaek/awesome-raspberry-pi",
-    "stargazers_count": 11923,
+    "stargazers_count": 11933,
     "open_issues_count": 2,
-    "forks_count": 968
+    "forks_count": 969
   },
   {
     "full_name": "easydiffusion/easydiffusion",
-    "stargazers_count": 8011,
-    "open_issues_count": 156,
-    "forks_count": 661
+    "stargazers_count": 8036,
+    "open_issues_count": 159,
+    "forks_count": 664
   },
   {
     "full_name": "spotweb/spotweb",
     "stargazers_count": 489,
     "open_issues_count": 2,
     "forks_count": 183
-  },
-  {
-    "full_name": "sergiotapia/torrentinim",
-    "stargazers_count": 762,
-    "open_issues_count": 5,
-    "forks_count": 33
-  },
-  {
-    "full_name": "sergiotapia/magnetissimo",
-    "stargazers_count": 2913,
-    "open_issues_count": 11,
-    "forks_count": 186
-  },
-  {
-    "full_name": "bitmagnet-io/bitmagnet",
-    "stargazers_count": 965,
-    "open_issues_count": 13,
-    "forks_count": 24
-  },
-  {
-    "full_name": "ublue-os/obs-studio-portable",
-    "stargazers_count": 166,
-    "open_issues_count": 2,
-    "forks_count": 6
-  },
-  {
-    "full_name": "google/graph-mining",
-    "stargazers_count": 528,
-    "open_issues_count": 0,
-    "forks_count": 15
   }
 ]
