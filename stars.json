@@ -1,8 +1,32 @@
 [
   {
-    "full_name": "RobertPeip/Mister64",
-    "stargazers_count": 174,
+    "full_name": "iansinnott/alfred-maestro",
+    "stargazers_count": 394,
+    "open_issues_count": 16,
+    "forks_count": 23
+  },
+  {
+    "full_name": "AndrewWalsh/openapi-devtools",
+    "stargazers_count": 2581,
+    "open_issues_count": 5,
+    "forks_count": 30
+  },
+  {
+    "full_name": "keynotebingo/keynotebingo.github.io",
+    "stargazers_count": 10,
     "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
+    "full_name": "TortugaPower/BookPlayer",
+    "stargazers_count": 1306,
+    "open_issues_count": 102,
+    "forks_count": 170
+  },
+  {
+    "full_name": "RobertPeip/Mister64",
+    "stargazers_count": 188,
+    "open_issues_count": 1,
     "forks_count": 11
   },
   {
@@ -15,13 +39,13 @@
     "full_name": "simple64/simple64",
     "stargazers_count": 700,
     "open_issues_count": 23,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "mupen64plus/mupen64plus-core",
-    "stargazers_count": 1146,
-    "open_issues_count": 181,
-    "forks_count": 227
+    "stargazers_count": 1147,
+    "open_issues_count": 182,
+    "forks_count": 228
   },
   {
     "full_name": "AerialScreensaver/AerialCompanion",
@@ -37,14 +61,14 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 253837,
-    "open_issues_count": 689,
-    "forks_count": 35134
+    "stargazers_count": 254997,
+    "open_issues_count": 686,
+    "forks_count": 35254
   },
   {
     "full_name": "feenkcom/gtoolkit",
-    "stargazers_count": 972,
-    "open_issues_count": 254,
+    "stargazers_count": 970,
+    "open_issues_count": 257,
     "forks_count": 45
   },
   {
@@ -61,7 +85,7 @@
   },
   {
     "full_name": "yusukebe/gh-markdown-preview",
-    "stargazers_count": 347,
+    "stargazers_count": 348,
     "open_issues_count": 9,
     "forks_count": 15
   },
@@ -73,14 +97,14 @@
   },
   {
     "full_name": "dlvhdr/gh-dash",
-    "stargazers_count": 3823,
-    "open_issues_count": 40,
-    "forks_count": 147
+    "stargazers_count": 3830,
+    "open_issues_count": 42,
+    "forks_count": 148
   },
   {
     "full_name": "cirruslabs/tart",
-    "stargazers_count": 2433,
-    "open_issues_count": 11,
+    "stargazers_count": 2441,
+    "open_issues_count": 14,
     "forks_count": 69
   },
   {
@@ -91,43 +115,43 @@
   },
   {
     "full_name": "d3vr/yt-siphon",
-    "stargazers_count": 283,
-    "open_issues_count": 3,
-    "forks_count": 9
+    "stargazers_count": 291,
+    "open_issues_count": 4,
+    "forks_count": 10
   },
   {
     "full_name": "nolenroyalty/flappy-dird",
-    "stargazers_count": 121,
+    "stargazers_count": 122,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "XcodesOrg/XcodesApp",
-    "stargazers_count": 5827,
+    "stargazers_count": 5842,
     "open_issues_count": 99,
-    "forks_count": 242
+    "forks_count": 243
   },
   {
     "full_name": "XcodesOrg/xcodes",
-    "stargazers_count": 3144,
-    "open_issues_count": 90,
-    "forks_count": 103
+    "stargazers_count": 3166,
+    "open_issues_count": 91,
+    "forks_count": 104
   },
   {
     "full_name": "microsoft/chat-copilot",
-    "stargazers_count": 974,
-    "open_issues_count": 70,
-    "forks_count": 310
+    "stargazers_count": 990,
+    "open_issues_count": 71,
+    "forks_count": 318
   },
   {
     "full_name": "rlane/oort3",
-    "stargazers_count": 209,
-    "open_issues_count": 9,
-    "forks_count": 17
+    "stargazers_count": 215,
+    "open_issues_count": 8,
+    "forks_count": 19
   },
   {
     "full_name": "paintdotnet/release",
-    "stargazers_count": 981,
+    "stargazers_count": 985,
     "open_issues_count": 0,
     "forks_count": 34
   },
@@ -145,38 +169,14 @@
   },
   {
     "full_name": "jjjake/internetarchive",
-    "stargazers_count": 1373,
+    "stargazers_count": 1374,
     "open_issues_count": 69,
     "forks_count": 203
   },
   {
     "full_name": "linuxserver/docker-swag",
-    "stargazers_count": 2239,
+    "stargazers_count": 2243,
     "open_issues_count": 13,
     "forks_count": 221
-  },
-  {
-    "full_name": "trholding/llama2.c",
-    "stargazers_count": 1300,
-    "open_issues_count": 2,
-    "forks_count": 36
-  },
-  {
-    "full_name": "thibmaek/awesome-raspberry-pi",
-    "stargazers_count": 11933,
-    "open_issues_count": 2,
-    "forks_count": 969
-  },
-  {
-    "full_name": "easydiffusion/easydiffusion",
-    "stargazers_count": 8036,
-    "open_issues_count": 159,
-    "forks_count": 664
-  },
-  {
-    "full_name": "spotweb/spotweb",
-    "stargazers_count": 489,
-    "open_issues_count": 2,
-    "forks_count": 183
   }
 ]
