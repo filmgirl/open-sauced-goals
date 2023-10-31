@@ -1,15 +1,39 @@
 [
   {
+    "full_name": "OpenSignLabs/OpenSign",
+    "stargazers_count": 1183,
+    "open_issues_count": 19,
+    "forks_count": 52
+  },
+  {
+    "full_name": "MacThings/anymacos",
+    "stargazers_count": 30,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "kjaymiller/hbcu-list",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "spdustin/ChatGPT-AutoExpert",
+    "stargazers_count": 4569,
+    "open_issues_count": 11,
+    "forks_count": 282
+  },
+  {
     "full_name": "iansinnott/alfred-maestro",
-    "stargazers_count": 394,
+    "stargazers_count": 396,
     "open_issues_count": 16,
     "forks_count": 23
   },
   {
     "full_name": "AndrewWalsh/openapi-devtools",
-    "stargazers_count": 2581,
-    "open_issues_count": 5,
-    "forks_count": 30
+    "stargazers_count": 3186,
+    "open_issues_count": 4,
+    "forks_count": 44
   },
   {
     "full_name": "keynotebingo/keynotebingo.github.io",
@@ -19,56 +43,56 @@
   },
   {
     "full_name": "TortugaPower/BookPlayer",
-    "stargazers_count": 1306,
+    "stargazers_count": 1311,
     "open_issues_count": 102,
     "forks_count": 170
   },
   {
     "full_name": "RobertPeip/Mister64",
-    "stargazers_count": 188,
-    "open_issues_count": 1,
+    "stargazers_count": 214,
+    "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "command-tab/awesome-n64-development",
-    "stargazers_count": 287,
+    "stargazers_count": 288,
     "open_issues_count": 0,
     "forks_count": 25
   },
   {
     "full_name": "simple64/simple64",
-    "stargazers_count": 700,
-    "open_issues_count": 23,
+    "stargazers_count": 701,
+    "open_issues_count": 24,
     "forks_count": 59
   },
   {
     "full_name": "mupen64plus/mupen64plus-core",
     "stargazers_count": 1147,
-    "open_issues_count": 182,
-    "forks_count": 228
+    "open_issues_count": 183,
+    "forks_count": 229
   },
   {
     "full_name": "AerialScreensaver/AerialCompanion",
-    "stargazers_count": 279,
-    "open_issues_count": 18,
+    "stargazers_count": 281,
+    "open_issues_count": 19,
     "forks_count": 7
   },
   {
     "full_name": "ckolderup/postmarks",
-    "stargazers_count": 371,
+    "stargazers_count": 374,
     "open_issues_count": 58,
     "forks_count": 29
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 254997,
-    "open_issues_count": 686,
-    "forks_count": 35254
+    "stargazers_count": 255963,
+    "open_issues_count": 689,
+    "forks_count": 35332
   },
   {
     "full_name": "feenkcom/gtoolkit",
-    "stargazers_count": 970,
-    "open_issues_count": 257,
+    "stargazers_count": 971,
+    "open_issues_count": 258,
     "forks_count": 45
   },
   {
@@ -97,86 +121,62 @@
   },
   {
     "full_name": "dlvhdr/gh-dash",
-    "stargazers_count": 3830,
-    "open_issues_count": 42,
-    "forks_count": 148
+    "stargazers_count": 3834,
+    "open_issues_count": 43,
+    "forks_count": 150
   },
   {
     "full_name": "cirruslabs/tart",
-    "stargazers_count": 2441,
+    "stargazers_count": 2449,
     "open_issues_count": 14,
     "forks_count": 69
   },
   {
     "full_name": "ptoomey3/Keychain-Dumper",
-    "stargazers_count": 1267,
+    "stargazers_count": 1270,
     "open_issues_count": 17,
     "forks_count": 303
   },
   {
     "full_name": "d3vr/yt-siphon",
-    "stargazers_count": 291,
-    "open_issues_count": 4,
+    "stargazers_count": 298,
+    "open_issues_count": 5,
     "forks_count": 10
   },
   {
     "full_name": "nolenroyalty/flappy-dird",
-    "stargazers_count": 122,
+    "stargazers_count": 126,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "XcodesOrg/XcodesApp",
-    "stargazers_count": 5842,
+    "stargazers_count": 5855,
     "open_issues_count": 99,
     "forks_count": 243
   },
   {
     "full_name": "XcodesOrg/xcodes",
-    "stargazers_count": 3166,
+    "stargazers_count": 3173,
     "open_issues_count": 91,
     "forks_count": 104
   },
   {
     "full_name": "microsoft/chat-copilot",
-    "stargazers_count": 990,
-    "open_issues_count": 71,
-    "forks_count": 318
+    "stargazers_count": 1015,
+    "open_issues_count": 73,
+    "forks_count": 330
   },
   {
     "full_name": "rlane/oort3",
-    "stargazers_count": 215,
-    "open_issues_count": 8,
-    "forks_count": 19
+    "stargazers_count": 223,
+    "open_issues_count": 6,
+    "forks_count": 20
   },
   {
     "full_name": "paintdotnet/release",
-    "stargazers_count": 985,
+    "stargazers_count": 989,
     "open_issues_count": 0,
-    "forks_count": 34
-  },
-  {
-    "full_name": "MikeMcQuaid/dotfiles",
-    "stargazers_count": 252,
-    "open_issues_count": 0,
-    "forks_count": 146
-  },
-  {
-    "full_name": "0xmachos/macos-scripts",
-    "stargazers_count": 100,
-    "open_issues_count": 0,
-    "forks_count": 10
-  },
-  {
-    "full_name": "jjjake/internetarchive",
-    "stargazers_count": 1374,
-    "open_issues_count": 69,
-    "forks_count": 203
-  },
-  {
-    "full_name": "linuxserver/docker-swag",
-    "stargazers_count": 2243,
-    "open_issues_count": 13,
-    "forks_count": 221
+    "forks_count": 35
   }
 ]
