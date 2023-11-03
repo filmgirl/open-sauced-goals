@@ -1,9 +1,9 @@
 [
   {
     "full_name": "OpenSignLabs/OpenSign",
-    "stargazers_count": 1183,
+    "stargazers_count": 1726,
     "open_issues_count": 19,
-    "forks_count": 52
+    "forks_count": 88
   },
   {
     "full_name": "MacThings/anymacos",
@@ -13,27 +13,27 @@
   },
   {
     "full_name": "kjaymiller/hbcu-list",
-    "stargazers_count": 11,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "spdustin/ChatGPT-AutoExpert",
-    "stargazers_count": 4569,
-    "open_issues_count": 11,
-    "forks_count": 282
+    "stargazers_count": 4693,
+    "open_issues_count": 9,
+    "forks_count": 287
   },
   {
     "full_name": "iansinnott/alfred-maestro",
     "stargazers_count": 396,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 23
   },
   {
     "full_name": "AndrewWalsh/openapi-devtools",
-    "stargazers_count": 3186,
-    "open_issues_count": 4,
-    "forks_count": 44
+    "stargazers_count": 3291,
+    "open_issues_count": 5,
+    "forks_count": 48
   },
   {
     "full_name": "keynotebingo/keynotebingo.github.io",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "TortugaPower/BookPlayer",
-    "stargazers_count": 1311,
+    "stargazers_count": 1315,
     "open_issues_count": 102,
-    "forks_count": 170
+    "forks_count": 171
   },
   {
     "full_name": "RobertPeip/Mister64",
-    "stargazers_count": 214,
+    "stargazers_count": 227,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "simple64/simple64",
-    "stargazers_count": 701,
+    "stargazers_count": 703,
     "open_issues_count": 24,
     "forks_count": 59
   },
   {
     "full_name": "mupen64plus/mupen64plus-core",
-    "stargazers_count": 1147,
+    "stargazers_count": 1149,
     "open_issues_count": 183,
     "forks_count": 229
   },
@@ -79,20 +79,20 @@
   },
   {
     "full_name": "ckolderup/postmarks",
-    "stargazers_count": 374,
-    "open_issues_count": 58,
-    "forks_count": 29
+    "stargazers_count": 375,
+    "open_issues_count": 55,
+    "forks_count": 30
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 255963,
-    "open_issues_count": 689,
-    "forks_count": 35332
+    "stargazers_count": 256406,
+    "open_issues_count": 699,
+    "forks_count": 35365
   },
   {
     "full_name": "feenkcom/gtoolkit",
     "stargazers_count": 971,
-    "open_issues_count": 258,
+    "open_issues_count": 260,
     "forks_count": 45
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "yusukebe/gh-markdown-preview",
-    "stargazers_count": 348,
+    "stargazers_count": 350,
     "open_issues_count": 9,
     "forks_count": 15
   },
@@ -121,14 +121,14 @@
   },
   {
     "full_name": "dlvhdr/gh-dash",
-    "stargazers_count": 3834,
+    "stargazers_count": 3838,
     "open_issues_count": 43,
     "forks_count": 150
   },
   {
     "full_name": "cirruslabs/tart",
-    "stargazers_count": 2449,
-    "open_issues_count": 14,
+    "stargazers_count": 2456,
+    "open_issues_count": 15,
     "forks_count": 69
   },
   {
@@ -139,43 +139,43 @@
   },
   {
     "full_name": "d3vr/yt-siphon",
-    "stargazers_count": 298,
+    "stargazers_count": 303,
     "open_issues_count": 5,
     "forks_count": 10
   },
   {
     "full_name": "nolenroyalty/flappy-dird",
-    "stargazers_count": 126,
+    "stargazers_count": 129,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "XcodesOrg/XcodesApp",
-    "stargazers_count": 5855,
-    "open_issues_count": 99,
+    "stargazers_count": 5860,
+    "open_issues_count": 100,
     "forks_count": 243
   },
   {
     "full_name": "XcodesOrg/xcodes",
-    "stargazers_count": 3173,
+    "stargazers_count": 3180,
     "open_issues_count": 91,
-    "forks_count": 104
+    "forks_count": 105
   },
   {
     "full_name": "microsoft/chat-copilot",
-    "stargazers_count": 1015,
-    "open_issues_count": 73,
-    "forks_count": 330
+    "stargazers_count": 1036,
+    "open_issues_count": 72,
+    "forks_count": 341
   },
   {
     "full_name": "rlane/oort3",
-    "stargazers_count": 223,
+    "stargazers_count": 231,
     "open_issues_count": 6,
     "forks_count": 20
   },
   {
     "full_name": "paintdotnet/release",
-    "stargazers_count": 989,
+    "stargazers_count": 992,
     "open_issues_count": 0,
     "forks_count": 35
   }
