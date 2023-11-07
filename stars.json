@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "id-Software/DOOM",
+    "stargazers_count": 11216,
+    "open_issues_count": 7,
+    "forks_count": 1934
+  },
+  {
     "full_name": "OpenSignLabs/OpenSign",
-    "stargazers_count": 1726,
-    "open_issues_count": 19,
-    "forks_count": 88
+    "stargazers_count": 1901,
+    "open_issues_count": 20,
+    "forks_count": 92
   },
   {
     "full_name": "MacThings/anymacos",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -19,20 +25,20 @@
   },
   {
     "full_name": "spdustin/ChatGPT-AutoExpert",
-    "stargazers_count": 4693,
-    "open_issues_count": 9,
-    "forks_count": 287
+    "stargazers_count": 4967,
+    "open_issues_count": 5,
+    "forks_count": 299
   },
   {
     "full_name": "iansinnott/alfred-maestro",
     "stargazers_count": 396,
-    "open_issues_count": 17,
+    "open_issues_count": 16,
     "forks_count": 23
   },
   {
     "full_name": "AndrewWalsh/openapi-devtools",
-    "stargazers_count": 3291,
-    "open_issues_count": 5,
+    "stargazers_count": 3361,
+    "open_issues_count": 3,
     "forks_count": 48
   },
   {
@@ -43,32 +49,32 @@
   },
   {
     "full_name": "TortugaPower/BookPlayer",
-    "stargazers_count": 1315,
-    "open_issues_count": 102,
+    "stargazers_count": 1318,
+    "open_issues_count": 104,
     "forks_count": 171
   },
   {
     "full_name": "RobertPeip/Mister64",
-    "stargazers_count": 227,
+    "stargazers_count": 237,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "command-tab/awesome-n64-development",
-    "stargazers_count": 288,
+    "stargazers_count": 290,
     "open_issues_count": 0,
     "forks_count": 25
   },
   {
     "full_name": "simple64/simple64",
-    "stargazers_count": 703,
+    "stargazers_count": 705,
     "open_issues_count": 24,
     "forks_count": 59
   },
   {
     "full_name": "mupen64plus/mupen64plus-core",
     "stargazers_count": 1149,
-    "open_issues_count": 183,
+    "open_issues_count": 182,
     "forks_count": 229
   },
   {
@@ -79,20 +85,20 @@
   },
   {
     "full_name": "ckolderup/postmarks",
-    "stargazers_count": 375,
-    "open_issues_count": 55,
+    "stargazers_count": 380,
+    "open_issues_count": 56,
     "forks_count": 30
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 256406,
-    "open_issues_count": 699,
-    "forks_count": 35365
+    "stargazers_count": 256806,
+    "open_issues_count": 702,
+    "forks_count": 35393
   },
   {
     "full_name": "feenkcom/gtoolkit",
-    "stargazers_count": 971,
-    "open_issues_count": 260,
+    "stargazers_count": 991,
+    "open_issues_count": 256,
     "forks_count": 45
   },
   {
@@ -109,74 +115,68 @@
   },
   {
     "full_name": "yusukebe/gh-markdown-preview",
-    "stargazers_count": 350,
+    "stargazers_count": 351,
     "open_issues_count": 9,
     "forks_count": 15
   },
   {
     "full_name": "jrnxf/gh-eco",
-    "stargazers_count": 353,
+    "stargazers_count": 354,
     "open_issues_count": 3,
     "forks_count": 8
   },
   {
     "full_name": "dlvhdr/gh-dash",
-    "stargazers_count": 3838,
+    "stargazers_count": 3851,
     "open_issues_count": 43,
-    "forks_count": 150
+    "forks_count": 151
   },
   {
     "full_name": "cirruslabs/tart",
-    "stargazers_count": 2456,
-    "open_issues_count": 15,
+    "stargazers_count": 2459,
+    "open_issues_count": 14,
     "forks_count": 69
   },
   {
     "full_name": "ptoomey3/Keychain-Dumper",
-    "stargazers_count": 1270,
+    "stargazers_count": 1271,
     "open_issues_count": 17,
     "forks_count": 303
   },
   {
     "full_name": "d3vr/yt-siphon",
-    "stargazers_count": 303,
+    "stargazers_count": 307,
     "open_issues_count": 5,
     "forks_count": 10
   },
   {
     "full_name": "nolenroyalty/flappy-dird",
-    "stargazers_count": 129,
+    "stargazers_count": 133,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "XcodesOrg/XcodesApp",
-    "stargazers_count": 5860,
+    "stargazers_count": 5871,
     "open_issues_count": 100,
-    "forks_count": 243
+    "forks_count": 245
   },
   {
     "full_name": "XcodesOrg/xcodes",
-    "stargazers_count": 3180,
+    "stargazers_count": 3192,
     "open_issues_count": 91,
     "forks_count": 105
   },
   {
     "full_name": "microsoft/chat-copilot",
-    "stargazers_count": 1036,
+    "stargazers_count": 1058,
     "open_issues_count": 72,
-    "forks_count": 341
+    "forks_count": 348
   },
   {
     "full_name": "rlane/oort3",
-    "stargazers_count": 231,
-    "open_issues_count": 6,
+    "stargazers_count": 242,
+    "open_issues_count": 9,
     "forks_count": 20
-  },
-  {
-    "full_name": "paintdotnet/release",
-    "stargazers_count": 992,
-    "open_issues_count": 0,
-    "forks_count": 35
   }
 ]
