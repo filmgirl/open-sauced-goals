@@ -1,15 +1,39 @@
 [
   {
+    "full_name": "docker/genai-stack",
+    "stargazers_count": 1365,
+    "open_issues_count": 22,
+    "forks_count": 238
+  },
+  {
+    "full_name": "Gazler/githug",
+    "stargazers_count": 6755,
+    "open_issues_count": 43,
+    "forks_count": 1048
+  },
+  {
+    "full_name": "doctorguile/faster-whisper-dictation",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "natrys/whisper.el",
+    "stargazers_count": 78,
+    "open_issues_count": 1,
+    "forks_count": 7
+  },
+  {
     "full_name": "id-Software/DOOM",
-    "stargazers_count": 11216,
+    "stargazers_count": 11241,
     "open_issues_count": 7,
-    "forks_count": 1934
+    "forks_count": 1938
   },
   {
     "full_name": "OpenSignLabs/OpenSign",
-    "stargazers_count": 1901,
-    "open_issues_count": 20,
-    "forks_count": 92
+    "stargazers_count": 1950,
+    "open_issues_count": 13,
+    "forks_count": 95
   },
   {
     "full_name": "MacThings/anymacos",
@@ -25,9 +49,9 @@
   },
   {
     "full_name": "spdustin/ChatGPT-AutoExpert",
-    "stargazers_count": 4967,
-    "open_issues_count": 5,
-    "forks_count": 299
+    "stargazers_count": 5078,
+    "open_issues_count": 7,
+    "forks_count": 309
   },
   {
     "full_name": "iansinnott/alfred-maestro",
@@ -37,44 +61,44 @@
   },
   {
     "full_name": "AndrewWalsh/openapi-devtools",
-    "stargazers_count": 3361,
-    "open_issues_count": 3,
+    "stargazers_count": 3393,
+    "open_issues_count": 2,
     "forks_count": 48
   },
   {
     "full_name": "keynotebingo/keynotebingo.github.io",
     "stargazers_count": 10,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "TortugaPower/BookPlayer",
-    "stargazers_count": 1318,
-    "open_issues_count": 104,
-    "forks_count": 171
+    "stargazers_count": 1325,
+    "open_issues_count": 105,
+    "forks_count": 172
   },
   {
     "full_name": "RobertPeip/Mister64",
-    "stargazers_count": 237,
+    "stargazers_count": 246,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "command-tab/awesome-n64-development",
     "stargazers_count": 290,
     "open_issues_count": 0,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "simple64/simple64",
-    "stargazers_count": 705,
+    "stargazers_count": 706,
     "open_issues_count": 24,
     "forks_count": 59
   },
   {
     "full_name": "mupen64plus/mupen64plus-core",
-    "stargazers_count": 1149,
-    "open_issues_count": 182,
+    "stargazers_count": 1150,
+    "open_issues_count": 183,
     "forks_count": 229
   },
   {
@@ -85,25 +109,25 @@
   },
   {
     "full_name": "ckolderup/postmarks",
-    "stargazers_count": 380,
+    "stargazers_count": 381,
     "open_issues_count": 56,
     "forks_count": 30
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 256806,
-    "open_issues_count": 702,
-    "forks_count": 35393
+    "stargazers_count": 257060,
+    "open_issues_count": 707,
+    "forks_count": 35437
   },
   {
     "full_name": "feenkcom/gtoolkit",
-    "stargazers_count": 991,
-    "open_issues_count": 256,
+    "stargazers_count": 992,
+    "open_issues_count": 254,
     "forks_count": 45
   },
   {
     "full_name": "defnull/fediwall",
-    "stargazers_count": 23,
+    "stargazers_count": 22,
     "open_issues_count": 5,
     "forks_count": 2
   },
@@ -115,31 +139,31 @@
   },
   {
     "full_name": "yusukebe/gh-markdown-preview",
-    "stargazers_count": 351,
+    "stargazers_count": 353,
     "open_issues_count": 9,
     "forks_count": 15
   },
   {
     "full_name": "jrnxf/gh-eco",
-    "stargazers_count": 354,
+    "stargazers_count": 356,
     "open_issues_count": 3,
     "forks_count": 8
   },
   {
     "full_name": "dlvhdr/gh-dash",
-    "stargazers_count": 3851,
+    "stargazers_count": 3856,
     "open_issues_count": 43,
     "forks_count": 151
   },
   {
     "full_name": "cirruslabs/tart",
-    "stargazers_count": 2459,
-    "open_issues_count": 14,
-    "forks_count": 69
+    "stargazers_count": 2466,
+    "open_issues_count": 11,
+    "forks_count": 71
   },
   {
     "full_name": "ptoomey3/Keychain-Dumper",
-    "stargazers_count": 1271,
+    "stargazers_count": 1274,
     "open_issues_count": 17,
     "forks_count": 303
   },
@@ -151,32 +175,8 @@
   },
   {
     "full_name": "nolenroyalty/flappy-dird",
-    "stargazers_count": 133,
+    "stargazers_count": 135,
     "open_issues_count": 1,
-    "forks_count": 4
-  },
-  {
-    "full_name": "XcodesOrg/XcodesApp",
-    "stargazers_count": 5871,
-    "open_issues_count": 100,
-    "forks_count": 245
-  },
-  {
-    "full_name": "XcodesOrg/xcodes",
-    "stargazers_count": 3192,
-    "open_issues_count": 91,
-    "forks_count": 105
-  },
-  {
-    "full_name": "microsoft/chat-copilot",
-    "stargazers_count": 1058,
-    "open_issues_count": 72,
-    "forks_count": 348
-  },
-  {
-    "full_name": "rlane/oort3",
-    "stargazers_count": 242,
-    "open_issues_count": 9,
-    "forks_count": 20
+    "forks_count": 5
   }
 ]
