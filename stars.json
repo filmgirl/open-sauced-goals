@@ -1,15 +1,51 @@
 [
   {
+    "full_name": "JailBreakC/font-collector",
+    "stargazers_count": 107,
+    "open_issues_count": 4,
+    "forks_count": 19
+  },
+  {
+    "full_name": "purplebamboo/font-carrier",
+    "stargazers_count": 1586,
+    "open_issues_count": 27,
+    "forks_count": 189
+  },
+  {
+    "full_name": "zeldaret/oot",
+    "stargazers_count": 4261,
+    "open_issues_count": 31,
+    "forks_count": 545
+  },
+  {
+    "full_name": "quanganhdo/interlink-web-extension",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "PhilipK/BoilR",
+    "stargazers_count": 1149,
+    "open_issues_count": 61,
+    "forks_count": 33
+  },
+  {
+    "full_name": "moraroy/NonSteamLaunchers-On-Steam-Deck",
+    "stargazers_count": 1219,
+    "open_issues_count": 40,
+    "forks_count": 27
+  },
+  {
     "full_name": "the-rarbg/yaps",
-    "stargazers_count": 156,
+    "stargazers_count": 157,
     "open_issues_count": 6,
     "forks_count": 15
   },
   {
     "full_name": "mackorone/spotify-playlist-archive",
-    "stargazers_count": 347,
+    "stargazers_count": 349,
     "open_issues_count": 1,
-    "forks_count": 175
+    "forks_count": 176
   },
   {
     "full_name": "skamensky/tampermonkeyscripts",
@@ -19,63 +55,63 @@
   },
   {
     "full_name": "kamranahmedse/local-ses",
-    "stargazers_count": 130,
-    "open_issues_count": 3,
+    "stargazers_count": 135,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "axllent/mailpit",
-    "stargazers_count": 3454,
-    "open_issues_count": 2,
-    "forks_count": 81
+    "stargazers_count": 3491,
+    "open_issues_count": 3,
+    "forks_count": 83
   },
   {
     "full_name": "cxli233/FriendsDontLetFriends",
-    "stargazers_count": 3155,
-    "open_issues_count": 6,
-    "forks_count": 85
+    "stargazers_count": 3408,
+    "open_issues_count": 7,
+    "forks_count": 97
   },
   {
     "full_name": "mRs-/Black-Friday-Deals",
-    "stargazers_count": 1471,
-    "open_issues_count": 5,
-    "forks_count": 277
+    "stargazers_count": 1659,
+    "open_issues_count": 2,
+    "forks_count": 366
   },
   {
     "full_name": "BuilderIO/gpt-crawler",
-    "stargazers_count": 11094,
-    "open_issues_count": 34,
-    "forks_count": 734
+    "stargazers_count": 12252,
+    "open_issues_count": 44,
+    "forks_count": 868
   },
   {
     "full_name": "blender/blender",
-    "stargazers_count": 10139,
-    "open_issues_count": 2,
-    "forks_count": 1666
+    "stargazers_count": 10169,
+    "open_issues_count": 3,
+    "forks_count": 1673
   },
   {
     "full_name": "DeadlyRedCube/Cathode-Retro",
-    "stargazers_count": 662,
+    "stargazers_count": 681,
     "open_issues_count": 4,
     "forks_count": 10
   },
   {
     "full_name": "pluja/whishper",
-    "stargazers_count": 323,
-    "open_issues_count": 21,
-    "forks_count": 15
+    "stargazers_count": 333,
+    "open_issues_count": 18,
+    "forks_count": 17
   },
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 1583,
-    "open_issues_count": 26,
-    "forks_count": 278
+    "stargazers_count": 1621,
+    "open_issues_count": 29,
+    "forks_count": 284
   },
   {
     "full_name": "Gazler/githug",
-    "stargazers_count": 6758,
+    "stargazers_count": 6759,
     "open_issues_count": 43,
-    "forks_count": 1049
+    "forks_count": 1048
   },
   {
     "full_name": "doctorguile/faster-whisper-dictation",
@@ -85,21 +121,21 @@
   },
   {
     "full_name": "natrys/whisper.el",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 3,
     "forks_count": 6
   },
   {
     "full_name": "id-Software/DOOM",
-    "stargazers_count": 11313,
+    "stargazers_count": 11340,
     "open_issues_count": 7,
-    "forks_count": 1956
+    "forks_count": 1961
   },
   {
     "full_name": "OpenSignLabs/OpenSign",
-    "stargazers_count": 2114,
-    "open_issues_count": 12,
-    "forks_count": 111
+    "stargazers_count": 2149,
+    "open_issues_count": 15,
+    "forks_count": 113
   },
   {
     "full_name": "MacThings/anymacos",
@@ -115,19 +151,19 @@
   },
   {
     "full_name": "spdustin/ChatGPT-AutoExpert",
-    "stargazers_count": 5508,
-    "open_issues_count": 7,
-    "forks_count": 349
+    "stargazers_count": 5568,
+    "open_issues_count": 8,
+    "forks_count": 354
   },
   {
     "full_name": "iansinnott/alfred-maestro",
-    "stargazers_count": 399,
+    "stargazers_count": 400,
     "open_issues_count": 16,
     "forks_count": 23
   },
   {
     "full_name": "AndrewWalsh/openapi-devtools",
-    "stargazers_count": 3481,
+    "stargazers_count": 3495,
     "open_issues_count": 1,
     "forks_count": 52
   },
@@ -139,44 +175,8 @@
   },
   {
     "full_name": "TortugaPower/BookPlayer",
-    "stargazers_count": 1336,
-    "open_issues_count": 107,
+    "stargazers_count": 1340,
+    "open_issues_count": 105,
     "forks_count": 175
-  },
-  {
-    "full_name": "RobertPeip/Mister64",
-    "stargazers_count": 266,
-    "open_issues_count": 0,
-    "forks_count": 12
-  },
-  {
-    "full_name": "command-tab/awesome-n64-development",
-    "stargazers_count": 292,
-    "open_issues_count": 0,
-    "forks_count": 26
-  },
-  {
-    "full_name": "simple64/simple64",
-    "stargazers_count": 708,
-    "open_issues_count": 25,
-    "forks_count": 58
-  },
-  {
-    "full_name": "mupen64plus/mupen64plus-core",
-    "stargazers_count": 1151,
-    "open_issues_count": 188,
-    "forks_count": 229
-  },
-  {
-    "full_name": "AerialScreensaver/AerialCompanion",
-    "stargazers_count": 283,
-    "open_issues_count": 17,
-    "forks_count": 7
-  },
-  {
-    "full_name": "ckolderup/postmarks",
-    "stargazers_count": 388,
-    "open_issues_count": 59,
-    "forks_count": 32
   }
 ]
