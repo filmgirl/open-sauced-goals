@@ -1,9 +1,129 @@
 [
   {
+    "full_name": "RootMyTV/RootMyTV.github.io",
+    "stargazers_count": 1991,
+    "open_issues_count": 53,
+    "forks_count": 56
+  },
+  {
+    "full_name": "sunxfancy/vscode-llvm",
+    "stargazers_count": 150,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "typicode/lowdb",
+    "stargazers_count": 20310,
+    "open_issues_count": 1,
+    "forks_count": 936
+  },
+  {
+    "full_name": "good-lly/lowstorage",
+    "stargazers_count": 126,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "danny-avila/LibreChat",
+    "stargazers_count": 2731,
+    "open_issues_count": 48,
+    "forks_count": 708
+  },
+  {
+    "full_name": "dragoonDorise/EmuDeck",
+    "stargazers_count": 2271,
+    "open_issues_count": 143,
+    "forks_count": 157
+  },
+  {
+    "full_name": "SteamGridDB/steam-rom-manager",
+    "stargazers_count": 1588,
+    "open_issues_count": 77,
+    "forks_count": 114
+  },
+  {
+    "full_name": "mikeroyal/Steam-Deck-Guide",
+    "stargazers_count": 1725,
+    "open_issues_count": 7,
+    "forks_count": 54
+  },
+  {
+    "full_name": "denis-g/steam-deck-optimization-guide",
+    "stargazers_count": 53,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "SteamDeckHomebrew/decky-plugin-database",
+    "stargazers_count": 103,
+    "open_issues_count": 14,
+    "forks_count": 73
+  },
+  {
+    "full_name": "ryanrudolfoba/SteamDeck-Clover-dualboot",
+    "stargazers_count": 244,
+    "open_issues_count": 3,
+    "forks_count": 14
+  },
+  {
+    "full_name": "jlobue10/SteamDeck_rEFInd",
+    "stargazers_count": 442,
+    "open_issues_count": 8,
+    "forks_count": 47
+  },
+  {
+    "full_name": "wilco42/awesome-steamdeck",
+    "stargazers_count": 48,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "Mozilla-Ocho/llamafile",
+    "stargazers_count": 4432,
+    "open_issues_count": 20,
+    "forks_count": 190
+  },
+  {
+    "full_name": "lllyasviel/Fooocus",
+    "stargazers_count": 23061,
+    "open_issues_count": 470,
+    "forks_count": 2106
+  },
+  {
+    "full_name": "VikParuchuri/marker",
+    "stargazers_count": 3470,
+    "open_issues_count": 15,
+    "forks_count": 87
+  },
+  {
+    "full_name": "JetBrains/writerside-project-templates",
+    "stargazers_count": 9,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "JetBrains/writerside-github-action",
+    "stargazers_count": 35,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
+    "full_name": "JetBrains/intellij-plugins",
+    "stargazers_count": 2027,
+    "open_issues_count": 26,
+    "forks_count": 1013
+  },
+  {
+    "full_name": "Azure-Samples/azure-search-openai-demo",
+    "stargazers_count": 4291,
+    "open_issues_count": 288,
+    "forks_count": 2473
+  },
+  {
     "full_name": "hashicorp/hashicat-aws",
     "stargazers_count": 26,
     "open_issues_count": 44,
-    "forks_count": 2849
+    "forks_count": 2850
   },
   {
     "full_name": "JailBreakC/font-collector",
@@ -19,8 +139,8 @@
   },
   {
     "full_name": "zeldaret/oot",
-    "stargazers_count": 4264,
-    "open_issues_count": 29,
+    "stargazers_count": 4270,
+    "open_issues_count": 30,
     "forks_count": 546
   },
   {
@@ -31,14 +151,14 @@
   },
   {
     "full_name": "PhilipK/BoilR",
-    "stargazers_count": 1152,
-    "open_issues_count": 62,
+    "stargazers_count": 1159,
+    "open_issues_count": 63,
     "forks_count": 33
   },
   {
     "full_name": "moraroy/NonSteamLaunchers-On-Steam-Deck",
-    "stargazers_count": 1245,
-    "open_issues_count": 41,
+    "stargazers_count": 1267,
+    "open_issues_count": 42,
     "forks_count": 27
   },
   {
@@ -50,133 +170,13 @@
   {
     "full_name": "mackorone/spotify-playlist-archive",
     "stargazers_count": 351,
-    "open_issues_count": 3,
-    "forks_count": 178
+    "open_issues_count": 2,
+    "forks_count": 177
   },
   {
     "full_name": "skamensky/tampermonkeyscripts",
     "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "kamranahmedse/local-ses",
-    "stargazers_count": 138,
-    "open_issues_count": 1,
-    "forks_count": 2
-  },
-  {
-    "full_name": "axllent/mailpit",
-    "stargazers_count": 3510,
-    "open_issues_count": 4,
-    "forks_count": 83
-  },
-  {
-    "full_name": "cxli233/FriendsDontLetFriends",
-    "stargazers_count": 3670,
-    "open_issues_count": 7,
-    "forks_count": 101
-  },
-  {
-    "full_name": "mRs-/Black-Friday-Deals",
-    "stargazers_count": 1685,
-    "open_issues_count": 3,
-    "forks_count": 394
-  },
-  {
-    "full_name": "BuilderIO/gpt-crawler",
-    "stargazers_count": 12899,
-    "open_issues_count": 52,
-    "forks_count": 954
-  },
-  {
-    "full_name": "blender/blender",
-    "stargazers_count": 10210,
-    "open_issues_count": 3,
-    "forks_count": 1674
-  },
-  {
-    "full_name": "DeadlyRedCube/Cathode-Retro",
-    "stargazers_count": 691,
-    "open_issues_count": 3,
-    "forks_count": 10
-  },
-  {
-    "full_name": "pluja/whishper",
-    "stargazers_count": 347,
-    "open_issues_count": 21,
-    "forks_count": 17
-  },
-  {
-    "full_name": "docker/genai-stack",
-    "stargazers_count": 1651,
-    "open_issues_count": 32,
-    "forks_count": 292
-  },
-  {
-    "full_name": "Gazler/githug",
-    "stargazers_count": 6759,
-    "open_issues_count": 43,
-    "forks_count": 1049
-  },
-  {
-    "full_name": "doctorguile/faster-whisper-dictation",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "natrys/whisper.el",
-    "stargazers_count": 85,
-    "open_issues_count": 3,
-    "forks_count": 6
-  },
-  {
-    "full_name": "id-Software/DOOM",
-    "stargazers_count": 11389,
-    "open_issues_count": 7,
-    "forks_count": 1964
-  },
-  {
-    "full_name": "OpenSignLabs/OpenSign",
-    "stargazers_count": 2161,
-    "open_issues_count": 13,
-    "forks_count": 114
-  },
-  {
-    "full_name": "MacThings/anymacos",
-    "stargazers_count": 32,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "kjaymiller/hbcu-list",
-    "stargazers_count": 14,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "spdustin/ChatGPT-AutoExpert",
-    "stargazers_count": 5623,
-    "open_issues_count": 8,
-    "forks_count": 359
-  },
-  {
-    "full_name": "iansinnott/alfred-maestro",
-    "stargazers_count": 400,
-    "open_issues_count": 16,
-    "forks_count": 23
-  },
-  {
-    "full_name": "AndrewWalsh/openapi-devtools",
-    "stargazers_count": 3507,
-    "open_issues_count": 1,
-    "forks_count": 53
-  },
-  {
-    "full_name": "keynotebingo/keynotebingo.github.io",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 9
   }
 ]
