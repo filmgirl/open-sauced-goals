@@ -1,15 +1,39 @@
 [
   {
+    "full_name": "skypilot-org/skypilot",
+    "stargazers_count": 4473,
+    "open_issues_count": 317,
+    "forks_count": 287
+  },
+  {
+    "full_name": "OpenAccess-AI-Collective/axolotl",
+    "stargazers_count": 2410,
+    "open_issues_count": 153,
+    "forks_count": 252
+  },
+  {
+    "full_name": "AwesomeIndustry/SIMLessPNRGateway",
+    "stargazers_count": 13,
+    "open_issues_count": 4,
+    "forks_count": 1
+  },
+  {
+    "full_name": "unknownskl/greenlight",
+    "stargazers_count": 1576,
+    "open_issues_count": 130,
+    "forks_count": 92
+  },
+  {
     "full_name": "batocera-linux/batocera.linux",
-    "stargazers_count": 1501,
-    "open_issues_count": 333,
+    "stargazers_count": 1504,
+    "open_issues_count": 320,
     "forks_count": 353
   },
   {
     "full_name": "CryoByte33/steam-deck-utilities",
-    "stargazers_count": 2593,
+    "stargazers_count": 2603,
     "open_issues_count": 47,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "lVlyke/starfield-mod-loader",
@@ -19,86 +43,86 @@
   },
   {
     "full_name": "JosefNemec/Playnite",
-    "stargazers_count": 7248,
+    "stargazers_count": 7269,
     "open_issues_count": 570,
-    "forks_count": 440
+    "forks_count": 441
   },
   {
     "full_name": "ublue-os/bazzite",
-    "stargazers_count": 876,
-    "open_issues_count": 109,
+    "stargazers_count": 882,
+    "open_issues_count": 113,
     "forks_count": 46
   },
   {
     "full_name": "mtkennerly/ludusavi",
-    "stargazers_count": 1443,
-    "open_issues_count": 40,
+    "stargazers_count": 1450,
+    "open_issues_count": 41,
     "forks_count": 33
   },
   {
     "full_name": "ml-explore/mlx",
-    "stargazers_count": 5856,
-    "open_issues_count": 27,
-    "forks_count": 164
+    "stargazers_count": 8602,
+    "open_issues_count": 44,
+    "forks_count": 492
   },
   {
     "full_name": "ise-uiuc/magicoder",
-    "stargazers_count": 755,
-    "open_issues_count": 0,
-    "forks_count": 110
+    "stargazers_count": 1172,
+    "open_issues_count": 3,
+    "forks_count": 147
   },
   {
     "full_name": "JJTech0130/pypush",
-    "stargazers_count": 2309,
-    "open_issues_count": 14,
-    "forks_count": 307
+    "stargazers_count": 3148,
+    "open_issues_count": 16,
+    "forks_count": 475
   },
   {
     "full_name": "RootMyTV/RootMyTV.github.io",
-    "stargazers_count": 1995,
-    "open_issues_count": 53,
+    "stargazers_count": 1996,
+    "open_issues_count": 54,
     "forks_count": 57
   },
   {
     "full_name": "sunxfancy/vscode-llvm",
-    "stargazers_count": 202,
+    "stargazers_count": 208,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "typicode/lowdb",
-    "stargazers_count": 20328,
-    "open_issues_count": 2,
-    "forks_count": 938
+    "stargazers_count": 20342,
+    "open_issues_count": 1,
+    "forks_count": 939
   },
   {
     "full_name": "good-lly/lowstorage",
-    "stargazers_count": 174,
-    "open_issues_count": 1,
+    "stargazers_count": 179,
+    "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "danny-avila/LibreChat",
-    "stargazers_count": 2889,
+    "stargazers_count": 3122,
     "open_issues_count": 42,
-    "forks_count": 717
+    "forks_count": 756
   },
   {
     "full_name": "dragoonDorise/EmuDeck",
-    "stargazers_count": 2276,
-    "open_issues_count": 143,
-    "forks_count": 157
+    "stargazers_count": 2286,
+    "open_issues_count": 145,
+    "forks_count": 159
   },
   {
     "full_name": "SteamGridDB/steam-rom-manager",
-    "stargazers_count": 1592,
-    "open_issues_count": 55,
+    "stargazers_count": 1598,
+    "open_issues_count": 50,
     "forks_count": 114
   },
   {
     "full_name": "mikeroyal/Steam-Deck-Guide",
-    "stargazers_count": 1728,
-    "open_issues_count": 9,
+    "stargazers_count": 1735,
+    "open_issues_count": 8,
     "forks_count": 54
   },
   {
@@ -109,74 +133,50 @@
   },
   {
     "full_name": "SteamDeckHomebrew/decky-plugin-database",
-    "stargazers_count": 106,
-    "open_issues_count": 14,
-    "forks_count": 73
+    "stargazers_count": 107,
+    "open_issues_count": 15,
+    "forks_count": 74
   },
   {
     "full_name": "ryanrudolfoba/SteamDeck-Clover-dualboot",
-    "stargazers_count": 249,
-    "open_issues_count": 4,
-    "forks_count": 14
+    "stargazers_count": 252,
+    "open_issues_count": 7,
+    "forks_count": 15
   },
   {
     "full_name": "jlobue10/SteamDeck_rEFInd",
-    "stargazers_count": 444,
+    "stargazers_count": 446,
     "open_issues_count": 9,
     "forks_count": 47
   },
   {
     "full_name": "wilco42/awesome-steamdeck",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "Mozilla-Ocho/llamafile",
-    "stargazers_count": 4980,
-    "open_issues_count": 21,
-    "forks_count": 230
+    "stargazers_count": 5598,
+    "open_issues_count": 17,
+    "forks_count": 259
   },
   {
     "full_name": "lllyasviel/Fooocus",
-    "stargazers_count": 24137,
-    "open_issues_count": 518,
-    "forks_count": 2300
+    "stargazers_count": 24903,
+    "open_issues_count": 548,
+    "forks_count": 2436
   },
   {
     "full_name": "VikParuchuri/marker",
-    "stargazers_count": 3954,
-    "open_issues_count": 16,
-    "forks_count": 101
+    "stargazers_count": 4525,
+    "open_issues_count": 17,
+    "forks_count": 119
   },
   {
     "full_name": "JetBrains/writerside-project-templates",
     "stargazers_count": 9,
     "open_issues_count": 1,
     "forks_count": 0
-  },
-  {
-    "full_name": "JetBrains/writerside-github-action",
-    "stargazers_count": 36,
-    "open_issues_count": 2,
-    "forks_count": 0
-  },
-  {
-    "full_name": "JetBrains/intellij-plugins",
-    "stargazers_count": 2029,
-    "open_issues_count": 26,
-    "forks_count": 1012
-  },
-  {
-    "full_name": "Azure-Samples/azure-search-openai-demo",
-    "stargazers_count": 4314,
-    "open_issues_count": 285,
-    "forks_count": 2500
-  },
-  {
-    "full_name": "hashicorp/hashicat-aws",
-    "stargazers_count": 26,
-    "open_issues_count": 44,
-    "forks_count": 2851
   }
 ]
