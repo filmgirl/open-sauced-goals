@@ -1,5 +1,41 @@
 [
   {
+    "full_name": "DuoStream/Duo",
+    "stargazers_count": 107,
+    "open_issues_count": 10,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ayufan/steam-deck-tools",
+    "stargazers_count": 734,
+    "open_issues_count": 86,
+    "forks_count": 54
+  },
+  {
+    "full_name": "Valkirie/HandheldCompanion",
+    "stargazers_count": 842,
+    "open_issues_count": 114,
+    "forks_count": 64
+  },
+  {
+    "full_name": "Jovian-Experiments/Jovian-NixOS",
+    "stargazers_count": 296,
+    "open_issues_count": 33,
+    "forks_count": 31
+  },
+  {
+    "full_name": "daduckMSFT/WiFiProfileGenerator",
+    "stargazers_count": 32,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "davidmerfield/Blot",
+    "stargazers_count": 1598,
+    "open_issues_count": 12,
+    "forks_count": 81
+  },
+  {
     "full_name": "macmade/Notarize",
     "stargazers_count": 106,
     "open_issues_count": 0,
@@ -7,19 +43,19 @@
   },
   {
     "full_name": "macmade/Hot",
-    "stargazers_count": 1878,
+    "stargazers_count": 1884,
     "open_issues_count": 14,
     "forks_count": 72
   },
   {
     "full_name": "atom0s/Steamless",
-    "stargazers_count": 2350,
+    "stargazers_count": 2359,
     "open_issues_count": 7,
     "forks_count": 175
   },
   {
     "full_name": "mistydemeo/tigerbrew",
-    "stargazers_count": 502,
+    "stargazers_count": 504,
     "open_issues_count": 198,
     "forks_count": 146
   },
@@ -31,39 +67,39 @@
   },
   {
     "full_name": "kevmo314/codec-from-scratch",
-    "stargazers_count": 216,
+    "stargazers_count": 218,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "leandromoreira/digital_video_introduction",
-    "stargazers_count": 14676,
+    "stargazers_count": 14683,
     "open_issues_count": 20,
     "forks_count": 1281
   },
   {
     "full_name": "apple/ml-ferret",
-    "stargazers_count": 4985,
-    "open_issues_count": 4,
-    "forks_count": 229
+    "stargazers_count": 5502,
+    "open_issues_count": 5,
+    "forks_count": 264
   },
   {
     "full_name": "Platane/snk",
-    "stargazers_count": 3431,
-    "open_issues_count": 0,
-    "forks_count": 682
+    "stargazers_count": 3437,
+    "open_issues_count": 1,
+    "forks_count": 681
   },
   {
     "full_name": "beeper/imessage",
-    "stargazers_count": 806,
-    "open_issues_count": 4,
-    "forks_count": 48
+    "stargazers_count": 820,
+    "open_issues_count": 6,
+    "forks_count": 51
   },
   {
     "full_name": "Librum-Reader/Librum",
-    "stargazers_count": 2842,
-    "open_issues_count": 15,
-    "forks_count": 111
+    "stargazers_count": 2885,
+    "open_issues_count": 17,
+    "forks_count": 114
   },
   {
     "full_name": "ninxsoft/Bombardier",
@@ -73,9 +109,9 @@
   },
   {
     "full_name": "SpotX-Official/SpotX",
-    "stargazers_count": 9854,
+    "stargazers_count": 9880,
     "open_issues_count": 0,
-    "forks_count": 592
+    "forks_count": 595
   },
   {
     "full_name": "domschl/WinSteamOnMac",
@@ -85,98 +121,62 @@
   },
   {
     "full_name": "SkalskiP/courses",
-    "stargazers_count": 4130,
+    "stargazers_count": 4136,
     "open_issues_count": 9,
     "forks_count": 365
   },
   {
     "full_name": "Hannibal046/Awesome-LLM",
-    "stargazers_count": 10797,
-    "open_issues_count": 2,
-    "forks_count": 807
+    "stargazers_count": 10875,
+    "open_issues_count": 1,
+    "forks_count": 817
   },
   {
     "full_name": "AsahiLinux/asahi-installer",
-    "stargazers_count": 696,
+    "stargazers_count": 695,
     "open_issues_count": 46,
     "forks_count": 82
   },
   {
     "full_name": "kyrolabs/awesome-langchain",
-    "stargazers_count": 5863,
+    "stargazers_count": 5880,
     "open_issues_count": 0,
-    "forks_count": 386
+    "forks_count": 390
   },
   {
     "full_name": "facundoolano/feedi",
-    "stargazers_count": 683,
-    "open_issues_count": 12,
-    "forks_count": 19
+    "stargazers_count": 701,
+    "open_issues_count": 13,
+    "forks_count": 20
   },
   {
     "full_name": "mudler/LocalAI",
-    "stargazers_count": 14776,
-    "open_issues_count": 198,
-    "forks_count": 1284
+    "stargazers_count": 14873,
+    "open_issues_count": 200,
+    "forks_count": 1293
   },
   {
     "full_name": "EthicalML/awesome-production-machine-learning",
-    "stargazers_count": 15222,
-    "open_issues_count": 24,
-    "forks_count": 2058
+    "stargazers_count": 15241,
+    "open_issues_count": 13,
+    "forks_count": 2061
   },
   {
     "full_name": "remotion-dev/github-unwrapped-2023",
-    "stargazers_count": 699,
-    "open_issues_count": 10,
-    "forks_count": 51
+    "stargazers_count": 731,
+    "open_issues_count": 8,
+    "forks_count": 56
   },
   {
     "full_name": "microsoft/windows-ai-studio",
-    "stargazers_count": 646,
-    "open_issues_count": 13,
+    "stargazers_count": 660,
+    "open_issues_count": 12,
     "forks_count": 13
   },
   {
     "full_name": "ml-explore/mlx-examples",
-    "stargazers_count": 3073,
-    "open_issues_count": 38,
-    "forks_count": 469
-  },
-  {
-    "full_name": "toland/qlmarkdown",
-    "stargazers_count": 3202,
-    "open_issues_count": 49,
-    "forks_count": 143
-  },
-  {
-    "full_name": "daltonmenezes/aura-theme",
-    "stargazers_count": 2879,
-    "open_issues_count": 21,
-    "forks_count": 131
-  },
-  {
-    "full_name": "foambubble/foam-template",
-    "stargazers_count": 967,
-    "open_issues_count": 3,
-    "forks_count": 357
-  },
-  {
-    "full_name": "jobindjohn/obsidian-publish-mkdocs",
-    "stargazers_count": 401,
-    "open_issues_count": 15,
-    "forks_count": 37
-  },
-  {
-    "full_name": "obsidian-html/obsidian-html",
-    "stargazers_count": 294,
-    "open_issues_count": 38,
-    "forks_count": 87
-  },
-  {
-    "full_name": "oleeskild/obsidian-digital-garden",
-    "stargazers_count": 898,
-    "open_issues_count": 166,
-    "forks_count": 80
+    "stargazers_count": 3153,
+    "open_issues_count": 40,
+    "forks_count": 474
   }
 ]
