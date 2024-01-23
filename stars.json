@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "getredash/redash",
+    "stargazers_count": 24469,
+    "open_issues_count": 593,
+    "forks_count": 4247
+  },
+  {
+    "full_name": "metabase/metabase",
+    "stargazers_count": 35570,
+    "open_issues_count": 3558,
+    "forks_count": 4868
+  },
+  {
+    "full_name": "apache/superset",
+    "stargazers_count": 56312,
+    "open_issues_count": 1787,
+    "forks_count": 12154
+  },
+  {
+    "full_name": "KRTirtho/spotube",
+    "stargazers_count": 18058,
+    "open_issues_count": 235,
+    "forks_count": 697
+  },
+  {
     "full_name": "Mika-/torrent-control",
     "stargazers_count": 153,
     "open_issues_count": 36,
@@ -7,38 +31,38 @@
   },
   {
     "full_name": "MegaManSec/SSH-Snake",
-    "stargazers_count": 897,
+    "stargazers_count": 917,
     "open_issues_count": 0,
-    "forks_count": 50
+    "forks_count": 52
   },
   {
     "full_name": "LorenDB/download-steam-games",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "DuoStream/Duo",
-    "stargazers_count": 117,
+    "stargazers_count": 119,
     "open_issues_count": 7,
     "forks_count": 0
   },
   {
     "full_name": "ayufan/steam-deck-tools",
-    "stargazers_count": 746,
+    "stargazers_count": 749,
     "open_issues_count": 89,
     "forks_count": 54
   },
   {
     "full_name": "Valkirie/HandheldCompanion",
-    "stargazers_count": 873,
-    "open_issues_count": 112,
+    "stargazers_count": 879,
+    "open_issues_count": 115,
     "forks_count": 67
   },
   {
     "full_name": "Jovian-Experiments/Jovian-NixOS",
-    "stargazers_count": 311,
-    "open_issues_count": 36,
+    "stargazers_count": 317,
+    "open_issues_count": 37,
     "forks_count": 33
   },
   {
@@ -49,7 +73,7 @@
   },
   {
     "full_name": "davidmerfield/Blot",
-    "stargazers_count": 1684,
+    "stargazers_count": 1692,
     "open_issues_count": 12,
     "forks_count": 82
   },
@@ -61,13 +85,13 @@
   },
   {
     "full_name": "macmade/Hot",
-    "stargazers_count": 1908,
+    "stargazers_count": 1912,
     "open_issues_count": 14,
     "forks_count": 74
   },
   {
     "full_name": "atom0s/Steamless",
-    "stargazers_count": 2406,
+    "stargazers_count": 2426,
     "open_issues_count": 7,
     "forks_count": 175
   },
@@ -85,39 +109,39 @@
   },
   {
     "full_name": "kevmo314/codec-from-scratch",
-    "stargazers_count": 225,
+    "stargazers_count": 226,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "leandromoreira/digital_video_introduction",
-    "stargazers_count": 14728,
+    "stargazers_count": 14738,
     "open_issues_count": 20,
-    "forks_count": 1288
+    "forks_count": 1289
   },
   {
     "full_name": "apple/ml-ferret",
-    "stargazers_count": 6656,
-    "open_issues_count": 7,
-    "forks_count": 347
+    "stargazers_count": 6829,
+    "open_issues_count": 6,
+    "forks_count": 361
   },
   {
     "full_name": "Platane/snk",
-    "stargazers_count": 3486,
+    "stargazers_count": 3495,
     "open_issues_count": 0,
-    "forks_count": 698
+    "forks_count": 701
   },
   {
     "full_name": "beeper/imessage",
-    "stargazers_count": 880,
-    "open_issues_count": 8,
-    "forks_count": 62
+    "stargazers_count": 885,
+    "open_issues_count": 12,
+    "forks_count": 63
   },
   {
     "full_name": "Librum-Reader/Librum",
-    "stargazers_count": 3162,
+    "stargazers_count": 3165,
     "open_issues_count": 14,
-    "forks_count": 131
+    "forks_count": 132
   },
   {
     "full_name": "ninxsoft/Bombardier",
@@ -127,56 +151,32 @@
   },
   {
     "full_name": "SpotX-Official/SpotX",
-    "stargazers_count": 10130,
+    "stargazers_count": 10189,
     "open_issues_count": 0,
-    "forks_count": 608
+    "forks_count": 609
   },
   {
     "full_name": "domschl/WinSteamOnMac",
-    "stargazers_count": 91,
+    "stargazers_count": 93,
     "open_issues_count": 3,
     "forks_count": 4
   },
   {
     "full_name": "SkalskiP/courses",
-    "stargazers_count": 4214,
+    "stargazers_count": 4222,
     "open_issues_count": 9,
-    "forks_count": 373
+    "forks_count": 374
   },
   {
     "full_name": "Hannibal046/Awesome-LLM",
-    "stargazers_count": 11410,
+    "stargazers_count": 11519,
     "open_issues_count": 2,
-    "forks_count": 858
+    "forks_count": 863
   },
   {
     "full_name": "AsahiLinux/asahi-installer",
     "stargazers_count": 700,
-    "open_issues_count": 49,
-    "forks_count": 86
-  },
-  {
-    "full_name": "kyrolabs/awesome-langchain",
-    "stargazers_count": 6028,
-    "open_issues_count": 0,
-    "forks_count": 398
-  },
-  {
-    "full_name": "facundoolano/feedi",
-    "stargazers_count": 739,
-    "open_issues_count": 16,
-    "forks_count": 20
-  },
-  {
-    "full_name": "mudler/LocalAI",
-    "stargazers_count": 15562,
-    "open_issues_count": 214,
-    "forks_count": 1353
-  },
-  {
-    "full_name": "EthicalML/awesome-production-machine-learning",
-    "stargazers_count": 15318,
-    "open_issues_count": 14,
-    "forks_count": 2068
+    "open_issues_count": 50,
+    "forks_count": 85
   }
 ]
