@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "yattee/yattee",
+    "stargazers_count": 2053,
+    "open_issues_count": 187,
+    "forks_count": 74
+  },
+  {
     "full_name": "ipc103/make-it-taylors-version",
     "stargazers_count": 26,
     "open_issues_count": 0,
@@ -7,69 +13,69 @@
   },
   {
     "full_name": "saagarjha/Ensemble",
-    "stargazers_count": 477,
-    "open_issues_count": 17,
-    "forks_count": 20
+    "stargazers_count": 563,
+    "open_issues_count": 23,
+    "forks_count": 22
   },
   {
     "full_name": "cowboy8625/rusty-rain",
-    "stargazers_count": 305,
+    "stargazers_count": 306,
     "open_issues_count": 7,
     "forks_count": 18
   },
   {
     "full_name": "abishekvashok/cmatrix",
-    "stargazers_count": 3611,
+    "stargazers_count": 3616,
     "open_issues_count": 54,
     "forks_count": 351
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 18064,
-    "open_issues_count": 1296,
-    "forks_count": 585
+    "stargazers_count": 19264,
+    "open_issues_count": 1331,
+    "forks_count": 627
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 22596,
+    "stargazers_count": 23063,
     "open_issues_count": 23,
-    "forks_count": 2181
+    "forks_count": 2235
   },
   {
     "full_name": "goenning/google-indexing-script",
-    "stargazers_count": 5044,
+    "stargazers_count": 5284,
     "open_issues_count": 5,
-    "forks_count": 344
+    "forks_count": 357
   },
   {
     "full_name": "QuantGeekDev/lmaolang",
-    "stargazers_count": 281,
+    "stargazers_count": 294,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "getredash/redash",
-    "stargazers_count": 24533,
-    "open_issues_count": 593,
-    "forks_count": 4263
+    "stargazers_count": 24570,
+    "open_issues_count": 592,
+    "forks_count": 4273
   },
   {
     "full_name": "metabase/metabase",
-    "stargazers_count": 35683,
-    "open_issues_count": 3632,
-    "forks_count": 4898
+    "stargazers_count": 35716,
+    "open_issues_count": 3635,
+    "forks_count": 4902
   },
   {
     "full_name": "apache/superset",
-    "stargazers_count": 56487,
-    "open_issues_count": 1708,
-    "forks_count": 12222
+    "stargazers_count": 56537,
+    "open_issues_count": 1649,
+    "forks_count": 12242
   },
   {
     "full_name": "KRTirtho/spotube",
-    "stargazers_count": 20989,
-    "open_issues_count": 254,
-    "forks_count": 810
+    "stargazers_count": 21284,
+    "open_issues_count": 266,
+    "forks_count": 819
   },
   {
     "full_name": "Mika-/torrent-control",
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "MegaManSec/SSH-Snake",
-    "stargazers_count": 986,
+    "stargazers_count": 993,
     "open_issues_count": 0,
     "forks_count": 56
   },
@@ -91,27 +97,27 @@
   },
   {
     "full_name": "DuoStream/Duo",
-    "stargazers_count": 128,
-    "open_issues_count": 6,
+    "stargazers_count": 139,
+    "open_issues_count": 8,
     "forks_count": 0
   },
   {
     "full_name": "ayufan/steam-deck-tools",
-    "stargazers_count": 756,
+    "stargazers_count": 760,
     "open_issues_count": 90,
-    "forks_count": 55
+    "forks_count": 56
   },
   {
     "full_name": "Valkirie/HandheldCompanion",
-    "stargazers_count": 894,
-    "open_issues_count": 119,
-    "forks_count": 69
+    "stargazers_count": 897,
+    "open_issues_count": 120,
+    "forks_count": 71
   },
   {
     "full_name": "Jovian-Experiments/Jovian-NixOS",
-    "stargazers_count": 321,
-    "open_issues_count": 34,
-    "forks_count": 34
+    "stargazers_count": 322,
+    "open_issues_count": 33,
+    "forks_count": 35
   },
   {
     "full_name": "daduckMSFT/WiFiProfileGenerator",
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "davidmerfield/Blot",
-    "stargazers_count": 1697,
+    "stargazers_count": 1704,
     "open_issues_count": 12,
-    "forks_count": 83
+    "forks_count": 82
   },
   {
     "full_name": "macmade/Notarize",
@@ -133,21 +139,21 @@
   },
   {
     "full_name": "macmade/Hot",
-    "stargazers_count": 1921,
-    "open_issues_count": 14,
+    "stargazers_count": 1928,
+    "open_issues_count": 15,
     "forks_count": 74
   },
   {
     "full_name": "atom0s/Steamless",
-    "stargazers_count": 2470,
+    "stargazers_count": 2489,
     "open_issues_count": 7,
-    "forks_count": 177
+    "forks_count": 178
   },
   {
     "full_name": "mistydemeo/tigerbrew",
     "stargazers_count": 505,
-    "open_issues_count": 205,
-    "forks_count": 146
+    "open_issues_count": 199,
+    "forks_count": 145
   },
   {
     "full_name": "QuPengfei/Technical-Overview-Of-AV1-Spec",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "kevmo314/codec-from-scratch",
-    "stargazers_count": 229,
+    "stargazers_count": 230,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "leandromoreira/digital_video_introduction",
-    "stargazers_count": 14793,
+    "stargazers_count": 14894,
     "open_issues_count": 20,
-    "forks_count": 1295
+    "forks_count": 1301
   },
   {
     "full_name": "apple/ml-ferret",
-    "stargazers_count": 7183,
+    "stargazers_count": 7244,
     "open_issues_count": 8,
-    "forks_count": 401
-  },
-  {
-    "full_name": "Platane/snk",
-    "stargazers_count": 3520,
-    "open_issues_count": 0,
-    "forks_count": 712
+    "forks_count": 404
   }
 ]
