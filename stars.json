@@ -1,105 +1,135 @@
 [
   {
-    "full_name": "microsoft/sudo",
-    "stargazers_count": 273,
-    "open_issues_count": 17,
+    "full_name": "vosen/ZLUDA",
+    "stargazers_count": 2253,
+    "open_issues_count": 15,
+    "forks_count": 113
+  },
+  {
+    "full_name": "mattpannella/pupdate",
+    "stargazers_count": 851,
+    "open_issues_count": 4,
+    "forks_count": 33
+  },
+  {
+    "full_name": "neil-morrison44/pocket-sync",
+    "stargazers_count": 461,
+    "open_issues_count": 18,
+    "forks_count": 19
+  },
+  {
+    "full_name": "MiSTer-devel/Wiki_MiSTer",
+    "stargazers_count": 90,
+    "open_issues_count": 0,
     "forks_count": 6
   },
   {
+    "full_name": "alvr-org/alvr-visionos",
+    "stargazers_count": 133,
+    "open_issues_count": 19,
+    "forks_count": 10
+  },
+  {
+    "full_name": "microsoft/sudo",
+    "stargazers_count": 2517,
+    "open_issues_count": 30,
+    "forks_count": 54
+  },
+  {
     "full_name": "GoogleCloudPlatform/localllm",
-    "stargazers_count": 273,
-    "open_issues_count": 2,
-    "forks_count": 11
+    "stargazers_count": 1305,
+    "open_issues_count": 5,
+    "forks_count": 113
   },
   {
     "full_name": "apple/ml-mgie",
-    "stargazers_count": 2053,
-    "open_issues_count": 3,
-    "forks_count": 99
+    "stargazers_count": 3074,
+    "open_issues_count": 4,
+    "forks_count": 206
   },
   {
     "full_name": "cli-guidelines/cli-guidelines",
-    "stargazers_count": 2644,
-    "open_issues_count": 58,
-    "forks_count": 92
+    "stargazers_count": 2665,
+    "open_issues_count": 61,
+    "forks_count": 94
   },
   {
     "full_name": "yattee/yattee",
-    "stargazers_count": 2065,
-    "open_issues_count": 188,
-    "forks_count": 74
+    "stargazers_count": 2073,
+    "open_issues_count": 189,
+    "forks_count": 75
   },
   {
     "full_name": "ipc103/make-it-taylors-version",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "saagarjha/Ensemble",
-    "stargazers_count": 621,
-    "open_issues_count": 24,
-    "forks_count": 24
+    "stargazers_count": 644,
+    "open_issues_count": 25,
+    "forks_count": 26
   },
   {
     "full_name": "cowboy8625/rusty-rain",
-    "stargazers_count": 306,
+    "stargazers_count": 309,
     "open_issues_count": 7,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "abishekvashok/cmatrix",
-    "stargazers_count": 3619,
-    "open_issues_count": 54,
-    "forks_count": 353
+    "stargazers_count": 3622,
+    "open_issues_count": 55,
+    "forks_count": 352
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 20149,
-    "open_issues_count": 1369,
-    "forks_count": 673
+    "stargazers_count": 21126,
+    "open_issues_count": 1395,
+    "forks_count": 719
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 23312,
+    "stargazers_count": 23536,
     "open_issues_count": 23,
-    "forks_count": 2258
+    "forks_count": 2292
   },
   {
     "full_name": "goenning/google-indexing-script",
-    "stargazers_count": 5401,
+    "stargazers_count": 5489,
     "open_issues_count": 5,
-    "forks_count": 358
+    "forks_count": 362
   },
   {
     "full_name": "QuantGeekDev/lmaolang",
-    "stargazers_count": 301,
+    "stargazers_count": 305,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "getredash/redash",
-    "stargazers_count": 24583,
-    "open_issues_count": 599,
-    "forks_count": 4276
+    "stargazers_count": 24595,
+    "open_issues_count": 601,
+    "forks_count": 4280
   },
   {
     "full_name": "metabase/metabase",
-    "stargazers_count": 35765,
-    "open_issues_count": 3622,
-    "forks_count": 4906
+    "stargazers_count": 35796,
+    "open_issues_count": 3586,
+    "forks_count": 4908
   },
   {
     "full_name": "apache/superset",
-    "stargazers_count": 56583,
-    "open_issues_count": 1558,
-    "forks_count": 12264
+    "stargazers_count": 56601,
+    "open_issues_count": 1444,
+    "forks_count": 12291
   },
   {
     "full_name": "KRTirtho/spotube",
-    "stargazers_count": 21575,
-    "open_issues_count": 269,
-    "forks_count": 827
+    "stargazers_count": 21821,
+    "open_issues_count": 278,
+    "forks_count": 834
   },
   {
     "full_name": "Mika-/torrent-control",
@@ -109,37 +139,37 @@
   },
   {
     "full_name": "MegaManSec/SSH-Snake",
-    "stargazers_count": 1022,
+    "stargazers_count": 1049,
     "open_issues_count": 0,
-    "forks_count": 57
+    "forks_count": 61
   },
   {
     "full_name": "LorenDB/download-steam-games",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "DuoStream/Duo",
-    "stargazers_count": 142,
-    "open_issues_count": 7,
+    "stargazers_count": 150,
+    "open_issues_count": 5,
     "forks_count": 0
   },
   {
     "full_name": "ayufan/steam-deck-tools",
-    "stargazers_count": 760,
+    "stargazers_count": 761,
     "open_issues_count": 90,
     "forks_count": 56
   },
   {
     "full_name": "Valkirie/HandheldCompanion",
-    "stargazers_count": 903,
-    "open_issues_count": 121,
-    "forks_count": 73
+    "stargazers_count": 906,
+    "open_issues_count": 122,
+    "forks_count": 74
   },
   {
     "full_name": "Jovian-Experiments/Jovian-NixOS",
-    "stargazers_count": 324,
+    "stargazers_count": 326,
     "open_issues_count": 34,
     "forks_count": 35
   },
@@ -148,35 +178,5 @@
     "stargazers_count": 38,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "davidmerfield/Blot",
-    "stargazers_count": 1705,
-    "open_issues_count": 13,
-    "forks_count": 84
-  },
-  {
-    "full_name": "macmade/Notarize",
-    "stargazers_count": 108,
-    "open_issues_count": 0,
-    "forks_count": 8
-  },
-  {
-    "full_name": "macmade/Hot",
-    "stargazers_count": 1934,
-    "open_issues_count": 15,
-    "forks_count": 74
-  },
-  {
-    "full_name": "atom0s/Steamless",
-    "stargazers_count": 2496,
-    "open_issues_count": 7,
-    "forks_count": 179
-  },
-  {
-    "full_name": "mistydemeo/tigerbrew",
-    "stargazers_count": 507,
-    "open_issues_count": 203,
-    "forks_count": 145
   }
 ]
