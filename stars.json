@@ -1,128 +1,176 @@
 [
   {
+    "full_name": "Kalabasa/htmz",
+    "stargazers_count": 371,
+    "open_issues_count": 3,
+    "forks_count": 5
+  },
+  {
+    "full_name": "slackhq/nebula",
+    "stargazers_count": 13408,
+    "open_issues_count": 133,
+    "forks_count": 917
+  },
+  {
+    "full_name": "tpoechtrager/osxcross",
+    "stargazers_count": 2669,
+    "open_issues_count": 114,
+    "forks_count": 316
+  },
+  {
+    "full_name": "indygreg/apple-platform-rs",
+    "stargazers_count": 364,
+    "open_issues_count": 28,
+    "forks_count": 32
+  },
+  {
+    "full_name": "authorTom/ultimate-XR-dev-guide",
+    "stargazers_count": 196,
+    "open_issues_count": 0,
+    "forks_count": 21
+  },
+  {
+    "full_name": "SwiftUIX/SwiftUIX",
+    "stargazers_count": 6437,
+    "open_issues_count": 14,
+    "forks_count": 405
+  },
+  {
+    "full_name": "AllenDowney/ThinkPython",
+    "stargazers_count": 1036,
+    "open_issues_count": 2,
+    "forks_count": 671
+  },
+  {
+    "full_name": "total-typescript/total-typescript-book",
+    "stargazers_count": 922,
+    "open_issues_count": 3,
+    "forks_count": 54
+  },
+  {
     "full_name": "gerardog/gsudo",
-    "stargazers_count": 4554,
-    "open_issues_count": 38,
+    "stargazers_count": 4577,
+    "open_issues_count": 30,
     "forks_count": 126
   },
   {
     "full_name": "alvr-org/ALVR",
-    "stargazers_count": 4387,
-    "open_issues_count": 135,
-    "forks_count": 419
+    "stargazers_count": 4412,
+    "open_issues_count": 141,
+    "forks_count": 420
   },
   {
     "full_name": "satoshi0212/visionOS_30Days",
-    "stargazers_count": 1541,
-    "open_issues_count": 9,
-    "forks_count": 113
+    "stargazers_count": 1564,
+    "open_issues_count": 10,
+    "forks_count": 118
   },
   {
     "full_name": "jtmuller5/Awesome-Vision-Pro",
-    "stargazers_count": 10,
+    "stargazers_count": 17,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "furnacecreek/awesome-visionOS-apps",
-    "stargazers_count": 47,
-    "open_issues_count": 1,
-    "forks_count": 17
+    "stargazers_count": 52,
+    "open_issues_count": 0,
+    "forks_count": 16
   },
   {
     "full_name": "callstack/react-native-visionos",
-    "stargazers_count": 621,
+    "stargazers_count": 646,
     "open_issues_count": 12,
     "forks_count": 17
   },
   {
     "full_name": "kingslay/FFmpegKit",
-    "stargazers_count": 44,
+    "stargazers_count": 48,
     "open_issues_count": 2,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "buhe/langchain-swift",
-    "stargazers_count": 162,
+    "stargazers_count": 176,
     "open_issues_count": 15,
     "forks_count": 17
   },
   {
     "full_name": "alexeichhorn/YouTubeKit",
-    "stargazers_count": 122,
+    "stargazers_count": 124,
     "open_issues_count": 11,
     "forks_count": 23
   },
   {
     "full_name": "mchakravarty/CodeEditorView",
-    "stargazers_count": 588,
+    "stargazers_count": 591,
     "open_issues_count": 42,
     "forks_count": 51
   },
   {
     "full_name": "shogo4405/HaishinKit.swift",
-    "stargazers_count": 2640,
+    "stargazers_count": 2645,
     "open_issues_count": 7,
     "forks_count": 590
   },
   {
     "full_name": "kingslay/KSPlayer",
-    "stargazers_count": 716,
-    "open_issues_count": 37,
-    "forks_count": 154
+    "stargazers_count": 719,
+    "open_issues_count": 25,
+    "forks_count": 155
   },
   {
     "full_name": "observablehq/framework",
-    "stargazers_count": 406,
-    "open_issues_count": 138,
-    "forks_count": 8
+    "stargazers_count": 1109,
+    "open_issues_count": 156,
+    "forks_count": 22
   },
   {
     "full_name": "jcarlosroldan/oink",
-    "stargazers_count": 206,
-    "open_issues_count": 2,
-    "forks_count": 6
+    "stargazers_count": 269,
+    "open_issues_count": 4,
+    "forks_count": 12
   },
   {
     "full_name": "WordPress/wordpress-develop",
-    "stargazers_count": 2201,
-    "open_issues_count": 1357,
-    "forks_count": 2299
+    "stargazers_count": 2210,
+    "open_issues_count": 1355,
+    "forks_count": 2302
   },
   {
     "full_name": "alexzorin/authy",
-    "stargazers_count": 640,
+    "stargazers_count": 648,
     "open_issues_count": 8,
     "forks_count": 48
   },
   {
     "full_name": "token2/authy-migration",
-    "stargazers_count": 102,
+    "stargazers_count": 109,
     "open_issues_count": 1,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "Stability-AI/StableCascade",
-    "stargazers_count": 2777,
-    "open_issues_count": 37,
-    "forks_count": 162
+    "stargazers_count": 4954,
+    "open_issues_count": 60,
+    "forks_count": 358
   },
   {
     "full_name": "vosen/ZLUDA",
-    "stargazers_count": 4214,
-    "open_issues_count": 27,
-    "forks_count": 185
+    "stargazers_count": 5140,
+    "open_issues_count": 35,
+    "forks_count": 231
   },
   {
     "full_name": "mattpannella/pupdate",
-    "stargazers_count": 857,
-    "open_issues_count": 5,
+    "stargazers_count": 866,
+    "open_issues_count": 2,
     "forks_count": 33
   },
   {
     "full_name": "neil-morrison44/pocket-sync",
-    "stargazers_count": 467,
-    "open_issues_count": 18,
+    "stargazers_count": 473,
+    "open_issues_count": 20,
     "forks_count": 19
   },
   {
@@ -130,53 +178,5 @@
     "stargazers_count": 91,
     "open_issues_count": 0,
     "forks_count": 6
-  },
-  {
-    "full_name": "alvr-org/alvr-visionos",
-    "stargazers_count": 164,
-    "open_issues_count": 18,
-    "forks_count": 12
-  },
-  {
-    "full_name": "microsoft/sudo",
-    "stargazers_count": 3113,
-    "open_issues_count": 30,
-    "forks_count": 84
-  },
-  {
-    "full_name": "GoogleCloudPlatform/localllm",
-    "stargazers_count": 1337,
-    "open_issues_count": 8,
-    "forks_count": 114
-  },
-  {
-    "full_name": "apple/ml-mgie",
-    "stargazers_count": 3290,
-    "open_issues_count": 4,
-    "forks_count": 227
-  },
-  {
-    "full_name": "cli-guidelines/cli-guidelines",
-    "stargazers_count": 2676,
-    "open_issues_count": 61,
-    "forks_count": 94
-  },
-  {
-    "full_name": "yattee/yattee",
-    "stargazers_count": 2077,
-    "open_issues_count": 189,
-    "forks_count": 76
-  },
-  {
-    "full_name": "ipc103/make-it-taylors-version",
-    "stargazers_count": 29,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "saagarjha/Ensemble",
-    "stargazers_count": 683,
-    "open_issues_count": 25,
-    "forks_count": 28
   }
 ]
