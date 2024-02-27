@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "debridmediamanager/awesome-debrid",
+    "stargazers_count": 28,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "nunocoracao/blowfish",
+    "stargazers_count": 883,
+    "open_issues_count": 54,
+    "forks_count": 280
+  },
+  {
+    "full_name": "schnerring/hugo-theme-gruvbox",
+    "stargazers_count": 139,
+    "open_issues_count": 26,
+    "forks_count": 28
+  },
+  {
+    "full_name": "Lynx-Shortener/Lynx",
+    "stargazers_count": 137,
+    "open_issues_count": 7,
+    "forks_count": 10
+  },
+  {
+    "full_name": "nrjdalal/rdt-li",
+    "stargazers_count": 202,
+    "open_issues_count": 1,
+    "forks_count": 9
+  },
+  {
+    "full_name": "sujjeee/linknode",
+    "stargazers_count": 205,
+    "open_issues_count": 0,
+    "forks_count": 23
+  },
+  {
+    "full_name": "jstayton/suri",
+    "stargazers_count": 364,
+    "open_issues_count": 2,
+    "forks_count": 57
+  },
+  {
+    "full_name": "realodix/urlhub",
+    "stargazers_count": 448,
+    "open_issues_count": 3,
+    "forks_count": 110
+  },
+  {
+    "full_name": "origranot/reduced.to",
+    "stargazers_count": 528,
+    "open_issues_count": 24,
+    "forks_count": 259
+  },
+  {
+    "full_name": "shlinkio/shlink-web-client",
+    "stargazers_count": 236,
+    "open_issues_count": 5,
+    "forks_count": 60
+  },
+  {
+    "full_name": "roadrunner-server/roadrunner",
+    "stargazers_count": 7612,
+    "open_issues_count": 50,
+    "forks_count": 399
+  },
+  {
+    "full_name": "738/awesome-url-shortener",
+    "stargazers_count": 504,
+    "open_issues_count": 5,
+    "forks_count": 59
+  },
+  {
+    "full_name": "yourselfhosted/slash",
+    "stargazers_count": 939,
+    "open_issues_count": 7,
+    "forks_count": 40
+  },
+  {
+    "full_name": "adityatelange/gourl",
+    "stargazers_count": 21,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "hugo-fixit/hugo-fixit-starter",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "hugo-fixit/hugo-fixit-starter1",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "hugo-fixit/FixIt",
+    "stargazers_count": 380,
+    "open_issues_count": 25,
+    "forks_count": 82
+  },
+  {
+    "full_name": "homebrew-ffmpeg/homebrew-ffmpeg",
+    "stargazers_count": 390,
+    "open_issues_count": 6,
+    "forks_count": 70
+  },
+  {
+    "full_name": "Vargol/ffmpeg-apple-arm64-build",
+    "stargazers_count": 195,
+    "open_issues_count": 3,
+    "forks_count": 37
+  },
+  {
+    "full_name": "sturmen/SpatialMediaKit",
+    "stargazers_count": 91,
+    "open_issues_count": 3,
+    "forks_count": 8
+  },
+  {
+    "full_name": "gpac/gpac",
+    "stargazers_count": 2497,
+    "open_issues_count": 34,
+    "forks_count": 504
+  },
+  {
+    "full_name": "google/gemma.cpp",
+    "stargazers_count": 4367,
+    "open_issues_count": 17,
+    "forks_count": 330
+  },
+  {
     "full_name": "flipperdevices/flipper-application-catalog",
-    "stargazers_count": 354,
+    "stargazers_count": 359,
     "open_issues_count": 3,
     "forks_count": 99
   },
   {
     "full_name": "flipperdevices/flipperzero-firmware",
-    "stargazers_count": 10249,
-    "open_issues_count": 175,
-    "forks_count": 2356
+    "stargazers_count": 10303,
+    "open_issues_count": 183,
+    "forks_count": 2368
   },
   {
     "full_name": "flipperdevices/video-game-module",
-    "stargazers_count": 29,
+    "stargazers_count": 32,
     "open_issues_count": 2,
     "forks_count": 5
   },
   {
     "full_name": "flipperdevices/flipperzero-game-engine-example",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "flipperdevices/flipperzero-game-engine",
-    "stargazers_count": 62,
+    "stargazers_count": 66,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "pages-cms/pages-cms",
-    "stargazers_count": 250,
-    "open_issues_count": 3,
-    "forks_count": 7
+    "stargazers_count": 729,
+    "open_issues_count": 17,
+    "forks_count": 35
   },
   {
     "full_name": "promptslab/Awesome-Prompt-Engineering",
-    "stargazers_count": 2937,
+    "stargazers_count": 2955,
     "open_issues_count": 0,
-    "forks_count": 247
+    "forks_count": 251
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 41549,
-    "open_issues_count": 58,
-    "forks_count": 3851
-  },
-  {
-    "full_name": "Kalabasa/htmz",
-    "stargazers_count": 1269,
-    "open_issues_count": 7,
-    "forks_count": 28
-  },
-  {
-    "full_name": "slackhq/nebula",
-    "stargazers_count": 13421,
-    "open_issues_count": 129,
-    "forks_count": 904
-  },
-  {
-    "full_name": "tpoechtrager/osxcross",
-    "stargazers_count": 2670,
-    "open_issues_count": 114,
-    "forks_count": 317
-  },
-  {
-    "full_name": "indygreg/apple-platform-rs",
-    "stargazers_count": 385,
-    "open_issues_count": 28,
-    "forks_count": 32
-  },
-  {
-    "full_name": "authorTom/ultimate-XR-dev-guide",
-    "stargazers_count": 199,
-    "open_issues_count": 0,
-    "forks_count": 21
-  },
-  {
-    "full_name": "SwiftUIX/SwiftUIX",
-    "stargazers_count": 6446,
-    "open_issues_count": 12,
-    "forks_count": 405
-  },
-  {
-    "full_name": "AllenDowney/ThinkPython",
-    "stargazers_count": 1042,
-    "open_issues_count": 2,
-    "forks_count": 639
-  },
-  {
-    "full_name": "total-typescript/total-typescript-book",
-    "stargazers_count": 1051,
-    "open_issues_count": 6,
-    "forks_count": 60
-  },
-  {
-    "full_name": "gerardog/gsudo",
-    "stargazers_count": 4590,
-    "open_issues_count": 30,
-    "forks_count": 126
-  },
-  {
-    "full_name": "alvr-org/ALVR",
-    "stargazers_count": 4435,
-    "open_issues_count": 145,
-    "forks_count": 420
-  },
-  {
-    "full_name": "satoshi0212/visionOS_30Days",
-    "stargazers_count": 1588,
-    "open_issues_count": 10,
-    "forks_count": 123
-  },
-  {
-    "full_name": "jtmuller5/Awesome-Vision-Pro",
-    "stargazers_count": 23,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "furnacecreek/awesome-visionOS-apps",
-    "stargazers_count": 54,
-    "open_issues_count": 0,
-    "forks_count": 16
-  },
-  {
-    "full_name": "callstack/react-native-visionos",
-    "stargazers_count": 676,
-    "open_issues_count": 11,
-    "forks_count": 17
-  },
-  {
-    "full_name": "kingslay/FFmpegKit",
-    "stargazers_count": 51,
-    "open_issues_count": 2,
-    "forks_count": 26
-  },
-  {
-    "full_name": "buhe/langchain-swift",
-    "stargazers_count": 177,
-    "open_issues_count": 15,
-    "forks_count": 17
-  },
-  {
-    "full_name": "alexeichhorn/YouTubeKit",
-    "stargazers_count": 125,
-    "open_issues_count": 11,
-    "forks_count": 23
-  },
-  {
-    "full_name": "mchakravarty/CodeEditorView",
-    "stargazers_count": 595,
-    "open_issues_count": 42,
-    "forks_count": 52
-  },
-  {
-    "full_name": "shogo4405/HaishinKit.swift",
-    "stargazers_count": 2648,
-    "open_issues_count": 6,
-    "forks_count": 590
-  },
-  {
-    "full_name": "kingslay/KSPlayer",
-    "stargazers_count": 722,
-    "open_issues_count": 27,
-    "forks_count": 155
-  },
-  {
-    "full_name": "observablehq/framework",
-    "stargazers_count": 1204,
-    "open_issues_count": 167,
-    "forks_count": 28
-  },
-  {
-    "full_name": "jcarlosroldan/oink",
-    "stargazers_count": 279,
-    "open_issues_count": 3,
-    "forks_count": 12
+    "stargazers_count": 41701,
+    "open_issues_count": 61,
+    "forks_count": 3872
   }
 ]
