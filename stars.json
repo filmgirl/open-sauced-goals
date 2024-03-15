@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "BalliAsghar/Mailsy",
+    "stargazers_count": 309,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "lavague-ai/LaVague",
+    "stargazers_count": 1659,
+    "open_issues_count": 17,
+    "forks_count": 96
+  },
+  {
+    "full_name": "flox/flox",
+    "stargazers_count": 1343,
+    "open_issues_count": 132,
+    "forks_count": 34
+  },
+  {
+    "full_name": "possibly-wrong/lemonade",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "msys2/msys2-runtime",
     "stargazers_count": 152,
     "open_issues_count": 47,
@@ -7,9 +31,9 @@
   },
   {
     "full_name": "msys2/MINGW-packages",
-    "stargazers_count": 2129,
-    "open_issues_count": 586,
-    "forks_count": 1140
+    "stargazers_count": 2130,
+    "open_issues_count": 580,
+    "forks_count": 1139
   },
   {
     "full_name": "msys2/setup-msys2",
@@ -19,69 +43,69 @@
   },
   {
     "full_name": "giantpinkrobots/varia",
-    "stargazers_count": 167,
+    "stargazers_count": 170,
     "open_issues_count": 14,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "pikdum/steam-deck",
     "stargazers_count": 100,
-    "open_issues_count": 17,
+    "open_issues_count": 16,
     "forks_count": 6
   },
   {
     "full_name": "Nexus-Mods/Vortex",
-    "stargazers_count": 788,
-    "open_issues_count": 423,
+    "stargazers_count": 789,
+    "open_issues_count": 426,
     "forks_count": 127
   },
   {
     "full_name": "Nexus-Mods/NexusMods.App",
-    "stargazers_count": 446,
-    "open_issues_count": 272,
+    "stargazers_count": 452,
+    "open_issues_count": 264,
     "forks_count": 32
   },
   {
     "full_name": "01-ai/Yi",
-    "stargazers_count": 6456,
-    "open_issues_count": 48,
-    "forks_count": 385
+    "stargazers_count": 6751,
+    "open_issues_count": 41,
+    "forks_count": 399
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 14831,
-    "open_issues_count": 802,
-    "forks_count": 614
+    "stargazers_count": 15811,
+    "open_issues_count": 841,
+    "forks_count": 708
   },
   {
     "full_name": "insin/control-panel-for-youtube",
-    "stargazers_count": 50,
+    "stargazers_count": 52,
     "open_issues_count": 28,
     "forks_count": 1
   },
   {
     "full_name": "bkettle/message-book",
-    "stargazers_count": 264,
+    "stargazers_count": 275,
     "open_issues_count": 1,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "DamascenoRafael/reminders-menubar",
-    "stargazers_count": 1409,
-    "open_issues_count": 32,
+    "stargazers_count": 1418,
+    "open_issues_count": 34,
     "forks_count": 73
   },
   {
     "full_name": "classvsoftware/under-new-management",
-    "stargazers_count": 496,
+    "stargazers_count": 522,
     "open_issues_count": 1,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 7755,
-    "open_issues_count": 29,
-    "forks_count": 365
+    "stargazers_count": 9020,
+    "open_issues_count": 38,
+    "forks_count": 431
   },
   {
     "full_name": "SomeAspy/yuzu",
@@ -91,26 +115,26 @@
   },
   {
     "full_name": "pineappleEA/pineapple-src",
-    "stargazers_count": 5455,
+    "stargazers_count": 5479,
     "open_issues_count": 10,
-    "forks_count": 1186
+    "forks_count": 1194
   },
   {
     "full_name": "LizardByte/Sunshine",
-    "stargazers_count": 11141,
-    "open_issues_count": 91,
-    "forks_count": 499
+    "stargazers_count": 11239,
+    "open_issues_count": 94,
+    "forks_count": 501
   },
   {
     "full_name": "alexhaugland/moonlight-ios",
-    "stargazers_count": 17,
-    "open_issues_count": 8,
+    "stargazers_count": 19,
+    "open_issues_count": 9,
     "forks_count": 6
   },
   {
     "full_name": "johnHackworth/goblin",
     "stargazers_count": 16,
-    "open_issues_count": 32,
+    "open_issues_count": 31,
     "forks_count": 3
   },
   {
@@ -121,7 +145,7 @@
   },
   {
     "full_name": "mayakyler/link-shorteners",
-    "stargazers_count": 49,
+    "stargazers_count": 56,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -133,9 +157,9 @@
   },
   {
     "full_name": "memorysafety/river",
-    "stargazers_count": 796,
-    "open_issues_count": 4,
-    "forks_count": 68
+    "stargazers_count": 823,
+    "open_issues_count": 6,
+    "forks_count": 70
   },
   {
     "full_name": "actionforge/vscode-ext",
@@ -152,31 +176,7 @@
   {
     "full_name": "TheBLVD/mammoth",
     "stargazers_count": 162,
-    "open_issues_count": 59,
+    "open_issues_count": 61,
     "forks_count": 7
-  },
-  {
-    "full_name": "debridmediamanager/awesome-debrid",
-    "stargazers_count": 35,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "nunocoracao/blowfish",
-    "stargazers_count": 917,
-    "open_issues_count": 37,
-    "forks_count": 283
-  },
-  {
-    "full_name": "schnerring/hugo-theme-gruvbox",
-    "stargazers_count": 140,
-    "open_issues_count": 26,
-    "forks_count": 28
-  },
-  {
-    "full_name": "Lynx-Shortener/Lynx",
-    "stargazers_count": 142,
-    "open_issues_count": 6,
-    "forks_count": 11
   }
 ]
