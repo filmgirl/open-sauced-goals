@@ -1,36 +1,60 @@
 [
   {
+    "full_name": "runtipi/runtipi",
+    "stargazers_count": 6380,
+    "open_issues_count": 43,
+    "forks_count": 206
+  },
+  {
+    "full_name": "rogerfar/rdt-client",
+    "stargazers_count": 628,
+    "open_issues_count": 41,
+    "forks_count": 79
+  },
+  {
+    "full_name": "TypingMind/plugins-server",
+    "stargazers_count": 13,
+    "open_issues_count": 5,
+    "forks_count": 6
+  },
+  {
+    "full_name": "charmbracelet/freeze",
+    "stargazers_count": 879,
+    "open_issues_count": 12,
+    "forks_count": 8
+  },
+  {
     "full_name": "open-webui/open-webui",
-    "stargazers_count": 10722,
-    "open_issues_count": 96,
-    "forks_count": 1020
+    "stargazers_count": 11068,
+    "open_issues_count": 106,
+    "forks_count": 1064
   },
   {
     "full_name": "Mintplex-Labs/anything-llm",
-    "stargazers_count": 9627,
-    "open_issues_count": 84,
-    "forks_count": 1030
+    "stargazers_count": 9795,
+    "open_issues_count": 83,
+    "forks_count": 1048
   },
   {
     "full_name": "tgraupmann/WinForm_Ollama_Copilot",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 3,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "AugustDev/enchanted",
-    "stargazers_count": 1046,
-    "open_issues_count": 17,
-    "forks_count": 75
+    "stargazers_count": 1071,
+    "open_issues_count": 18,
+    "forks_count": 76
   },
   {
     "full_name": "pjobson/Apple-Fonts",
-    "stargazers_count": 5,
+    "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
-    "full_name": "pjobson/ms_365_fonts",
+    "full_name": "pjobson/Microsoft-365-Fonts",
     "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 0
@@ -43,51 +67,51 @@
   },
   {
     "full_name": "magicmonty/bash-git-prompt",
-    "stargazers_count": 6612,
-    "open_issues_count": 29,
-    "forks_count": 962
+    "stargazers_count": 6611,
+    "open_issues_count": 30,
+    "forks_count": 961
   },
   {
     "full_name": "alexkay/spek",
-    "stargazers_count": 2378,
-    "open_issues_count": 108,
+    "stargazers_count": 2382,
+    "open_issues_count": 109,
     "forks_count": 253
   },
   {
     "full_name": "ahrm/sioyek",
-    "stargazers_count": 5769,
-    "open_issues_count": 110,
-    "forks_count": 184
+    "stargazers_count": 5776,
+    "open_issues_count": 108,
+    "forks_count": 185
   },
   {
     "full_name": "Lord-Kamina/SwiftDefaultApps",
-    "stargazers_count": 1372,
+    "stargazers_count": 1373,
     "open_issues_count": 56,
     "forks_count": 62
   },
   {
     "full_name": "janhq/nitro",
-    "stargazers_count": 1418,
+    "stargazers_count": 1447,
     "open_issues_count": 31,
-    "forks_count": 68
+    "forks_count": 69
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 13036,
-    "open_issues_count": 155,
-    "forks_count": 711
+    "stargazers_count": 13986,
+    "open_issues_count": 151,
+    "forks_count": 732
   },
   {
     "full_name": "lmstudio-ai/configs",
-    "stargazers_count": 102,
+    "stargazers_count": 105,
     "open_issues_count": 23,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "lmstudio-ai/model-catalog",
-    "stargazers_count": 656,
-    "open_issues_count": 25,
-    "forks_count": 68
+    "stargazers_count": 664,
+    "open_issues_count": 26,
+    "forks_count": 69
   },
   {
     "full_name": "natural-harmonia-gropius/mpv-config",
@@ -103,7 +127,7 @@
   },
   {
     "full_name": "tomasklaen/uosc",
-    "stargazers_count": 1323,
+    "stargazers_count": 1329,
     "open_issues_count": 27,
     "forks_count": 58
   },
@@ -121,21 +145,21 @@
   },
   {
     "full_name": "BalliAsghar/Mailsy",
-    "stargazers_count": 347,
+    "stargazers_count": 350,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "lavague-ai/LaVague",
-    "stargazers_count": 3236,
-    "open_issues_count": 24,
-    "forks_count": 249
+    "stargazers_count": 3467,
+    "open_issues_count": 26,
+    "forks_count": 269
   },
   {
     "full_name": "flox/flox",
-    "stargazers_count": 1822,
-    "open_issues_count": 138,
-    "forks_count": 42
+    "stargazers_count": 1856,
+    "open_issues_count": 122,
+    "forks_count": 44
   },
   {
     "full_name": "possibly-wrong/lemonade",
@@ -145,38 +169,14 @@
   },
   {
     "full_name": "msys2/msys2-runtime",
-    "stargazers_count": 157,
+    "stargazers_count": 156,
     "open_issues_count": 46,
     "forks_count": 35
   },
   {
     "full_name": "msys2/MINGW-packages",
-    "stargazers_count": 2139,
-    "open_issues_count": 578,
-    "forks_count": 1142
-  },
-  {
-    "full_name": "msys2/setup-msys2",
-    "stargazers_count": 254,
-    "open_issues_count": 28,
-    "forks_count": 41
-  },
-  {
-    "full_name": "giantpinkrobots/varia",
-    "stargazers_count": 198,
-    "open_issues_count": 15,
-    "forks_count": 21
-  },
-  {
-    "full_name": "pikdum/steam-deck",
-    "stargazers_count": 102,
-    "open_issues_count": 16,
-    "forks_count": 6
-  },
-  {
-    "full_name": "Nexus-Mods/Vortex",
-    "stargazers_count": 795,
-    "open_issues_count": 453,
-    "forks_count": 127
+    "stargazers_count": 2145,
+    "open_issues_count": 581,
+    "forks_count": 1144
   }
 ]
