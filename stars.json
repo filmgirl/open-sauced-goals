@@ -1,39 +1,105 @@
 [
   {
-    "full_name": "ChrisTitusTech/winutil",
-    "stargazers_count": 11413,
-    "open_issues_count": 43,
-    "forks_count": 816
+    "full_name": "EmptyJackson/policy-guided-diffusion",
+    "stargazers_count": 38,
+    "open_issues_count": 0,
+    "forks_count": 2
   },
   {
-    "full_name": "Raphire/Win11Debloat",
-    "stargazers_count": 2365,
-    "open_issues_count": 7,
-    "forks_count": 114
+    "full_name": "BobMcDear/attorch",
+    "stargazers_count": 126,
+    "open_issues_count": 0,
+    "forks_count": 7
   },
   {
-    "full_name": "migueletto/PumpkinOS",
-    "stargazers_count": 499,
-    "open_issues_count": 5,
+    "full_name": "git-learning-game/oh-my-git",
+    "stargazers_count": 1556,
+    "open_issues_count": 111,
+    "forks_count": 118
+  },
+  {
+    "full_name": "OpenDevin/OpenDevin",
+    "stargazers_count": 21009,
+    "open_issues_count": 120,
+    "forks_count": 2244
+  },
+  {
+    "full_name": "datasette/datasette-extract",
+    "stargazers_count": 76,
+    "open_issues_count": 6,
+    "forks_count": 2
+  },
+  {
+    "full_name": "karpathy/llm.c",
+    "stargazers_count": 12186,
+    "open_issues_count": 36,
+    "forks_count": 1080
+  },
+  {
+    "full_name": "stanford-oval/storm",
+    "stargazers_count": 207,
+    "open_issues_count": 2,
     "forks_count": 11
   },
   {
+    "full_name": "Staacks/gbinterceptor",
+    "stargazers_count": 426,
+    "open_issues_count": 7,
+    "forks_count": 21
+  },
+  {
+    "full_name": "Satsuoni/DeDRM_tools",
+    "stargazers_count": 19,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "easylist/easylist",
+    "stargazers_count": 1967,
+    "open_issues_count": 558,
+    "forks_count": 670
+  },
+  {
+    "full_name": "oblador/hush",
+    "stargazers_count": 3083,
+    "open_issues_count": 127,
+    "forks_count": 73
+  },
+  {
+    "full_name": "ChrisTitusTech/winutil",
+    "stargazers_count": 11478,
+    "open_issues_count": 44,
+    "forks_count": 821
+  },
+  {
+    "full_name": "Raphire/Win11Debloat",
+    "stargazers_count": 2379,
+    "open_issues_count": 7,
+    "forks_count": 119
+  },
+  {
+    "full_name": "migueletto/PumpkinOS",
+    "stargazers_count": 610,
+    "open_issues_count": 5,
+    "forks_count": 14
+  },
+  {
     "full_name": "RsyncProject/rsync",
-    "stargazers_count": 2250,
+    "stargazers_count": 2273,
     "open_issues_count": 192,
     "forks_count": 281
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 28300,
-    "open_issues_count": 790,
-    "forks_count": 6372
+    "stargazers_count": 28403,
+    "open_issues_count": 809,
+    "forks_count": 6401
   },
   {
     "full_name": "davidteather/TikTok-Api",
-    "stargazers_count": 4299,
+    "stargazers_count": 4308,
     "open_issues_count": 73,
-    "forks_count": 897
+    "forks_count": 898
   },
   {
     "full_name": "Bad3r/progress-and-loading-bash",
@@ -43,13 +109,13 @@
   },
   {
     "full_name": "MuTsunTsai/fontfreeze",
-    "stargazers_count": 87,
+    "stargazers_count": 88,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "twardoch/fonttools-opentype-feature-freezer",
-    "stargazers_count": 354,
+    "stargazers_count": 355,
     "open_issues_count": 11,
     "forks_count": 32
   },
@@ -61,122 +127,56 @@
   },
   {
     "full_name": "pawelmalak/flame",
-    "stargazers_count": 4789,
-    "open_issues_count": 145,
-    "forks_count": 236
+    "stargazers_count": 4794,
+    "open_issues_count": 146,
+    "forks_count": 237
   },
   {
     "full_name": "azukaar/Cosmos-Server",
-    "stargazers_count": 2615,
+    "stargazers_count": 2638,
     "open_issues_count": 59,
-    "forks_count": 83
+    "forks_count": 84
   },
   {
     "full_name": "FL33TW00D/whisper-turbo",
-    "stargazers_count": 1545,
+    "stargazers_count": 1547,
     "open_issues_count": 9,
     "forks_count": 59
   },
   {
     "full_name": "argmaxinc/WhisperKit",
-    "stargazers_count": 2083,
-    "open_issues_count": 29,
-    "forks_count": 174
+    "stargazers_count": 2101,
+    "open_issues_count": 30,
+    "forks_count": 178
   },
   {
     "full_name": "huggingface/distil-whisper",
-    "stargazers_count": 3065,
-    "open_issues_count": 51,
+    "stargazers_count": 3081,
+    "open_issues_count": 52,
     "forks_count": 210
   },
   {
     "full_name": "URUWorks/TeroSubtitler",
-    "stargazers_count": 156,
-    "open_issues_count": 34,
+    "stargazers_count": 158,
+    "open_issues_count": 36,
     "forks_count": 10
   },
   {
     "full_name": "SYSTRAN/faster-whisper",
-    "stargazers_count": 8354,
+    "stargazers_count": 8411,
     "open_issues_count": 209,
-    "forks_count": 689
+    "forks_count": 701
   },
   {
     "full_name": "Purfview/whisper-standalone-win",
-    "stargazers_count": 714,
-    "open_issues_count": 2,
+    "stargazers_count": 727,
+    "open_issues_count": 0,
     "forks_count": 39
   },
   {
     "full_name": "jdx/mise",
-    "stargazers_count": 5834,
-    "open_issues_count": 139,
+    "stargazers_count": 5872,
+    "open_issues_count": 146,
     "forks_count": 167
-  },
-  {
-    "full_name": "andypiper/mastodon-embeds-examples",
-    "stargazers_count": 15,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
-    "stargazers_count": 4148,
-    "open_issues_count": 2,
-    "forks_count": 438
-  },
-  {
-    "full_name": "raikasdev/mastopoet",
-    "stargazers_count": 93,
-    "open_issues_count": 5,
-    "forks_count": 9
-  },
-  {
-    "full_name": "amlweems/xzbot",
-    "stargazers_count": 3226,
-    "open_issues_count": 1,
-    "forks_count": 215
-  },
-  {
-    "full_name": "YellowRoseCx/koboldcpp-rocm",
-    "stargazers_count": 242,
-    "open_issues_count": 0,
-    "forks_count": 16
-  },
-  {
-    "full_name": "valkey-io/valkey",
-    "stargazers_count": 8806,
-    "open_issues_count": 111,
-    "forks_count": 322
-  },
-  {
-    "full_name": "runtipi/runtipi",
-    "stargazers_count": 6787,
-    "open_issues_count": 47,
-    "forks_count": 211
-  },
-  {
-    "full_name": "rogerfar/rdt-client",
-    "stargazers_count": 632,
-    "open_issues_count": 44,
-    "forks_count": 80
-  },
-  {
-    "full_name": "TypingMind/plugins-server",
-    "stargazers_count": 19,
-    "open_issues_count": 5,
-    "forks_count": 8
-  },
-  {
-    "full_name": "charmbracelet/freeze",
-    "stargazers_count": 1886,
-    "open_issues_count": 17,
-    "forks_count": 14
-  },
-  {
-    "full_name": "open-webui/open-webui",
-    "stargazers_count": 12319,
-    "open_issues_count": 102,
-    "forks_count": 1214
   }
 ]
