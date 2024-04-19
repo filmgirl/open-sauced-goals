@@ -1,73 +1,127 @@
 [
   {
+    "full_name": "meta-llama/llama3",
+    "stargazers_count": 2234,
+    "open_issues_count": 17,
+    "forks_count": 139
+  },
+  {
+    "full_name": "pytorch/torchtune",
+    "stargazers_count": 1476,
+    "open_issues_count": 77,
+    "forks_count": 78
+  },
+  {
+    "full_name": "mistralai/mistral-common",
+    "stargazers_count": 231,
+    "open_issues_count": 0,
+    "forks_count": 14
+  },
+  {
+    "full_name": "kevinbentley/Descent3",
+    "stargazers_count": 2251,
+    "open_issues_count": 22,
+    "forks_count": 161
+  },
+  {
+    "full_name": "antirez/zx2040",
+    "stargazers_count": 63,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "anthropics/anthropic-cookbook",
+    "stargazers_count": 2587,
+    "open_issues_count": 10,
+    "forks_count": 293
+  },
+  {
+    "full_name": "huangyz0918/termax",
+    "stargazers_count": 68,
+    "open_issues_count": 4,
+    "forks_count": 3
+  },
+  {
+    "full_name": "cbusillo/BD_to_AVP",
+    "stargazers_count": 19,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
+    "full_name": "bpc-clone/bypass-paywalls-clean-filters",
+    "stargazers_count": 160,
+    "open_issues_count": 0,
+    "forks_count": 12
+  },
+  {
     "full_name": "epogrebnyak/justpath",
-    "stargazers_count": 302,
-    "open_issues_count": 11,
+    "stargazers_count": 304,
+    "open_issues_count": 10,
     "forks_count": 9
   },
   {
     "full_name": "nalgeon/redka",
-    "stargazers_count": 1112,
-    "open_issues_count": 2,
-    "forks_count": 14
+    "stargazers_count": 2013,
+    "open_issues_count": 1,
+    "forks_count": 56
   },
   {
     "full_name": "alin23/Lunar",
-    "stargazers_count": 4283,
+    "stargazers_count": 4306,
     "open_issues_count": 5,
     "forks_count": 101
   },
   {
     "full_name": "buriy/python-readability",
-    "stargazers_count": 2545,
+    "stargazers_count": 2559,
     "open_issues_count": 39,
-    "forks_count": 347
+    "forks_count": 348
   },
   {
     "full_name": "EmptyJackson/policy-guided-diffusion",
-    "stargazers_count": 59,
+    "stargazers_count": 68,
     "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "BobMcDear/attorch",
-    "stargazers_count": 197,
+    "stargazers_count": 205,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "git-learning-game/oh-my-git",
-    "stargazers_count": 1687,
-    "open_issues_count": 116,
-    "forks_count": 125
+    "stargazers_count": 1785,
+    "open_issues_count": 119,
+    "forks_count": 127
   },
   {
     "full_name": "OpenDevin/OpenDevin",
-    "stargazers_count": 21898,
-    "open_issues_count": 97,
-    "forks_count": 2362
+    "stargazers_count": 22399,
+    "open_issues_count": 90,
+    "forks_count": 2429
   },
   {
     "full_name": "datasette/datasette-extract",
-    "stargazers_count": 91,
+    "stargazers_count": 99,
     "open_issues_count": 6,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "karpathy/llm.c",
-    "stargazers_count": 15171,
-    "open_issues_count": 55,
-    "forks_count": 1481
+    "stargazers_count": 15998,
+    "open_issues_count": 61,
+    "forks_count": 1595
   },
   {
     "full_name": "stanford-oval/storm",
-    "stargazers_count": 1815,
-    "open_issues_count": 8,
-    "forks_count": 165
+    "stargazers_count": 3425,
+    "open_issues_count": 10,
+    "forks_count": 332
   },
   {
     "full_name": "Staacks/gbinterceptor",
-    "stargazers_count": 426,
+    "stargazers_count": 428,
     "open_issues_count": 7,
     "forks_count": 21
   },
@@ -79,9 +133,9 @@
   },
   {
     "full_name": "easylist/easylist",
-    "stargazers_count": 1975,
-    "open_issues_count": 547,
-    "forks_count": 671
+    "stargazers_count": 1981,
+    "open_issues_count": 552,
+    "forks_count": 674
   },
   {
     "full_name": "oblador/hush",
@@ -91,92 +145,38 @@
   },
   {
     "full_name": "ChrisTitusTech/winutil",
-    "stargazers_count": 11541,
-    "open_issues_count": 43,
-    "forks_count": 827
+    "stargazers_count": 11592,
+    "open_issues_count": 33,
+    "forks_count": 828
   },
   {
     "full_name": "Raphire/Win11Debloat",
-    "stargazers_count": 2410,
-    "open_issues_count": 8,
-    "forks_count": 119
+    "stargazers_count": 2429,
+    "open_issues_count": 10,
+    "forks_count": 120
   },
   {
     "full_name": "migueletto/PumpkinOS",
-    "stargazers_count": 641,
+    "stargazers_count": 652,
     "open_issues_count": 6,
     "forks_count": 14
   },
   {
     "full_name": "RsyncProject/rsync",
-    "stargazers_count": 2292,
-    "open_issues_count": 194,
-    "forks_count": 283
+    "stargazers_count": 2299,
+    "open_issues_count": 195,
+    "forks_count": 284
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 28472,
-    "open_issues_count": 813,
-    "forks_count": 6425
+    "stargazers_count": 28531,
+    "open_issues_count": 816,
+    "forks_count": 6453
   },
   {
     "full_name": "davidteather/TikTok-Api",
-    "stargazers_count": 4317,
+    "stargazers_count": 4328,
     "open_issues_count": 69,
     "forks_count": 901
-  },
-  {
-    "full_name": "Bad3r/progress-and-loading-bash",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "MuTsunTsai/fontfreeze",
-    "stargazers_count": 88,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "twardoch/fonttools-opentype-feature-freezer",
-    "stargazers_count": 356,
-    "open_issues_count": 11,
-    "forks_count": 32
-  },
-  {
-    "full_name": "MonoLisaFont/feedback",
-    "stargazers_count": 81,
-    "open_issues_count": 33,
-    "forks_count": 2
-  },
-  {
-    "full_name": "pawelmalak/flame",
-    "stargazers_count": 4798,
-    "open_issues_count": 148,
-    "forks_count": 237
-  },
-  {
-    "full_name": "azukaar/Cosmos-Server",
-    "stargazers_count": 2653,
-    "open_issues_count": 50,
-    "forks_count": 85
-  },
-  {
-    "full_name": "FL33TW00D/whisper-turbo",
-    "stargazers_count": 1549,
-    "open_issues_count": 9,
-    "forks_count": 60
-  },
-  {
-    "full_name": "argmaxinc/WhisperKit",
-    "stargazers_count": 2116,
-    "open_issues_count": 27,
-    "forks_count": 180
-  },
-  {
-    "full_name": "huggingface/distil-whisper",
-    "stargazers_count": 3088,
-    "open_issues_count": 52,
-    "forks_count": 210
   }
 ]
