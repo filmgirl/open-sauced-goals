@@ -1,127 +1,151 @@
 [
   {
-    "full_name": "meta-llama/llama3",
-    "stargazers_count": 2234,
-    "open_issues_count": 17,
-    "forks_count": 139
-  },
-  {
-    "full_name": "pytorch/torchtune",
-    "stargazers_count": 1476,
-    "open_issues_count": 77,
-    "forks_count": 78
-  },
-  {
-    "full_name": "mistralai/mistral-common",
-    "stargazers_count": 231,
-    "open_issues_count": 0,
-    "forks_count": 14
-  },
-  {
-    "full_name": "kevinbentley/Descent3",
-    "stargazers_count": 2251,
-    "open_issues_count": 22,
-    "forks_count": 161
-  },
-  {
-    "full_name": "antirez/zx2040",
-    "stargazers_count": 63,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "anthropics/anthropic-cookbook",
-    "stargazers_count": 2587,
-    "open_issues_count": 10,
-    "forks_count": 293
-  },
-  {
-    "full_name": "huangyz0918/termax",
-    "stargazers_count": 68,
+    "full_name": "aigilea/hp_spectre_x360_14_eu0xxx",
+    "stargazers_count": 16,
     "open_issues_count": 4,
-    "forks_count": 3
-  },
-  {
-    "full_name": "cbusillo/BD_to_AVP",
-    "stargazers_count": 19,
-    "open_issues_count": 2,
     "forks_count": 2
   },
   {
-    "full_name": "bpc-clone/bypass-paywalls-clean-filters",
-    "stargazers_count": 160,
+    "full_name": "tonycpsu/streamglob",
+    "stargazers_count": 34,
+    "open_issues_count": 28,
+    "forks_count": 10
+  },
+  {
+    "full_name": "wjakethompson/taylor",
+    "stargazers_count": 36,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
+    "full_name": "pavelkomarov/exportify",
+    "stargazers_count": 173,
+    "open_issues_count": 23,
+    "forks_count": 20
+  },
+  {
+    "full_name": "meta-llama/llama3",
+    "stargazers_count": 14442,
+    "open_issues_count": 66,
+    "forks_count": 1139
+  },
+  {
+    "full_name": "pytorch/torchtune",
+    "stargazers_count": 2446,
+    "open_issues_count": 54,
+    "forks_count": 158
+  },
+  {
+    "full_name": "mistralai/mistral-common",
+    "stargazers_count": 331,
+    "open_issues_count": 2,
+    "forks_count": 15
+  },
+  {
+    "full_name": "DescentDevelopers/Descent3",
+    "stargazers_count": 2514,
+    "open_issues_count": 20,
+    "forks_count": 208
+  },
+  {
+    "full_name": "antirez/zx2040",
+    "stargazers_count": 86,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
+    "full_name": "anthropics/anthropic-cookbook",
+    "stargazers_count": 2736,
+    "open_issues_count": 12,
+    "forks_count": 323
+  },
+  {
+    "full_name": "huangyz0918/termax",
+    "stargazers_count": 71,
+    "open_issues_count": 4,
+    "forks_count": 4
+  },
+  {
+    "full_name": "cbusillo/BD_to_AVP",
+    "stargazers_count": 19,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "bpc-clone/bypass-paywalls-clean-filters",
+    "stargazers_count": 195,
+    "open_issues_count": 0,
+    "forks_count": 17
+  },
+  {
     "full_name": "epogrebnyak/justpath",
-    "stargazers_count": 304,
+    "stargazers_count": 306,
     "open_issues_count": 10,
     "forks_count": 9
   },
   {
     "full_name": "nalgeon/redka",
-    "stargazers_count": 2013,
-    "open_issues_count": 1,
-    "forks_count": 56
+    "stargazers_count": 2241,
+    "open_issues_count": 2,
+    "forks_count": 64
   },
   {
     "full_name": "alin23/Lunar",
-    "stargazers_count": 4306,
+    "stargazers_count": 4325,
     "open_issues_count": 5,
     "forks_count": 101
   },
   {
     "full_name": "buriy/python-readability",
-    "stargazers_count": 2559,
+    "stargazers_count": 2560,
     "open_issues_count": 39,
     "forks_count": 348
   },
   {
     "full_name": "EmptyJackson/policy-guided-diffusion",
-    "stargazers_count": 68,
+    "stargazers_count": 70,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "BobMcDear/attorch",
-    "stargazers_count": 205,
+    "stargazers_count": 351,
     "open_issues_count": 0,
-    "forks_count": 10
+    "forks_count": 15
   },
   {
     "full_name": "git-learning-game/oh-my-git",
-    "stargazers_count": 1785,
+    "stargazers_count": 1822,
     "open_issues_count": 119,
     "forks_count": 127
   },
   {
     "full_name": "OpenDevin/OpenDevin",
-    "stargazers_count": 22399,
-    "open_issues_count": 90,
-    "forks_count": 2429
+    "stargazers_count": 22826,
+    "open_issues_count": 89,
+    "forks_count": 2474
   },
   {
     "full_name": "datasette/datasette-extract",
-    "stargazers_count": 99,
+    "stargazers_count": 112,
     "open_issues_count": 6,
     "forks_count": 3
   },
   {
     "full_name": "karpathy/llm.c",
-    "stargazers_count": 15998,
+    "stargazers_count": 16742,
     "open_issues_count": 61,
-    "forks_count": 1595
+    "forks_count": 1690
   },
   {
     "full_name": "stanford-oval/storm",
-    "stargazers_count": 3425,
-    "open_issues_count": 10,
-    "forks_count": 332
+    "stargazers_count": 3731,
+    "open_issues_count": 11,
+    "forks_count": 364
   },
   {
     "full_name": "Staacks/gbinterceptor",
-    "stargazers_count": 428,
+    "stargazers_count": 431,
     "open_issues_count": 7,
     "forks_count": 21
   },
@@ -133,50 +157,26 @@
   },
   {
     "full_name": "easylist/easylist",
-    "stargazers_count": 1981,
-    "open_issues_count": 552,
-    "forks_count": 674
+    "stargazers_count": 1986,
+    "open_issues_count": 539,
+    "forks_count": 675
   },
   {
     "full_name": "oblador/hush",
-    "stargazers_count": 3088,
-    "open_issues_count": 127,
-    "forks_count": 73
+    "stargazers_count": 3093,
+    "open_issues_count": 128,
+    "forks_count": 74
   },
   {
     "full_name": "ChrisTitusTech/winutil",
-    "stargazers_count": 11592,
-    "open_issues_count": 33,
-    "forks_count": 828
+    "stargazers_count": 11721,
+    "open_issues_count": 13,
+    "forks_count": 834
   },
   {
     "full_name": "Raphire/Win11Debloat",
-    "stargazers_count": 2429,
+    "stargazers_count": 2468,
     "open_issues_count": 10,
-    "forks_count": 120
-  },
-  {
-    "full_name": "migueletto/PumpkinOS",
-    "stargazers_count": 652,
-    "open_issues_count": 6,
-    "forks_count": 14
-  },
-  {
-    "full_name": "RsyncProject/rsync",
-    "stargazers_count": 2299,
-    "open_issues_count": 195,
-    "forks_count": 284
-  },
-  {
-    "full_name": "calcom/cal.com",
-    "stargazers_count": 28531,
-    "open_issues_count": 816,
-    "forks_count": 6453
-  },
-  {
-    "full_name": "davidteather/TikTok-Api",
-    "stargazers_count": 4328,
-    "open_issues_count": 69,
-    "forks_count": 901
+    "forks_count": 123
   }
 ]
