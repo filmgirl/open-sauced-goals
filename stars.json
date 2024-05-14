@@ -1,85 +1,103 @@
 [
   {
+    "full_name": "jjuran/metamage_1",
+    "stargazers_count": 297,
+    "open_issues_count": 9,
+    "forks_count": 27
+  },
+  {
+    "full_name": "w3c/webcodecs",
+    "stargazers_count": 915,
+    "open_issues_count": 101,
+    "forks_count": 127
+  },
+  {
+    "full_name": "aegir-assembly/omni-clip",
+    "stargazers_count": 536,
+    "open_issues_count": 9,
+    "forks_count": 13
+  },
+  {
     "full_name": "xenova/transformers.js",
-    "stargazers_count": 7696,
-    "open_issues_count": 188,
-    "forks_count": 420
+    "stargazers_count": 7756,
+    "open_issues_count": 191,
+    "forks_count": 425
   },
   {
     "full_name": "armbues/SiLLM",
-    "stargazers_count": 141,
+    "stargazers_count": 143,
     "open_issues_count": 4,
     "forks_count": 15
   },
   {
     "full_name": "mlc-ai/web-llm",
-    "stargazers_count": 9650,
-    "open_issues_count": 97,
-    "forks_count": 582
+    "stargazers_count": 9770,
+    "open_issues_count": 100,
+    "forks_count": 589
   },
   {
     "full_name": "abi/secret-llama",
-    "stargazers_count": 1914,
-    "open_issues_count": 18,
-    "forks_count": 89
+    "stargazers_count": 2056,
+    "open_issues_count": 20,
+    "forks_count": 100
   },
   {
     "full_name": "llmware-ai/llmware",
-    "stargazers_count": 3527,
-    "open_issues_count": 26,
-    "forks_count": 565
+    "stargazers_count": 3782,
+    "open_issues_count": 29,
+    "forks_count": 764
   },
   {
     "full_name": "rasbt/LLMs-from-scratch",
-    "stargazers_count": 15990,
+    "stargazers_count": 16287,
     "open_issues_count": 0,
-    "forks_count": 1443
+    "forks_count": 1477
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 30630,
-    "open_issues_count": 295,
-    "forks_count": 1051
+    "stargazers_count": 30705,
+    "open_issues_count": 296,
+    "forks_count": 1054
   },
   {
     "full_name": "TfTHacker/obsidian42-brat",
-    "stargazers_count": 525,
+    "stargazers_count": 527,
     "open_issues_count": 4,
     "forks_count": 24
   },
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 20921,
-    "open_issues_count": 318,
-    "forks_count": 3188
+    "stargazers_count": 20930,
+    "open_issues_count": 323,
+    "forks_count": 3194
   },
   {
     "full_name": "containers/podman-desktop-extension-bootc",
-    "stargazers_count": 337,
-    "open_issues_count": 46,
+    "stargazers_count": 362,
+    "open_issues_count": 40,
     "forks_count": 10
   },
   {
     "full_name": "xemulat/XToolbox",
-    "stargazers_count": 738,
+    "stargazers_count": 745,
     "open_issues_count": 1,
-    "forks_count": 55
+    "forks_count": 56
   },
   {
     "full_name": "bpc-clone/bypass-paywalls-chrome-clean",
-    "stargazers_count": 413,
+    "stargazers_count": 473,
     "open_issues_count": 4,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 28107,
-    "open_issues_count": 328,
-    "forks_count": 1360
+    "stargazers_count": 28174,
+    "open_issues_count": 320,
+    "forks_count": 1369
   },
   {
     "full_name": "aiaf/Stillcolor",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -91,21 +109,21 @@
   },
   {
     "full_name": "cezaraugusto/extension.js",
-    "stargazers_count": 2819,
-    "open_issues_count": 14,
-    "forks_count": 68
+    "stargazers_count": 2908,
+    "open_issues_count": 19,
+    "forks_count": 73
   },
   {
     "full_name": "bpc-clone/bpc_updates",
-    "stargazers_count": 396,
+    "stargazers_count": 428,
     "open_issues_count": 0,
     "forks_count": 16
   },
   {
     "full_name": "freedmand/textra",
-    "stargazers_count": 578,
+    "stargazers_count": 581,
     "open_issues_count": 6,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "ttscoff/marked-conductor",
@@ -121,15 +139,15 @@
   },
   {
     "full_name": "vincentneo/LosslessSwitcher",
-    "stargazers_count": 1003,
+    "stargazers_count": 1006,
     "open_issues_count": 39,
     "forks_count": 70
   },
   {
     "full_name": "apple/corenet",
-    "stargazers_count": 6385,
-    "open_issues_count": 12,
-    "forks_count": 509
+    "stargazers_count": 6450,
+    "open_issues_count": 14,
+    "forks_count": 510
   },
   {
     "full_name": "aigilea/hp_spectre_x360_14_eu0xxx",
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 19707,
-    "open_issues_count": 113,
-    "forks_count": 1807
-  },
-  {
-    "full_name": "pytorch/torchtune",
-    "stargazers_count": 3103,
-    "open_issues_count": 90,
-    "forks_count": 207
-  },
-  {
-    "full_name": "mistralai/mistral-common",
-    "stargazers_count": 393,
-    "open_issues_count": 4,
-    "forks_count": 21
-  },
-  {
-    "full_name": "DescentDevelopers/Descent3",
-    "stargazers_count": 2658,
-    "open_issues_count": 37,
-    "forks_count": 232
+    "stargazers_count": 20039,
+    "open_issues_count": 115,
+    "forks_count": 1884
   }
 ]
