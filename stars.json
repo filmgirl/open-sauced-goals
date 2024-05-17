@@ -1,103 +1,115 @@
 [
   {
+    "full_name": "Mr-Wiseguy/N64Recomp",
+    "stargazers_count": 4495,
+    "open_issues_count": 22,
+    "forks_count": 262
+  },
+  {
+    "full_name": "Mr-Wiseguy/Zelda64Recomp",
+    "stargazers_count": 3427,
+    "open_issues_count": 96,
+    "forks_count": 165
+  },
+  {
     "full_name": "jjuran/metamage_1",
-    "stargazers_count": 297,
+    "stargazers_count": 299,
     "open_issues_count": 9,
     "forks_count": 27
   },
   {
     "full_name": "w3c/webcodecs",
-    "stargazers_count": 915,
-    "open_issues_count": 101,
-    "forks_count": 127
+    "stargazers_count": 916,
+    "open_issues_count": 104,
+    "forks_count": 128
   },
   {
     "full_name": "aegir-assembly/omni-clip",
-    "stargazers_count": 536,
+    "stargazers_count": 672,
     "open_issues_count": 9,
-    "forks_count": 13
-  },
-  {
-    "full_name": "xenova/transformers.js",
-    "stargazers_count": 7756,
-    "open_issues_count": 191,
-    "forks_count": 425
-  },
-  {
-    "full_name": "armbues/SiLLM",
-    "stargazers_count": 143,
-    "open_issues_count": 4,
     "forks_count": 15
   },
   {
+    "full_name": "xenova/transformers.js",
+    "stargazers_count": 7787,
+    "open_issues_count": 194,
+    "forks_count": 430
+  },
+  {
+    "full_name": "armbues/SiLLM",
+    "stargazers_count": 145,
+    "open_issues_count": 4,
+    "forks_count": 16
+  },
+  {
     "full_name": "mlc-ai/web-llm",
-    "stargazers_count": 9770,
+    "stargazers_count": 9808,
     "open_issues_count": 100,
-    "forks_count": 589
+    "forks_count": 594
   },
   {
     "full_name": "abi/secret-llama",
-    "stargazers_count": 2056,
-    "open_issues_count": 20,
-    "forks_count": 100
+    "stargazers_count": 2135,
+    "open_issues_count": 21,
+    "forks_count": 103
   },
   {
     "full_name": "llmware-ai/llmware",
-    "stargazers_count": 3782,
-    "open_issues_count": 29,
-    "forks_count": 764
+    "stargazers_count": 3831,
+    "open_issues_count": 32,
+    "forks_count": 777
   },
   {
     "full_name": "rasbt/LLMs-from-scratch",
-    "stargazers_count": 16287,
+    "stargazers_count": 16402,
     "open_issues_count": 0,
-    "forks_count": 1477
+    "forks_count": 1498
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 30705,
-    "open_issues_count": 296,
-    "forks_count": 1054
+    "stargazers_count": 30778,
+    "open_issues_count": 295,
+    "forks_count": 1058
   },
   {
     "full_name": "TfTHacker/obsidian42-brat",
-    "stargazers_count": 527,
+    "stargazers_count": 529,
     "open_issues_count": 4,
     "forks_count": 24
   },
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 20930,
+    "stargazers_count": 20939,
     "open_issues_count": 323,
-    "forks_count": 3194
+    "forks_count": 3202
   },
   {
     "full_name": "containers/podman-desktop-extension-bootc",
-    "stargazers_count": 362,
-    "open_issues_count": 40,
+    "stargazers_count": 369,
+    "open_issues_count": 46,
     "forks_count": 10
   },
   {
     "full_name": "xemulat/XToolbox",
-    "stargazers_count": 745,
+    "stargazers_count": 746,
     "open_issues_count": 1,
     "forks_count": 56
   },
   {
     "full_name": "bpc-clone/bypass-paywalls-chrome-clean",
-    "stargazers_count": 473,
-    "open_issues_count": 4,
-    "forks_count": 28
+    "stargazers_count": 522,
+    "open_issues_count": 5,
+    "forks_count": 29
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 28174,
-    "open_issues_count": 320,
+    "stargazers_count": 28217,
+    "open_issues_count": 309,
     "forks_count": 1369
   },
   {
     "full_name": "aiaf/Stillcolor",
-    "stargazers_count": 116,
+    "stargazers_count": 119,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -109,19 +121,19 @@
   },
   {
     "full_name": "cezaraugusto/extension.js",
-    "stargazers_count": 2908,
-    "open_issues_count": 19,
-    "forks_count": 73
+    "stargazers_count": 3064,
+    "open_issues_count": 20,
+    "forks_count": 74
   },
   {
     "full_name": "bpc-clone/bpc_updates",
-    "stargazers_count": 428,
+    "stargazers_count": 459,
     "open_issues_count": 0,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "freedmand/textra",
-    "stargazers_count": 581,
+    "stargazers_count": 583,
     "open_issues_count": 6,
     "forks_count": 19
   },
@@ -139,15 +151,15 @@
   },
   {
     "full_name": "vincentneo/LosslessSwitcher",
-    "stargazers_count": 1006,
+    "stargazers_count": 1011,
     "open_issues_count": 39,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "apple/corenet",
-    "stargazers_count": 6450,
+    "stargazers_count": 6487,
     "open_issues_count": 14,
-    "forks_count": 510
+    "forks_count": 512
   },
   {
     "full_name": "aigilea/hp_spectre_x360_14_eu0xxx",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "wjakethompson/taylor",
-    "stargazers_count": 37,
-    "open_issues_count": 0,
+    "stargazers_count": 38,
+    "open_issues_count": 1,
     "forks_count": 12
-  },
-  {
-    "full_name": "pavelkomarov/exportify",
-    "stargazers_count": 175,
-    "open_issues_count": 23,
-    "forks_count": 20
-  },
-  {
-    "full_name": "meta-llama/llama3",
-    "stargazers_count": 20039,
-    "open_issues_count": 115,
-    "forks_count": 1884
   }
 ]
