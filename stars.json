@@ -1,20 +1,80 @@
 [
   {
-    "full_name": "readtedium/udm14",
-    "stargazers_count": 150,
+    "full_name": "0x2E/fusion",
+    "stargazers_count": 346,
+    "open_issues_count": 2,
+    "forks_count": 5
+  },
+  {
+    "full_name": "pnp/copilot-prompts",
+    "stargazers_count": 71,
     "open_issues_count": 4,
-    "forks_count": 15
+    "forks_count": 29
+  },
+  {
+    "full_name": "nkzw-tech/athena-crisis",
+    "stargazers_count": 1176,
+    "open_issues_count": 11,
+    "forks_count": 90
+  },
+  {
+    "full_name": "microsoft/promptflow",
+    "stargazers_count": 8417,
+    "open_issues_count": 119,
+    "forks_count": 722
+  },
+  {
+    "full_name": "microsoft/prompty",
+    "stargazers_count": 56,
+    "open_issues_count": 5,
+    "forks_count": 3
+  },
+  {
+    "full_name": "flatcar/sysext-bakery",
+    "stargazers_count": 47,
+    "open_issues_count": 4,
+    "forks_count": 19
+  },
+  {
+    "full_name": "danielweidman/flipper-pixmob-ir-codes",
+    "stargazers_count": 128,
+    "open_issues_count": 2,
+    "forks_count": 6
+  },
+  {
+    "full_name": "danielweidman/pixmob-ir-reverse-engineering",
+    "stargazers_count": 526,
+    "open_issues_count": 16,
+    "forks_count": 35
+  },
+  {
+    "full_name": "tinygrad/tinygrad",
+    "stargazers_count": 24503,
+    "open_issues_count": 165,
+    "forks_count": 2709
+  },
+  {
+    "full_name": "ChrisBuilds/terminaltexteffects",
+    "stargazers_count": 1822,
+    "open_issues_count": 6,
+    "forks_count": 21
+  },
+  {
+    "full_name": "readtedium/udm14",
+    "stargazers_count": 177,
+    "open_issues_count": 5,
+    "forks_count": 16
   },
   {
     "full_name": "StefanLobbenmeier/youtube-dl-gui",
-    "stargazers_count": 1169,
+    "stargazers_count": 1174,
     "open_issues_count": 71,
     "forks_count": 46
   },
   {
     "full_name": "sylviiu/ezytdl",
-    "stargazers_count": 336,
-    "open_issues_count": 33,
+    "stargazers_count": 338,
+    "open_issues_count": 28,
     "forks_count": 15
   },
   {
@@ -25,21 +85,21 @@
   },
   {
     "full_name": "naklecha/llama3-from-scratch",
-    "stargazers_count": 8812,
-    "open_issues_count": 11,
-    "forks_count": 611
+    "stargazers_count": 9424,
+    "open_issues_count": 14,
+    "forks_count": 655
   },
   {
     "full_name": "N64Recomp/N64Recomp",
-    "stargazers_count": 5799,
-    "open_issues_count": 35,
-    "forks_count": 352
+    "stargazers_count": 5892,
+    "open_issues_count": 36,
+    "forks_count": 359
   },
   {
     "full_name": "Zelda64Recomp/Zelda64Recomp",
-    "stargazers_count": 4506,
-    "open_issues_count": 117,
-    "forks_count": 231
+    "stargazers_count": 4637,
+    "open_issues_count": 127,
+    "forks_count": 237
   },
   {
     "full_name": "jjuran/metamage_1",
@@ -55,128 +115,68 @@
   },
   {
     "full_name": "omni-media/omniclip",
-    "stargazers_count": 761,
+    "stargazers_count": 764,
     "open_issues_count": 10,
     "forks_count": 15
   },
   {
     "full_name": "xenova/transformers.js",
-    "stargazers_count": 7900,
-    "open_issues_count": 185,
-    "forks_count": 437
+    "stargazers_count": 7942,
+    "open_issues_count": 192,
+    "forks_count": 439
   },
   {
     "full_name": "armbues/SiLLM",
-    "stargazers_count": 150,
+    "stargazers_count": 152,
     "open_issues_count": 4,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "mlc-ai/web-llm",
-    "stargazers_count": 10793,
-    "open_issues_count": 97,
-    "forks_count": 675
+    "stargazers_count": 10872,
+    "open_issues_count": 99,
+    "forks_count": 681
   },
   {
     "full_name": "abi/secret-llama",
-    "stargazers_count": 2222,
+    "stargazers_count": 2233,
     "open_issues_count": 21,
-    "forks_count": 112
+    "forks_count": 113
   },
   {
     "full_name": "llmware-ai/llmware",
-    "stargazers_count": 4007,
-    "open_issues_count": 28,
-    "forks_count": 797
+    "stargazers_count": 4042,
+    "open_issues_count": 26,
+    "forks_count": 804
   },
   {
     "full_name": "rasbt/LLMs-from-scratch",
-    "stargazers_count": 17051,
-    "open_issues_count": 0,
-    "forks_count": 1571
+    "stargazers_count": 17141,
+    "open_issues_count": 1,
+    "forks_count": 1587
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 30974,
-    "open_issues_count": 320,
-    "forks_count": 1069
+    "stargazers_count": 31015,
+    "open_issues_count": 323,
+    "forks_count": 1072
   },
   {
     "full_name": "TfTHacker/obsidian42-brat",
-    "stargazers_count": 537,
+    "stargazers_count": 538,
     "open_issues_count": 4,
     "forks_count": 26
   },
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 20980,
-    "open_issues_count": 314,
+    "stargazers_count": 20994,
+    "open_issues_count": 307,
     "forks_count": 3208
   },
   {
     "full_name": "containers/podman-desktop-extension-bootc",
-    "stargazers_count": 375,
-    "open_issues_count": 43,
+    "stargazers_count": 378,
+    "open_issues_count": 34,
     "forks_count": 10
-  },
-  {
-    "full_name": "nyxiereal/XToolbox",
-    "stargazers_count": 756,
-    "open_issues_count": 1,
-    "forks_count": 56
-  },
-  {
-    "full_name": "bpc-clone/bypass-paywalls-chrome-clean",
-    "stargazers_count": 710,
-    "open_issues_count": 2,
-    "forks_count": 43
-  },
-  {
-    "full_name": "penpot/penpot",
-    "stargazers_count": 28387,
-    "open_issues_count": 316,
-    "forks_count": 1388
-  },
-  {
-    "full_name": "aiaf/Stillcolor",
-    "stargazers_count": 138,
-    "open_issues_count": 1,
-    "forks_count": 4
-  },
-  {
-    "full_name": "Tethik/papercopy",
-    "stargazers_count": 14,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "cezaraugusto/extension.js",
-    "stargazers_count": 3290,
-    "open_issues_count": 25,
-    "forks_count": 78
-  },
-  {
-    "full_name": "bpc-clone/bpc_updates",
-    "stargazers_count": 548,
-    "open_issues_count": 0,
-    "forks_count": 20
-  },
-  {
-    "full_name": "freedmand/textra",
-    "stargazers_count": 585,
-    "open_issues_count": 6,
-    "forks_count": 20
-  },
-  {
-    "full_name": "ttscoff/marked-conductor",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "eshazen/retro-25",
-    "stargazers_count": 31,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
