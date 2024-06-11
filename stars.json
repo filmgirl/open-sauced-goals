@@ -1,67 +1,91 @@
 [
   {
+    "full_name": "corpnewt/MountEFI",
+    "stargazers_count": 996,
+    "open_issues_count": 9,
+    "forks_count": 115
+  },
+  {
+    "full_name": "franzageek/WinEFIMounter",
+    "stargazers_count": 8,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "sunknudsen/privacy-guides",
+    "stargazers_count": 708,
+    "open_issues_count": 21,
+    "forks_count": 77
+  },
+  {
+    "full_name": "alienator88/Pearcleaner",
+    "stargazers_count": 668,
+    "open_issues_count": 1,
+    "forks_count": 17
+  },
+  {
     "full_name": "dalyIsaac/Whim",
-    "stargazers_count": 118,
+    "stargazers_count": 121,
     "open_issues_count": 68,
     "forks_count": 7
   },
   {
     "full_name": "glzr-io/glazewm",
-    "stargazers_count": 3772,
-    "open_issues_count": 206,
+    "stargazers_count": 3796,
+    "open_issues_count": 209,
     "forks_count": 119
   },
   {
     "full_name": "nikitabobko/AeroSpace",
-    "stargazers_count": 2085,
-    "open_issues_count": 80,
-    "forks_count": 36
+    "stargazers_count": 2891,
+    "open_issues_count": 84,
+    "forks_count": 43
   },
   {
     "full_name": "twostraws/wwdc",
-    "stargazers_count": 1912,
-    "open_issues_count": 1,
-    "forks_count": 154
+    "stargazers_count": 1946,
+    "open_issues_count": 3,
+    "forks_count": 160
   },
   {
     "full_name": "gbdk-2020/gbdk-2020",
-    "stargazers_count": 1593,
+    "stargazers_count": 1600,
     "open_issues_count": 10,
     "forks_count": 117
   },
   {
     "full_name": "dwarvesf/hidden",
-    "stargazers_count": 10640,
+    "stargazers_count": 10731,
     "open_issues_count": 114,
-    "forks_count": 284
+    "forks_count": 286
   },
   {
     "full_name": "jordanbaird/Ice",
-    "stargazers_count": 3225,
-    "open_issues_count": 37,
-    "forks_count": 42
+    "stargazers_count": 8041,
+    "open_issues_count": 40,
+    "forks_count": 172
   },
   {
     "full_name": "FalconLee1011/Customized-Aerial-Screen-Saver",
-    "stargazers_count": 151,
+    "stargazers_count": 153,
     "open_issues_count": 5,
     "forks_count": 4
   },
   {
     "full_name": "nicotine-plus/nicotine-plus",
-    "stargazers_count": 1527,
-    "open_issues_count": 85,
-    "forks_count": 130
+    "stargazers_count": 1536,
+    "open_issues_count": 83,
+    "forks_count": 131
   },
   {
     "full_name": "slskd/slskd",
-    "stargazers_count": 810,
-    "open_issues_count": 195,
-    "forks_count": 50
+    "stargazers_count": 812,
+    "open_issues_count": 194,
+    "forks_count": 49
   },
   {
     "full_name": "Merlin04/superbird-webapp",
-    "stargazers_count": 75,
+    "stargazers_count": 80,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -73,68 +97,68 @@
   },
   {
     "full_name": "bishopdynamics/superbird-debian-kiosk",
-    "stargazers_count": 170,
+    "stargazers_count": 181,
     "open_issues_count": 1,
-    "forks_count": 5
+    "forks_count": 7
   },
   {
     "full_name": "frederic/superbird-bulkcmd",
-    "stargazers_count": 222,
+    "stargazers_count": 227,
     "open_issues_count": 2,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "bishopdynamics/superbird-tool",
-    "stargazers_count": 104,
-    "open_issues_count": 6,
-    "forks_count": 4
+    "stargazers_count": 111,
+    "open_issues_count": 7,
+    "forks_count": 5
   },
   {
     "full_name": "err4o4/spotify-car-thing-reverse-engineering",
-    "stargazers_count": 361,
-    "open_issues_count": 24,
+    "stargazers_count": 378,
+    "open_issues_count": 25,
     "forks_count": 5
   },
   {
     "full_name": "relative/deskthing",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "daniel5151/spotify-car-thing-bt",
-    "stargazers_count": 23,
+    "stargazers_count": 26,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "rough-stuff/rough-notation",
-    "stargazers_count": 8310,
-    "open_issues_count": 25,
+    "stargazers_count": 8318,
+    "open_issues_count": 26,
     "forks_count": 194
   },
   {
     "full_name": "rough-stuff/rough",
-    "stargazers_count": 19632,
+    "stargazers_count": 19637,
     "open_issues_count": 35,
     "forks_count": 606
   },
   {
     "full_name": "mrusme/superhighway84",
-    "stargazers_count": 681,
+    "stargazers_count": 680,
     "open_issues_count": 17,
     "forks_count": 25
   },
   {
     "full_name": "mrusme/reader",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 5,
     "forks_count": 6
   },
   {
     "full_name": "mrusme/neonmodem",
-    "stargazers_count": 520,
-    "open_issues_count": 30,
+    "stargazers_count": 522,
+    "open_issues_count": 27,
     "forks_count": 22
   },
   {
@@ -145,38 +169,14 @@
   },
   {
     "full_name": "rough-stuff/wired-elements",
-    "stargazers_count": 10309,
+    "stargazers_count": 10345,
     "open_issues_count": 31,
-    "forks_count": 324
+    "forks_count": 325
   },
   {
     "full_name": "0x2E/fusion",
-    "stargazers_count": 599,
+    "stargazers_count": 625,
     "open_issues_count": 2,
-    "forks_count": 13
-  },
-  {
-    "full_name": "pnp/copilot-prompts",
-    "stargazers_count": 77,
-    "open_issues_count": 4,
-    "forks_count": 29
-  },
-  {
-    "full_name": "nkzw-tech/athena-crisis",
-    "stargazers_count": 1226,
-    "open_issues_count": 11,
-    "forks_count": 95
-  },
-  {
-    "full_name": "microsoft/promptflow",
-    "stargazers_count": 8476,
-    "open_issues_count": 103,
-    "forks_count": 737
-  },
-  {
-    "full_name": "microsoft/prompty",
-    "stargazers_count": 87,
-    "open_issues_count": 3,
-    "forks_count": 5
+    "forks_count": 14
   }
 ]
