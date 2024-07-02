@@ -1,25 +1,37 @@
 [
   {
+    "full_name": "t0-retooling/defender-recon24",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mr-karan/doggo",
+    "stargazers_count": 1742,
+    "open_issues_count": 16,
+    "forks_count": 76
+  },
+  {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 1291,
-    "open_issues_count": 20,
-    "forks_count": 20
+    "stargazers_count": 1711,
+    "open_issues_count": 16,
+    "forks_count": 22
   },
   {
     "full_name": "microsoft/Phi-3CookBook",
-    "stargazers_count": 1093,
-    "open_issues_count": 5,
-    "forks_count": 94
+    "stargazers_count": 1144,
+    "open_issues_count": 4,
+    "forks_count": 103
   },
   {
     "full_name": "tareqimbasher/NetPad",
-    "stargazers_count": 1040,
-    "open_issues_count": 33,
+    "stargazers_count": 1048,
+    "open_issues_count": 28,
     "forks_count": 55
   },
   {
     "full_name": "i365dev/LetterDrop",
-    "stargazers_count": 231,
+    "stargazers_count": 255,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -37,27 +49,27 @@
   },
   {
     "full_name": "Perflyst/PiHoleBlocklist",
-    "stargazers_count": 777,
+    "stargazers_count": 778,
     "open_issues_count": 23,
     "forks_count": 115
   },
   {
     "full_name": "vikrum/kidpix",
-    "stargazers_count": 595,
+    "stargazers_count": 596,
     "open_issues_count": 12,
     "forks_count": 24
   },
   {
     "full_name": "pilotmoon/Scroll-Reverser",
-    "stargazers_count": 2442,
-    "open_issues_count": 36,
+    "stargazers_count": 2456,
+    "open_issues_count": 38,
     "forks_count": 134
   },
   {
     "full_name": "basecamp/omakub",
-    "stargazers_count": 3363,
-    "open_issues_count": 38,
-    "forks_count": 259
+    "stargazers_count": 3471,
+    "open_issues_count": 43,
+    "forks_count": 267
   },
   {
     "full_name": "ashishb/wp2hugo",
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "AgentOps-AI/tokencost",
-    "stargazers_count": 1193,
-    "open_issues_count": 11,
-    "forks_count": 38
+    "stargazers_count": 1223,
+    "open_issues_count": 9,
+    "forks_count": 41
   },
   {
     "full_name": "github/copilot-hack",
@@ -79,7 +91,7 @@
   },
   {
     "full_name": "skillrepos/copilot-hands-on",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 108
   },
@@ -91,25 +103,25 @@
   },
   {
     "full_name": "admineral/OpenAI-Assistant-API-Chat",
-    "stargazers_count": 280,
+    "stargazers_count": 281,
     "open_issues_count": 7,
     "forks_count": 89
   },
   {
     "full_name": "openai/openai-assistants-quickstart",
-    "stargazers_count": 1191,
+    "stargazers_count": 1195,
     "open_issues_count": 7,
     "forks_count": 210
   },
   {
     "full_name": "microsoft/copilot-pg",
-    "stargazers_count": 38,
+    "stargazers_count": 42,
     "open_issues_count": 5,
     "forks_count": 6
   },
   {
     "full_name": "corpnewt/MountEFI",
-    "stargazers_count": 1003,
+    "stargazers_count": 1004,
     "open_issues_count": 9,
     "forks_count": 116
   },
@@ -121,62 +133,50 @@
   },
   {
     "full_name": "sunknudsen/privacy-guides",
-    "stargazers_count": 720,
+    "stargazers_count": 722,
     "open_issues_count": 21,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "alienator88/Pearcleaner",
-    "stargazers_count": 739,
+    "stargazers_count": 766,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "dalyIsaac/Whim",
-    "stargazers_count": 130,
-    "open_issues_count": 63,
-    "forks_count": 7
+    "stargazers_count": 135,
+    "open_issues_count": 59,
+    "forks_count": 8
   },
   {
     "full_name": "glzr-io/glazewm",
-    "stargazers_count": 3927,
-    "open_issues_count": 206,
-    "forks_count": 119
+    "stargazers_count": 3947,
+    "open_issues_count": 207,
+    "forks_count": 120
   },
   {
     "full_name": "nikitabobko/AeroSpace",
-    "stargazers_count": 3323,
-    "open_issues_count": 97,
-    "forks_count": 48
+    "stargazers_count": 3354,
+    "open_issues_count": 96,
+    "forks_count": 50
   },
   {
     "full_name": "twostraws/wwdc",
-    "stargazers_count": 1958,
+    "stargazers_count": 1959,
     "open_issues_count": 1,
     "forks_count": 161
   },
   {
     "full_name": "gbdk-2020/gbdk-2020",
-    "stargazers_count": 1611,
+    "stargazers_count": 1614,
     "open_issues_count": 10,
     "forks_count": 118
   },
   {
     "full_name": "dwarvesf/hidden",
-    "stargazers_count": 10866,
+    "stargazers_count": 10889,
     "open_issues_count": 117,
-    "forks_count": 290
-  },
-  {
-    "full_name": "jordanbaird/Ice",
-    "stargazers_count": 9848,
-    "open_issues_count": 45,
-    "forks_count": 192
-  },
-  {
-    "full_name": "FalconLee1011/Customized-Aerial-Screen-Saver",
-    "stargazers_count": 157,
-    "open_issues_count": 5,
-    "forks_count": 6
+    "forks_count": 291
   }
 ]
