@@ -1,37 +1,67 @@
 [
   {
+    "full_name": "exo-explore/exo",
+    "stargazers_count": 1887,
+    "open_issues_count": 23,
+    "forks_count": 58
+  },
+  {
+    "full_name": "karpathy/LLM101n",
+    "stargazers_count": 21913,
+    "open_issues_count": 24,
+    "forks_count": 1108
+  },
+  {
+    "full_name": "DavidBuchanan314/rabbit_r1_boot_notes",
+    "stargazers_count": 23,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "OllieWP/ollie",
+    "stargazers_count": 347,
+    "open_issues_count": 12,
+    "forks_count": 46
+  },
+  {
+    "full_name": "guywaldman/magic-cli",
+    "stargazers_count": 419,
+    "open_issues_count": 8,
+    "forks_count": 4
+  },
+  {
     "full_name": "evansm7/umac",
-    "stargazers_count": 98,
+    "stargazers_count": 100,
     "open_issues_count": 4,
     "forks_count": 6
   },
   {
     "full_name": "evansm7/pico-mac",
-    "stargazers_count": 192,
+    "stargazers_count": 194,
     "open_issues_count": 1,
     "forks_count": 18
   },
   {
     "full_name": "CopilotKit/CopilotKit",
-    "stargazers_count": 8349,
-    "open_issues_count": 56,
-    "forks_count": 848
+    "stargazers_count": 8430,
+    "open_issues_count": 58,
+    "forks_count": 856
   },
   {
     "full_name": "turboderp/exllamav2",
-    "stargazers_count": 3255,
-    "open_issues_count": 59,
+    "stargazers_count": 3267,
+    "open_issues_count": 63,
     "forks_count": 243
   },
   {
     "full_name": "Codium-ai/pr-agent",
-    "stargazers_count": 5016,
-    "open_issues_count": 26,
-    "forks_count": 435
+    "stargazers_count": 5058,
+    "open_issues_count": 25,
+    "forks_count": 440
   },
   {
     "full_name": "dezoito/ollama-grid-search",
-    "stargazers_count": 347,
+    "stargazers_count": 350,
     "open_issues_count": 3,
     "forks_count": 16
   },
@@ -44,20 +74,20 @@
   {
     "full_name": "mlco2/codecarbon",
     "stargazers_count": 1015,
-    "open_issues_count": 79,
+    "open_issues_count": 78,
     "forks_count": 158
   },
   {
     "full_name": "kitao/pyxel",
-    "stargazers_count": 14101,
-    "open_issues_count": 10,
+    "stargazers_count": 14174,
+    "open_issues_count": 12,
     "forks_count": 819
   },
   {
     "full_name": "robert/PySkyWiFi",
-    "stargazers_count": 649,
+    "stargazers_count": 713,
     "open_issues_count": 0,
-    "forks_count": 27
+    "forks_count": 31
   },
   {
     "full_name": "raheelahmad/Swift-D3-Charts",
@@ -67,31 +97,31 @@
   },
   {
     "full_name": "SylphAI-Inc/LightRAG",
-    "stargazers_count": 485,
-    "open_issues_count": 5,
-    "forks_count": 40
+    "stargazers_count": 547,
+    "open_issues_count": 11,
+    "forks_count": 49
   },
   {
     "full_name": "ElliotKillick/rss2newsletter",
-    "stargazers_count": 220,
-    "open_issues_count": 0,
-    "forks_count": 5
+    "stargazers_count": 230,
+    "open_issues_count": 1,
+    "forks_count": 6
   },
   {
     "full_name": "pythops/impala",
-    "stargazers_count": 560,
+    "stargazers_count": 578,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "moturus/motor-os",
-    "stargazers_count": 740,
+    "stargazers_count": 741,
     "open_issues_count": 4,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "google/alioth",
-    "stargazers_count": 114,
+    "stargazers_count": 118,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -121,62 +151,32 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 69954,
-    "open_issues_count": 2694,
-    "forks_count": 29036
+    "stargazers_count": 69992,
+    "open_issues_count": 2684,
+    "forks_count": 29074
   },
   {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 12458,
-    "open_issues_count": 161,
-    "forks_count": 496
+    "stargazers_count": 12734,
+    "open_issues_count": 164,
+    "forks_count": 506
   },
   {
     "full_name": "t0-retooling/defender-recon24",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "mr-karan/doggo",
-    "stargazers_count": 2523,
-    "open_issues_count": 18,
+    "stargazers_count": 2537,
+    "open_issues_count": 19,
     "forks_count": 93
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 2234,
-    "open_issues_count": 12,
+    "stargazers_count": 2264,
+    "open_issues_count": 15,
     "forks_count": 25
-  },
-  {
-    "full_name": "microsoft/Phi-3CookBook",
-    "stargazers_count": 1314,
-    "open_issues_count": 4,
-    "forks_count": 119
-  },
-  {
-    "full_name": "tareqimbasher/NetPad",
-    "stargazers_count": 1098,
-    "open_issues_count": 29,
-    "forks_count": 60
-  },
-  {
-    "full_name": "i365dev/LetterDrop",
-    "stargazers_count": 269,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "djmango/obsidian-transcription",
-    "stargazers_count": 144,
-    "open_issues_count": 3,
-    "forks_count": 16
-  },
-  {
-    "full_name": "nikdanilov/whisper-obsidian-plugin",
-    "stargazers_count": 203,
-    "open_issues_count": 29,
-    "forks_count": 26
   }
 ]
