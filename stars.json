@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "jianchang512/pyvideotrans",
+    "stargazers_count": 8963,
+    "open_issues_count": 25,
+    "forks_count": 971
+  },
+  {
     "full_name": "hacksider/Deep-Live-Cam",
-    "stargazers_count": 17937,
-    "open_issues_count": 95,
-    "forks_count": 2310
+    "stargazers_count": 23433,
+    "open_issues_count": 146,
+    "forks_count": 3134
   },
   {
     "full_name": "evilsocket/opensnitch",
-    "stargazers_count": 10482,
-    "open_issues_count": 98,
-    "forks_count": 495
+    "stargazers_count": 10529,
+    "open_issues_count": 100,
+    "forks_count": 493
   },
   {
     "full_name": "freedomofpress/gotham-grabber",
@@ -25,45 +31,45 @@
   },
   {
     "full_name": "drcmda/poimandres-theme",
-    "stargazers_count": 372,
+    "stargazers_count": 373,
     "open_issues_count": 13,
     "forks_count": 25
   },
   {
     "full_name": "simonmysun/ell",
-    "stargazers_count": 351,
+    "stargazers_count": 359,
     "open_issues_count": 10,
-    "forks_count": 10
+    "forks_count": 13
   },
   {
     "full_name": "ZitaoTech/Hackberry-Pi_Zero",
-    "stargazers_count": 1282,
+    "stargazers_count": 1334,
     "open_issues_count": 1,
-    "forks_count": 43
+    "forks_count": 48
   },
   {
     "full_name": "lightpohl/podcast-dl",
-    "stargazers_count": 365,
+    "stargazers_count": 366,
     "open_issues_count": 2,
     "forks_count": 28
   },
   {
     "full_name": "imputnet/cobalt",
-    "stargazers_count": 13282,
-    "open_issues_count": 103,
-    "forks_count": 1021
+    "stargazers_count": 13387,
+    "open_issues_count": 104,
+    "forks_count": 1031
   },
   {
     "full_name": "tubearchivist/tubearchivist",
-    "stargazers_count": 4679,
+    "stargazers_count": 4691,
     "open_issues_count": 32,
     "forks_count": 212
   },
   {
     "full_name": "kepano/obsidian-minimal",
-    "stargazers_count": 3554,
+    "stargazers_count": 3559,
     "open_issues_count": 95,
-    "forks_count": 185
+    "forks_count": 184
   },
   {
     "full_name": "ganesshkumar/obsidian-table-editor",
@@ -79,39 +85,39 @@
   },
   {
     "full_name": "alexta69/metube",
-    "stargazers_count": 5727,
+    "stargazers_count": 5789,
     "open_issues_count": 106,
-    "forks_count": 350
+    "forks_count": 352
   },
   {
     "full_name": "lean-dojo/LeanCopilot",
-    "stargazers_count": 912,
-    "open_issues_count": 9,
+    "stargazers_count": 916,
+    "open_issues_count": 6,
     "forks_count": 76
   },
   {
     "full_name": "StreamPot/StreamPot",
-    "stargazers_count": 722,
-    "open_issues_count": 5,
-    "forks_count": 15
+    "stargazers_count": 734,
+    "open_issues_count": 6,
+    "forks_count": 16
   },
   {
     "full_name": "joshuacline/windick",
-    "stargazers_count": 350,
+    "stargazers_count": 352,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "mlfoundations/MINT-1T",
-    "stargazers_count": 689,
+    "stargazers_count": 693,
     "open_issues_count": 1,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "Netflix/maestro",
-    "stargazers_count": 2940,
-    "open_issues_count": 25,
-    "forks_count": 184
+    "stargazers_count": 2995,
+    "open_issues_count": 27,
+    "forks_count": 186
   },
   {
     "full_name": "geekodour/wscribe-editor",
@@ -121,33 +127,33 @@
   },
   {
     "full_name": "eza-community/eza",
-    "stargazers_count": 10417,
-    "open_issues_count": 214,
-    "forks_count": 178
+    "stargazers_count": 10510,
+    "open_issues_count": 215,
+    "forks_count": 179
   },
   {
     "full_name": "neuml/txtai",
-    "stargazers_count": 8468,
-    "open_issues_count": 19,
-    "forks_count": 563
+    "stargazers_count": 8506,
+    "open_issues_count": 18,
+    "forks_count": 562
   },
   {
     "full_name": "SendWithSES/Drag-and-Drop-Email-Designer",
-    "stargazers_count": 1132,
-    "open_issues_count": 2,
-    "forks_count": 42
+    "stargazers_count": 1147,
+    "open_issues_count": 1,
+    "forks_count": 43
   },
   {
     "full_name": "exo-explore/exo",
-    "stargazers_count": 5547,
-    "open_issues_count": 72,
-    "forks_count": 264
+    "stargazers_count": 5587,
+    "open_issues_count": 81,
+    "forks_count": 268
   },
   {
     "full_name": "karpathy/LLM101n",
-    "stargazers_count": 26858,
+    "stargazers_count": 26978,
     "open_issues_count": 19,
-    "forks_count": 1457
+    "forks_count": 1465
   },
   {
     "full_name": "DavidBuchanan314/rabbit_r1_boot_notes",
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "guywaldman/magic-cli",
-    "stargazers_count": 612,
+    "stargazers_count": 618,
     "open_issues_count": 8,
     "forks_count": 9
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 109,
     "open_issues_count": 4,
     "forks_count": 7
-  },
-  {
-    "full_name": "evansm7/pico-mac",
-    "stargazers_count": 235,
-    "open_issues_count": 2,
-    "forks_count": 22
   }
 ]
