@@ -1,43 +1,85 @@
 [
   {
+    "full_name": "Calyhre/dokku-mdns",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "taubyte/tau",
+    "stargazers_count": 3076,
+    "open_issues_count": 16,
+    "forks_count": 83
+  },
+  {
+    "full_name": "coollabsio/coolify",
+    "stargazers_count": 28523,
+    "open_issues_count": 334,
+    "forks_count": 1481
+  },
+  {
+    "full_name": "benbristow/dokploy-compose-templates",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "benbristow/dokploy-deploy-action",
+    "stargazers_count": 16,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Dokploy/dokploy",
+    "stargazers_count": 5789,
+    "open_issues_count": 36,
+    "forks_count": 311
+  },
+  {
+    "full_name": "instantdb/instant",
+    "stargazers_count": 4163,
+    "open_issues_count": 19,
+    "forks_count": 91
+  },
+  {
     "full_name": "shadps4-emu/shadPS4",
-    "stargazers_count": 6598,
-    "open_issues_count": 82,
-    "forks_count": 276
+    "stargazers_count": 7456,
+    "open_issues_count": 87,
+    "forks_count": 330
   },
   {
     "full_name": "wasi-master/13ft",
-    "stargazers_count": 2309,
+    "stargazers_count": 2481,
     "open_issues_count": 4,
-    "forks_count": 132
+    "forks_count": 136
   },
   {
     "full_name": "rfinnie/blockbuster",
-    "stargazers_count": 309,
+    "stargazers_count": 316,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "jianchang512/pyvideotrans",
-    "stargazers_count": 9534,
-    "open_issues_count": 32,
-    "forks_count": 1031
+    "stargazers_count": 9622,
+    "open_issues_count": 36,
+    "forks_count": 1042
   },
   {
     "full_name": "hacksider/Deep-Live-Cam",
-    "stargazers_count": 27453,
-    "open_issues_count": 185,
-    "forks_count": 3775
+    "stargazers_count": 30086,
+    "open_issues_count": 199,
+    "forks_count": 4170
   },
   {
     "full_name": "evilsocket/opensnitch",
-    "stargazers_count": 10574,
+    "stargazers_count": 10589,
     "open_issues_count": 105,
-    "forks_count": 490
+    "forks_count": 491
   },
   {
     "full_name": "freedomofpress/gotham-grabber",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 6,
     "forks_count": 8
   },
@@ -49,45 +91,45 @@
   },
   {
     "full_name": "drcmda/poimandres-theme",
-    "stargazers_count": 373,
+    "stargazers_count": 376,
     "open_issues_count": 13,
     "forks_count": 25
   },
   {
     "full_name": "simonmysun/ell",
-    "stargazers_count": 369,
+    "stargazers_count": 371,
     "open_issues_count": 10,
     "forks_count": 16
   },
   {
     "full_name": "ZitaoTech/Hackberry-Pi_Zero",
-    "stargazers_count": 1390,
+    "stargazers_count": 1415,
     "open_issues_count": 1,
-    "forks_count": 58
+    "forks_count": 60
   },
   {
     "full_name": "lightpohl/podcast-dl",
-    "stargazers_count": 368,
-    "open_issues_count": 3,
+    "stargazers_count": 370,
+    "open_issues_count": 0,
     "forks_count": 27
   },
   {
     "full_name": "imputnet/cobalt",
-    "stargazers_count": 13641,
-    "open_issues_count": 106,
-    "forks_count": 1059
+    "stargazers_count": 13747,
+    "open_issues_count": 108,
+    "forks_count": 1071
   },
   {
     "full_name": "tubearchivist/tubearchivist",
-    "stargazers_count": 4725,
-    "open_issues_count": 34,
-    "forks_count": 212
+    "stargazers_count": 4745,
+    "open_issues_count": 32,
+    "forks_count": 213
   },
   {
     "full_name": "kepano/obsidian-minimal",
-    "stargazers_count": 3578,
+    "stargazers_count": 3581,
     "open_issues_count": 94,
-    "forks_count": 184
+    "forks_count": 185
   },
   {
     "full_name": "ganesshkumar/obsidian-table-editor",
@@ -103,21 +145,21 @@
   },
   {
     "full_name": "alexta69/metube",
-    "stargazers_count": 5893,
-    "open_issues_count": 109,
-    "forks_count": 368
+    "stargazers_count": 5947,
+    "open_issues_count": 110,
+    "forks_count": 369
   },
   {
     "full_name": "lean-dojo/LeanCopilot",
-    "stargazers_count": 922,
+    "stargazers_count": 929,
     "open_issues_count": 6,
     "forks_count": 79
   },
   {
     "full_name": "StreamPot/StreamPot",
-    "stargazers_count": 750,
-    "open_issues_count": 6,
-    "forks_count": 18
+    "stargazers_count": 758,
+    "open_issues_count": 7,
+    "forks_count": 19
   },
   {
     "full_name": "joshuacline/windick",
@@ -127,56 +169,14 @@
   },
   {
     "full_name": "mlfoundations/MINT-1T",
-    "stargazers_count": 713,
+    "stargazers_count": 716,
     "open_issues_count": 2,
     "forks_count": 18
   },
   {
     "full_name": "Netflix/maestro",
-    "stargazers_count": 3094,
+    "stargazers_count": 3125,
     "open_issues_count": 28,
     "forks_count": 190
-  },
-  {
-    "full_name": "geekodour/wscribe-editor",
-    "stargazers_count": 99,
-    "open_issues_count": 3,
-    "forks_count": 7
-  },
-  {
-    "full_name": "eza-community/eza",
-    "stargazers_count": 10633,
-    "open_issues_count": 218,
-    "forks_count": 181
-  },
-  {
-    "full_name": "neuml/txtai",
-    "stargazers_count": 8560,
-    "open_issues_count": 18,
-    "forks_count": 562
-  },
-  {
-    "full_name": "SendWithSES/Drag-and-Drop-Email-Designer",
-    "stargazers_count": 1160,
-    "open_issues_count": 1,
-    "forks_count": 44
-  },
-  {
-    "full_name": "exo-explore/exo",
-    "stargazers_count": 5843,
-    "open_issues_count": 89,
-    "forks_count": 291
-  },
-  {
-    "full_name": "karpathy/LLM101n",
-    "stargazers_count": 27162,
-    "open_issues_count": 19,
-    "forks_count": 1482
-  },
-  {
-    "full_name": "DavidBuchanan314/rabbit_r1_boot_notes",
-    "stargazers_count": 31,
-    "open_issues_count": 1,
-    "forks_count": 3
   }
 ]
