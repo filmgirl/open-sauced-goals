@@ -1,15 +1,87 @@
 [
   {
+    "full_name": "moritztng/hacker-league",
+    "stargazers_count": 115,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "QwenLM/Qwen2",
+    "stargazers_count": 7242,
+    "open_issues_count": 80,
+    "forks_count": 439
+  },
+  {
+    "full_name": "KilledByAPixel/SpaceHuggers",
+    "stargazers_count": 257,
+    "open_issues_count": 0,
+    "forks_count": 60
+  },
+  {
+    "full_name": "Lightning-AI/litgpt",
+    "stargazers_count": 9656,
+    "open_issues_count": 221,
+    "forks_count": 963
+  },
+  {
+    "full_name": "black-forest-labs/flux",
+    "stargazers_count": 12881,
+    "open_issues_count": 92,
+    "forks_count": 893
+  },
+  {
+    "full_name": "rasbt/LLM-workshop-2024",
+    "stargazers_count": 533,
+    "open_issues_count": 1,
+    "forks_count": 117
+  },
+  {
+    "full_name": "anthropics/anthropic-quickstarts",
+    "stargazers_count": 1626,
+    "open_issues_count": 6,
+    "forks_count": 157
+  },
+  {
+    "full_name": "mkiol/dsnote",
+    "stargazers_count": 460,
+    "open_issues_count": 41,
+    "forks_count": 19
+  },
+  {
+    "full_name": "romansky/dom-to-semantic-markdown",
+    "stargazers_count": 582,
+    "open_issues_count": 5,
+    "forks_count": 10
+  },
+  {
+    "full_name": "extractus/feed-extractor",
+    "stargazers_count": 159,
+    "open_issues_count": 6,
+    "forks_count": 32
+  },
+  {
+    "full_name": "extractus/oembed-extractor",
+    "stargazers_count": 103,
+    "open_issues_count": 1,
+    "forks_count": 45
+  },
+  {
+    "full_name": "extractus/article-extractor",
+    "stargazers_count": 1527,
+    "open_issues_count": 6,
+    "forks_count": 132
+  },
+  {
     "full_name": "zen-browser/desktop",
-    "stargazers_count": 10819,
-    "open_issues_count": 202,
-    "forks_count": 259
+    "stargazers_count": 11281,
+    "open_issues_count": 225,
+    "forks_count": 271
   },
   {
     "full_name": "owickstrom/the-monospace-web",
-    "stargazers_count": 1424,
-    "open_issues_count": 4,
-    "forks_count": 76
+    "stargazers_count": 1479,
+    "open_issues_count": 5,
+    "forks_count": 80
   },
   {
     "full_name": "Calyhre/dokku-mdns",
@@ -19,15 +91,15 @@
   },
   {
     "full_name": "taubyte/tau",
-    "stargazers_count": 3129,
+    "stargazers_count": 3143,
     "open_issues_count": 16,
     "forks_count": 83
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 30619,
-    "open_issues_count": 346,
-    "forks_count": 1546
+    "stargazers_count": 30965,
+    "open_issues_count": 359,
+    "forks_count": 1569
   },
   {
     "full_name": "benbristow/dokploy-compose-templates",
@@ -43,51 +115,51 @@
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 6445,
-    "open_issues_count": 30,
-    "forks_count": 326
+    "stargazers_count": 6530,
+    "open_issues_count": 35,
+    "forks_count": 327
   },
   {
     "full_name": "instantdb/instant",
-    "stargazers_count": 5432,
+    "stargazers_count": 5577,
     "open_issues_count": 27,
-    "forks_count": 117
+    "forks_count": 123
   },
   {
     "full_name": "shadps4-emu/shadPS4",
-    "stargazers_count": 8141,
-    "open_issues_count": 130,
-    "forks_count": 387
+    "stargazers_count": 8375,
+    "open_issues_count": 143,
+    "forks_count": 419
   },
   {
     "full_name": "wasi-master/13ft",
-    "stargazers_count": 2564,
-    "open_issues_count": 7,
-    "forks_count": 138
+    "stargazers_count": 2581,
+    "open_issues_count": 8,
+    "forks_count": 139
   },
   {
     "full_name": "rfinnie/blockbuster",
-    "stargazers_count": 323,
+    "stargazers_count": 326,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "jianchang512/pyvideotrans",
-    "stargazers_count": 9744,
+    "stargazers_count": 9786,
     "open_issues_count": 42,
-    "forks_count": 1063
+    "forks_count": 1065
   },
   {
     "full_name": "hacksider/Deep-Live-Cam",
-    "stargazers_count": 32892,
-    "open_issues_count": 229,
-    "forks_count": 4598
+    "stargazers_count": 33443,
+    "open_issues_count": 235,
+    "forks_count": 4701
   },
   {
     "full_name": "evilsocket/opensnitch",
-    "stargazers_count": 10615,
-    "open_issues_count": 105,
-    "forks_count": 495
+    "stargazers_count": 10641,
+    "open_issues_count": 104,
+    "forks_count": 493
   },
   {
     "full_name": "freedomofpress/gotham-grabber",
@@ -103,80 +175,8 @@
   },
   {
     "full_name": "drcmda/poimandres-theme",
-    "stargazers_count": 377,
+    "stargazers_count": 376,
     "open_issues_count": 12,
     "forks_count": 25
-  },
-  {
-    "full_name": "simonmysun/ell",
-    "stargazers_count": 376,
-    "open_issues_count": 10,
-    "forks_count": 17
-  },
-  {
-    "full_name": "ZitaoTech/Hackberry-Pi_Zero",
-    "stargazers_count": 1438,
-    "open_issues_count": 1,
-    "forks_count": 62
-  },
-  {
-    "full_name": "lightpohl/podcast-dl",
-    "stargazers_count": 372,
-    "open_issues_count": 0,
-    "forks_count": 27
-  },
-  {
-    "full_name": "imputnet/cobalt",
-    "stargazers_count": 13959,
-    "open_issues_count": 106,
-    "forks_count": 1100
-  },
-  {
-    "full_name": "tubearchivist/tubearchivist",
-    "stargazers_count": 4774,
-    "open_issues_count": 34,
-    "forks_count": 214
-  },
-  {
-    "full_name": "kepano/obsidian-minimal",
-    "stargazers_count": 3591,
-    "open_issues_count": 95,
-    "forks_count": 185
-  },
-  {
-    "full_name": "ganesshkumar/obsidian-table-editor",
-    "stargazers_count": 211,
-    "open_issues_count": 23,
-    "forks_count": 15
-  },
-  {
-    "full_name": "szktkfm/mdtt",
-    "stargazers_count": 94,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "alexta69/metube",
-    "stargazers_count": 6007,
-    "open_issues_count": 113,
-    "forks_count": 371
-  },
-  {
-    "full_name": "lean-dojo/LeanCopilot",
-    "stargazers_count": 933,
-    "open_issues_count": 4,
-    "forks_count": 79
-  },
-  {
-    "full_name": "StreamPot/StreamPot",
-    "stargazers_count": 763,
-    "open_issues_count": 7,
-    "forks_count": 19
-  },
-  {
-    "full_name": "joshuacline/windick",
-    "stargazers_count": 355,
-    "open_issues_count": 0,
-    "forks_count": 15
   }
 ]
