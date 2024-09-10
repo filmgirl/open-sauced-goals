@@ -1,15 +1,33 @@
 [
   {
+    "full_name": "gitbutlerapp/gitbutler",
+    "stargazers_count": 12399,
+    "open_issues_count": 272,
+    "forks_count": 487
+  },
+  {
+    "full_name": "LouisShark/chatgpt_system_prompt",
+    "stargazers_count": 7950,
+    "open_issues_count": 0,
+    "forks_count": 1162
+  },
+  {
+    "full_name": "0xeb/TheBigPromptLibrary",
+    "stargazers_count": 940,
+    "open_issues_count": 2,
+    "forks_count": 110
+  },
+  {
     "full_name": "moritztng/hacker-league",
-    "stargazers_count": 115,
-    "open_issues_count": 1,
-    "forks_count": 0
+    "stargazers_count": 148,
+    "open_issues_count": 4,
+    "forks_count": 2
   },
   {
     "full_name": "QwenLM/Qwen2",
-    "stargazers_count": 7242,
-    "open_issues_count": 80,
-    "forks_count": 439
+    "stargazers_count": 7334,
+    "open_issues_count": 71,
+    "forks_count": 444
   },
   {
     "full_name": "KilledByAPixel/SpaceHuggers",
@@ -19,39 +37,39 @@
   },
   {
     "full_name": "Lightning-AI/litgpt",
-    "stargazers_count": 9656,
-    "open_issues_count": 221,
-    "forks_count": 963
+    "stargazers_count": 9714,
+    "open_issues_count": 223,
+    "forks_count": 968
   },
   {
     "full_name": "black-forest-labs/flux",
-    "stargazers_count": 12881,
+    "stargazers_count": 13158,
     "open_issues_count": 92,
-    "forks_count": 893
+    "forks_count": 922
   },
   {
     "full_name": "rasbt/LLM-workshop-2024",
-    "stargazers_count": 533,
+    "stargazers_count": 553,
     "open_issues_count": 1,
-    "forks_count": 117
+    "forks_count": 132
   },
   {
     "full_name": "anthropics/anthropic-quickstarts",
-    "stargazers_count": 1626,
-    "open_issues_count": 6,
-    "forks_count": 157
+    "stargazers_count": 2406,
+    "open_issues_count": 9,
+    "forks_count": 210
   },
   {
     "full_name": "mkiol/dsnote",
-    "stargazers_count": 460,
-    "open_issues_count": 41,
+    "stargazers_count": 471,
+    "open_issues_count": 42,
     "forks_count": 19
   },
   {
     "full_name": "romansky/dom-to-semantic-markdown",
-    "stargazers_count": 582,
-    "open_issues_count": 5,
-    "forks_count": 10
+    "stargazers_count": 611,
+    "open_issues_count": 4,
+    "forks_count": 12
   },
   {
     "full_name": "extractus/feed-extractor",
@@ -67,21 +85,21 @@
   },
   {
     "full_name": "extractus/article-extractor",
-    "stargazers_count": 1527,
+    "stargazers_count": 1531,
     "open_issues_count": 6,
     "forks_count": 132
   },
   {
     "full_name": "zen-browser/desktop",
-    "stargazers_count": 11281,
-    "open_issues_count": 225,
-    "forks_count": 271
+    "stargazers_count": 11733,
+    "open_issues_count": 218,
+    "forks_count": 287
   },
   {
     "full_name": "owickstrom/the-monospace-web",
-    "stargazers_count": 1479,
+    "stargazers_count": 1514,
     "open_issues_count": 5,
-    "forks_count": 80
+    "forks_count": 84
   },
   {
     "full_name": "Calyhre/dokku-mdns",
@@ -91,15 +109,15 @@
   },
   {
     "full_name": "taubyte/tau",
-    "stargazers_count": 3143,
-    "open_issues_count": 16,
-    "forks_count": 83
+    "stargazers_count": 3161,
+    "open_issues_count": 15,
+    "forks_count": 84
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 30965,
-    "open_issues_count": 359,
-    "forks_count": 1569
+    "stargazers_count": 31268,
+    "open_issues_count": 372,
+    "forks_count": 1593
   },
   {
     "full_name": "benbristow/dokploy-compose-templates",
@@ -115,68 +133,50 @@
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 6530,
-    "open_issues_count": 35,
-    "forks_count": 327
+    "stargazers_count": 6604,
+    "open_issues_count": 36,
+    "forks_count": 334
   },
   {
     "full_name": "instantdb/instant",
-    "stargazers_count": 5577,
-    "open_issues_count": 27,
-    "forks_count": 123
+    "stargazers_count": 5697,
+    "open_issues_count": 32,
+    "forks_count": 129
   },
   {
     "full_name": "shadps4-emu/shadPS4",
-    "stargazers_count": 8375,
-    "open_issues_count": 143,
-    "forks_count": 419
+    "stargazers_count": 8617,
+    "open_issues_count": 148,
+    "forks_count": 446
   },
   {
     "full_name": "wasi-master/13ft",
-    "stargazers_count": 2581,
+    "stargazers_count": 2596,
     "open_issues_count": 8,
     "forks_count": 139
   },
   {
     "full_name": "rfinnie/blockbuster",
-    "stargazers_count": 326,
+    "stargazers_count": 328,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "jianchang512/pyvideotrans",
-    "stargazers_count": 9786,
-    "open_issues_count": 42,
-    "forks_count": 1065
+    "stargazers_count": 9840,
+    "open_issues_count": 43,
+    "forks_count": 1067
   },
   {
     "full_name": "hacksider/Deep-Live-Cam",
-    "stargazers_count": 33443,
-    "open_issues_count": 235,
-    "forks_count": 4701
+    "stargazers_count": 34243,
+    "open_issues_count": 240,
+    "forks_count": 4816
   },
   {
     "full_name": "evilsocket/opensnitch",
-    "stargazers_count": 10641,
-    "open_issues_count": 104,
-    "forks_count": 493
-  },
-  {
-    "full_name": "freedomofpress/gotham-grabber",
-    "stargazers_count": 48,
-    "open_issues_count": 6,
-    "forks_count": 8
-  },
-  {
-    "full_name": "alii/poimandres-terminal",
-    "stargazers_count": 93,
-    "open_issues_count": 0,
-    "forks_count": 11
-  },
-  {
-    "full_name": "drcmda/poimandres-theme",
-    "stargazers_count": 376,
-    "open_issues_count": 12,
-    "forks_count": 25
+    "stargazers_count": 10683,
+    "open_issues_count": 107,
+    "forks_count": 494
   }
 ]
