@@ -1,80 +1,92 @@
 [
   {
+    "full_name": "texstudio-org/texstudio",
+    "stargazers_count": 2745,
+    "open_issues_count": 481,
+    "forks_count": 342
+  },
+  {
+    "full_name": "overleaf/toolkit",
+    "stargazers_count": 558,
+    "open_issues_count": 73,
+    "forks_count": 136
+  },
+  {
     "full_name": "gitbutlerapp/gitbutler",
-    "stargazers_count": 12399,
-    "open_issues_count": 272,
-    "forks_count": 487
+    "stargazers_count": 12434,
+    "open_issues_count": 256,
+    "forks_count": 489
   },
   {
     "full_name": "LouisShark/chatgpt_system_prompt",
-    "stargazers_count": 7950,
+    "stargazers_count": 7968,
     "open_issues_count": 0,
     "forks_count": 1162
   },
   {
     "full_name": "0xeb/TheBigPromptLibrary",
-    "stargazers_count": 940,
+    "stargazers_count": 967,
     "open_issues_count": 2,
-    "forks_count": 110
+    "forks_count": 111
   },
   {
     "full_name": "moritztng/hacker-league",
-    "stargazers_count": 148,
+    "stargazers_count": 149,
     "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "QwenLM/Qwen2",
-    "stargazers_count": 7334,
-    "open_issues_count": 71,
-    "forks_count": 444
+    "stargazers_count": 7411,
+    "open_issues_count": 62,
+    "forks_count": 449
   },
   {
     "full_name": "KilledByAPixel/SpaceHuggers",
-    "stargazers_count": 257,
+    "stargazers_count": 260,
     "open_issues_count": 0,
     "forks_count": 60
   },
   {
     "full_name": "Lightning-AI/litgpt",
-    "stargazers_count": 9714,
-    "open_issues_count": 223,
-    "forks_count": 968
+    "stargazers_count": 9751,
+    "open_issues_count": 219,
+    "forks_count": 973
   },
   {
     "full_name": "black-forest-labs/flux",
-    "stargazers_count": 13158,
-    "open_issues_count": 92,
-    "forks_count": 922
+    "stargazers_count": 13410,
+    "open_issues_count": 95,
+    "forks_count": 944
   },
   {
     "full_name": "rasbt/LLM-workshop-2024",
-    "stargazers_count": 553,
+    "stargazers_count": 573,
     "open_issues_count": 1,
-    "forks_count": 132
+    "forks_count": 135
   },
   {
     "full_name": "anthropics/anthropic-quickstarts",
-    "stargazers_count": 2406,
-    "open_issues_count": 9,
-    "forks_count": 210
+    "stargazers_count": 2465,
+    "open_issues_count": 8,
+    "forks_count": 220
   },
   {
     "full_name": "mkiol/dsnote",
-    "stargazers_count": 471,
+    "stargazers_count": 477,
     "open_issues_count": 42,
     "forks_count": 19
   },
   {
     "full_name": "romansky/dom-to-semantic-markdown",
-    "stargazers_count": 611,
+    "stargazers_count": 621,
     "open_issues_count": 4,
     "forks_count": 12
   },
   {
     "full_name": "extractus/feed-extractor",
     "stargazers_count": 159,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 32
   },
   {
@@ -85,21 +97,21 @@
   },
   {
     "full_name": "extractus/article-extractor",
-    "stargazers_count": 1531,
-    "open_issues_count": 6,
+    "stargazers_count": 1537,
+    "open_issues_count": 8,
     "forks_count": 132
   },
   {
     "full_name": "zen-browser/desktop",
-    "stargazers_count": 11733,
-    "open_issues_count": 218,
+    "stargazers_count": 12110,
+    "open_issues_count": 228,
     "forks_count": 287
   },
   {
     "full_name": "owickstrom/the-monospace-web",
-    "stargazers_count": 1514,
+    "stargazers_count": 1541,
     "open_issues_count": 5,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "Calyhre/dokku-mdns",
@@ -109,15 +121,15 @@
   },
   {
     "full_name": "taubyte/tau",
-    "stargazers_count": 3161,
+    "stargazers_count": 3181,
     "open_issues_count": 15,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 31268,
-    "open_issues_count": 372,
-    "forks_count": 1593
+    "stargazers_count": 31404,
+    "open_issues_count": 367,
+    "forks_count": 1606
   },
   {
     "full_name": "benbristow/dokploy-compose-templates",
@@ -133,25 +145,25 @@
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 6604,
-    "open_issues_count": 36,
-    "forks_count": 334
+    "stargazers_count": 6748,
+    "open_issues_count": 35,
+    "forks_count": 340
   },
   {
     "full_name": "instantdb/instant",
-    "stargazers_count": 5697,
-    "open_issues_count": 32,
-    "forks_count": 129
+    "stargazers_count": 5753,
+    "open_issues_count": 39,
+    "forks_count": 131
   },
   {
     "full_name": "shadps4-emu/shadPS4",
-    "stargazers_count": 8617,
-    "open_issues_count": 148,
-    "forks_count": 446
+    "stargazers_count": 8847,
+    "open_issues_count": 159,
+    "forks_count": 459
   },
   {
     "full_name": "wasi-master/13ft",
-    "stargazers_count": 2596,
+    "stargazers_count": 2609,
     "open_issues_count": 8,
     "forks_count": 139
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "jianchang512/pyvideotrans",
-    "stargazers_count": 9840,
-    "open_issues_count": 43,
-    "forks_count": 1067
-  },
-  {
-    "full_name": "hacksider/Deep-Live-Cam",
-    "stargazers_count": 34243,
-    "open_issues_count": 240,
-    "forks_count": 4816
-  },
-  {
-    "full_name": "evilsocket/opensnitch",
-    "stargazers_count": 10683,
-    "open_issues_count": 107,
-    "forks_count": 494
+    "stargazers_count": 9889,
+    "open_issues_count": 47,
+    "forks_count": 1081
   }
 ]
