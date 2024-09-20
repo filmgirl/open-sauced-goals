@@ -1,27 +1,99 @@
 [
   {
+    "full_name": "MightyMoud/sidekick",
+    "stargazers_count": 768,
+    "open_issues_count": 3,
+    "forks_count": 13
+  },
+  {
+    "full_name": "github/GreenSoftwareDirectory",
+    "stargazers_count": 43,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "ofabel/mp-flipper",
+    "stargazers_count": 56,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "lhr0909/asciinema-mp4",
+    "stargazers_count": 14,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "adam-mcdaniel/dune",
+    "stargazers_count": 928,
+    "open_issues_count": 15,
+    "forks_count": 20
+  },
+  {
+    "full_name": "kyutai-labs/moshi",
+    "stargazers_count": 2203,
+    "open_issues_count": 15,
+    "forks_count": 129
+  },
+  {
+    "full_name": "pawelgrzybek/pawelgrzybek",
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "chromalock/TI-32",
+    "stargazers_count": 339,
+    "open_issues_count": 0,
+    "forks_count": 32
+  },
+  {
+    "full_name": "ictnlp/LLaMA-Omni",
+    "stargazers_count": 1596,
+    "open_issues_count": 10,
+    "forks_count": 77
+  },
+  {
+    "full_name": "comet-ml/opik",
+    "stargazers_count": 1067,
+    "open_issues_count": 9,
+    "forks_count": 53
+  },
+  {
+    "full_name": "FrankBijnen/ExifToolGui",
+    "stargazers_count": 321,
+    "open_issues_count": 15,
+    "forks_count": 15
+  },
+  {
+    "full_name": "szTheory/exifcleaner",
+    "stargazers_count": 1841,
+    "open_issues_count": 76,
+    "forks_count": 115
+  },
+  {
     "full_name": "hykilpikonna/hyfetch",
-    "stargazers_count": 1277,
-    "open_issues_count": 51,
+    "stargazers_count": 1286,
+    "open_issues_count": 52,
     "forks_count": 95
   },
   {
     "full_name": "ThatOneCalculator/NerdFetch",
-    "stargazers_count": 453,
+    "stargazers_count": 458,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "fastfetch-cli/fastfetch",
-    "stargazers_count": 9651,
+    "stargazers_count": 9720,
     "open_issues_count": 10,
-    "forks_count": 388
+    "forks_count": 390
   },
   {
     "full_name": "bklieger-groq/g1",
-    "stargazers_count": 902,
-    "open_issues_count": 1,
-    "forks_count": 64
+    "stargazers_count": 2589,
+    "open_issues_count": 7,
+    "forks_count": 213
   },
   {
     "full_name": "wermipls/mimi",
@@ -31,33 +103,33 @@
   },
   {
     "full_name": "texstudio-org/texstudio",
-    "stargazers_count": 2751,
-    "open_issues_count": 481,
-    "forks_count": 342
+    "stargazers_count": 2753,
+    "open_issues_count": 483,
+    "forks_count": 343
   },
   {
     "full_name": "overleaf/toolkit",
-    "stargazers_count": 561,
+    "stargazers_count": 565,
     "open_issues_count": 73,
     "forks_count": 136
   },
   {
     "full_name": "gitbutlerapp/gitbutler",
-    "stargazers_count": 12457,
-    "open_issues_count": 259,
-    "forks_count": 491
+    "stargazers_count": 12484,
+    "open_issues_count": 260,
+    "forks_count": 492
   },
   {
     "full_name": "LouisShark/chatgpt_system_prompt",
-    "stargazers_count": 7976,
+    "stargazers_count": 7992,
     "open_issues_count": 0,
-    "forks_count": 1167
+    "forks_count": 1172
   },
   {
     "full_name": "0xeb/TheBigPromptLibrary",
-    "stargazers_count": 998,
+    "stargazers_count": 1094,
     "open_issues_count": 2,
-    "forks_count": 120
+    "forks_count": 150
   },
   {
     "full_name": "moritztng/hacker-league",
@@ -66,10 +138,10 @@
     "forks_count": 2
   },
   {
-    "full_name": "QwenLM/Qwen2",
-    "stargazers_count": 7468,
-    "open_issues_count": 61,
-    "forks_count": 458
+    "full_name": "QwenLM/Qwen2.5",
+    "stargazers_count": 7780,
+    "open_issues_count": 66,
+    "forks_count": 472
   },
   {
     "full_name": "KilledByAPixel/SpaceHuggers",
@@ -79,104 +151,32 @@
   },
   {
     "full_name": "Lightning-AI/litgpt",
-    "stargazers_count": 9780,
-    "open_issues_count": 220,
-    "forks_count": 980
+    "stargazers_count": 9822,
+    "open_issues_count": 222,
+    "forks_count": 982
   },
   {
     "full_name": "black-forest-labs/flux",
-    "stargazers_count": 13653,
-    "open_issues_count": 98,
-    "forks_count": 968
+    "stargazers_count": 13829,
+    "open_issues_count": 101,
+    "forks_count": 978
   },
   {
     "full_name": "rasbt/LLM-workshop-2024",
-    "stargazers_count": 586,
-    "open_issues_count": 2,
-    "forks_count": 139
+    "stargazers_count": 605,
+    "open_issues_count": 3,
+    "forks_count": 143
   },
   {
     "full_name": "anthropics/anthropic-quickstarts",
-    "stargazers_count": 2508,
+    "stargazers_count": 2528,
     "open_issues_count": 9,
-    "forks_count": 223
+    "forks_count": 224
   },
   {
     "full_name": "mkiol/dsnote",
-    "stargazers_count": 484,
-    "open_issues_count": 42,
+    "stargazers_count": 487,
+    "open_issues_count": 44,
     "forks_count": 19
-  },
-  {
-    "full_name": "romansky/dom-to-semantic-markdown",
-    "stargazers_count": 628,
-    "open_issues_count": 5,
-    "forks_count": 13
-  },
-  {
-    "full_name": "extractus/feed-extractor",
-    "stargazers_count": 159,
-    "open_issues_count": 6,
-    "forks_count": 32
-  },
-  {
-    "full_name": "extractus/oembed-extractor",
-    "stargazers_count": 104,
-    "open_issues_count": 1,
-    "forks_count": 45
-  },
-  {
-    "full_name": "extractus/article-extractor",
-    "stargazers_count": 1540,
-    "open_issues_count": 7,
-    "forks_count": 132
-  },
-  {
-    "full_name": "zen-browser/desktop",
-    "stargazers_count": 12662,
-    "open_issues_count": 241,
-    "forks_count": 297
-  },
-  {
-    "full_name": "owickstrom/the-monospace-web",
-    "stargazers_count": 1561,
-    "open_issues_count": 5,
-    "forks_count": 87
-  },
-  {
-    "full_name": "Calyhre/dokku-mdns",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "taubyte/tau",
-    "stargazers_count": 3194,
-    "open_issues_count": 15,
-    "forks_count": 85
-  },
-  {
-    "full_name": "coollabsio/coolify",
-    "stargazers_count": 31567,
-    "open_issues_count": 373,
-    "forks_count": 1615
-  },
-  {
-    "full_name": "benbristow/dokploy-compose-templates",
-    "stargazers_count": 15,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "benbristow/dokploy-deploy-action",
-    "stargazers_count": 22,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Dokploy/dokploy",
-    "stargazers_count": 6924,
-    "open_issues_count": 40,
-    "forks_count": 344
   }
 ]
