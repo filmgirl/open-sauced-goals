@@ -1,19 +1,25 @@
 [
   {
+    "full_name": "gethinode/hinode",
+    "stargazers_count": 142,
+    "open_issues_count": 23,
+    "forks_count": 51
+  },
+  {
     "full_name": "MightyMoud/sidekick",
-    "stargazers_count": 768,
-    "open_issues_count": 3,
-    "forks_count": 13
+    "stargazers_count": 2065,
+    "open_issues_count": 8,
+    "forks_count": 39
   },
   {
     "full_name": "github/GreenSoftwareDirectory",
-    "stargazers_count": 43,
-    "open_issues_count": 0,
-    "forks_count": 2
+    "stargazers_count": 72,
+    "open_issues_count": 5,
+    "forks_count": 4
   },
   {
     "full_name": "ofabel/mp-flipper",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -25,15 +31,15 @@
   },
   {
     "full_name": "adam-mcdaniel/dune",
-    "stargazers_count": 928,
+    "stargazers_count": 965,
     "open_issues_count": 15,
     "forks_count": 20
   },
   {
     "full_name": "kyutai-labs/moshi",
-    "stargazers_count": 2203,
-    "open_issues_count": 15,
-    "forks_count": 129
+    "stargazers_count": 4813,
+    "open_issues_count": 25,
+    "forks_count": 358
   },
   {
     "full_name": "pawelgrzybek/pawelgrzybek",
@@ -43,140 +49,134 @@
   },
   {
     "full_name": "chromalock/TI-32",
-    "stargazers_count": 339,
+    "stargazers_count": 480,
     "open_issues_count": 0,
-    "forks_count": 32
+    "forks_count": 42
   },
   {
     "full_name": "ictnlp/LLaMA-Omni",
-    "stargazers_count": 1596,
-    "open_issues_count": 10,
-    "forks_count": 77
+    "stargazers_count": 1878,
+    "open_issues_count": 13,
+    "forks_count": 104
   },
   {
     "full_name": "comet-ml/opik",
-    "stargazers_count": 1067,
-    "open_issues_count": 9,
-    "forks_count": 53
+    "stargazers_count": 1218,
+    "open_issues_count": 7,
+    "forks_count": 65
   },
   {
     "full_name": "FrankBijnen/ExifToolGui",
-    "stargazers_count": 321,
-    "open_issues_count": 15,
+    "stargazers_count": 325,
+    "open_issues_count": 16,
     "forks_count": 15
   },
   {
     "full_name": "szTheory/exifcleaner",
-    "stargazers_count": 1841,
-    "open_issues_count": 76,
+    "stargazers_count": 1849,
+    "open_issues_count": 77,
     "forks_count": 115
   },
   {
     "full_name": "hykilpikonna/hyfetch",
-    "stargazers_count": 1286,
-    "open_issues_count": 52,
+    "stargazers_count": 1290,
+    "open_issues_count": 53,
     "forks_count": 95
   },
   {
     "full_name": "ThatOneCalculator/NerdFetch",
-    "stargazers_count": 458,
-    "open_issues_count": 0,
+    "stargazers_count": 459,
+    "open_issues_count": 1,
     "forks_count": 23
   },
   {
     "full_name": "fastfetch-cli/fastfetch",
-    "stargazers_count": 9720,
-    "open_issues_count": 10,
-    "forks_count": 390
+    "stargazers_count": 9797,
+    "open_issues_count": 12,
+    "forks_count": 393
   },
   {
     "full_name": "bklieger-groq/g1",
-    "stargazers_count": 2589,
-    "open_issues_count": 7,
-    "forks_count": 213
+    "stargazers_count": 3154,
+    "open_issues_count": 4,
+    "forks_count": 278
   },
   {
     "full_name": "wermipls/mimi",
-    "stargazers_count": 59,
+    "stargazers_count": 60,
     "open_issues_count": 3,
     "forks_count": 3
   },
   {
     "full_name": "texstudio-org/texstudio",
-    "stargazers_count": 2753,
-    "open_issues_count": 483,
+    "stargazers_count": 2760,
+    "open_issues_count": 464,
     "forks_count": 343
   },
   {
     "full_name": "overleaf/toolkit",
-    "stargazers_count": 565,
-    "open_issues_count": 73,
-    "forks_count": 136
+    "stargazers_count": 567,
+    "open_issues_count": 72,
+    "forks_count": 135
   },
   {
     "full_name": "gitbutlerapp/gitbutler",
-    "stargazers_count": 12484,
-    "open_issues_count": 260,
-    "forks_count": 492
+    "stargazers_count": 12497,
+    "open_issues_count": 264,
+    "forks_count": 493
   },
   {
     "full_name": "LouisShark/chatgpt_system_prompt",
-    "stargazers_count": 7992,
+    "stargazers_count": 8022,
     "open_issues_count": 0,
     "forks_count": 1172
   },
   {
     "full_name": "0xeb/TheBigPromptLibrary",
-    "stargazers_count": 1094,
+    "stargazers_count": 1136,
     "open_issues_count": 2,
-    "forks_count": 150
+    "forks_count": 155
   },
   {
     "full_name": "moritztng/hacker-league",
-    "stargazers_count": 149,
+    "stargazers_count": 152,
     "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "QwenLM/Qwen2.5",
-    "stargazers_count": 7780,
-    "open_issues_count": 66,
-    "forks_count": 472
+    "stargazers_count": 8334,
+    "open_issues_count": 77,
+    "forks_count": 510
   },
   {
     "full_name": "KilledByAPixel/SpaceHuggers",
-    "stargazers_count": 260,
+    "stargazers_count": 265,
     "open_issues_count": 0,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "Lightning-AI/litgpt",
-    "stargazers_count": 9822,
-    "open_issues_count": 222,
-    "forks_count": 982
+    "stargazers_count": 9936,
+    "open_issues_count": 220,
+    "forks_count": 990
   },
   {
     "full_name": "black-forest-labs/flux",
-    "stargazers_count": 13829,
-    "open_issues_count": 101,
-    "forks_count": 978
+    "stargazers_count": 13995,
+    "open_issues_count": 104,
+    "forks_count": 994
   },
   {
     "full_name": "rasbt/LLM-workshop-2024",
-    "stargazers_count": 605,
-    "open_issues_count": 3,
-    "forks_count": 143
+    "stargazers_count": 625,
+    "open_issues_count": 2,
+    "forks_count": 150
   },
   {
     "full_name": "anthropics/anthropic-quickstarts",
-    "stargazers_count": 2528,
+    "stargazers_count": 2541,
     "open_issues_count": 9,
-    "forks_count": 224
-  },
-  {
-    "full_name": "mkiol/dsnote",
-    "stargazers_count": 487,
-    "open_issues_count": 44,
-    "forks_count": 19
+    "forks_count": 225
   }
 ]
