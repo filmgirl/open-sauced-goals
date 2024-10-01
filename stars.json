@@ -1,51 +1,99 @@
 [
   {
+    "full_name": "Gaulomatic/AirPodsSanity",
+    "stargazers_count": 126,
+    "open_issues_count": 5,
+    "forks_count": 7
+  },
+  {
+    "full_name": "milgra/airpodssoundqualityfixer",
+    "stargazers_count": 406,
+    "open_issues_count": 3,
+    "forks_count": 35
+  },
+  {
+    "full_name": "cesmejia/SwiftUI-Clean-Architecture-example-with-unit-tests",
+    "stargazers_count": 85,
+    "open_issues_count": 2,
+    "forks_count": 10
+  },
+  {
+    "full_name": "cesmejia/SwiftUI-Reactive-Clean-Architecture-MVVM",
+    "stargazers_count": 17,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "jogendra/example-ios-apps",
+    "stargazers_count": 1114,
+    "open_issues_count": 10,
+    "forks_count": 253
+  },
+  {
+    "full_name": "AMD-AIG-AIMA/AMD-LLM",
+    "stargazers_count": 152,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
+    "full_name": "microsoft/cloudcloak",
+    "stargazers_count": 49,
+    "open_issues_count": 12,
+    "forks_count": 5
+  },
+  {
+    "full_name": "kilograham/rp2040-doom",
+    "stargazers_count": 731,
+    "open_issues_count": 16,
+    "forks_count": 89
+  },
+  {
     "full_name": "bellingcat/toolkit",
-    "stargazers_count": 52,
-    "open_issues_count": 4,
+    "stargazers_count": 69,
+    "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "meta-llama/llama-stack",
-    "stargazers_count": 1344,
-    "open_issues_count": 22,
-    "forks_count": 125
+    "stargazers_count": 2625,
+    "open_issues_count": 31,
+    "forks_count": 260
   },
   {
     "full_name": "griptape-ai/griptape",
-    "stargazers_count": 1944,
-    "open_issues_count": 70,
-    "forks_count": 159
+    "stargazers_count": 1950,
+    "open_issues_count": 77,
+    "forks_count": 160
   },
   {
     "full_name": "WinampDesktop/winamp",
-    "stargazers_count": 6345,
-    "open_issues_count": 775,
-    "forks_count": 1449
+    "stargazers_count": 8458,
+    "open_issues_count": 83,
+    "forks_count": 2102
   },
   {
     "full_name": "gethinode/hinode",
-    "stargazers_count": 143,
+    "stargazers_count": 144,
     "open_issues_count": 24,
     "forks_count": 51
   },
   {
     "full_name": "MightyMoud/sidekick",
-    "stargazers_count": 2616,
-    "open_issues_count": 10,
-    "forks_count": 45
+    "stargazers_count": 2785,
+    "open_issues_count": 12,
+    "forks_count": 47
   },
   {
     "full_name": "github/GreenSoftwareDirectory",
-    "stargazers_count": 75,
+    "stargazers_count": 80,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "ofabel/mp-flipper",
-    "stargazers_count": 69,
+    "stargazers_count": 76,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "lhr0909/asciinema-mp4",
@@ -55,15 +103,15 @@
   },
   {
     "full_name": "adam-mcdaniel/dune",
-    "stargazers_count": 974,
-    "open_issues_count": 16,
+    "stargazers_count": 983,
+    "open_issues_count": 17,
     "forks_count": 20
   },
   {
     "full_name": "kyutai-labs/moshi",
-    "stargazers_count": 5610,
-    "open_issues_count": 30,
-    "forks_count": 414
+    "stargazers_count": 5860,
+    "open_issues_count": 32,
+    "forks_count": 438
   },
   {
     "full_name": "pawelgrzybek/pawelgrzybek",
@@ -73,31 +121,31 @@
   },
   {
     "full_name": "chromalock/TI-32",
-    "stargazers_count": 583,
+    "stargazers_count": 661,
     "open_issues_count": 0,
-    "forks_count": 49
+    "forks_count": 62
   },
   {
     "full_name": "ictnlp/LLaMA-Omni",
-    "stargazers_count": 2002,
-    "open_issues_count": 20,
-    "forks_count": 111
+    "stargazers_count": 2079,
+    "open_issues_count": 22,
+    "forks_count": 121
   },
   {
     "full_name": "comet-ml/opik",
-    "stargazers_count": 1302,
-    "open_issues_count": 11,
-    "forks_count": 72
+    "stargazers_count": 1465,
+    "open_issues_count": 6,
+    "forks_count": 82
   },
   {
     "full_name": "FrankBijnen/ExifToolGui",
-    "stargazers_count": 328,
+    "stargazers_count": 332,
     "open_issues_count": 17,
     "forks_count": 15
   },
   {
     "full_name": "szTheory/exifcleaner",
-    "stargazers_count": 1849,
+    "stargazers_count": 1854,
     "open_issues_count": 77,
     "forks_count": 116
   },
@@ -105,78 +153,30 @@
     "full_name": "hykilpikonna/hyfetch",
     "stargazers_count": 1289,
     "open_issues_count": 53,
-    "forks_count": 95
+    "forks_count": 96
   },
   {
     "full_name": "ThatOneCalculator/NerdFetch",
-    "stargazers_count": 461,
+    "stargazers_count": 466,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "fastfetch-cli/fastfetch",
-    "stargazers_count": 9852,
-    "open_issues_count": 11,
+    "stargazers_count": 9917,
+    "open_issues_count": 10,
     "forks_count": 395
   },
   {
     "full_name": "bklieger-groq/g1",
-    "stargazers_count": 3275,
+    "stargazers_count": 3361,
     "open_issues_count": 4,
-    "forks_count": 300
+    "forks_count": 307
   },
   {
     "full_name": "wermipls/mimi",
     "stargazers_count": 60,
     "open_issues_count": 3,
     "forks_count": 3
-  },
-  {
-    "full_name": "texstudio-org/texstudio",
-    "stargazers_count": 2764,
-    "open_issues_count": 464,
-    "forks_count": 343
-  },
-  {
-    "full_name": "overleaf/toolkit",
-    "stargazers_count": 568,
-    "open_issues_count": 72,
-    "forks_count": 136
-  },
-  {
-    "full_name": "gitbutlerapp/gitbutler",
-    "stargazers_count": 12563,
-    "open_issues_count": 267,
-    "forks_count": 498
-  },
-  {
-    "full_name": "LouisShark/chatgpt_system_prompt",
-    "stargazers_count": 8033,
-    "open_issues_count": 0,
-    "forks_count": 1174
-  },
-  {
-    "full_name": "0xeb/TheBigPromptLibrary",
-    "stargazers_count": 1159,
-    "open_issues_count": 2,
-    "forks_count": 161
-  },
-  {
-    "full_name": "moritztng/hacker-league",
-    "stargazers_count": 152,
-    "open_issues_count": 4,
-    "forks_count": 2
-  },
-  {
-    "full_name": "QwenLM/Qwen2.5",
-    "stargazers_count": 8502,
-    "open_issues_count": 61,
-    "forks_count": 518
-  },
-  {
-    "full_name": "KilledByAPixel/SpaceHuggers",
-    "stargazers_count": 265,
-    "open_issues_count": 0,
-    "forks_count": 64
   }
 ]
