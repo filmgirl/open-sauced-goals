@@ -1,13 +1,91 @@
 [
   {
+    "full_name": "samuel-vitorino/lm.rs",
+    "stargazers_count": 825,
+    "open_issues_count": 8,
+    "forks_count": 16
+  },
+  {
+    "full_name": "ferrumc-rs/ferrumc",
+    "stargazers_count": 733,
+    "open_issues_count": 6,
+    "forks_count": 18
+  },
+  {
+    "full_name": "Snowiiii/Pumpkin",
+    "stargazers_count": 2065,
+    "open_issues_count": 30,
+    "forks_count": 52
+  },
+  {
+    "full_name": "klimeryk/dealwithit",
+    "stargazers_count": 196,
+    "open_issues_count": 7,
+    "forks_count": 8
+  },
+  {
+    "full_name": "ArchiveTeam/grab-site",
+    "stargazers_count": 1388,
+    "open_issues_count": 93,
+    "forks_count": 135
+  },
+  {
+    "full_name": "hunterirving/macproxy_plus",
+    "stargazers_count": 103,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "TalAter/annyang",
+    "stargazers_count": 6620,
+    "open_issues_count": 53,
+    "forks_count": 1048
+  },
+  {
+    "full_name": "mozilla/DeepSpeech",
+    "stargazers_count": 25233,
+    "open_issues_count": 151,
+    "forks_count": 3954
+  },
+  {
+    "full_name": "MahmoudAshraf97/whisper-diarization",
+    "stargazers_count": 3522,
+    "open_issues_count": 36,
+    "forks_count": 301
+  },
+  {
+    "full_name": "OpenNMT/CTranslate2",
+    "stargazers_count": 3323,
+    "open_issues_count": 186,
+    "forks_count": 289
+  },
+  {
+    "full_name": "Softcatala/whisper-ctranslate2",
+    "stargazers_count": 892,
+    "open_issues_count": 12,
+    "forks_count": 77
+  },
+  {
+    "full_name": "ochen1/insanely-fast-whisper-cli",
+    "stargazers_count": 320,
+    "open_issues_count": 6,
+    "forks_count": 30
+  },
+  {
+    "full_name": "ieasybooks/tafrigh",
+    "stargazers_count": 104,
+    "open_issues_count": 8,
+    "forks_count": 15
+  },
+  {
     "full_name": "gosub-io/gosub-engine",
-    "stargazers_count": 2344,
-    "open_issues_count": 19,
-    "forks_count": 125
+    "stargazers_count": 2923,
+    "open_issues_count": 18,
+    "forks_count": 140
   },
   {
     "full_name": "bcpierce00/unison",
-    "stargazers_count": 4101,
+    "stargazers_count": 4115,
     "open_issues_count": 105,
     "forks_count": 232
   },
@@ -19,7 +97,7 @@
   },
   {
     "full_name": "josean-dev/dev-environment-files",
-    "stargazers_count": 3030,
+    "stargazers_count": 3038,
     "open_issues_count": 36,
     "forks_count": 810
   },
@@ -37,146 +115,68 @@
   },
   {
     "full_name": "Naunter/BT_BlockLists",
-    "stargazers_count": 965,
+    "stargazers_count": 964,
     "open_issues_count": 8,
     "forks_count": 48
   },
   {
     "full_name": "microsoft/unilm",
-    "stargazers_count": 19834,
-    "open_issues_count": 615,
-    "forks_count": 2525
+    "stargazers_count": 19887,
+    "open_issues_count": 617,
+    "forks_count": 2533
   },
   {
     "full_name": "dagger/dagger",
-    "stargazers_count": 11314,
+    "stargazers_count": 11347,
     "open_issues_count": 647,
     "forks_count": 605
   },
   {
     "full_name": "JuiceRescue/juicepassproxy",
-    "stargazers_count": 79,
+    "stargazers_count": 80,
     "open_issues_count": 23,
     "forks_count": 11
   },
   {
     "full_name": "benjones/presenterMode",
-    "stargazers_count": 12,
+    "stargazers_count": 14,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "aschmelyun/dotmatrix-daily-news",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "vllm-project/vllm",
-    "stargazers_count": 28387,
-    "open_issues_count": 2150,
-    "forks_count": 4205
+    "stargazers_count": 28598,
+    "open_issues_count": 2198,
+    "forks_count": 4244
   },
   {
     "full_name": "Stengo/DeskPad",
-    "stargazers_count": 4385,
-    "open_issues_count": 17,
-    "forks_count": 75
+    "stargazers_count": 4702,
+    "open_issues_count": 18,
+    "forks_count": 79
   },
   {
     "full_name": "feder-cr/Auto_Jobs_Applier_AIHawk",
-    "stargazers_count": 17546,
-    "open_issues_count": 78,
-    "forks_count": 2548
+    "stargazers_count": 17721,
+    "open_issues_count": 87,
+    "forks_count": 2596
   },
   {
     "full_name": "rusq/slackdump",
-    "stargazers_count": 1528,
+    "stargazers_count": 1532,
     "open_issues_count": 27,
     "forks_count": 71
   },
   {
     "full_name": "THUDM/LongWriter",
-    "stargazers_count": 1410,
-    "open_issues_count": 21,
-    "forks_count": 116
-  },
-  {
-    "full_name": "jakelazaroff/htmx-spa",
-    "stargazers_count": 31,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "connorads/mise",
-    "stargazers_count": 176,
-    "open_issues_count": 2,
-    "forks_count": 0
-  },
-  {
-    "full_name": "moonrepo/proto",
-    "stargazers_count": 666,
-    "open_issues_count": 15,
-    "forks_count": 32
-  },
-  {
-    "full_name": "blogvault/morpheus",
-    "stargazers_count": 56,
-    "open_issues_count": 12,
-    "forks_count": 2
-  },
-  {
-    "full_name": "LinkedInLearning/build-a-javascript-ai-app-with-react-and-the-openai-api-4467357",
-    "stargazers_count": 26,
-    "open_issues_count": 0,
-    "forks_count": 329
-  },
-  {
-    "full_name": "openai/openai-node",
-    "stargazers_count": 7784,
-    "open_issues_count": 62,
-    "forks_count": 840
-  },
-  {
-    "full_name": "vitejs/vite",
-    "stargazers_count": 67897,
-    "open_issues_count": 645,
-    "forks_count": 6113
-  },
-  {
-    "full_name": "pnpm/pnpm",
-    "stargazers_count": 29456,
-    "open_issues_count": 1680,
-    "forks_count": 992
-  },
-  {
-    "full_name": "antfu-collective/ni",
-    "stargazers_count": 6357,
-    "open_issues_count": 16,
-    "forks_count": 209
-  },
-  {
-    "full_name": "vercel/ai-chatbot",
-    "stargazers_count": 6475,
-    "open_issues_count": 97,
-    "forks_count": 2028
-  },
-  {
-    "full_name": "onejs/one",
-    "stargazers_count": 2583,
-    "open_issues_count": 21,
-    "forks_count": 51
-  },
-  {
-    "full_name": "trpc/trpc",
-    "stargazers_count": 34678,
-    "open_issues_count": 109,
-    "forks_count": 1234
-  },
-  {
-    "full_name": "markjaquith/WordPress-Plugin-Directory-Slurper",
-    "stargazers_count": 197,
-    "open_issues_count": 5,
-    "forks_count": 60
+    "stargazers_count": 1422,
+    "open_issues_count": 22,
+    "forks_count": 117
   }
 ]
