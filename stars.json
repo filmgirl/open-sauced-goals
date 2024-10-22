@@ -1,105 +1,141 @@
 [
   {
+    "full_name": "Anze/KeyCluCask",
+    "stargazers_count": 947,
+    "open_issues_count": 14,
+    "forks_count": 12
+  },
+  {
+    "full_name": "rizaardiyanto1412/rizaardiyanto1412",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "dmilin1/hydra",
+    "stargazers_count": 16,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "melaniewalsh/Intro-Cultural-Analytics",
+    "stargazers_count": 255,
+    "open_issues_count": 23,
+    "forks_count": 86
+  },
+  {
+    "full_name": "RhineCloud/ao3-bookmarklets",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "electricalice/Ao3-News-workskin",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "samuel-vitorino/lm.rs",
-    "stargazers_count": 825,
-    "open_issues_count": 8,
-    "forks_count": 16
+    "stargazers_count": 876,
+    "open_issues_count": 9,
+    "forks_count": 23
   },
   {
     "full_name": "ferrumc-rs/ferrumc",
-    "stargazers_count": 733,
+    "stargazers_count": 751,
     "open_issues_count": 6,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "Snowiiii/Pumpkin",
-    "stargazers_count": 2065,
-    "open_issues_count": 30,
-    "forks_count": 52
+    "stargazers_count": 2257,
+    "open_issues_count": 36,
+    "forks_count": 64
   },
   {
     "full_name": "klimeryk/dealwithit",
-    "stargazers_count": 196,
+    "stargazers_count": 221,
     "open_issues_count": 7,
     "forks_count": 8
   },
   {
     "full_name": "ArchiveTeam/grab-site",
-    "stargazers_count": 1388,
+    "stargazers_count": 1391,
     "open_issues_count": 93,
-    "forks_count": 135
+    "forks_count": 136
   },
   {
     "full_name": "hunterirving/macproxy_plus",
-    "stargazers_count": 103,
-    "open_issues_count": 1,
-    "forks_count": 1
+    "stargazers_count": 113,
+    "open_issues_count": 2,
+    "forks_count": 2
   },
   {
     "full_name": "TalAter/annyang",
-    "stargazers_count": 6620,
+    "stargazers_count": 6623,
     "open_issues_count": 53,
     "forks_count": 1048
   },
   {
     "full_name": "mozilla/DeepSpeech",
-    "stargazers_count": 25233,
+    "stargazers_count": 25245,
     "open_issues_count": 151,
-    "forks_count": 3954
+    "forks_count": 3956
   },
   {
     "full_name": "MahmoudAshraf97/whisper-diarization",
-    "stargazers_count": 3522,
-    "open_issues_count": 36,
-    "forks_count": 301
+    "stargazers_count": 3566,
+    "open_issues_count": 37,
+    "forks_count": 313
   },
   {
     "full_name": "OpenNMT/CTranslate2",
-    "stargazers_count": 3323,
+    "stargazers_count": 3339,
     "open_issues_count": 186,
-    "forks_count": 289
+    "forks_count": 290
   },
   {
     "full_name": "Softcatala/whisper-ctranslate2",
-    "stargazers_count": 892,
+    "stargazers_count": 895,
     "open_issues_count": 12,
-    "forks_count": 77
+    "forks_count": 76
   },
   {
     "full_name": "ochen1/insanely-fast-whisper-cli",
-    "stargazers_count": 320,
+    "stargazers_count": 321,
     "open_issues_count": 6,
     "forks_count": 30
   },
   {
     "full_name": "ieasybooks/tafrigh",
-    "stargazers_count": 104,
+    "stargazers_count": 105,
     "open_issues_count": 8,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "gosub-io/gosub-engine",
-    "stargazers_count": 2923,
+    "stargazers_count": 3157,
     "open_issues_count": 18,
-    "forks_count": 140
+    "forks_count": 151
   },
   {
     "full_name": "bcpierce00/unison",
-    "stargazers_count": 4115,
-    "open_issues_count": 105,
-    "forks_count": 232
+    "stargazers_count": 4120,
+    "open_issues_count": 100,
+    "forks_count": 233
   },
   {
     "full_name": "Moonif/MacBox",
-    "stargazers_count": 137,
+    "stargazers_count": 138,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "josean-dev/dev-environment-files",
-    "stargazers_count": 3038,
+    "stargazers_count": 3052,
     "open_issues_count": 36,
-    "forks_count": 810
+    "forks_count": 812
   },
   {
     "full_name": "whomwah/qlstephen",
@@ -115,26 +151,26 @@
   },
   {
     "full_name": "Naunter/BT_BlockLists",
-    "stargazers_count": 964,
+    "stargazers_count": 967,
     "open_issues_count": 8,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "microsoft/unilm",
-    "stargazers_count": 19887,
-    "open_issues_count": 617,
-    "forks_count": 2533
+    "stargazers_count": 19940,
+    "open_issues_count": 620,
+    "forks_count": 2542
   },
   {
     "full_name": "dagger/dagger",
-    "stargazers_count": 11347,
-    "open_issues_count": 647,
-    "forks_count": 605
+    "stargazers_count": 11370,
+    "open_issues_count": 652,
+    "forks_count": 607
   },
   {
     "full_name": "JuiceRescue/juicepassproxy",
     "stargazers_count": 80,
-    "open_issues_count": 23,
+    "open_issues_count": 20,
     "forks_count": 11
   },
   {
@@ -142,41 +178,5 @@
     "stargazers_count": 14,
     "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "aschmelyun/dotmatrix-daily-news",
-    "stargazers_count": 52,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "vllm-project/vllm",
-    "stargazers_count": 28598,
-    "open_issues_count": 2198,
-    "forks_count": 4244
-  },
-  {
-    "full_name": "Stengo/DeskPad",
-    "stargazers_count": 4702,
-    "open_issues_count": 18,
-    "forks_count": 79
-  },
-  {
-    "full_name": "feder-cr/Auto_Jobs_Applier_AIHawk",
-    "stargazers_count": 17721,
-    "open_issues_count": 87,
-    "forks_count": 2596
-  },
-  {
-    "full_name": "rusq/slackdump",
-    "stargazers_count": 1532,
-    "open_issues_count": 27,
-    "forks_count": 71
-  },
-  {
-    "full_name": "THUDM/LongWriter",
-    "stargazers_count": 1422,
-    "open_issues_count": 22,
-    "forks_count": 117
   }
 ]
