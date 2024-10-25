@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "github/gh-models",
+    "stargazers_count": 14,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "MythicApp/Mythic",
+    "stargazers_count": 550,
+    "open_issues_count": 20,
+    "forks_count": 18
+  },
+  {
     "full_name": "Anze/KeyCluCask",
-    "stargazers_count": 947,
+    "stargazers_count": 952,
     "open_issues_count": 14,
     "forks_count": 12
   },
@@ -13,13 +25,13 @@
   },
   {
     "full_name": "dmilin1/hydra",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "melaniewalsh/Intro-Cultural-Analytics",
-    "stargazers_count": 255,
+    "stargazers_count": 256,
     "open_issues_count": 23,
     "forks_count": 86
   },
@@ -37,27 +49,27 @@
   },
   {
     "full_name": "samuel-vitorino/lm.rs",
-    "stargazers_count": 876,
-    "open_issues_count": 9,
-    "forks_count": 23
+    "stargazers_count": 889,
+    "open_issues_count": 7,
+    "forks_count": 24
   },
   {
     "full_name": "ferrumc-rs/ferrumc",
-    "stargazers_count": 751,
-    "open_issues_count": 6,
+    "stargazers_count": 756,
+    "open_issues_count": 8,
     "forks_count": 19
   },
   {
     "full_name": "Snowiiii/Pumpkin",
-    "stargazers_count": 2257,
-    "open_issues_count": 36,
-    "forks_count": 64
+    "stargazers_count": 2303,
+    "open_issues_count": 40,
+    "forks_count": 66
   },
   {
     "full_name": "klimeryk/dealwithit",
-    "stargazers_count": 221,
+    "stargazers_count": 224,
     "open_issues_count": 7,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "ArchiveTeam/grab-site",
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "hunterirving/macproxy_plus",
-    "stargazers_count": 113,
-    "open_issues_count": 2,
-    "forks_count": 2
+    "stargazers_count": 116,
+    "open_issues_count": 1,
+    "forks_count": 3
   },
   {
     "full_name": "TalAter/annyang",
@@ -79,33 +91,33 @@
   },
   {
     "full_name": "mozilla/DeepSpeech",
-    "stargazers_count": 25245,
+    "stargazers_count": 25261,
     "open_issues_count": 151,
-    "forks_count": 3956
+    "forks_count": 3958
   },
   {
     "full_name": "MahmoudAshraf97/whisper-diarization",
-    "stargazers_count": 3566,
-    "open_issues_count": 37,
-    "forks_count": 313
+    "stargazers_count": 3589,
+    "open_issues_count": 39,
+    "forks_count": 315
   },
   {
     "full_name": "OpenNMT/CTranslate2",
-    "stargazers_count": 3339,
-    "open_issues_count": 186,
-    "forks_count": 290
+    "stargazers_count": 3347,
+    "open_issues_count": 185,
+    "forks_count": 291
   },
   {
     "full_name": "Softcatala/whisper-ctranslate2",
-    "stargazers_count": 895,
+    "stargazers_count": 898,
     "open_issues_count": 12,
     "forks_count": 76
   },
   {
     "full_name": "ochen1/insanely-fast-whisper-cli",
-    "stargazers_count": 321,
+    "stargazers_count": 320,
     "open_issues_count": 6,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "ieasybooks/tafrigh",
@@ -115,13 +127,13 @@
   },
   {
     "full_name": "gosub-io/gosub-engine",
-    "stargazers_count": 3157,
-    "open_issues_count": 18,
-    "forks_count": 151
+    "stargazers_count": 3326,
+    "open_issues_count": 22,
+    "forks_count": 158
   },
   {
     "full_name": "bcpierce00/unison",
-    "stargazers_count": 4120,
+    "stargazers_count": 4127,
     "open_issues_count": 100,
     "forks_count": 233
   },
@@ -133,13 +145,13 @@
   },
   {
     "full_name": "josean-dev/dev-environment-files",
-    "stargazers_count": 3052,
+    "stargazers_count": 3061,
     "open_issues_count": 36,
-    "forks_count": 812
+    "forks_count": 814
   },
   {
     "full_name": "whomwah/qlstephen",
-    "stargazers_count": 2753,
+    "stargazers_count": 2754,
     "open_issues_count": 37,
     "forks_count": 161
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "microsoft/unilm",
-    "stargazers_count": 19940,
-    "open_issues_count": 620,
-    "forks_count": 2542
+    "stargazers_count": 19984,
+    "open_issues_count": 619,
+    "forks_count": 2545
   },
   {
     "full_name": "dagger/dagger",
-    "stargazers_count": 11370,
-    "open_issues_count": 652,
+    "stargazers_count": 11383,
+    "open_issues_count": 644,
     "forks_count": 607
-  },
-  {
-    "full_name": "JuiceRescue/juicepassproxy",
-    "stargazers_count": 80,
-    "open_issues_count": 20,
-    "forks_count": 11
-  },
-  {
-    "full_name": "benjones/presenterMode",
-    "stargazers_count": 14,
-    "open_issues_count": 1,
-    "forks_count": 1
   }
 ]
