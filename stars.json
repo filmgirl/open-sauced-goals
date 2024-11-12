@@ -1,5 +1,65 @@
 [
   {
+    "full_name": "mackorone/spotify-playlist-archive-src",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "JohannesKaufmann/html-to-markdown",
+    "stargazers_count": 1857,
+    "open_issues_count": 11,
+    "forks_count": 101
+  },
+  {
+    "full_name": "OpenCoder-llm/OpenCoder-llm",
+    "stargazers_count": 713,
+    "open_issues_count": 2,
+    "forks_count": 33
+  },
+  {
+    "full_name": "dandavison/delta",
+    "stargazers_count": 24202,
+    "open_issues_count": 284,
+    "forks_count": 391
+  },
+  {
+    "full_name": "chriskempson/base16-shell",
+    "stargazers_count": 208,
+    "open_issues_count": 71,
+    "forks_count": 38
+  },
+  {
+    "full_name": "chriskempson/base16",
+    "stargazers_count": 613,
+    "open_issues_count": 1,
+    "forks_count": 22
+  },
+  {
+    "full_name": "themerdev/themer",
+    "stargazers_count": 5495,
+    "open_issues_count": 24,
+    "forks_count": 116
+  },
+  {
+    "full_name": "daylinmorgan/monolisa-nerdfont-patch",
+    "stargazers_count": 172,
+    "open_issues_count": 2,
+    "forks_count": 18
+  },
+  {
+    "full_name": "jan-warchol/selenized",
+    "stargazers_count": 783,
+    "open_issues_count": 53,
+    "forks_count": 59
+  },
+  {
+    "full_name": "xlucn/dotfiles",
+    "stargazers_count": 42,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
     "full_name": "stayradiated/terminal.sexy",
     "stargazers_count": 920,
     "open_issues_count": 61,
@@ -19,13 +79,13 @@
   },
   {
     "full_name": "edwardtufte/tufte-css",
-    "stargazers_count": 5969,
+    "stargazers_count": 5972,
     "open_issues_count": 14,
     "forks_count": 458
   },
   {
     "full_name": "inbn/TheSims.css",
-    "stargazers_count": 15,
+    "stargazers_count": 18,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -37,7 +97,7 @@
   },
   {
     "full_name": "nielssp/classic-stylesheets",
-    "stargazers_count": 89,
+    "stargazers_count": 104,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -51,37 +111,37 @@
     "full_name": "jpetazzo/ampernetacle",
     "stargazers_count": 2665,
     "open_issues_count": 4,
-    "forks_count": 448
+    "forks_count": 446
   },
   {
     "full_name": "Gogh-Co/Gogh",
-    "stargazers_count": 9318,
+    "stargazers_count": 9330,
     "open_issues_count": 26,
-    "forks_count": 598
+    "forks_count": 601
   },
   {
     "full_name": "fabiospampinato/cash",
-    "stargazers_count": 6912,
+    "stargazers_count": 6938,
     "open_issues_count": 13,
-    "forks_count": 269
+    "forks_count": 270
   },
   {
     "full_name": "flick0/dotfiles",
-    "stargazers_count": 1396,
+    "stargazers_count": 1403,
     "open_issues_count": 1,
-    "forks_count": 46
+    "forks_count": 47
   },
   {
     "full_name": "owl4ce/dotfiles",
-    "stargazers_count": 2012,
+    "stargazers_count": 2015,
     "open_issues_count": 0,
     "forks_count": 149
   },
   {
     "full_name": "preslavmihaylov/booknotes",
-    "stargazers_count": 2221,
+    "stargazers_count": 2242,
     "open_issues_count": 4,
-    "forks_count": 486
+    "forks_count": 490
   },
   {
     "full_name": "vitorgalvao/tape",
@@ -91,19 +151,19 @@
   },
   {
     "full_name": "vitorgalvao/custom-alfred-iterm-scripts",
-    "stargazers_count": 3723,
+    "stargazers_count": 3724,
     "open_issues_count": 0,
     "forks_count": 455
   },
   {
     "full_name": "rbbydotdev/someday",
-    "stargazers_count": 725,
+    "stargazers_count": 775,
     "open_issues_count": 0,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "JanDeDobbeleer/aliae",
-    "stargazers_count": 99,
+    "stargazers_count": 100,
     "open_issues_count": 6,
     "forks_count": 7
   },
@@ -116,67 +176,7 @@
   {
     "full_name": "aloneguid/bt",
     "stargazers_count": 173,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 6
-  },
-  {
-    "full_name": "U-C-S/Hurl",
-    "stargazers_count": 292,
-    "open_issues_count": 29,
-    "forks_count": 9
-  },
-  {
-    "full_name": "mortenn/BrowserPicker",
-    "stargazers_count": 263,
-    "open_issues_count": 22,
-    "forks_count": 17
-  },
-  {
-    "full_name": "github/gh-models",
-    "stargazers_count": 21,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "MythicApp/Mythic",
-    "stargazers_count": 599,
-    "open_issues_count": 16,
-    "forks_count": 19
-  },
-  {
-    "full_name": "Anze/KeyCluCask",
-    "stargazers_count": 969,
-    "open_issues_count": 8,
-    "forks_count": 12
-  },
-  {
-    "full_name": "rizaardiyanto1412/rizaardiyanto1412",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "dmilin1/hydra",
-    "stargazers_count": 20,
-    "open_issues_count": 2,
-    "forks_count": 0
-  },
-  {
-    "full_name": "melaniewalsh/Intro-Cultural-Analytics",
-    "stargazers_count": 257,
-    "open_issues_count": 23,
-    "forks_count": 87
-  },
-  {
-    "full_name": "RhineCloud/ao3-bookmarklets",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "electricalice/Ao3-News-workskin",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
