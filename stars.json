@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "openvinotoolkit/openvino_notebooks",
+    "stargazers_count": 2449,
+    "open_issues_count": 13,
+    "forks_count": 815
+  },
+  {
+    "full_name": "openvinotoolkit/openvino",
+    "stargazers_count": 7318,
+    "open_issues_count": 421,
+    "forks_count": 2279
+  },
+  {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 4299,
+    "stargazers_count": 4307,
     "open_issues_count": 38,
     "forks_count": 331
   },
   {
     "full_name": "sjdonado/idonthavespotify",
-    "stargazers_count": 1180,
-    "open_issues_count": 7,
-    "forks_count": 15
+    "stargazers_count": 1221,
+    "open_issues_count": 8,
+    "forks_count": 17
   },
   {
     "full_name": "mackorone/spotify-playlist-archive-src",
@@ -19,37 +31,37 @@
   },
   {
     "full_name": "JohannesKaufmann/html-to-markdown",
-    "stargazers_count": 2279,
-    "open_issues_count": 8,
+    "stargazers_count": 2332,
+    "open_issues_count": 10,
     "forks_count": 118
   },
   {
     "full_name": "OpenCoder-llm/OpenCoder-llm",
-    "stargazers_count": 1175,
-    "open_issues_count": 6,
-    "forks_count": 64
+    "stargazers_count": 1224,
+    "open_issues_count": 7,
+    "forks_count": 69
   },
   {
     "full_name": "dandavison/delta",
-    "stargazers_count": 24451,
-    "open_issues_count": 286,
-    "forks_count": 392
+    "stargazers_count": 24518,
+    "open_issues_count": 285,
+    "forks_count": 393
   },
   {
     "full_name": "chriskempson/base16-shell",
-    "stargazers_count": 211,
+    "stargazers_count": 212,
     "open_issues_count": 71,
     "forks_count": 38
   },
   {
     "full_name": "chriskempson/base16",
-    "stargazers_count": 620,
+    "stargazers_count": 622,
     "open_issues_count": 1,
     "forks_count": 22
   },
   {
     "full_name": "themerdev/themer",
-    "stargazers_count": 5510,
+    "stargazers_count": 5515,
     "open_issues_count": 24,
     "forks_count": 117
   },
@@ -61,7 +73,7 @@
   },
   {
     "full_name": "jan-warchol/selenized",
-    "stargazers_count": 784,
+    "stargazers_count": 786,
     "open_issues_count": 53,
     "forks_count": 59
   },
@@ -74,12 +86,12 @@
   {
     "full_name": "stayradiated/terminal.sexy",
     "stargazers_count": 921,
-    "open_issues_count": 61,
+    "open_issues_count": 62,
     "forks_count": 56
   },
   {
     "full_name": "hamvocke/root-loops",
-    "stargazers_count": 79,
+    "stargazers_count": 80,
     "open_issues_count": 3,
     "forks_count": 3
   },
@@ -91,7 +103,7 @@
   },
   {
     "full_name": "edwardtufte/tufte-css",
-    "stargazers_count": 5979,
+    "stargazers_count": 5980,
     "open_issues_count": 14,
     "forks_count": 458
   },
@@ -109,13 +121,13 @@
   },
   {
     "full_name": "nielssp/classic-stylesheets",
-    "stargazers_count": 108,
+    "stargazers_count": 111,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "xeoron/macRun",
-    "stargazers_count": 6,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -127,9 +139,9 @@
   },
   {
     "full_name": "Gogh-Co/Gogh",
-    "stargazers_count": 9352,
+    "stargazers_count": 9363,
     "open_issues_count": 26,
-    "forks_count": 603
+    "forks_count": 604
   },
   {
     "full_name": "fabiospampinato/cash",
@@ -139,44 +151,32 @@
   },
   {
     "full_name": "flick0/dotfiles",
-    "stargazers_count": 1414,
+    "stargazers_count": 1416,
     "open_issues_count": 1,
-    "forks_count": 47
+    "forks_count": 46
   },
   {
     "full_name": "owl4ce/dotfiles",
-    "stargazers_count": 2021,
+    "stargazers_count": 2023,
     "open_issues_count": 0,
     "forks_count": 149
   },
   {
     "full_name": "preslavmihaylov/booknotes",
-    "stargazers_count": 2263,
+    "stargazers_count": 2272,
     "open_issues_count": 4,
-    "forks_count": 495
+    "forks_count": 500
   },
   {
     "full_name": "vitorgalvao/tape",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "vitorgalvao/custom-alfred-iterm-scripts",
-    "stargazers_count": 3726,
+    "stargazers_count": 3727,
     "open_issues_count": 0,
     "forks_count": 456
-  },
-  {
-    "full_name": "rbbydotdev/someday",
-    "stargazers_count": 812,
-    "open_issues_count": 0,
-    "forks_count": 21
-  },
-  {
-    "full_name": "JanDeDobbeleer/aliae",
-    "stargazers_count": 101,
-    "open_issues_count": 6,
-    "forks_count": 7
   }
 ]
