@@ -1,27 +1,57 @@
 [
   {
-    "full_name": "openvinotoolkit/openvino_notebooks",
-    "stargazers_count": 2458,
+    "full_name": "zydeco/minivmac4ios",
+    "stargazers_count": 537,
+    "open_issues_count": 7,
+    "forks_count": 53
+  },
+  {
+    "full_name": "Gcenx/game-porting-toolkit",
+    "stargazers_count": 37,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "installaware/AGPT",
+    "stargazers_count": 394,
+    "open_issues_count": 0,
+    "forks_count": 14
+  },
+  {
+    "full_name": "Kegworks-App/Kegworks",
+    "stargazers_count": 258,
     "open_issues_count": 12,
-    "forks_count": 816
+    "forks_count": 9
+  },
+  {
+    "full_name": "Gcenx/macOS_Wine_builds",
+    "stargazers_count": 513,
+    "open_issues_count": 6,
+    "forks_count": 23
+  },
+  {
+    "full_name": "openvinotoolkit/openvino_notebooks",
+    "stargazers_count": 2462,
+    "open_issues_count": 14,
+    "forks_count": 818
   },
   {
     "full_name": "openvinotoolkit/openvino",
-    "stargazers_count": 7337,
-    "open_issues_count": 428,
-    "forks_count": 2290
+    "stargazers_count": 7358,
+    "open_issues_count": 441,
+    "forks_count": 2302
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 4312,
+    "stargazers_count": 4315,
     "open_issues_count": 38,
     "forks_count": 331
   },
   {
     "full_name": "sjdonado/idonthavespotify",
-    "stargazers_count": 1248,
+    "stargazers_count": 1288,
     "open_issues_count": 9,
-    "forks_count": 18
+    "forks_count": 20
   },
   {
     "full_name": "mackorone/spotify-playlist-archive-src",
@@ -31,37 +61,37 @@
   },
   {
     "full_name": "JohannesKaufmann/html-to-markdown",
-    "stargazers_count": 2352,
+    "stargazers_count": 2364,
     "open_issues_count": 10,
-    "forks_count": 118
+    "forks_count": 120
   },
   {
     "full_name": "OpenCoder-llm/OpenCoder-llm",
-    "stargazers_count": 1271,
+    "stargazers_count": 1291,
     "open_issues_count": 9,
-    "forks_count": 74
+    "forks_count": 76
   },
   {
     "full_name": "dandavison/delta",
-    "stargazers_count": 24569,
-    "open_issues_count": 285,
-    "forks_count": 394
+    "stargazers_count": 24607,
+    "open_issues_count": 287,
+    "forks_count": 395
   },
   {
     "full_name": "chriskempson/base16-shell",
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 71,
     "forks_count": 38
   },
   {
     "full_name": "chriskempson/base16",
-    "stargazers_count": 623,
+    "stargazers_count": 625,
     "open_issues_count": 1,
     "forks_count": 22
   },
   {
     "full_name": "themerdev/themer",
-    "stargazers_count": 5518,
+    "stargazers_count": 5517,
     "open_issues_count": 24,
     "forks_count": 118
   },
@@ -73,13 +103,13 @@
   },
   {
     "full_name": "jan-warchol/selenized",
-    "stargazers_count": 788,
+    "stargazers_count": 789,
     "open_issues_count": 53,
     "forks_count": 59
   },
   {
     "full_name": "xlucn/dotfiles",
-    "stargazers_count": 42,
+    "stargazers_count": 43,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -91,8 +121,8 @@
   },
   {
     "full_name": "hamvocke/root-loops",
-    "stargazers_count": 81,
-    "open_issues_count": 4,
+    "stargazers_count": 83,
+    "open_issues_count": 5,
     "forks_count": 3
   },
   {
@@ -103,7 +133,7 @@
   },
   {
     "full_name": "edwardtufte/tufte-css",
-    "stargazers_count": 5984,
+    "stargazers_count": 5989,
     "open_issues_count": 14,
     "forks_count": 459
   },
@@ -133,50 +163,20 @@
   },
   {
     "full_name": "jpetazzo/ampernetacle",
-    "stargazers_count": 2666,
+    "stargazers_count": 2668,
     "open_issues_count": 4,
-    "forks_count": 446
+    "forks_count": 447
   },
   {
     "full_name": "Gogh-Co/Gogh",
-    "stargazers_count": 9373,
+    "stargazers_count": 9379,
     "open_issues_count": 26,
-    "forks_count": 604
+    "forks_count": 603
   },
   {
     "full_name": "fabiospampinato/cash",
-    "stargazers_count": 6960,
+    "stargazers_count": 6966,
     "open_issues_count": 13,
     "forks_count": 271
-  },
-  {
-    "full_name": "flick0/dotfiles",
-    "stargazers_count": 1419,
-    "open_issues_count": 1,
-    "forks_count": 46
-  },
-  {
-    "full_name": "owl4ce/dotfiles",
-    "stargazers_count": 2024,
-    "open_issues_count": 0,
-    "forks_count": 149
-  },
-  {
-    "full_name": "preslavmihaylov/booknotes",
-    "stargazers_count": 2282,
-    "open_issues_count": 4,
-    "forks_count": 504
-  },
-  {
-    "full_name": "vitorgalvao/tape",
-    "stargazers_count": 51,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "vitorgalvao/custom-alfred-iterm-scripts",
-    "stargazers_count": 3726,
-    "open_issues_count": 0,
-    "forks_count": 455
   }
 ]
