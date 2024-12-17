@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "microsoft/markitdown",
+    "stargazers_count": 14528,
+    "open_issues_count": 42,
+    "forks_count": 474
+  },
+  {
+    "full_name": "lucide-icons/lucide",
+    "stargazers_count": 11848,
+    "open_issues_count": 256,
+    "forks_count": 545
+  },
+  {
     "full_name": "pimalaya/himalaya",
-    "stargazers_count": 4192,
-    "open_issues_count": 21,
-    "forks_count": 112
+    "stargazers_count": 4278,
+    "open_issues_count": 23,
+    "forks_count": 114
   },
   {
     "full_name": "zydeco/minivmac4ios",
@@ -13,79 +25,79 @@
   },
   {
     "full_name": "Gcenx/game-porting-toolkit",
-    "stargazers_count": 40,
+    "stargazers_count": 41,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "installaware/AGPT",
-    "stargazers_count": 399,
+    "stargazers_count": 402,
     "open_issues_count": 0,
     "forks_count": 16
   },
   {
     "full_name": "Kegworks-App/Kegworks",
-    "stargazers_count": 306,
-    "open_issues_count": 11,
+    "stargazers_count": 318,
+    "open_issues_count": 12,
     "forks_count": 9
   },
   {
     "full_name": "Gcenx/macOS_Wine_builds",
-    "stargazers_count": 519,
+    "stargazers_count": 520,
     "open_issues_count": 8,
     "forks_count": 22
   },
   {
     "full_name": "openvinotoolkit/openvino_notebooks",
-    "stargazers_count": 2509,
+    "stargazers_count": 2515,
     "open_issues_count": 16,
-    "forks_count": 823
+    "forks_count": 826
   },
   {
     "full_name": "openvinotoolkit/openvino",
-    "stargazers_count": 7434,
-    "open_issues_count": 426,
-    "forks_count": 2332
+    "stargazers_count": 7458,
+    "open_issues_count": 407,
+    "forks_count": 2338
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 4334,
+    "stargazers_count": 4333,
     "open_issues_count": 38,
-    "forks_count": 333
+    "forks_count": 332
   },
   {
     "full_name": "sjdonado/idonthavespotify",
-    "stargazers_count": 1357,
-    "open_issues_count": 10,
+    "stargazers_count": 1368,
+    "open_issues_count": 9,
     "forks_count": 21
   },
   {
     "full_name": "mackorone/spotify-playlist-archive-src",
     "stargazers_count": 8,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "JohannesKaufmann/html-to-markdown",
-    "stargazers_count": 2423,
-    "open_issues_count": 14,
+    "stargazers_count": 2435,
+    "open_issues_count": 11,
     "forks_count": 126
   },
   {
     "full_name": "OpenCoder-llm/OpenCoder-llm",
-    "stargazers_count": 1426,
+    "stargazers_count": 1437,
     "open_issues_count": 9,
-    "forks_count": 84
+    "forks_count": 87
   },
   {
     "full_name": "dandavison/delta",
-    "stargazers_count": 24745,
+    "stargazers_count": 24779,
     "open_issues_count": 290,
     "forks_count": 396
   },
   {
     "full_name": "chriskempson/base16-shell",
-    "stargazers_count": 216,
+    "stargazers_count": 218,
     "open_issues_count": 71,
     "forks_count": 38
   },
@@ -97,21 +109,21 @@
   },
   {
     "full_name": "themerdev/themer",
-    "stargazers_count": 5522,
+    "stargazers_count": 5525,
     "open_issues_count": 24,
     "forks_count": 118
   },
   {
     "full_name": "daylinmorgan/monolisa-nerdfont-patch",
-    "stargazers_count": 177,
+    "stargazers_count": 179,
     "open_issues_count": 2,
     "forks_count": 19
   },
   {
     "full_name": "jan-warchol/selenized",
     "stargazers_count": 795,
-    "open_issues_count": 53,
-    "forks_count": 60
+    "open_issues_count": 55,
+    "forks_count": 61
   },
   {
     "full_name": "xlucn/dotfiles",
@@ -121,7 +133,7 @@
   },
   {
     "full_name": "stayradiated/terminal.sexy",
-    "stargazers_count": 923,
+    "stargazers_count": 922,
     "open_issues_count": 62,
     "forks_count": 56
   },
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "edwardtufte/tufte-css",
-    "stargazers_count": 6005,
+    "stargazers_count": 6004,
     "open_issues_count": 14,
-    "forks_count": 459
+    "forks_count": 458
   },
   {
     "full_name": "inbn/TheSims.css",
@@ -166,17 +178,5 @@
     "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "jpetazzo/ampernetacle",
-    "stargazers_count": 2669,
-    "open_issues_count": 4,
-    "forks_count": 448
-  },
-  {
-    "full_name": "Gogh-Co/Gogh",
-    "stargazers_count": 9421,
-    "open_issues_count": 26,
-    "forks_count": 604
   }
 ]
