@@ -1,25 +1,31 @@
 [
   {
+    "full_name": "buresdv/Cork",
+    "stargazers_count": 2398,
+    "open_issues_count": 56,
+    "forks_count": 134
+  },
+  {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 14528,
-    "open_issues_count": 42,
-    "forks_count": 474
+    "stargazers_count": 23684,
+    "open_issues_count": 84,
+    "forks_count": 873
   },
   {
     "full_name": "lucide-icons/lucide",
-    "stargazers_count": 11848,
-    "open_issues_count": 256,
-    "forks_count": 545
+    "stargazers_count": 11901,
+    "open_issues_count": 258,
+    "forks_count": 549
   },
   {
     "full_name": "pimalaya/himalaya",
-    "stargazers_count": 4278,
+    "stargazers_count": 4306,
     "open_issues_count": 23,
-    "forks_count": 114
+    "forks_count": 115
   },
   {
     "full_name": "zydeco/minivmac4ios",
-    "stargazers_count": 548,
+    "stargazers_count": 550,
     "open_issues_count": 6,
     "forks_count": 53
   },
@@ -31,13 +37,13 @@
   },
   {
     "full_name": "installaware/AGPT",
-    "stargazers_count": 402,
+    "stargazers_count": 403,
     "open_issues_count": 0,
     "forks_count": 16
   },
   {
     "full_name": "Kegworks-App/Kegworks",
-    "stargazers_count": 318,
+    "stargazers_count": 325,
     "open_issues_count": 12,
     "forks_count": 9
   },
@@ -49,25 +55,25 @@
   },
   {
     "full_name": "openvinotoolkit/openvino_notebooks",
-    "stargazers_count": 2515,
-    "open_issues_count": 16,
-    "forks_count": 826
+    "stargazers_count": 2517,
+    "open_issues_count": 15,
+    "forks_count": 827
   },
   {
     "full_name": "openvinotoolkit/openvino",
-    "stargazers_count": 7458,
-    "open_issues_count": 407,
-    "forks_count": 2338
+    "stargazers_count": 7470,
+    "open_issues_count": 401,
+    "forks_count": 2341
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 4333,
+    "stargazers_count": 4335,
     "open_issues_count": 38,
-    "forks_count": 332
+    "forks_count": 333
   },
   {
     "full_name": "sjdonado/idonthavespotify",
-    "stargazers_count": 1368,
+    "stargazers_count": 1386,
     "open_issues_count": 9,
     "forks_count": 21
   },
@@ -79,20 +85,20 @@
   },
   {
     "full_name": "JohannesKaufmann/html-to-markdown",
-    "stargazers_count": 2435,
-    "open_issues_count": 11,
-    "forks_count": 126
+    "stargazers_count": 2450,
+    "open_issues_count": 12,
+    "forks_count": 128
   },
   {
     "full_name": "OpenCoder-llm/OpenCoder-llm",
-    "stargazers_count": 1437,
+    "stargazers_count": 1463,
     "open_issues_count": 9,
-    "forks_count": 87
+    "forks_count": 88
   },
   {
     "full_name": "dandavison/delta",
-    "stargazers_count": 24779,
-    "open_issues_count": 290,
+    "stargazers_count": 24807,
+    "open_issues_count": 291,
     "forks_count": 396
   },
   {
@@ -103,19 +109,19 @@
   },
   {
     "full_name": "chriskempson/base16",
-    "stargazers_count": 630,
+    "stargazers_count": 636,
     "open_issues_count": 1,
     "forks_count": 22
   },
   {
     "full_name": "themerdev/themer",
-    "stargazers_count": 5525,
-    "open_issues_count": 24,
-    "forks_count": 118
+    "stargazers_count": 5526,
+    "open_issues_count": 25,
+    "forks_count": 119
   },
   {
     "full_name": "daylinmorgan/monolisa-nerdfont-patch",
-    "stargazers_count": 179,
+    "stargazers_count": 180,
     "open_issues_count": 2,
     "forks_count": 19
   },
@@ -133,7 +139,7 @@
   },
   {
     "full_name": "stayradiated/terminal.sexy",
-    "stargazers_count": 922,
+    "stargazers_count": 923,
     "open_issues_count": 62,
     "forks_count": 56
   },
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "edwardtufte/tufte-css",
-    "stargazers_count": 6004,
+    "stargazers_count": 6007,
     "open_issues_count": 14,
-    "forks_count": 458
+    "forks_count": 457
   },
   {
     "full_name": "inbn/TheSims.css",
@@ -172,11 +178,5 @@
     "stargazers_count": 116,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "xeoron/macRun",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
