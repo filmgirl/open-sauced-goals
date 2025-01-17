@@ -1,7 +1,25 @@
 [
   {
+    "full_name": "samirelanduk/tiktok-save",
+    "stargazers_count": 135,
+    "open_issues_count": 4,
+    "forks_count": 22
+  },
+  {
+    "full_name": "alienator88/Sentinel",
+    "stargazers_count": 434,
+    "open_issues_count": 0,
+    "forks_count": 13
+  },
+  {
+    "full_name": "openzfs/zfs",
+    "stargazers_count": 10891,
+    "open_issues_count": 1541,
+    "forks_count": 1779
+  },
+  {
     "full_name": "jdevalk/alfred-quix",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 2,
     "forks_count": 0
   },
@@ -19,20 +37,20 @@
   },
   {
     "full_name": "zeitlings/alfred-ghostty-script",
-    "stargazers_count": 9,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "zerebos/ghostty-config",
-    "stargazers_count": 704,
-    "open_issues_count": 6,
-    "forks_count": 10
+    "stargazers_count": 750,
+    "open_issues_count": 5,
+    "forks_count": 11
   },
   {
     "full_name": "m-ahdal/ghostty-shaders",
-    "stargazers_count": 270,
-    "open_issues_count": 5,
+    "stargazers_count": 272,
+    "open_issues_count": 6,
     "forks_count": 27
   },
   {
@@ -43,21 +61,21 @@
   },
   {
     "full_name": "bpc-clone/bypass-paywalls-chrome-clean",
-    "stargazers_count": 59,
+    "stargazers_count": 64,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "bpc-clone/bypass-paywalls-firefox-clean",
-    "stargazers_count": 2361,
+    "stargazers_count": 2380,
     "open_issues_count": 2,
     "forks_count": 92
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 13949,
-    "open_issues_count": 106,
-    "forks_count": 1402
+    "stargazers_count": 13956,
+    "open_issues_count": 102,
+    "forks_count": 1401
   },
   {
     "full_name": "swyxio/swyxdotio",
@@ -67,13 +85,13 @@
   },
   {
     "full_name": "varkor/quiver",
-    "stargazers_count": 3137,
-    "open_issues_count": 51,
+    "stargazers_count": 3143,
+    "open_issues_count": 52,
     "forks_count": 88
   },
   {
     "full_name": "jacobly0/asmhook",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -85,56 +103,56 @@
   },
   {
     "full_name": "blackcandy-org/blackcandy",
-    "stargazers_count": 3275,
-    "open_issues_count": 24,
-    "forks_count": 160
+    "stargazers_count": 3304,
+    "open_issues_count": 25,
+    "forks_count": 161
   },
   {
     "full_name": "BLeeEZ/amperfy",
-    "stargazers_count": 616,
+    "stargazers_count": 624,
     "open_issues_count": 76,
     "forks_count": 45
   },
   {
     "full_name": "sentriz/gonic",
-    "stargazers_count": 1762,
-    "open_issues_count": 61,
+    "stargazers_count": 1766,
+    "open_issues_count": 58,
     "forks_count": 117
   },
   {
     "full_name": "dweymouth/supersonic",
-    "stargazers_count": 1064,
+    "stargazers_count": 1069,
     "open_issues_count": 79,
     "forks_count": 51
   },
   {
     "full_name": "hoarder-app/hoarder",
-    "stargazers_count": 10686,
-    "open_issues_count": 217,
-    "forks_count": 384
+    "stargazers_count": 11322,
+    "open_issues_count": 227,
+    "forks_count": 406
   },
   {
     "full_name": "buresdv/Cork",
-    "stargazers_count": 2445,
-    "open_issues_count": 55,
-    "forks_count": 135
+    "stargazers_count": 2447,
+    "open_issues_count": 57,
+    "forks_count": 136
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 33812,
-    "open_issues_count": 146,
-    "forks_count": 1460
+    "stargazers_count": 34197,
+    "open_issues_count": 151,
+    "forks_count": 1498
   },
   {
     "full_name": "lucide-icons/lucide",
-    "stargazers_count": 12220,
-    "open_issues_count": 260,
-    "forks_count": 567
+    "stargazers_count": 12270,
+    "open_issues_count": 265,
+    "forks_count": 571
   },
   {
     "full_name": "pimalaya/himalaya",
-    "stargazers_count": 4482,
-    "open_issues_count": 22,
+    "stargazers_count": 4508,
+    "open_issues_count": 23,
     "forks_count": 123
   },
   {
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "installaware/AGPT",
-    "stargazers_count": 413,
+    "stargazers_count": 415,
     "open_issues_count": 0,
     "forks_count": 16
   },
   {
     "full_name": "Kegworks-App/Kegworks",
-    "stargazers_count": 394,
-    "open_issues_count": 17,
+    "stargazers_count": 407,
+    "open_issues_count": 18,
     "forks_count": 10
-  },
-  {
-    "full_name": "Gcenx/macOS_Wine_builds",
-    "stargazers_count": 525,
-    "open_issues_count": 12,
-    "forks_count": 23
-  },
-  {
-    "full_name": "openvinotoolkit/openvino_notebooks",
-    "stargazers_count": 2547,
-    "open_issues_count": 19,
-    "forks_count": 837
-  },
-  {
-    "full_name": "openvinotoolkit/openvino",
-    "stargazers_count": 7594,
-    "open_issues_count": 406,
-    "forks_count": 2371
   }
 ]
