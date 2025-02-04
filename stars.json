@@ -1,7 +1,43 @@
 [
   {
+    "full_name": "ashtonmeuser/bookmarklet-platform",
+    "stargazers_count": 59,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
+    "full_name": "moimikey/awesome-devtools",
+    "stargazers_count": 455,
+    "open_issues_count": 4,
+    "forks_count": 38
+  },
+  {
+    "full_name": "google/android-cuttlefish",
+    "stargazers_count": 433,
+    "open_issues_count": 9,
+    "forks_count": 125
+  },
+  {
+    "full_name": "satvik314/opensource_notebooklm",
+    "stargazers_count": 220,
+    "open_issues_count": 0,
+    "forks_count": 24
+  },
+  {
+    "full_name": "localsend/localsend",
+    "stargazers_count": 57019,
+    "open_issues_count": 569,
+    "forks_count": 3074
+  },
+  {
+    "full_name": "containers/ramalama",
+    "stargazers_count": 961,
+    "open_issues_count": 52,
+    "forks_count": 99
+  },
+  {
     "full_name": "ferrislucas/iterm-mcp",
-    "stargazers_count": 39,
+    "stargazers_count": 60,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -13,37 +49,37 @@
   },
   {
     "full_name": "pebble-dev/mobile-app",
-    "stargazers_count": 291,
+    "stargazers_count": 318,
     "open_issues_count": 57,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "google/pebble",
-    "stargazers_count": 3429,
+    "stargazers_count": 3815,
     "open_issues_count": 1,
-    "forks_count": 180
+    "forks_count": 203
   },
   {
     "full_name": "epessine/tinkerpad",
-    "stargazers_count": 52,
+    "stargazers_count": 57,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "sct/overseerr",
-    "stargazers_count": 4126,
-    "open_issues_count": 342,
-    "forks_count": 471
+    "stargazers_count": 4135,
+    "open_issues_count": 330,
+    "forks_count": 475
   },
   {
     "full_name": "romankurnovskii/homebrew-awesome-brew",
     "stargazers_count": 62,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "meatfighter/pitfall-js",
-    "stargazers_count": 36,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -55,15 +91,15 @@
   },
   {
     "full_name": "alienator88/Sentinel",
-    "stargazers_count": 461,
+    "stargazers_count": 469,
     "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "openzfs/zfs",
-    "stargazers_count": 10937,
-    "open_issues_count": 1575,
-    "forks_count": 1785
+    "stargazers_count": 10949,
+    "open_issues_count": 1576,
+    "forks_count": 1787
   },
   {
     "full_name": "jdevalk/alfred-quix",
@@ -79,27 +115,27 @@
   },
   {
     "full_name": "liviuschera/noctis",
-    "stargazers_count": 588,
+    "stargazers_count": 589,
     "open_issues_count": 34,
-    "forks_count": 78
+    "forks_count": 79
   },
   {
     "full_name": "zeitlings/alfred-ghostty-script",
-    "stargazers_count": 17,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "zerebos/ghostty-config",
-    "stargazers_count": 831,
+    "stargazers_count": 842,
     "open_issues_count": 7,
     "forks_count": 12
   },
   {
     "full_name": "hackr-sh/ghostty-shaders",
-    "stargazers_count": 295,
-    "open_issues_count": 4,
-    "forks_count": 26
+    "stargazers_count": 303,
+    "open_issues_count": 7,
+    "forks_count": 27
   },
   {
     "full_name": "romankurnovskii/BrewMate",
@@ -109,32 +145,32 @@
   },
   {
     "full_name": "bpc-clone/bypass-paywalls-chrome-clean",
-    "stargazers_count": 84,
+    "stargazers_count": 94,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "bpc-clone/bypass-paywalls-firefox-clean",
-    "stargazers_count": 2636,
-    "open_issues_count": 1,
-    "forks_count": 113
+    "stargazers_count": 2687,
+    "open_issues_count": 2,
+    "forks_count": 117
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 14078,
+    "stargazers_count": 14103,
     "open_issues_count": 88,
-    "forks_count": 1399
+    "forks_count": 1401
   },
   {
     "full_name": "swyxio/swyxdotio",
     "stargazers_count": 366,
     "open_issues_count": 30,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "varkor/quiver",
-    "stargazers_count": 3162,
-    "open_issues_count": 52,
+    "stargazers_count": 3164,
+    "open_issues_count": 53,
     "forks_count": 88
   },
   {
@@ -142,41 +178,5 @@
     "stargazers_count": 52,
     "open_issues_count": 1,
     "forks_count": 0
-  },
-  {
-    "full_name": "mateoconlechuga/cesium",
-    "stargazers_count": 267,
-    "open_issues_count": 18,
-    "forks_count": 18
-  },
-  {
-    "full_name": "blackcandy-org/blackcandy",
-    "stargazers_count": 3371,
-    "open_issues_count": 30,
-    "forks_count": 164
-  },
-  {
-    "full_name": "BLeeEZ/amperfy",
-    "stargazers_count": 643,
-    "open_issues_count": 80,
-    "forks_count": 45
-  },
-  {
-    "full_name": "sentriz/gonic",
-    "stargazers_count": 1776,
-    "open_issues_count": 59,
-    "forks_count": 117
-  },
-  {
-    "full_name": "dweymouth/supersonic",
-    "stargazers_count": 1102,
-    "open_issues_count": 83,
-    "forks_count": 52
-  },
-  {
-    "full_name": "hoarder-app/hoarder",
-    "stargazers_count": 12578,
-    "open_issues_count": 255,
-    "forks_count": 459
   }
 ]
