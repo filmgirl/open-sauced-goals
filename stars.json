@@ -1,45 +1,87 @@
 [
   {
+    "full_name": "shaynak/taylor-swift",
+    "stargazers_count": 24,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "shaynak/taylor-swift-lyrics",
+    "stargazers_count": 41,
+    "open_issues_count": 0,
+    "forks_count": 16
+  },
+  {
+    "full_name": "pippinbarr/it-is-as-if-you-were-on-your-phone",
+    "stargazers_count": 22,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "AndyTheFactory/newspaper4k",
+    "stargazers_count": 660,
+    "open_issues_count": 192,
+    "forks_count": 69
+  },
+  {
+    "full_name": "maximilionus/lucidglyph",
+    "stargazers_count": 59,
+    "open_issues_count": 3,
+    "forks_count": 2
+  },
+  {
+    "full_name": "PostHog/posthog",
+    "stargazers_count": 24827,
+    "open_issues_count": 1751,
+    "forks_count": 1540
+  },
+  {
+    "full_name": "ArgentStonecutter/keyboards",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "hyperlink-academy/leaflet",
-    "stargazers_count": 105,
+    "stargazers_count": 139,
     "open_issues_count": 29,
     "forks_count": 6
   },
   {
     "full_name": "Wack0/entii-for-workcubes",
-    "stargazers_count": 452,
+    "stargazers_count": 532,
+    "open_issues_count": 12,
+    "forks_count": 12
+  },
+  {
+    "full_name": "Shemnei/punktf",
+    "stargazers_count": 267,
     "open_issues_count": 11,
     "forks_count": 8
   },
   {
-    "full_name": "Shemnei/punktf",
-    "stargazers_count": 256,
-    "open_issues_count": 12,
-    "forks_count": 8
-  },
-  {
     "full_name": "chroma-core/chroma",
-    "stargazers_count": 18388,
-    "open_issues_count": 431,
-    "forks_count": 1505
+    "stargazers_count": 18487,
+    "open_issues_count": 446,
+    "forks_count": 1508
   },
   {
     "full_name": "graphlit/graphlit-mcp-server",
-    "stargazers_count": 39,
+    "stargazers_count": 47,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "google/generative-ai-docs",
-    "stargazers_count": 1895,
+    "stargazers_count": 1901,
     "open_issues_count": 64,
-    "forks_count": 670
+    "forks_count": 671
   },
   {
     "full_name": "kagisearch/bangs",
-    "stargazers_count": 209,
-    "open_issues_count": 2,
-    "forks_count": 80
+    "stargazers_count": 215,
+    "open_issues_count": 1,
+    "forks_count": 81
   },
   {
     "full_name": "tayloraswift/swift-json",
@@ -55,128 +97,86 @@
   },
   {
     "full_name": "electronicarts/CnC_Red_Alert",
-    "stargazers_count": 5354,
+    "stargazers_count": 5622,
     "open_issues_count": 0,
-    "forks_count": 976
+    "forks_count": 1046
   },
   {
     "full_name": "adenta/fire_red_agent",
-    "stargazers_count": 139,
+    "stargazers_count": 144,
     "open_issues_count": 11,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "jamsocket/forevervm",
-    "stargazers_count": 122,
-    "open_issues_count": 1,
+    "stargazers_count": 133,
+    "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "ttkb-oss/dedup",
-    "stargazers_count": 206,
+    "stargazers_count": 212,
     "open_issues_count": 4,
     "forks_count": 3
   },
   {
     "full_name": "browser-use/web-ui",
-    "stargazers_count": 8581,
-    "open_issues_count": 190,
-    "forks_count": 1416
+    "stargazers_count": 8942,
+    "open_issues_count": 189,
+    "forks_count": 1472
   },
   {
     "full_name": "browserbase/stagehand",
-    "stargazers_count": 8553,
-    "open_issues_count": 83,
-    "forks_count": 429
+    "stargazers_count": 8761,
+    "open_issues_count": 85,
+    "forks_count": 443
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 35797,
-    "open_issues_count": 350,
-    "forks_count": 3709
+    "stargazers_count": 39603,
+    "open_issues_count": 375,
+    "forks_count": 4057
   },
   {
     "full_name": "deepseek-ai/DeepGEMM",
-    "stargazers_count": 4799,
-    "open_issues_count": 9,
-    "forks_count": 464
+    "stargazers_count": 4880,
+    "open_issues_count": 8,
+    "forks_count": 479
   },
   {
     "full_name": "devMEremenko/XcodeBenchmark",
-    "stargazers_count": 3295,
-    "open_issues_count": 313,
+    "stargazers_count": 3298,
+    "open_issues_count": 314,
     "forks_count": 378
   },
   {
     "full_name": "zilliztech/deep-searcher",
-    "stargazers_count": 3563,
-    "open_issues_count": 9,
-    "forks_count": 322
+    "stargazers_count": 3800,
+    "open_issues_count": 12,
+    "forks_count": 361
   },
   {
     "full_name": "deepseek-ai/DeepEP",
-    "stargazers_count": 7029,
-    "open_issues_count": 25,
-    "forks_count": 600
+    "stargazers_count": 7109,
+    "open_issues_count": 29,
+    "forks_count": 614
   },
   {
     "full_name": "eRuaro/open-gemini-deep-research",
-    "stargazers_count": 147,
-    "open_issues_count": 7,
+    "stargazers_count": 151,
+    "open_issues_count": 6,
     "forks_count": 19
   },
   {
     "full_name": "abeisgoat/slime_os",
-    "stargazers_count": 212,
+    "stargazers_count": 217,
     "open_issues_count": 2,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "rmcrackan/Libation",
-    "stargazers_count": 3467,
-    "open_issues_count": 70,
-    "forks_count": 176
-  },
-  {
-    "full_name": "Mbucari/AAXClean.Codecs",
-    "stargazers_count": 8,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "mkb79/audible-cli",
-    "stargazers_count": 522,
-    "open_issues_count": 43,
-    "forks_count": 50
-  },
-  {
-    "full_name": "damajor/BALD",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "CraightonH/bookworm",
-    "stargazers_count": 6,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Mbucari/AAXClean",
-    "stargazers_count": 64,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "r15ch13/audible-converter",
-    "stargazers_count": 70,
-    "open_issues_count": 3,
-    "forks_count": 7
-  },
-  {
-    "full_name": "bellisk/BulkKindleUSBDownloader",
-    "stargazers_count": 61,
-    "open_issues_count": 0,
-    "forks_count": 10
+    "stargazers_count": 3492,
+    "open_issues_count": 73,
+    "forks_count": 177
   }
 ]
