@@ -1,5 +1,119 @@
 [
   {
+    "full_name": "ahujasid/blender-mcp",
+    "stargazers_count": 2479,
+    "open_issues_count": 4,
+    "forks_count": 199
+  },
+  {
+    "full_name": "Blaizzy/mlx-vlm",
+    "stargazers_count": 987,
+    "open_issues_count": 65,
+    "forks_count": 86
+  },
+  {
+    "full_name": "jaywcjlove/markdown-to-html-cli",
+    "stargazers_count": 71,
+    "open_issues_count": 10,
+    "forks_count": 9
+  },
+  {
+    "full_name": "jgm/pandoc",
+    "stargazers_count": 36307,
+    "open_issues_count": 1116,
+    "forks_count": 3459
+  },
+  {
+    "full_name": "apostrophecms/sanitize-html",
+    "stargazers_count": 3931,
+    "open_issues_count": 24,
+    "forks_count": 358
+  },
+  {
+    "full_name": "cure53/DOMPurify",
+    "stargazers_count": 14749,
+    "open_issues_count": 2,
+    "forks_count": 765
+  },
+  {
+    "full_name": "commonmark/commonmark.js",
+    "stargazers_count": 1479,
+    "open_issues_count": 52,
+    "forks_count": 226
+  },
+  {
+    "full_name": "googleworkspace/apps-script-samples",
+    "stargazers_count": 4691,
+    "open_issues_count": 84,
+    "forks_count": 1874
+  },
+  {
+    "full_name": "signerlabs/Klee",
+    "stargazers_count": 1062,
+    "open_issues_count": 11,
+    "forks_count": 82
+  },
+  {
+    "full_name": "SomeOddCodeGuy/OfflineWikipediaTextApi",
+    "stargazers_count": 86,
+    "open_issues_count": 1,
+    "forks_count": 7
+  },
+  {
+    "full_name": "abgulati/LARS",
+    "stargazers_count": 547,
+    "open_issues_count": 4,
+    "forks_count": 45
+  },
+  {
+    "full_name": "fleuristes/fleur",
+    "stargazers_count": 280,
+    "open_issues_count": 4,
+    "forks_count": 23
+  },
+  {
+    "full_name": "marp-team/marp-cli",
+    "stargazers_count": 2147,
+    "open_issues_count": 19,
+    "forks_count": 115
+  },
+  {
+    "full_name": "thepersonalaicompany/amurex-web",
+    "stargazers_count": 44,
+    "open_issues_count": 14,
+    "forks_count": 5
+  },
+  {
+    "full_name": "kevinhermawan/Ollamac",
+    "stargazers_count": 1717,
+    "open_issues_count": 36,
+    "forks_count": 95
+  },
+  {
+    "full_name": "johnbean393/Sidekick",
+    "stargazers_count": 1737,
+    "open_issues_count": 6,
+    "forks_count": 53
+  },
+  {
+    "full_name": "skeeto/illume",
+    "stargazers_count": 78,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "vince-lam/awesome-local-llms",
+    "stargazers_count": 522,
+    "open_issues_count": 6,
+    "forks_count": 31
+  },
+  {
+    "full_name": "janhq/awesome-local-ai",
+    "stargazers_count": 1456,
+    "open_issues_count": 11,
+    "forks_count": 111
+  },
+  {
     "full_name": "shaynak/taylor-swift",
     "stargazers_count": 24,
     "open_issues_count": 0,
@@ -7,33 +121,33 @@
   },
   {
     "full_name": "shaynak/taylor-swift-lyrics",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 0,
     "forks_count": 16
   },
   {
     "full_name": "pippinbarr/it-is-as-if-you-were-on-your-phone",
-    "stargazers_count": 22,
+    "stargazers_count": 24,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "AndyTheFactory/newspaper4k",
-    "stargazers_count": 660,
+    "stargazers_count": 663,
     "open_issues_count": 192,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "maximilionus/lucidglyph",
-    "stargazers_count": 59,
+    "stargazers_count": 58,
     "open_issues_count": 3,
     "forks_count": 2
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 24827,
-    "open_issues_count": 1751,
-    "forks_count": 1540
+    "stargazers_count": 24935,
+    "open_issues_count": 1762,
+    "forks_count": 1541
   },
   {
     "full_name": "ArgentStonecutter/keyboards",
@@ -43,140 +157,26 @@
   },
   {
     "full_name": "hyperlink-academy/leaflet",
-    "stargazers_count": 139,
+    "stargazers_count": 147,
     "open_issues_count": 29,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "Wack0/entii-for-workcubes",
-    "stargazers_count": 532,
-    "open_issues_count": 12,
-    "forks_count": 12
+    "stargazers_count": 575,
+    "open_issues_count": 16,
+    "forks_count": 13
   },
   {
     "full_name": "Shemnei/punktf",
-    "stargazers_count": 267,
+    "stargazers_count": 270,
     "open_issues_count": 11,
     "forks_count": 8
   },
   {
     "full_name": "chroma-core/chroma",
-    "stargazers_count": 18487,
-    "open_issues_count": 446,
-    "forks_count": 1508
-  },
-  {
-    "full_name": "graphlit/graphlit-mcp-server",
-    "stargazers_count": 47,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "google/generative-ai-docs",
-    "stargazers_count": 1901,
-    "open_issues_count": 64,
-    "forks_count": 671
-  },
-  {
-    "full_name": "kagisearch/bangs",
-    "stargazers_count": 215,
-    "open_issues_count": 1,
-    "forks_count": 81
-  },
-  {
-    "full_name": "tayloraswift/swift-json",
-    "stargazers_count": 96,
-    "open_issues_count": 7,
-    "forks_count": 6
-  },
-  {
-    "full_name": "adashofdata/taylor_swift_data",
-    "stargazers_count": 54,
-    "open_issues_count": 0,
-    "forks_count": 13
-  },
-  {
-    "full_name": "electronicarts/CnC_Red_Alert",
-    "stargazers_count": 5622,
-    "open_issues_count": 0,
-    "forks_count": 1046
-  },
-  {
-    "full_name": "adenta/fire_red_agent",
-    "stargazers_count": 144,
-    "open_issues_count": 11,
-    "forks_count": 8
-  },
-  {
-    "full_name": "jamsocket/forevervm",
-    "stargazers_count": 133,
-    "open_issues_count": 2,
-    "forks_count": 6
-  },
-  {
-    "full_name": "ttkb-oss/dedup",
-    "stargazers_count": 212,
-    "open_issues_count": 4,
-    "forks_count": 3
-  },
-  {
-    "full_name": "browser-use/web-ui",
-    "stargazers_count": 8942,
-    "open_issues_count": 189,
-    "forks_count": 1472
-  },
-  {
-    "full_name": "browserbase/stagehand",
-    "stargazers_count": 8761,
-    "open_issues_count": 85,
-    "forks_count": 443
-  },
-  {
-    "full_name": "browser-use/browser-use",
-    "stargazers_count": 39603,
-    "open_issues_count": 375,
-    "forks_count": 4057
-  },
-  {
-    "full_name": "deepseek-ai/DeepGEMM",
-    "stargazers_count": 4880,
-    "open_issues_count": 8,
-    "forks_count": 479
-  },
-  {
-    "full_name": "devMEremenko/XcodeBenchmark",
-    "stargazers_count": 3298,
-    "open_issues_count": 314,
-    "forks_count": 378
-  },
-  {
-    "full_name": "zilliztech/deep-searcher",
-    "stargazers_count": 3800,
-    "open_issues_count": 12,
-    "forks_count": 361
-  },
-  {
-    "full_name": "deepseek-ai/DeepEP",
-    "stargazers_count": 7109,
-    "open_issues_count": 29,
-    "forks_count": 614
-  },
-  {
-    "full_name": "eRuaro/open-gemini-deep-research",
-    "stargazers_count": 151,
-    "open_issues_count": 6,
-    "forks_count": 19
-  },
-  {
-    "full_name": "abeisgoat/slime_os",
-    "stargazers_count": 217,
-    "open_issues_count": 2,
-    "forks_count": 7
-  },
-  {
-    "full_name": "rmcrackan/Libation",
-    "stargazers_count": 3492,
-    "open_issues_count": 73,
-    "forks_count": 177
+    "stargazers_count": 18576,
+    "open_issues_count": 444,
+    "forks_count": 1518
   }
 ]
