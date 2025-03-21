@@ -1,33 +1,57 @@
 [
   {
+    "full_name": "voynow/chat-with-jfk-files",
+    "stargazers_count": 149,
+    "open_issues_count": 2,
+    "forks_count": 20
+  },
+  {
+    "full_name": "amasad/jfk_files",
+    "stargazers_count": 202,
+    "open_issues_count": 5,
+    "forks_count": 34
+  },
+  {
+    "full_name": "dopper/jfk-dl",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "sharkdp/fd",
+    "stargazers_count": 36731,
+    "open_issues_count": 128,
+    "forks_count": 857
+  },
+  {
     "full_name": "secynic/ipwhois",
-    "stargazers_count": 565,
+    "stargazers_count": 567,
     "open_issues_count": 29,
     "forks_count": 124
   },
   {
     "full_name": "suitenumerique/docs",
-    "stargazers_count": 5773,
-    "open_issues_count": 159,
-    "forks_count": 115
+    "stargazers_count": 8425,
+    "open_issues_count": 169,
+    "forks_count": 181
   },
   {
     "full_name": "grimdoomer/Xbox360BadUpdate",
-    "stargazers_count": 846,
+    "stargazers_count": 1004,
     "open_issues_count": 5,
-    "forks_count": 40
+    "forks_count": 51
   },
   {
     "full_name": "icann/icann-rdap",
-    "stargazers_count": 239,
-    "open_issues_count": 15,
-    "forks_count": 6
+    "stargazers_count": 309,
+    "open_issues_count": 16,
+    "forks_count": 8
   },
   {
     "full_name": "myles/awesome-static-generators",
-    "stargazers_count": 3190,
+    "stargazers_count": 3205,
     "open_issues_count": 0,
-    "forks_count": 223
+    "forks_count": 224
   },
   {
     "full_name": "furiousteabag/vram-calculator",
@@ -43,15 +67,15 @@
   },
   {
     "full_name": "RahulSChand/gpu_poor",
-    "stargazers_count": 1267,
+    "stargazers_count": 1269,
     "open_issues_count": 7,
     "forks_count": 67
   },
   {
     "full_name": "alexziskind1/llm-inference-calculator",
-    "stargazers_count": 54,
-    "open_issues_count": 3,
-    "forks_count": 13
+    "stargazers_count": 62,
+    "open_issues_count": 5,
+    "forks_count": 15
   },
   {
     "full_name": "acarabott/tabToWindow",
@@ -61,15 +85,15 @@
   },
   {
     "full_name": "ahujasid/blender-mcp",
-    "stargazers_count": 6553,
-    "open_issues_count": 10,
-    "forks_count": 538
+    "stargazers_count": 7563,
+    "open_issues_count": 11,
+    "forks_count": 630
   },
   {
     "full_name": "Blaizzy/mlx-vlm",
-    "stargazers_count": 1025,
+    "stargazers_count": 1043,
     "open_issues_count": 68,
-    "forks_count": 87
+    "forks_count": 92
   },
   {
     "full_name": "jaywcjlove/markdown-to-html-cli",
@@ -79,39 +103,39 @@
   },
   {
     "full_name": "jgm/pandoc",
-    "stargazers_count": 36381,
-    "open_issues_count": 1112,
-    "forks_count": 3463
+    "stargazers_count": 36442,
+    "open_issues_count": 1114,
+    "forks_count": 3467
   },
   {
     "full_name": "apostrophecms/sanitize-html",
-    "stargazers_count": 3933,
+    "stargazers_count": 3936,
     "open_issues_count": 24,
     "forks_count": 358
   },
   {
     "full_name": "cure53/DOMPurify",
-    "stargazers_count": 14777,
-    "open_issues_count": 1,
+    "stargazers_count": 14802,
+    "open_issues_count": 0,
     "forks_count": 765
   },
   {
     "full_name": "commonmark/commonmark.js",
     "stargazers_count": 1479,
     "open_issues_count": 52,
-    "forks_count": 226
+    "forks_count": 225
   },
   {
     "full_name": "googleworkspace/apps-script-samples",
-    "stargazers_count": 4724,
+    "stargazers_count": 4733,
     "open_issues_count": 84,
-    "forks_count": 1885
+    "forks_count": 1882
   },
   {
     "full_name": "signerlabs/Klee",
-    "stargazers_count": 1386,
-    "open_issues_count": 14,
-    "forks_count": 107
+    "stargazers_count": 1450,
+    "open_issues_count": 15,
+    "forks_count": 111
   },
   {
     "full_name": "SomeOddCodeGuy/OfflineWikipediaTextApi",
@@ -121,62 +145,38 @@
   },
   {
     "full_name": "abgulati/LARS",
-    "stargazers_count": 565,
+    "stargazers_count": 567,
     "open_issues_count": 4,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "fleuristes/fleur",
-    "stargazers_count": 323,
-    "open_issues_count": 4,
-    "forks_count": 24
+    "stargazers_count": 366,
+    "open_issues_count": 9,
+    "forks_count": 26
   },
   {
     "full_name": "marp-team/marp-cli",
-    "stargazers_count": 2155,
+    "stargazers_count": 2163,
     "open_issues_count": 19,
-    "forks_count": 115
+    "forks_count": 114
   },
   {
     "full_name": "thepersonalaicompany/amurex-web",
-    "stargazers_count": 51,
-    "open_issues_count": 16,
-    "forks_count": 5
+    "stargazers_count": 55,
+    "open_issues_count": 19,
+    "forks_count": 6
   },
   {
     "full_name": "kevinhermawan/Ollamac",
-    "stargazers_count": 1727,
+    "stargazers_count": 1737,
     "open_issues_count": 38,
     "forks_count": 95
   },
   {
     "full_name": "johnbean393/Sidekick",
-    "stargazers_count": 2324,
-    "open_issues_count": 6,
-    "forks_count": 75
-  },
-  {
-    "full_name": "skeeto/illume",
-    "stargazers_count": 78,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "vince-lam/awesome-local-llms",
-    "stargazers_count": 524,
-    "open_issues_count": 6,
-    "forks_count": 32
-  },
-  {
-    "full_name": "janhq/awesome-local-ai",
-    "stargazers_count": 1458,
-    "open_issues_count": 11,
-    "forks_count": 112
-  },
-  {
-    "full_name": "shaynak/taylor-swift",
-    "stargazers_count": 24,
-    "open_issues_count": 0,
-    "forks_count": 5
+    "stargazers_count": 2438,
+    "open_issues_count": 9,
+    "forks_count": 78
   }
 ]
