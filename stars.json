@@ -1,57 +1,69 @@
 [
   {
+    "full_name": "modelcontextprotocol/servers",
+    "stargazers_count": 32436,
+    "open_issues_count": 513,
+    "forks_count": 3448
+  },
+  {
+    "full_name": "option8/Altair-BASIC",
+    "stargazers_count": 219,
+    "open_issues_count": 1,
+    "forks_count": 27
+  },
+  {
     "full_name": "microsoft/GW-BASIC",
-    "stargazers_count": 3243,
+    "stargazers_count": 3270,
     "open_issues_count": 0,
-    "forks_count": 492
+    "forks_count": 498
   },
   {
     "full_name": "knobiknows/all-the-bufo",
-    "stargazers_count": 298,
-    "open_issues_count": 1,
+    "stargazers_count": 300,
+    "open_issues_count": 0,
     "forks_count": 42
   },
   {
     "full_name": "darajava/reel-control",
-    "stargazers_count": 17,
+    "stargazers_count": 21,
     "open_issues_count": 2,
-    "forks_count": 2
+    "forks_count": 4
   },
   {
     "full_name": "eastlondoner/cursor-tools",
-    "stargazers_count": 3524,
-    "open_issues_count": 37,
-    "forks_count": 170
+    "stargazers_count": 3578,
+    "open_issues_count": 38,
+    "forks_count": 177
   },
   {
     "full_name": "oerg866/win98-quickinstall",
-    "stargazers_count": 661,
-    "open_issues_count": 20,
-    "forks_count": 16
+    "stargazers_count": 687,
+    "open_issues_count": 21,
+    "forks_count": 17
   },
   {
     "full_name": "winblues/blue95",
-    "stargazers_count": 768,
-    "open_issues_count": 11,
+    "stargazers_count": 820,
+    "open_issues_count": 9,
     "forks_count": 4
   },
   {
     "full_name": "google-gemini/workshops",
-    "stargazers_count": 42,
+    "stargazers_count": 44,
     "open_issues_count": 30,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "Aleksoid1978/MPC-BE",
-    "stargazers_count": 2766,
+    "stargazers_count": 2772,
     "open_issues_count": 4,
     "forks_count": 104
   },
   {
     "full_name": "hyperbrowserai/mcp",
-    "stargazers_count": 181,
-    "open_issues_count": 0,
-    "forks_count": 9
+    "stargazers_count": 190,
+    "open_issues_count": 2,
+    "forks_count": 10
   },
   {
     "full_name": "voynow/chat-with-jfk-files",
@@ -73,9 +85,9 @@
   },
   {
     "full_name": "sharkdp/fd",
-    "stargazers_count": 37351,
-    "open_issues_count": 125,
-    "forks_count": 865
+    "stargazers_count": 37397,
+    "open_issues_count": 127,
+    "forks_count": 866
   },
   {
     "full_name": "secynic/ipwhois",
@@ -85,27 +97,27 @@
   },
   {
     "full_name": "suitenumerique/docs",
-    "stargazers_count": 10956,
-    "open_issues_count": 174,
-    "forks_count": 256
+    "stargazers_count": 11174,
+    "open_issues_count": 186,
+    "forks_count": 266
   },
   {
     "full_name": "grimdoomer/Xbox360BadUpdate",
-    "stargazers_count": 1113,
+    "stargazers_count": 1129,
     "open_issues_count": 5,
     "forks_count": 57
   },
   {
     "full_name": "icann/icann-rdap",
     "stargazers_count": 333,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 10
   },
   {
     "full_name": "myles/awesome-static-generators",
-    "stargazers_count": 3235,
+    "stargazers_count": 3242,
     "open_issues_count": 0,
-    "forks_count": 224
+    "forks_count": 223
   },
   {
     "full_name": "furiousteabag/vram-calculator",
@@ -115,13 +127,13 @@
   },
   {
     "full_name": "RayFernando1337/LLM-Calc",
-    "stargazers_count": 212,
+    "stargazers_count": 213,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "RahulSChand/gpu_poor",
-    "stargazers_count": 1281,
+    "stargazers_count": 1280,
     "open_issues_count": 7,
     "forks_count": 68
   },
@@ -129,7 +141,7 @@
     "full_name": "alexziskind1/llm-inference-calculator",
     "stargazers_count": 84,
     "open_issues_count": 2,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "acarabott/tabToWindow",
@@ -139,44 +151,32 @@
   },
   {
     "full_name": "ahujasid/blender-mcp",
-    "stargazers_count": 9357,
-    "open_issues_count": 10,
-    "forks_count": 809
+    "stargazers_count": 9583,
+    "open_issues_count": 14,
+    "forks_count": 831
   },
   {
     "full_name": "Blaizzy/mlx-vlm",
-    "stargazers_count": 1128,
-    "open_issues_count": 73,
-    "forks_count": 104
+    "stargazers_count": 1145,
+    "open_issues_count": 76,
+    "forks_count": 107
   },
   {
     "full_name": "jaywcjlove/markdown-to-html-cli",
-    "stargazers_count": 71,
+    "stargazers_count": 72,
     "open_issues_count": 10,
     "forks_count": 9
   },
   {
     "full_name": "jgm/pandoc",
-    "stargazers_count": 36710,
+    "stargazers_count": 36775,
     "open_issues_count": 1111,
-    "forks_count": 3472
+    "forks_count": 3473
   },
   {
     "full_name": "apostrophecms/sanitize-html",
-    "stargazers_count": 3952,
+    "stargazers_count": 3955,
     "open_issues_count": 26,
     "forks_count": 360
-  },
-  {
-    "full_name": "cure53/DOMPurify",
-    "stargazers_count": 14911,
-    "open_issues_count": 0,
-    "forks_count": 770
-  },
-  {
-    "full_name": "commonmark/commonmark.js",
-    "stargazers_count": 1483,
-    "open_issues_count": 51,
-    "forks_count": 226
   }
 ]
