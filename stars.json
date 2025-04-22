@@ -1,97 +1,121 @@
 [
   {
+    "full_name": "LukasOgunfeitimi/TikTok-ReverseEngineering",
+    "stargazers_count": 344,
+    "open_issues_count": 4,
+    "forks_count": 36
+  },
+  {
+    "full_name": "tim-sha256/analyse-ad-traffic",
+    "stargazers_count": 105,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "The-Pocket/Tutorial-Codebase-Knowledge",
+    "stargazers_count": 3220,
+    "open_issues_count": 10,
+    "forks_count": 225
+  },
+  {
+    "full_name": "evadecker/hypertext.tv",
+    "stargazers_count": 98,
+    "open_issues_count": 2,
+    "forks_count": 20
+  },
+  {
     "full_name": "openai/codex",
-    "stargazers_count": 14045,
-    "open_issues_count": 105,
-    "forks_count": 1123
+    "stargazers_count": 18839,
+    "open_issues_count": 152,
+    "forks_count": 1698
   },
   {
     "full_name": "asg017/sqlite-vec",
-    "stargazers_count": 5452,
-    "open_issues_count": 127,
-    "forks_count": 205
+    "stargazers_count": 5473,
+    "open_issues_count": 128,
+    "forks_count": 206
   },
   {
     "full_name": "WorkflowAI/WorkflowAI",
-    "stargazers_count": 305,
+    "stargazers_count": 357,
+    "open_issues_count": 8,
+    "forks_count": 38
+  },
+  {
+    "full_name": "asciimoo/omnom",
+    "stargazers_count": 328,
     "open_issues_count": 2,
     "forks_count": 23
   },
   {
-    "full_name": "asciimoo/omnom",
-    "stargazers_count": 265,
-    "open_issues_count": 2,
-    "forks_count": 16
-  },
-  {
     "full_name": "C4illin/ConvertX",
-    "stargazers_count": 1405,
+    "stargazers_count": 1516,
     "open_issues_count": 32,
     "forks_count": 53
   },
   {
     "full_name": "Stirling-Tools/Stirling-PDF",
-    "stargazers_count": 56074,
-    "open_issues_count": 213,
-    "forks_count": 4671
+    "stargazers_count": 56233,
+    "open_issues_count": 214,
+    "forks_count": 4694
   },
   {
     "full_name": "VERT-sh/VERT",
-    "stargazers_count": 1848,
-    "open_issues_count": 9,
-    "forks_count": 77
+    "stargazers_count": 2187,
+    "open_issues_count": 10,
+    "forks_count": 87
   },
   {
     "full_name": "alienator88/PearHID",
-    "stargazers_count": 4,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "patrickloeber/adk-starter-find-trending-stuff",
-    "stargazers_count": 9,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "google/adk-python",
-    "stargazers_count": 6930,
-    "open_issues_count": 119,
-    "forks_count": 599
+    "stargazers_count": 7354,
+    "open_issues_count": 135,
+    "forks_count": 669
   },
   {
     "full_name": "albertlauncher/albert",
-    "stargazers_count": 7478,
-    "open_issues_count": 6,
-    "forks_count": 313
+    "stargazers_count": 7481,
+    "open_issues_count": 3,
+    "forks_count": 312
   },
   {
     "full_name": "kylejohnsonkj/OpenTok",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 37641,
-    "open_issues_count": 650,
-    "forks_count": 4077
+    "stargazers_count": 39235,
+    "open_issues_count": 590,
+    "forks_count": 4245
   },
   {
     "full_name": "option8/Altair-BASIC",
-    "stargazers_count": 269,
+    "stargazers_count": 271,
     "open_issues_count": 0,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "microsoft/GW-BASIC",
-    "stargazers_count": 3283,
+    "stargazers_count": 3287,
     "open_issues_count": 0,
     "forks_count": 500
   },
   {
     "full_name": "knobiknows/all-the-bufo",
-    "stargazers_count": 307,
+    "stargazers_count": 308,
     "open_issues_count": 0,
     "forks_count": 43
   },
@@ -103,21 +127,21 @@
   },
   {
     "full_name": "eastlondoner/cursor-tools",
-    "stargazers_count": 3699,
-    "open_issues_count": 39,
+    "stargazers_count": 3733,
+    "open_issues_count": 41,
     "forks_count": 184
   },
   {
     "full_name": "oerg866/win98-quickinstall",
-    "stargazers_count": 704,
-    "open_issues_count": 21,
+    "stargazers_count": 773,
+    "open_issues_count": 22,
     "forks_count": 17
   },
   {
     "full_name": "winblues/blue95",
-    "stargazers_count": 847,
-    "open_issues_count": 7,
-    "forks_count": 6
+    "stargazers_count": 873,
+    "open_issues_count": 8,
+    "forks_count": 7
   },
   {
     "full_name": "google-gemini/workshops",
@@ -127,15 +151,15 @@
   },
   {
     "full_name": "Aleksoid1978/MPC-BE",
-    "stargazers_count": 2790,
+    "stargazers_count": 2810,
     "open_issues_count": 0,
     "forks_count": 104
   },
   {
     "full_name": "hyperbrowserai/mcp",
-    "stargazers_count": 216,
+    "stargazers_count": 223,
     "open_issues_count": 1,
-    "forks_count": 17
+    "forks_count": 19
   },
   {
     "full_name": "voynow/chat-with-jfk-files",
@@ -154,29 +178,5 @@
     "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 5
-  },
-  {
-    "full_name": "sharkdp/fd",
-    "stargazers_count": 37552,
-    "open_issues_count": 128,
-    "forks_count": 866
-  },
-  {
-    "full_name": "secynic/ipwhois",
-    "stargazers_count": 572,
-    "open_issues_count": 29,
-    "forks_count": 124
-  },
-  {
-    "full_name": "suitenumerique/docs",
-    "stargazers_count": 11470,
-    "open_issues_count": 195,
-    "forks_count": 272
-  },
-  {
-    "full_name": "grimdoomer/Xbox360BadUpdate",
-    "stargazers_count": 1191,
-    "open_issues_count": 4,
-    "forks_count": 59
   }
 ]
