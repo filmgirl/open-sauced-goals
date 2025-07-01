@@ -1,38 +1,56 @@
 [
   {
+    "full_name": "zicojiao/zim-flow",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "google/sentencepiece",
+    "stargazers_count": 11036,
+    "open_issues_count": 68,
+    "forks_count": 1260
+  },
+  {
+    "full_name": "microsoft/vscode-copilot-chat",
+    "stargazers_count": 1486,
+    "open_issues_count": 8,
+    "forks_count": 154
+  },
+  {
     "full_name": "matteoantoci/google-slides-mcp",
-    "stargazers_count": 41,
-    "open_issues_count": 3,
-    "forks_count": 7
+    "stargazers_count": 59,
+    "open_issues_count": 1,
+    "forks_count": 13
   },
   {
     "full_name": "charmbracelet/mods",
-    "stargazers_count": 3750,
-    "open_issues_count": 44,
+    "stargazers_count": 3768,
+    "open_issues_count": 45,
     "forks_count": 158
   },
   {
     "full_name": "BandarLabs/coderunner",
-    "stargazers_count": 69,
+    "stargazers_count": 137,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 6
   },
   {
     "full_name": "ryoppippi/ccusage",
-    "stargazers_count": 2676,
-    "open_issues_count": 25,
-    "forks_count": 90
+    "stargazers_count": 2974,
+    "open_issues_count": 21,
+    "forks_count": 101
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 29549,
-    "open_issues_count": 501,
-    "forks_count": 2127
+    "stargazers_count": 46244,
+    "open_issues_count": 860,
+    "forks_count": 3762
   },
   {
     "full_name": "magiblot/tvision",
-    "stargazers_count": 2344,
-    "open_issues_count": 33,
+    "stargazers_count": 2349,
+    "open_issues_count": 34,
     "forks_count": 173
   },
   {
@@ -49,7 +67,7 @@
   },
   {
     "full_name": "BlueBubblesApp/bluebubbles-server",
-    "stargazers_count": 651,
+    "stargazers_count": 653,
     "open_issues_count": 65,
     "forks_count": 59
   },
@@ -61,57 +79,57 @@
   },
   {
     "full_name": "nxtscape/nxtscape",
-    "stargazers_count": 1013,
-    "open_issues_count": 7,
-    "forks_count": 60
+    "stargazers_count": 1133,
+    "open_issues_count": 6,
+    "forks_count": 71
   },
   {
     "full_name": "moonlight-stream/moonlight-qt",
-    "stargazers_count": 13586,
-    "open_issues_count": 489,
-    "forks_count": 776
+    "stargazers_count": 13630,
+    "open_issues_count": 488,
+    "forks_count": 778
   },
   {
     "full_name": "PierreBeucher/cloudypad",
-    "stargazers_count": 531,
+    "stargazers_count": 564,
     "open_issues_count": 25,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "boldsoftware/sketch",
-    "stargazers_count": 468,
-    "open_issues_count": 117,
+    "stargazers_count": 479,
+    "open_issues_count": 115,
     "forks_count": 23
   },
   {
     "full_name": "cassidoo/pocketcal",
-    "stargazers_count": 66,
+    "stargazers_count": 69,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "devflowinc/trieve",
-    "stargazers_count": 2316,
+    "stargazers_count": 2325,
     "open_issues_count": 10,
     "forks_count": 201
   },
   {
     "full_name": "PromtEngineer/localGPT",
-    "stargazers_count": 20748,
+    "stargazers_count": 20769,
     "open_issues_count": 478,
-    "forks_count": 2294
+    "forks_count": 2298
   },
   {
     "full_name": "pionxzh/chatgpt-exporter",
-    "stargazers_count": 1671,
+    "stargazers_count": 1678,
     "open_issues_count": 24,
-    "forks_count": 152
+    "forks_count": 153
   },
   {
     "full_name": "zachlatta/sshtron",
-    "stargazers_count": 2343,
+    "stargazers_count": 2348,
     "open_issues_count": 10,
-    "forks_count": 111
+    "forks_count": 113
   },
   {
     "full_name": "NSTiwari/Sketch2Vid",
@@ -121,33 +139,33 @@
   },
   {
     "full_name": "google-deepmind/graphcast",
-    "stargazers_count": 6143,
-    "open_issues_count": 59,
-    "forks_count": 775
+    "stargazers_count": 6152,
+    "open_issues_count": 61,
+    "forks_count": 777
   },
   {
     "full_name": "ariG23498/gemma3-object-detection",
-    "stargazers_count": 61,
+    "stargazers_count": 66,
     "open_issues_count": 15,
     "forks_count": 31
   },
   {
     "full_name": "ChefKissInc/QEMUAppleSilicon",
-    "stargazers_count": 2379,
+    "stargazers_count": 2459,
     "open_issues_count": 11,
-    "forks_count": 201
+    "forks_count": 210
   },
   {
     "full_name": "t2linux/T2-Mint",
     "stargazers_count": 20,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
     "full_name": "t2linux/T2-Ubuntu",
-    "stargazers_count": 681,
+    "stargazers_count": 685,
     "open_issues_count": 3,
-    "forks_count": 57
+    "forks_count": 56
   },
   {
     "full_name": "t2linux/kernel",
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "trycua/cua",
-    "stargazers_count": 8814,
-    "open_issues_count": 58,
-    "forks_count": 392
-  },
-  {
-    "full_name": "apple/containerization",
-    "stargazers_count": 7307,
-    "open_issues_count": 27,
-    "forks_count": 156
-  },
-  {
-    "full_name": "apple/container",
-    "stargazers_count": 15785,
-    "open_issues_count": 69,
-    "forks_count": 305
-  },
-  {
-    "full_name": "sdl60660/letterboxd_recommendations",
-    "stargazers_count": 323,
-    "open_issues_count": 10,
-    "forks_count": 28
+    "stargazers_count": 8855,
+    "open_issues_count": 60,
+    "forks_count": 397
   }
 ]
