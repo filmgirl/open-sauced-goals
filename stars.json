@@ -1,69 +1,111 @@
 [
   {
+    "full_name": "stenzek/duckstation",
+    "stargazers_count": 8495,
+    "open_issues_count": 78,
+    "forks_count": 752
+  },
+  {
+    "full_name": "zoonk/zoonk",
+    "stargazers_count": 58,
+    "open_issues_count": 92,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Exorust/TorchLeet",
+    "stargazers_count": 1164,
+    "open_issues_count": 1,
+    "forks_count": 120
+  },
+  {
+    "full_name": "textcortex/claude-code-sandbox",
+    "stargazers_count": 99,
+    "open_issues_count": 10,
+    "forks_count": 11
+  },
+  {
+    "full_name": "tim-sha256/claude-in-docker",
+    "stargazers_count": 58,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "justingosan/tunnelman",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "libimobiledevice/libimobiledevice",
+    "stargazers_count": 7173,
+    "open_issues_count": 788,
+    "forks_count": 1410
+  },
+  {
     "full_name": "MiguelsPizza/WebMCP",
-    "stargazers_count": 339,
+    "stargazers_count": 559,
     "open_issues_count": 4,
-    "forks_count": 7
+    "forks_count": 29
   },
   {
     "full_name": "AsamK/signal-cli",
-    "stargazers_count": 3611,
-    "open_issues_count": 83,
-    "forks_count": 323
+    "stargazers_count": 3627,
+    "open_issues_count": 80,
+    "forks_count": 326
   },
   {
     "full_name": "dockur/macos",
-    "stargazers_count": 15637,
-    "open_issues_count": 23,
-    "forks_count": 641
+    "stargazers_count": 15723,
+    "open_issues_count": 24,
+    "forks_count": 648
   },
   {
     "full_name": "sohzm/cheating-daddy",
-    "stargazers_count": 2385,
+    "stargazers_count": 2997,
     "open_issues_count": 36,
-    "forks_count": 373
+    "forks_count": 420
   },
   {
     "full_name": "OpenCut-app/OpenCut",
-    "stargazers_count": 9874,
-    "open_issues_count": 50,
-    "forks_count": 723
+    "stargazers_count": 21097,
+    "open_issues_count": 90,
+    "forks_count": 1702
   },
   {
     "full_name": "contraptionco/postcard",
-    "stargazers_count": 497,
+    "stargazers_count": 532,
     "open_issues_count": 1,
-    "forks_count": 35
+    "forks_count": 37
   },
   {
     "full_name": "zserge/pennybase",
-    "stargazers_count": 616,
+    "stargazers_count": 679,
     "open_issues_count": 1,
-    "forks_count": 22
+    "forks_count": 25
   },
   {
     "full_name": "stephanlensky/zendriver",
-    "stargazers_count": 595,
-    "open_issues_count": 43,
+    "stargazers_count": 602,
+    "open_issues_count": 46,
     "forks_count": 46
   },
   {
     "full_name": "simedw/spegel",
-    "stargazers_count": 296,
-    "open_issues_count": 7,
+    "stargazers_count": 300,
+    "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "GoogleCloudPlatform/vertex-ai-creative-studio",
-    "stargazers_count": 206,
+    "stargazers_count": 220,
     "open_issues_count": 7,
-    "forks_count": 63
+    "forks_count": 66
   },
   {
     "full_name": "Automattic/harper",
-    "stargazers_count": 6722,
-    "open_issues_count": 303,
-    "forks_count": 161
+    "stargazers_count": 7030,
+    "open_issues_count": 314,
+    "forks_count": 168
   },
   {
     "full_name": "zicojiao/zim-flow",
@@ -73,51 +115,51 @@
   },
   {
     "full_name": "google/sentencepiece",
-    "stargazers_count": 11066,
-    "open_issues_count": 71,
-    "forks_count": 1264
+    "stargazers_count": 11085,
+    "open_issues_count": 64,
+    "forks_count": 1265
   },
   {
     "full_name": "microsoft/vscode-copilot-chat",
-    "stargazers_count": 6618,
-    "open_issues_count": 30,
-    "forks_count": 703
+    "stargazers_count": 7281,
+    "open_issues_count": 33,
+    "forks_count": 806
   },
   {
     "full_name": "matteoantoci/google-slides-mcp",
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 1,
     "forks_count": 14
   },
   {
     "full_name": "charmbracelet/mods",
-    "stargazers_count": 3851,
-    "open_issues_count": 46,
+    "stargazers_count": 3869,
+    "open_issues_count": 47,
     "forks_count": 159
   },
   {
     "full_name": "BandarLabs/coderunner",
-    "stargazers_count": 164,
+    "stargazers_count": 232,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "ryoppippi/ccusage",
-    "stargazers_count": 3771,
-    "open_issues_count": 29,
-    "forks_count": 127
+    "stargazers_count": 4174,
+    "open_issues_count": 34,
+    "forks_count": 132
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 57431,
-    "open_issues_count": 1109,
-    "forks_count": 5209
+    "stargazers_count": 59371,
+    "open_issues_count": 1295,
+    "forks_count": 5459
   },
   {
     "full_name": "magiblot/tvision",
-    "stargazers_count": 2358,
+    "stargazers_count": 2359,
     "open_issues_count": 33,
-    "forks_count": 172
+    "forks_count": 173
   },
   {
     "full_name": "ngencokamin/sh-imessage-setup",
@@ -129,54 +171,12 @@
     "full_name": "BlueBubblesApp/bluebubbles-helper",
     "stargazers_count": 49,
     "open_issues_count": 6,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "BlueBubblesApp/bluebubbles-server",
-    "stargazers_count": 654,
+    "stargazers_count": 655,
     "open_issues_count": 65,
     "forks_count": 59
-  },
-  {
-    "full_name": "BlueBubblesApp/bluebubbles-app",
-    "stargazers_count": 867,
-    "open_issues_count": 217,
-    "forks_count": 135
-  },
-  {
-    "full_name": "browseros-ai/BrowserOS",
-    "stargazers_count": 1617,
-    "open_issues_count": 14,
-    "forks_count": 109
-  },
-  {
-    "full_name": "moonlight-stream/moonlight-qt",
-    "stargazers_count": 13727,
-    "open_issues_count": 488,
-    "forks_count": 789
-  },
-  {
-    "full_name": "PierreBeucher/cloudypad",
-    "stargazers_count": 639,
-    "open_issues_count": 25,
-    "forks_count": 29
-  },
-  {
-    "full_name": "boldsoftware/sketch",
-    "stargazers_count": 491,
-    "open_issues_count": 119,
-    "forks_count": 24
-  },
-  {
-    "full_name": "cassidoo/pocketcal",
-    "stargazers_count": 72,
-    "open_issues_count": 2,
-    "forks_count": 2
-  },
-  {
-    "full_name": "devflowinc/trieve",
-    "stargazers_count": 2351,
-    "open_issues_count": 11,
-    "forks_count": 203
   }
 ]
