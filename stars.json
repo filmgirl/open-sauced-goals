@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "philschmid/gemini-samples",
+    "stargazers_count": 785,
+    "open_issues_count": 1,
+    "forks_count": 120
+  },
+  {
     "full_name": "stenzek/duckstation",
-    "stargazers_count": 8504,
-    "open_issues_count": 79,
+    "stargazers_count": 8513,
+    "open_issues_count": 78,
     "forks_count": 753
   },
   {
     "full_name": "zoonk/zoonk",
-    "stargazers_count": 60,
-    "open_issues_count": 92,
+    "stargazers_count": 61,
+    "open_issues_count": 91,
     "forks_count": 1
   },
   {
     "full_name": "Exorust/TorchLeet",
-    "stargazers_count": 1252,
+    "stargazers_count": 1383,
     "open_issues_count": 2,
-    "forks_count": 129
+    "forks_count": 141
   },
   {
     "full_name": "textcortex/claude-code-sandbox",
-    "stargazers_count": 103,
-    "open_issues_count": 10,
-    "forks_count": 12
+    "stargazers_count": 114,
+    "open_issues_count": 11,
+    "forks_count": 13
   },
   {
     "full_name": "tim-sha256/claude-in-docker",
-    "stargazers_count": 83,
+    "stargazers_count": 119,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "justingosan/tunnelman",
@@ -37,75 +43,75 @@
   },
   {
     "full_name": "libimobiledevice/libimobiledevice",
-    "stargazers_count": 7185,
+    "stargazers_count": 7207,
     "open_issues_count": 790,
-    "forks_count": 1412
+    "forks_count": 1414
   },
   {
     "full_name": "MiguelsPizza/WebMCP",
-    "stargazers_count": 671,
-    "open_issues_count": 5,
-    "forks_count": 41
+    "stargazers_count": 713,
+    "open_issues_count": 7,
+    "forks_count": 44
   },
   {
     "full_name": "AsamK/signal-cli",
-    "stargazers_count": 3632,
-    "open_issues_count": 79,
-    "forks_count": 326
+    "stargazers_count": 3641,
+    "open_issues_count": 81,
+    "forks_count": 327
   },
   {
     "full_name": "dockur/macos",
-    "stargazers_count": 15748,
+    "stargazers_count": 15777,
     "open_issues_count": 24,
-    "forks_count": 651
+    "forks_count": 650
   },
   {
     "full_name": "sohzm/cheating-daddy",
-    "stargazers_count": 3257,
-    "open_issues_count": 39,
-    "forks_count": 458
+    "stargazers_count": 3416,
+    "open_issues_count": 47,
+    "forks_count": 485
   },
   {
     "full_name": "OpenCut-app/OpenCut",
-    "stargazers_count": 25119,
-    "open_issues_count": 115,
-    "forks_count": 2121
+    "stargazers_count": 26277,
+    "open_issues_count": 121,
+    "forks_count": 2310
   },
   {
     "full_name": "contraptionco/postcard",
-    "stargazers_count": 540,
+    "stargazers_count": 546,
     "open_issues_count": 1,
     "forks_count": 37
   },
   {
     "full_name": "zserge/pennybase",
-    "stargazers_count": 707,
+    "stargazers_count": 735,
     "open_issues_count": 1,
-    "forks_count": 27
+    "forks_count": 29
   },
   {
     "full_name": "cdpdriver/zendriver",
-    "stargazers_count": 610,
-    "open_issues_count": 45,
+    "stargazers_count": 617,
+    "open_issues_count": 47,
     "forks_count": 46
   },
   {
     "full_name": "simedw/spegel",
-    "stargazers_count": 302,
+    "stargazers_count": 303,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "GoogleCloudPlatform/vertex-ai-creative-studio",
-    "stargazers_count": 225,
+    "stargazers_count": 234,
     "open_issues_count": 16,
-    "forks_count": 67
+    "forks_count": 72
   },
   {
     "full_name": "Automattic/harper",
-    "stargazers_count": 7162,
-    "open_issues_count": 322,
-    "forks_count": 172
+    "stargazers_count": 7295,
+    "open_issues_count": 324,
+    "forks_count": 177
   },
   {
     "full_name": "zicojiao/zim-flow",
@@ -115,55 +121,55 @@
   },
   {
     "full_name": "google/sentencepiece",
-    "stargazers_count": 11095,
-    "open_issues_count": 64,
-    "forks_count": 1265
+    "stargazers_count": 11105,
+    "open_issues_count": 65,
+    "forks_count": 1267
   },
   {
     "full_name": "microsoft/vscode-copilot-chat",
-    "stargazers_count": 7545,
-    "open_issues_count": 33,
-    "forks_count": 846
+    "stargazers_count": 7737,
+    "open_issues_count": 37,
+    "forks_count": 895
   },
   {
     "full_name": "matteoantoci/google-slides-mcp",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 1,
     "forks_count": 15
   },
   {
     "full_name": "charmbracelet/mods",
-    "stargazers_count": 3889,
-    "open_issues_count": 51,
+    "stargazers_count": 3899,
+    "open_issues_count": 55,
     "forks_count": 162
   },
   {
     "full_name": "BandarLabs/coderunner",
-    "stargazers_count": 243,
-    "open_issues_count": 0,
+    "stargazers_count": 249,
+    "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "ryoppippi/ccusage",
-    "stargazers_count": 4493,
-    "open_issues_count": 42,
-    "forks_count": 140
+    "stargazers_count": 4914,
+    "open_issues_count": 34,
+    "forks_count": 150
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 60742,
-    "open_issues_count": 1283,
-    "forks_count": 5608
+    "stargazers_count": 62185,
+    "open_issues_count": 1329,
+    "forks_count": 5814
   },
   {
     "full_name": "magiblot/tvision",
-    "stargazers_count": 2359,
+    "stargazers_count": 2366,
     "open_issues_count": 33,
     "forks_count": 173
   },
   {
     "full_name": "ngencokamin/sh-imessage-setup",
-    "stargazers_count": 45,
+    "stargazers_count": 48,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 49,
     "open_issues_count": 6,
     "forks_count": 15
-  },
-  {
-    "full_name": "BlueBubblesApp/bluebubbles-server",
-    "stargazers_count": 655,
-    "open_issues_count": 66,
-    "forks_count": 61
   }
 ]
