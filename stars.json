@@ -1,15 +1,51 @@
 [
   {
+    "full_name": "ammaarreshi/openjourney",
+    "stargazers_count": 68,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
+    "full_name": "ushareng/GeminiPro_EmotionDetection_ChromeExtension",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ushareng/AAC-using-Gemma3",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ushareng/MultiModalEmotionDetection-TextToSpeech-Chatbot_GeminiFlash-Mesop",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ushareng/AAC_app_using_Gemini",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "superagent-ai/grok-cli",
+    "stargazers_count": 1060,
+    "open_issues_count": 9,
+    "forks_count": 124
+  },
+  {
     "full_name": "philschmid/gemini-samples",
-    "stargazers_count": 785,
+    "stargazers_count": 850,
     "open_issues_count": 1,
-    "forks_count": 120
+    "forks_count": 127
   },
   {
     "full_name": "stenzek/duckstation",
-    "stargazers_count": 8513,
-    "open_issues_count": 78,
-    "forks_count": 753
+    "stargazers_count": 8516,
+    "open_issues_count": 77,
+    "forks_count": 756
   },
   {
     "full_name": "zoonk/zoonk",
@@ -19,19 +55,19 @@
   },
   {
     "full_name": "Exorust/TorchLeet",
-    "stargazers_count": 1383,
+    "stargazers_count": 1410,
     "open_issues_count": 2,
-    "forks_count": 141
+    "forks_count": 144
   },
   {
     "full_name": "textcortex/claude-code-sandbox",
-    "stargazers_count": 114,
+    "stargazers_count": 119,
     "open_issues_count": 11,
     "forks_count": 13
   },
   {
     "full_name": "tim-sha256/claude-in-docker",
-    "stargazers_count": 119,
+    "stargazers_count": 129,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -43,75 +79,75 @@
   },
   {
     "full_name": "libimobiledevice/libimobiledevice",
-    "stargazers_count": 7207,
-    "open_issues_count": 790,
-    "forks_count": 1414
+    "stargazers_count": 7214,
+    "open_issues_count": 791,
+    "forks_count": 1415
   },
   {
     "full_name": "MiguelsPizza/WebMCP",
-    "stargazers_count": 713,
-    "open_issues_count": 7,
-    "forks_count": 44
+    "stargazers_count": 757,
+    "open_issues_count": 4,
+    "forks_count": 51
   },
   {
     "full_name": "AsamK/signal-cli",
-    "stargazers_count": 3641,
+    "stargazers_count": 3648,
     "open_issues_count": 81,
-    "forks_count": 327
+    "forks_count": 328
   },
   {
     "full_name": "dockur/macos",
-    "stargazers_count": 15777,
-    "open_issues_count": 24,
-    "forks_count": 650
+    "stargazers_count": 15804,
+    "open_issues_count": 26,
+    "forks_count": 655
   },
   {
     "full_name": "sohzm/cheating-daddy",
-    "stargazers_count": 3416,
-    "open_issues_count": 47,
-    "forks_count": 485
+    "stargazers_count": 3456,
+    "open_issues_count": 49,
+    "forks_count": 495
   },
   {
     "full_name": "OpenCut-app/OpenCut",
-    "stargazers_count": 26277,
-    "open_issues_count": 121,
-    "forks_count": 2310
+    "stargazers_count": 26973,
+    "open_issues_count": 147,
+    "forks_count": 2418
   },
   {
     "full_name": "contraptionco/postcard",
-    "stargazers_count": 546,
+    "stargazers_count": 551,
     "open_issues_count": 1,
     "forks_count": 37
   },
   {
     "full_name": "zserge/pennybase",
-    "stargazers_count": 735,
+    "stargazers_count": 752,
     "open_issues_count": 1,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "cdpdriver/zendriver",
-    "stargazers_count": 617,
-    "open_issues_count": 47,
+    "stargazers_count": 626,
+    "open_issues_count": 48,
     "forks_count": 46
   },
   {
     "full_name": "simedw/spegel",
-    "stargazers_count": 303,
+    "stargazers_count": 306,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "GoogleCloudPlatform/vertex-ai-creative-studio",
-    "stargazers_count": 234,
-    "open_issues_count": 16,
-    "forks_count": 72
+    "stargazers_count": 243,
+    "open_issues_count": 20,
+    "forks_count": 73
   },
   {
     "full_name": "Automattic/harper",
-    "stargazers_count": 7295,
-    "open_issues_count": 324,
-    "forks_count": 177
+    "stargazers_count": 7374,
+    "open_issues_count": 321,
+    "forks_count": 180
   },
   {
     "full_name": "zicojiao/zim-flow",
@@ -121,62 +157,26 @@
   },
   {
     "full_name": "google/sentencepiece",
-    "stargazers_count": 11105,
+    "stargazers_count": 11107,
     "open_issues_count": 65,
-    "forks_count": 1267
+    "forks_count": 1269
   },
   {
     "full_name": "microsoft/vscode-copilot-chat",
-    "stargazers_count": 7737,
-    "open_issues_count": 37,
-    "forks_count": 895
+    "stargazers_count": 7859,
+    "open_issues_count": 43,
+    "forks_count": 920
   },
   {
     "full_name": "matteoantoci/google-slides-mcp",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 1,
     "forks_count": 15
   },
   {
     "full_name": "charmbracelet/mods",
-    "stargazers_count": 3899,
-    "open_issues_count": 55,
+    "stargazers_count": 3914,
+    "open_issues_count": 59,
     "forks_count": 162
-  },
-  {
-    "full_name": "BandarLabs/coderunner",
-    "stargazers_count": 249,
-    "open_issues_count": 1,
-    "forks_count": 7
-  },
-  {
-    "full_name": "ryoppippi/ccusage",
-    "stargazers_count": 4914,
-    "open_issues_count": 34,
-    "forks_count": 150
-  },
-  {
-    "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 62185,
-    "open_issues_count": 1329,
-    "forks_count": 5814
-  },
-  {
-    "full_name": "magiblot/tvision",
-    "stargazers_count": 2366,
-    "open_issues_count": 33,
-    "forks_count": 173
-  },
-  {
-    "full_name": "ngencokamin/sh-imessage-setup",
-    "stargazers_count": 48,
-    "open_issues_count": 2,
-    "forks_count": 4
-  },
-  {
-    "full_name": "BlueBubblesApp/bluebubbles-helper",
-    "stargazers_count": 49,
-    "open_issues_count": 6,
-    "forks_count": 15
   }
 ]
