@@ -1,51 +1,87 @@
 [
   {
-    "full_name": "lhl/strix-halo-testing",
-    "stargazers_count": 32,
+    "full_name": "e2b-dev/surf",
+    "stargazers_count": 519,
     "open_issues_count": 2,
+    "forks_count": 81
+  },
+  {
+    "full_name": "e2b-dev/e2b-cookbook",
+    "stargazers_count": 1079,
+    "open_issues_count": 8,
+    "forks_count": 190
+  },
+  {
+    "full_name": "e2b-dev/E2B",
+    "stargazers_count": 9222,
+    "open_issues_count": 30,
+    "forks_count": 636
+  },
+  {
+    "full_name": "libredirect/browser_extension",
+    "stargazers_count": 3641,
+    "open_issues_count": 30,
+    "forks_count": 132
+  },
+  {
+    "full_name": "detroittommy879/aicodeprep-gui",
+    "stargazers_count": 156,
+    "open_issues_count": 4,
+    "forks_count": 8
+  },
+  {
+    "full_name": "bytedance/Dolphin",
+    "stargazers_count": 5380,
+    "open_issues_count": 48,
+    "forks_count": 422
+  },
+  {
+    "full_name": "lhl/strix-halo-testing",
+    "stargazers_count": 39,
+    "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "QwenLM/qwen-code",
-    "stargazers_count": 7621,
-    "open_issues_count": 135,
-    "forks_count": 577
+    "stargazers_count": 9177,
+    "open_issues_count": 188,
+    "forks_count": 657
   },
   {
     "full_name": "Stehos/stehos-reddit-markdown-with-fabric",
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "farnots/RedditToMarkdown",
-    "stargazers_count": 141,
+    "stargazers_count": 142,
     "open_issues_count": 5,
     "forks_count": 25
   },
   {
     "full_name": "chuanqisun/courseek",
-    "stargazers_count": 11,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "openai/gpt-oss",
-    "stargazers_count": 13838,
-    "open_issues_count": 46,
-    "forks_count": 1099
+    "stargazers_count": 16583,
+    "open_issues_count": 55,
+    "forks_count": 1400
   },
   {
     "full_name": "sammcj/gollama",
-    "stargazers_count": 1301,
-    "open_issues_count": 7,
-    "forks_count": 67
+    "stargazers_count": 1345,
+    "open_issues_count": 5,
+    "forks_count": 74
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 86703,
-    "open_issues_count": 739,
-    "forks_count": 9428
+    "stargazers_count": 86936,
+    "open_issues_count": 722,
+    "forks_count": 9476
   },
   {
     "full_name": "qaribhaider/ollama-to-lmstudio-symlinks",
@@ -55,9 +91,9 @@
   },
   {
     "full_name": "smartmontools/smartmontools",
-    "stargazers_count": 750,
+    "stargazers_count": 753,
     "open_issues_count": 81,
-    "forks_count": 204
+    "forks_count": 206
   },
   {
     "full_name": "runwayml/chrome-extension-tutorial",
@@ -73,61 +109,61 @@
   },
   {
     "full_name": "runwayml/hair-makeover-api-demo",
-    "stargazers_count": 22,
+    "stargazers_count": 24,
     "open_issues_count": 1,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "google-gemini/starter-applets",
-    "stargazers_count": 1173,
+    "stargazers_count": 1174,
     "open_issues_count": 17,
     "forks_count": 429
   },
   {
     "full_name": "xjywhu/Awesome-Multimodal-LLM-for-Code",
-    "stargazers_count": 126,
+    "stargazers_count": 131,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "leigest519/ScreenCoder",
-    "stargazers_count": 765,
+    "stargazers_count": 1043,
     "open_issues_count": 1,
-    "forks_count": 47
+    "forks_count": 69
   },
   {
     "full_name": "googlefonts/googlesans-code",
-    "stargazers_count": 1279,
+    "stargazers_count": 1361,
     "open_issues_count": 12,
-    "forks_count": 23
+    "forks_count": 28
   },
   {
     "full_name": "microsoft/mcp-for-beginners",
-    "stargazers_count": 8010,
-    "open_issues_count": 22,
-    "forks_count": 2166
+    "stargazers_count": 8726,
+    "open_issues_count": 8,
+    "forks_count": 2370
   },
   {
     "full_name": "charmbracelet/crush",
-    "stargazers_count": 8111,
-    "open_issues_count": 220,
-    "forks_count": 348
+    "stargazers_count": 8963,
+    "open_issues_count": 257,
+    "forks_count": 417
   },
   {
     "full_name": "musistudio/claude-code-router",
-    "stargazers_count": 11214,
-    "open_issues_count": 272,
-    "forks_count": 829
+    "stargazers_count": 12216,
+    "open_issues_count": 302,
+    "forks_count": 902
   },
   {
     "full_name": "aviflombaum/prompt_engine",
-    "stargazers_count": 27,
-    "open_issues_count": 6,
+    "stargazers_count": 31,
+    "open_issues_count": 7,
     "forks_count": 1
   },
   {
     "full_name": "ammaarreshi/openjourney",
-    "stargazers_count": 130,
+    "stargazers_count": 132,
     "open_issues_count": 0,
     "forks_count": 36
   },
@@ -142,41 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "ushareng/MultiModalEmotionDetection-TextToSpeech-Chatbot_GeminiFlash-Mesop",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ushareng/AAC_app_using_Gemini",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "superagent-ai/grok-cli",
-    "stargazers_count": 1392,
-    "open_issues_count": 14,
-    "forks_count": 174
-  },
-  {
-    "full_name": "philschmid/gemini-samples",
-    "stargazers_count": 1129,
-    "open_issues_count": 1,
-    "forks_count": 151
-  },
-  {
-    "full_name": "stenzek/duckstation",
-    "stargazers_count": 8891,
-    "open_issues_count": 79,
-    "forks_count": 810
-  },
-  {
-    "full_name": "zoonk/zoonk",
-    "stargazers_count": 61,
-    "open_issues_count": 62,
-    "forks_count": 2
   }
 ]
