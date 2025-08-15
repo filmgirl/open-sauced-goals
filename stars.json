@@ -1,51 +1,57 @@
 [
   {
+    "full_name": "omnara-ai/omnara",
+    "stargazers_count": 1291,
+    "open_issues_count": 20,
+    "forks_count": 52
+  },
+  {
     "full_name": "e2b-dev/surf",
-    "stargazers_count": 519,
+    "stargazers_count": 522,
     "open_issues_count": 2,
-    "forks_count": 81
+    "forks_count": 83
   },
   {
     "full_name": "e2b-dev/e2b-cookbook",
-    "stargazers_count": 1079,
+    "stargazers_count": 1081,
     "open_issues_count": 8,
     "forks_count": 190
   },
   {
     "full_name": "e2b-dev/E2B",
-    "stargazers_count": 9222,
-    "open_issues_count": 30,
-    "forks_count": 636
+    "stargazers_count": 9268,
+    "open_issues_count": 31,
+    "forks_count": 639
   },
   {
     "full_name": "libredirect/browser_extension",
-    "stargazers_count": 3641,
+    "stargazers_count": 3643,
     "open_issues_count": 30,
-    "forks_count": 132
+    "forks_count": 131
   },
   {
     "full_name": "detroittommy879/aicodeprep-gui",
-    "stargazers_count": 156,
-    "open_issues_count": 4,
-    "forks_count": 8
+    "stargazers_count": 195,
+    "open_issues_count": 3,
+    "forks_count": 10
   },
   {
     "full_name": "bytedance/Dolphin",
-    "stargazers_count": 5380,
+    "stargazers_count": 5512,
     "open_issues_count": 48,
-    "forks_count": 422
+    "forks_count": 436
   },
   {
     "full_name": "lhl/strix-halo-testing",
-    "stargazers_count": 39,
+    "stargazers_count": 41,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "QwenLM/qwen-code",
-    "stargazers_count": 9177,
-    "open_issues_count": 188,
-    "forks_count": 657
+    "stargazers_count": 9904,
+    "open_issues_count": 196,
+    "forks_count": 728
   },
   {
     "full_name": "Stehos/stehos-reddit-markdown-with-fabric",
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "farnots/RedditToMarkdown",
-    "stargazers_count": 142,
+    "stargazers_count": 143,
     "open_issues_count": 5,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "chuanqisun/courseek",
@@ -67,33 +73,33 @@
   },
   {
     "full_name": "openai/gpt-oss",
-    "stargazers_count": 16583,
-    "open_issues_count": 55,
-    "forks_count": 1400
+    "stargazers_count": 17090,
+    "open_issues_count": 49,
+    "forks_count": 1483
   },
   {
     "full_name": "sammcj/gollama",
-    "stargazers_count": 1345,
+    "stargazers_count": 1359,
     "open_issues_count": 5,
     "forks_count": 74
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 86936,
-    "open_issues_count": 722,
-    "forks_count": 9476
+    "stargazers_count": 87115,
+    "open_issues_count": 699,
+    "forks_count": 9515
   },
   {
     "full_name": "qaribhaider/ollama-to-lmstudio-symlinks",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "smartmontools/smartmontools",
-    "stargazers_count": 753,
+    "stargazers_count": 760,
     "open_issues_count": 81,
-    "forks_count": 206
+    "forks_count": 208
   },
   {
     "full_name": "runwayml/chrome-extension-tutorial",
@@ -115,67 +121,61 @@
   },
   {
     "full_name": "google-gemini/starter-applets",
-    "stargazers_count": 1174,
+    "stargazers_count": 1176,
     "open_issues_count": 17,
-    "forks_count": 429
+    "forks_count": 430
   },
   {
     "full_name": "xjywhu/Awesome-Multimodal-LLM-for-Code",
-    "stargazers_count": 131,
+    "stargazers_count": 137,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "leigest519/ScreenCoder",
-    "stargazers_count": 1043,
-    "open_issues_count": 1,
-    "forks_count": 69
+    "stargazers_count": 1436,
+    "open_issues_count": 4,
+    "forks_count": 101
   },
   {
     "full_name": "googlefonts/googlesans-code",
-    "stargazers_count": 1361,
-    "open_issues_count": 12,
-    "forks_count": 28
+    "stargazers_count": 1456,
+    "open_issues_count": 13,
+    "forks_count": 31
   },
   {
     "full_name": "microsoft/mcp-for-beginners",
-    "stargazers_count": 8726,
-    "open_issues_count": 8,
-    "forks_count": 2370
+    "stargazers_count": 9111,
+    "open_issues_count": 1,
+    "forks_count": 2496
   },
   {
     "full_name": "charmbracelet/crush",
-    "stargazers_count": 8963,
-    "open_issues_count": 257,
-    "forks_count": 417
+    "stargazers_count": 9550,
+    "open_issues_count": 269,
+    "forks_count": 442
   },
   {
     "full_name": "musistudio/claude-code-router",
-    "stargazers_count": 12216,
-    "open_issues_count": 302,
-    "forks_count": 902
+    "stargazers_count": 13060,
+    "open_issues_count": 325,
+    "forks_count": 972
   },
   {
     "full_name": "aviflombaum/prompt_engine",
-    "stargazers_count": 31,
-    "open_issues_count": 7,
+    "stargazers_count": 34,
+    "open_issues_count": 9,
     "forks_count": 1
   },
   {
     "full_name": "ammaarreshi/openjourney",
-    "stargazers_count": 132,
+    "stargazers_count": 137,
     "open_issues_count": 0,
     "forks_count": 36
   },
   {
     "full_name": "ushareng/GeminiPro_EmotionDetection_ChromeExtension",
     "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ushareng/AAC-using-Gemma3",
-    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   }
