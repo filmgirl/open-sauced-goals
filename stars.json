@@ -1,57 +1,117 @@
 [
   {
+    "full_name": "panphora/hyperclay-local",
+    "stargazers_count": 46,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "lostintangent/gitdoc",
+    "stargazers_count": 307,
+    "open_issues_count": 19,
+    "forks_count": 34
+  },
+  {
+    "full_name": "lostintangent/codeswing",
+    "stargazers_count": 991,
+    "open_issues_count": 36,
+    "forks_count": 53
+  },
+  {
+    "full_name": "lostintangent/gistpad",
+    "stargazers_count": 1017,
+    "open_issues_count": 13,
+    "forks_count": 72
+  },
+  {
+    "full_name": "lostintangent/gistpad-mcp",
+    "stargazers_count": 152,
+    "open_issues_count": 3,
+    "forks_count": 22
+  },
+  {
+    "full_name": "awslabs/mcp",
+    "stargazers_count": 5509,
+    "open_issues_count": 198,
+    "forks_count": 746
+  },
+  {
+    "full_name": "Foulest/Osprey",
+    "stargazers_count": 105,
+    "open_issues_count": 1,
+    "forks_count": 8
+  },
+  {
+    "full_name": "yokoffing/NextDNS-Config",
+    "stargazers_count": 2455,
+    "open_issues_count": 2,
+    "forks_count": 62
+  },
+  {
+    "full_name": "getAsterisk/claudia",
+    "stargazers_count": 12951,
+    "open_issues_count": 222,
+    "forks_count": 989
+  },
+  {
+    "full_name": "FFmpeg/FFmpeg",
+    "stargazers_count": 52333,
+    "open_issues_count": 3,
+    "forks_count": 12936
+  },
+  {
     "full_name": "omnara-ai/omnara",
-    "stargazers_count": 1291,
-    "open_issues_count": 20,
-    "forks_count": 52
+    "stargazers_count": 1680,
+    "open_issues_count": 18,
+    "forks_count": 92
   },
   {
     "full_name": "e2b-dev/surf",
-    "stargazers_count": 522,
+    "stargazers_count": 547,
     "open_issues_count": 2,
-    "forks_count": 83
+    "forks_count": 94
   },
   {
     "full_name": "e2b-dev/e2b-cookbook",
-    "stargazers_count": 1081,
-    "open_issues_count": 8,
-    "forks_count": 190
+    "stargazers_count": 1092,
+    "open_issues_count": 7,
+    "forks_count": 193
   },
   {
     "full_name": "e2b-dev/E2B",
-    "stargazers_count": 9268,
-    "open_issues_count": 31,
-    "forks_count": 639
+    "stargazers_count": 9313,
+    "open_issues_count": 33,
+    "forks_count": 644
   },
   {
     "full_name": "libredirect/browser_extension",
-    "stargazers_count": 3643,
+    "stargazers_count": 3647,
     "open_issues_count": 30,
     "forks_count": 131
   },
   {
     "full_name": "detroittommy879/aicodeprep-gui",
-    "stargazers_count": 195,
+    "stargazers_count": 217,
     "open_issues_count": 3,
-    "forks_count": 10
+    "forks_count": 12
   },
   {
     "full_name": "bytedance/Dolphin",
-    "stargazers_count": 5512,
-    "open_issues_count": 48,
-    "forks_count": 436
+    "stargazers_count": 5572,
+    "open_issues_count": 49,
+    "forks_count": 442
   },
   {
     "full_name": "lhl/strix-halo-testing",
-    "stargazers_count": 41,
+    "stargazers_count": 47,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "QwenLM/qwen-code",
-    "stargazers_count": 9904,
-    "open_issues_count": 196,
-    "forks_count": 728
+    "stargazers_count": 10518,
+    "open_issues_count": 199,
+    "forks_count": 766
   },
   {
     "full_name": "Stehos/stehos-reddit-markdown-with-fabric",
@@ -73,33 +133,33 @@
   },
   {
     "full_name": "openai/gpt-oss",
-    "stargazers_count": 17090,
-    "open_issues_count": 49,
-    "forks_count": 1483
+    "stargazers_count": 17415,
+    "open_issues_count": 55,
+    "forks_count": 1562
   },
   {
     "full_name": "sammcj/gollama",
-    "stargazers_count": 1359,
+    "stargazers_count": 1368,
     "open_issues_count": 5,
-    "forks_count": 74
+    "forks_count": 75
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 87115,
-    "open_issues_count": 699,
-    "forks_count": 9515
+    "stargazers_count": 87286,
+    "open_issues_count": 714,
+    "forks_count": 9550
   },
   {
     "full_name": "qaribhaider/ollama-to-lmstudio-symlinks",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "smartmontools/smartmontools",
-    "stargazers_count": 760,
-    "open_issues_count": 81,
-    "forks_count": 208
+    "stargazers_count": 767,
+    "open_issues_count": 83,
+    "forks_count": 210
   },
   {
     "full_name": "runwayml/chrome-extension-tutorial",
@@ -117,66 +177,6 @@
     "full_name": "runwayml/hair-makeover-api-demo",
     "stargazers_count": 24,
     "open_issues_count": 1,
-    "forks_count": 8
-  },
-  {
-    "full_name": "google-gemini/starter-applets",
-    "stargazers_count": 1176,
-    "open_issues_count": 17,
-    "forks_count": 430
-  },
-  {
-    "full_name": "xjywhu/Awesome-Multimodal-LLM-for-Code",
-    "stargazers_count": 137,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "leigest519/ScreenCoder",
-    "stargazers_count": 1436,
-    "open_issues_count": 4,
-    "forks_count": 101
-  },
-  {
-    "full_name": "googlefonts/googlesans-code",
-    "stargazers_count": 1456,
-    "open_issues_count": 13,
-    "forks_count": 31
-  },
-  {
-    "full_name": "microsoft/mcp-for-beginners",
-    "stargazers_count": 9111,
-    "open_issues_count": 1,
-    "forks_count": 2496
-  },
-  {
-    "full_name": "charmbracelet/crush",
-    "stargazers_count": 9550,
-    "open_issues_count": 269,
-    "forks_count": 442
-  },
-  {
-    "full_name": "musistudio/claude-code-router",
-    "stargazers_count": 13060,
-    "open_issues_count": 325,
-    "forks_count": 972
-  },
-  {
-    "full_name": "aviflombaum/prompt_engine",
-    "stargazers_count": 34,
-    "open_issues_count": 9,
-    "forks_count": 1
-  },
-  {
-    "full_name": "ammaarreshi/openjourney",
-    "stargazers_count": 137,
-    "open_issues_count": 0,
-    "forks_count": 36
-  },
-  {
-    "full_name": "ushareng/GeminiPro_EmotionDetection_ChromeExtension",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 9
   }
 ]
