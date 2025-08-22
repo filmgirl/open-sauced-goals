@@ -1,13 +1,49 @@
 [
   {
+    "full_name": "steipete/steipete.me",
+    "stargazers_count": 37,
+    "open_issues_count": 6,
+    "forks_count": 9
+  },
+  {
+    "full_name": "plutoprint/plutoprint",
+    "stargazers_count": 365,
+    "open_issues_count": 1,
+    "forks_count": 11
+  },
+  {
+    "full_name": "zedless-editor/zed",
+    "stargazers_count": 784,
+    "open_issues_count": 7,
+    "forks_count": 12
+  },
+  {
+    "full_name": "openai/agents.md",
+    "stargazers_count": 2387,
+    "open_issues_count": 11,
+    "forks_count": 129
+  },
+  {
+    "full_name": "firecrawl/firecrawl",
+    "stargazers_count": 50617,
+    "open_issues_count": 214,
+    "forks_count": 4434
+  },
+  {
+    "full_name": "TecharoHQ/anubis",
+    "stargazers_count": 11890,
+    "open_issues_count": 174,
+    "forks_count": 335
+  },
+  {
     "full_name": "panphora/hyperclay-local",
-    "stargazers_count": 46,
+    "stargazers_count": 57,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "lostintangent/gitdoc",
-    "stargazers_count": 307,
+    "stargazers_count": 308,
     "open_issues_count": 19,
     "forks_count": 34
   },
@@ -25,99 +61,99 @@
   },
   {
     "full_name": "lostintangent/gistpad-mcp",
-    "stargazers_count": 152,
+    "stargazers_count": 154,
     "open_issues_count": 3,
     "forks_count": 22
   },
   {
     "full_name": "awslabs/mcp",
-    "stargazers_count": 5509,
-    "open_issues_count": 198,
-    "forks_count": 746
+    "stargazers_count": 5942,
+    "open_issues_count": 210,
+    "forks_count": 772
   },
   {
     "full_name": "Foulest/Osprey",
-    "stargazers_count": 105,
+    "stargazers_count": 109,
     "open_issues_count": 1,
-    "forks_count": 8
+    "forks_count": 7
   },
   {
     "full_name": "yokoffing/NextDNS-Config",
-    "stargazers_count": 2455,
+    "stargazers_count": 2474,
     "open_issues_count": 2,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "getAsterisk/claudia",
-    "stargazers_count": 12951,
-    "open_issues_count": 222,
-    "forks_count": 989
+    "stargazers_count": 13751,
+    "open_issues_count": 231,
+    "forks_count": 1022
   },
   {
     "full_name": "FFmpeg/FFmpeg",
-    "stargazers_count": 52333,
+    "stargazers_count": 52417,
     "open_issues_count": 3,
-    "forks_count": 12936
+    "forks_count": 12942
   },
   {
     "full_name": "omnara-ai/omnara",
-    "stargazers_count": 1680,
-    "open_issues_count": 18,
-    "forks_count": 92
+    "stargazers_count": 1807,
+    "open_issues_count": 23,
+    "forks_count": 103
   },
   {
     "full_name": "e2b-dev/surf",
-    "stargazers_count": 547,
+    "stargazers_count": 551,
     "open_issues_count": 2,
     "forks_count": 94
   },
   {
     "full_name": "e2b-dev/e2b-cookbook",
-    "stargazers_count": 1092,
+    "stargazers_count": 1096,
     "open_issues_count": 7,
-    "forks_count": 193
+    "forks_count": 197
   },
   {
     "full_name": "e2b-dev/E2B",
-    "stargazers_count": 9313,
-    "open_issues_count": 33,
-    "forks_count": 644
+    "stargazers_count": 9346,
+    "open_issues_count": 31,
+    "forks_count": 649
   },
   {
     "full_name": "libredirect/browser_extension",
-    "stargazers_count": 3647,
-    "open_issues_count": 30,
+    "stargazers_count": 3651,
+    "open_issues_count": 31,
     "forks_count": 131
   },
   {
     "full_name": "detroittommy879/aicodeprep-gui",
-    "stargazers_count": 217,
+    "stargazers_count": 228,
     "open_issues_count": 3,
-    "forks_count": 12
+    "forks_count": 11
   },
   {
     "full_name": "bytedance/Dolphin",
-    "stargazers_count": 5572,
-    "open_issues_count": 49,
-    "forks_count": 442
+    "stargazers_count": 5592,
+    "open_issues_count": 54,
+    "forks_count": 443
   },
   {
     "full_name": "lhl/strix-halo-testing",
-    "stargazers_count": 47,
+    "stargazers_count": 51,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "QwenLM/qwen-code",
-    "stargazers_count": 10518,
-    "open_issues_count": 199,
-    "forks_count": 766
+    "stargazers_count": 10941,
+    "open_issues_count": 221,
+    "forks_count": 799
   },
   {
     "full_name": "Stehos/stehos-reddit-markdown-with-fabric",
     "stargazers_count": 32,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "farnots/RedditToMarkdown",
@@ -133,50 +169,14 @@
   },
   {
     "full_name": "openai/gpt-oss",
-    "stargazers_count": 17415,
-    "open_issues_count": 55,
-    "forks_count": 1562
+    "stargazers_count": 17605,
+    "open_issues_count": 56,
+    "forks_count": 1594
   },
   {
     "full_name": "sammcj/gollama",
-    "stargazers_count": 1368,
-    "open_issues_count": 5,
-    "forks_count": 75
-  },
-  {
-    "full_name": "supabase/supabase",
-    "stargazers_count": 87286,
-    "open_issues_count": 714,
-    "forks_count": 9550
-  },
-  {
-    "full_name": "qaribhaider/ollama-to-lmstudio-symlinks",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "smartmontools/smartmontools",
-    "stargazers_count": 767,
-    "open_issues_count": 83,
-    "forks_count": 210
-  },
-  {
-    "full_name": "runwayml/chrome-extension-tutorial",
-    "stargazers_count": 48,
-    "open_issues_count": 0,
-    "forks_count": 14
-  },
-  {
-    "full_name": "runwayml/try-on-chrome-extension",
-    "stargazers_count": 40,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "runwayml/hair-makeover-api-demo",
-    "stargazers_count": 24,
-    "open_issues_count": 1,
-    "forks_count": 9
+    "stargazers_count": 1374,
+    "open_issues_count": 7,
+    "forks_count": 76
   }
 ]
