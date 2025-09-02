@@ -1,45 +1,159 @@
 [
   {
+    "full_name": "HermanMartinus/bearlytics",
+    "stargazers_count": 193,
+    "open_issues_count": 3,
+    "forks_count": 6
+  },
+  {
+    "full_name": "Dimillian/IcySky",
+    "stargazers_count": 455,
+    "open_issues_count": 4,
+    "forks_count": 26
+  },
+  {
+    "full_name": "HermanMartinus/bearblog",
+    "stargazers_count": 3869,
+    "open_issues_count": 43,
+    "forks_count": 119
+  },
+  {
+    "full_name": "simeydotme/pokemon-cards-css",
+    "stargazers_count": 6431,
+    "open_issues_count": 5,
+    "forks_count": 618
+  },
+  {
+    "full_name": "mattt/iMCP",
+    "stargazers_count": 798,
+    "open_issues_count": 16,
+    "forks_count": 31
+  },
+  {
+    "full_name": "mattt/emcee",
+    "stargazers_count": 293,
+    "open_issues_count": 0,
+    "forks_count": 21
+  },
+  {
+    "full_name": "jj-for-everyone/jj-for-everyone.github.io",
+    "stargazers_count": 74,
+    "open_issues_count": 2,
+    "forks_count": 6
+  },
+  {
+    "full_name": "spotDL/spotify-downloader",
+    "stargazers_count": 21804,
+    "open_issues_count": 57,
+    "forks_count": 1908
+  },
+  {
+    "full_name": "rcarmo/ground-init",
+    "stargazers_count": 58,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "jetkvm/kvm",
+    "stargazers_count": 3285,
+    "open_issues_count": 213,
+    "forks_count": 196
+  },
+  {
+    "full_name": "php/frankenphp",
+    "stargazers_count": 10169,
+    "open_issues_count": 191,
+    "forks_count": 380
+  },
+  {
+    "full_name": "usenocturne/nocturne",
+    "stargazers_count": 241,
+    "open_issues_count": 1,
+    "forks_count": 10
+  },
+  {
+    "full_name": "hotheadhacker/seedbox-lite",
+    "stargazers_count": 2961,
+    "open_issues_count": 20,
+    "forks_count": 192
+  },
+  {
+    "full_name": "justin/dotfiles",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "vivekVells/mcp-pandoc",
+    "stargazers_count": 385,
+    "open_issues_count": 4,
+    "forks_count": 50
+  },
+  {
+    "full_name": "GewoonJaap/gemini-cli-openai",
+    "stargazers_count": 590,
+    "open_issues_count": 11,
+    "forks_count": 127
+  },
+  {
+    "full_name": "phaserjs/phaser",
+    "stargazers_count": 38326,
+    "open_issues_count": 103,
+    "forks_count": 7120
+  },
+  {
+    "full_name": "kaBeech/serious-shanns",
+    "stargazers_count": 197,
+    "open_issues_count": 10,
+    "forks_count": 5
+  },
+  {
+    "full_name": "jesusmgg/comic-shanns-mono",
+    "stargazers_count": 222,
+    "open_issues_count": 7,
+    "forks_count": 7
+  },
+  {
     "full_name": "OperatorFoundation/shapeshifter-dispatcher",
-    "stargazers_count": 195,
+    "stargazers_count": 209,
     "open_issues_count": 15,
     "forks_count": 28
   },
   {
     "full_name": "spinel-coop/rv",
-    "stargazers_count": 654,
-    "open_issues_count": 9,
-    "forks_count": 7
+    "stargazers_count": 782,
+    "open_issues_count": 5,
+    "forks_count": 10
   },
   {
     "full_name": "dottxt-ai/outlines",
-    "stargazers_count": 12451,
-    "open_issues_count": 107,
-    "forks_count": 622
+    "stargazers_count": 12471,
+    "open_issues_count": 105,
+    "forks_count": 624
   },
   {
     "full_name": "basecamp/omarchy",
-    "stargazers_count": 5941,
-    "open_issues_count": 232,
-    "forks_count": 774
+    "stargazers_count": 6475,
+    "open_issues_count": 213,
+    "forks_count": 804
   },
   {
     "full_name": "IBM/mcp-context-forge",
-    "stargazers_count": 2127,
-    "open_issues_count": 161,
-    "forks_count": 243
+    "stargazers_count": 2242,
+    "open_issues_count": 172,
+    "forks_count": 257
   },
   {
     "full_name": "denizsafak/abogen",
-    "stargazers_count": 2976,
-    "open_issues_count": 13,
-    "forks_count": 151
+    "stargazers_count": 3271,
+    "open_issues_count": 14,
+    "forks_count": 165
   },
   {
     "full_name": "DrewThomasson/VoxNovel",
-    "stargazers_count": 301,
+    "stargazers_count": 302,
     "open_issues_count": 8,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "plusuncold/autiobooks",
@@ -49,134 +163,20 @@
   },
   {
     "full_name": "p0n1/epub_to_audiobook",
-    "stargazers_count": 1701,
+    "stargazers_count": 1705,
     "open_issues_count": 56,
-    "forks_count": 183
+    "forks_count": 185
   },
   {
     "full_name": "DrewThomasson/ebook2audiobook",
-    "stargazers_count": 11155,
-    "open_issues_count": 8,
-    "forks_count": 830
+    "stargazers_count": 11181,
+    "open_issues_count": 6,
+    "forks_count": 833
   },
   {
     "full_name": "steipete/steipete.me",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 5,
     "forks_count": 8
-  },
-  {
-    "full_name": "plutoprint/plutoprint",
-    "stargazers_count": 555,
-    "open_issues_count": 3,
-    "forks_count": 21
-  },
-  {
-    "full_name": "zedless-editor/zedless",
-    "stargazers_count": 1011,
-    "open_issues_count": 7,
-    "forks_count": 17
-  },
-  {
-    "full_name": "openai/agents.md",
-    "stargazers_count": 4111,
-    "open_issues_count": 25,
-    "forks_count": 288
-  },
-  {
-    "full_name": "firecrawl/firecrawl",
-    "stargazers_count": 53102,
-    "open_issues_count": 206,
-    "forks_count": 4565
-  },
-  {
-    "full_name": "TecharoHQ/anubis",
-    "stargazers_count": 12288,
-    "open_issues_count": 194,
-    "forks_count": 340
-  },
-  {
-    "full_name": "panphora/hyperclay-local",
-    "stargazers_count": 68,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "lostintangent/gitdoc",
-    "stargazers_count": 310,
-    "open_issues_count": 19,
-    "forks_count": 34
-  },
-  {
-    "full_name": "lostintangent/codeswing",
-    "stargazers_count": 992,
-    "open_issues_count": 36,
-    "forks_count": 53
-  },
-  {
-    "full_name": "lostintangent/gistpad",
-    "stargazers_count": 1021,
-    "open_issues_count": 13,
-    "forks_count": 73
-  },
-  {
-    "full_name": "lostintangent/gistpad-mcp",
-    "stargazers_count": 156,
-    "open_issues_count": 2,
-    "forks_count": 22
-  },
-  {
-    "full_name": "awslabs/mcp",
-    "stargazers_count": 6109,
-    "open_issues_count": 192,
-    "forks_count": 810
-  },
-  {
-    "full_name": "Foulest/Osprey",
-    "stargazers_count": 130,
-    "open_issues_count": 1,
-    "forks_count": 12
-  },
-  {
-    "full_name": "yokoffing/NextDNS-Config",
-    "stargazers_count": 2498,
-    "open_issues_count": 0,
-    "forks_count": 64
-  },
-  {
-    "full_name": "getAsterisk/gooey",
-    "stargazers_count": 14883,
-    "open_issues_count": 241,
-    "forks_count": 1095
-  },
-  {
-    "full_name": "FFmpeg/FFmpeg",
-    "stargazers_count": 52739,
-    "open_issues_count": 3,
-    "forks_count": 12987
-  },
-  {
-    "full_name": "omnara-ai/omnara",
-    "stargazers_count": 2083,
-    "open_issues_count": 21,
-    "forks_count": 128
-  },
-  {
-    "full_name": "e2b-dev/surf",
-    "stargazers_count": 564,
-    "open_issues_count": 2,
-    "forks_count": 95
-  },
-  {
-    "full_name": "e2b-dev/e2b-cookbook",
-    "stargazers_count": 1102,
-    "open_issues_count": 7,
-    "forks_count": 199
-  },
-  {
-    "full_name": "e2b-dev/E2B",
-    "stargazers_count": 9399,
-    "open_issues_count": 38,
-    "forks_count": 653
   }
 ]
