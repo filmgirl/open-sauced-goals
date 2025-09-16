@@ -1,87 +1,99 @@
 [
   {
+    "full_name": "astral-sh/uv",
+    "stargazers_count": 67597,
+    "open_issues_count": 2181,
+    "forks_count": 2012
+  },
+  {
+    "full_name": "carthage-software/mago",
+    "stargazers_count": 1612,
+    "open_issues_count": 63,
+    "forks_count": 60
+  },
+  {
     "full_name": "mmulet/term.everything",
-    "stargazers_count": 3283,
-    "open_issues_count": 10,
-    "forks_count": 61
+    "stargazers_count": 5108,
+    "open_issues_count": 15,
+    "forks_count": 110
   },
   {
     "full_name": "firebase/genkit",
-    "stargazers_count": 2967,
-    "open_issues_count": 656,
-    "forks_count": 383
+    "stargazers_count": 3569,
+    "open_issues_count": 666,
+    "forks_count": 412
   },
   {
     "full_name": "juhovh/tailguard",
-    "stargazers_count": 314,
+    "stargazers_count": 382,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 13
   },
   {
     "full_name": "vuciv/animal-crossing-llm-mod",
-    "stargazers_count": 195,
-    "open_issues_count": 5,
-    "forks_count": 8
+    "stargazers_count": 241,
+    "open_issues_count": 10,
+    "forks_count": 9
   },
   {
     "full_name": "PicoTrex/Awesome-Nano-Banana-images",
-    "stargazers_count": 5715,
-    "open_issues_count": 5,
-    "forks_count": 597
+    "stargazers_count": 8474,
+    "open_issues_count": 9,
+    "forks_count": 845
   },
   {
     "full_name": "google-gemini/veo-3-nano-banana-gemini-api-quickstart",
-    "stargazers_count": 163,
+    "stargazers_count": 190,
     "open_issues_count": 2,
-    "forks_count": 35
+    "forks_count": 43
   },
   {
     "full_name": "csskit/csskit",
-    "stargazers_count": 104,
+    "stargazers_count": 105,
     "open_issues_count": 10,
     "forks_count": 3
   },
   {
     "full_name": "yoavf/absolutelyright",
-    "stargazers_count": 273,
+    "stargazers_count": 280,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "navidrome/navidrome",
-    "stargazers_count": 16433,
-    "open_issues_count": 211,
-    "forks_count": 1171
+    "stargazers_count": 16501,
+    "open_issues_count": 210,
+    "forks_count": 1176
   },
   {
     "full_name": "facebook/lexical",
-    "stargazers_count": 22062,
-    "open_issues_count": 536,
-    "forks_count": 1991
+    "stargazers_count": 22118,
+    "open_issues_count": 538,
+    "forks_count": 1996
   },
   {
     "full_name": "basecamp/lexxy",
-    "stargazers_count": 617,
-    "open_issues_count": 5,
-    "forks_count": 24
+    "stargazers_count": 656,
+    "open_issues_count": 15,
+    "forks_count": 28
   },
   {
     "full_name": "dagger/container-use",
-    "stargazers_count": 3006,
-    "open_issues_count": 49,
+    "stargazers_count": 3026,
+    "open_issues_count": 53,
     "forks_count": 156
   },
   {
     "full_name": "microsoft/BASIC-M6502",
-    "stargazers_count": 3622,
+    "stargazers_count": 3916,
     "open_issues_count": 0,
-    "forks_count": 365
+    "forks_count": 415
   },
   {
     "full_name": "nukeop/nuclear",
-    "stargazers_count": 15209,
+    "stargazers_count": 15406,
     "open_issues_count": 158,
-    "forks_count": 1175
+    "forks_count": 1178
   },
   {
     "full_name": "1Emilis1/iPATool-EZ",
@@ -91,67 +103,67 @@
   },
   {
     "full_name": "NyaMisty/ipatool-py",
-    "stargazers_count": 655,
+    "stargazers_count": 656,
     "open_issues_count": 33,
     "forks_count": 163
   },
   {
     "full_name": "majd/ipatool",
-    "stargazers_count": 7475,
+    "stargazers_count": 7503,
     "open_issues_count": 25,
-    "forks_count": 609
+    "forks_count": 608
   },
   {
     "full_name": "microsoft/VibeVoice",
-    "stargazers_count": 8612,
-    "open_issues_count": 25,
-    "forks_count": 988
+    "stargazers_count": 8868,
+    "open_issues_count": 24,
+    "forks_count": 1025
   },
   {
     "full_name": "github/spec-kit",
-    "stargazers_count": 15215,
-    "open_issues_count": 103,
-    "forks_count": 1103
+    "stargazers_count": 18547,
+    "open_issues_count": 138,
+    "forks_count": 1434
   },
   {
     "full_name": "little-book-of/linear-algebra",
-    "stargazers_count": 1619,
+    "stargazers_count": 1654,
     "open_issues_count": 3,
-    "forks_count": 47
+    "forks_count": 51
   },
   {
     "full_name": "woheller69/FreeDroidWarn",
-    "stargazers_count": 137,
+    "stargazers_count": 139,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "HermanMartinus/bearlytics",
-    "stargazers_count": 214,
+    "stargazers_count": 215,
     "open_issues_count": 3,
     "forks_count": 7
   },
   {
     "full_name": "Dimillian/IcySky",
-    "stargazers_count": 469,
+    "stargazers_count": 470,
     "open_issues_count": 4,
     "forks_count": 28
   },
   {
     "full_name": "HermanMartinus/bearblog",
-    "stargazers_count": 4078,
+    "stargazers_count": 4099,
     "open_issues_count": 44,
-    "forks_count": 132
+    "forks_count": 133
   },
   {
     "full_name": "simeydotme/pokemon-cards-css",
-    "stargazers_count": 6533,
+    "stargazers_count": 6614,
     "open_issues_count": 5,
-    "forks_count": 624
+    "forks_count": 630
   },
   {
     "full_name": "mattt/iMCP",
-    "stargazers_count": 814,
+    "stargazers_count": 820,
     "open_issues_count": 16,
     "forks_count": 34
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "jj-for-everyone/jj-for-everyone.github.io",
-    "stargazers_count": 120,
+    "stargazers_count": 126,
     "open_issues_count": 2,
-    "forks_count": 10
-  },
-  {
-    "full_name": "spotDL/spotify-downloader",
-    "stargazers_count": 21972,
-    "open_issues_count": 62,
-    "forks_count": 1913
-  },
-  {
-    "full_name": "rcarmo/ground-init",
-    "stargazers_count": 58,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 11
   }
 ]
