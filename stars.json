@@ -1,51 +1,69 @@
 [
   {
+    "full_name": "hiyouga/LLaMA-Factory",
+    "stargazers_count": 58617,
+    "open_issues_count": 679,
+    "forks_count": 7193
+  },
+  {
+    "full_name": "sagesolar/Corpus-of-Taylor-Swift",
+    "stargazers_count": 25,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "imputnet/helium-macos",
+    "stargazers_count": 653,
+    "open_issues_count": 1,
+    "forks_count": 12
+  },
+  {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 67597,
-    "open_issues_count": 2181,
-    "forks_count": 2012
+    "stargazers_count": 67865,
+    "open_issues_count": 2193,
+    "forks_count": 2022
   },
   {
     "full_name": "carthage-software/mago",
-    "stargazers_count": 1612,
-    "open_issues_count": 63,
+    "stargazers_count": 1673,
+    "open_issues_count": 70,
     "forks_count": 60
   },
   {
     "full_name": "mmulet/term.everything",
-    "stargazers_count": 5108,
-    "open_issues_count": 15,
-    "forks_count": 110
+    "stargazers_count": 5603,
+    "open_issues_count": 16,
+    "forks_count": 117
   },
   {
     "full_name": "firebase/genkit",
-    "stargazers_count": 3569,
-    "open_issues_count": 666,
-    "forks_count": 412
+    "stargazers_count": 3742,
+    "open_issues_count": 675,
+    "forks_count": 428
   },
   {
     "full_name": "juhovh/tailguard",
-    "stargazers_count": 382,
+    "stargazers_count": 422,
     "open_issues_count": 0,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "vuciv/animal-crossing-llm-mod",
-    "stargazers_count": 241,
-    "open_issues_count": 10,
-    "forks_count": 9
+    "stargazers_count": 259,
+    "open_issues_count": 7,
+    "forks_count": 11
   },
   {
     "full_name": "PicoTrex/Awesome-Nano-Banana-images",
-    "stargazers_count": 8474,
-    "open_issues_count": 9,
-    "forks_count": 845
+    "stargazers_count": 9408,
+    "open_issues_count": 11,
+    "forks_count": 953
   },
   {
     "full_name": "google-gemini/veo-3-nano-banana-gemini-api-quickstart",
-    "stargazers_count": 190,
+    "stargazers_count": 201,
     "open_issues_count": 2,
-    "forks_count": 43
+    "forks_count": 44
   },
   {
     "full_name": "csskit/csskit",
@@ -55,45 +73,45 @@
   },
   {
     "full_name": "yoavf/absolutelyright",
-    "stargazers_count": 280,
+    "stargazers_count": 285,
     "open_issues_count": 1,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "navidrome/navidrome",
-    "stargazers_count": 16501,
-    "open_issues_count": 210,
-    "forks_count": 1176
+    "stargazers_count": 16545,
+    "open_issues_count": 208,
+    "forks_count": 1178
   },
   {
     "full_name": "facebook/lexical",
-    "stargazers_count": 22118,
-    "open_issues_count": 538,
+    "stargazers_count": 22148,
+    "open_issues_count": 542,
     "forks_count": 1996
   },
   {
     "full_name": "basecamp/lexxy",
-    "stargazers_count": 656,
-    "open_issues_count": 15,
-    "forks_count": 28
+    "stargazers_count": 682,
+    "open_issues_count": 6,
+    "forks_count": 30
   },
   {
     "full_name": "dagger/container-use",
-    "stargazers_count": 3026,
+    "stargazers_count": 3045,
     "open_issues_count": 53,
-    "forks_count": 156
+    "forks_count": 157
   },
   {
     "full_name": "microsoft/BASIC-M6502",
-    "stargazers_count": 3916,
+    "stargazers_count": 4042,
     "open_issues_count": 0,
-    "forks_count": 415
+    "forks_count": 429
   },
   {
     "full_name": "nukeop/nuclear",
-    "stargazers_count": 15406,
+    "stargazers_count": 15595,
     "open_issues_count": 158,
-    "forks_count": 1178
+    "forks_count": 1185
   },
   {
     "full_name": "1Emilis1/iPATool-EZ",
@@ -105,78 +123,60 @@
     "full_name": "NyaMisty/ipatool-py",
     "stargazers_count": 656,
     "open_issues_count": 33,
-    "forks_count": 163
+    "forks_count": 164
   },
   {
     "full_name": "majd/ipatool",
-    "stargazers_count": 7503,
-    "open_issues_count": 25,
-    "forks_count": 608
+    "stargazers_count": 7517,
+    "open_issues_count": 27,
+    "forks_count": 607
   },
   {
     "full_name": "microsoft/VibeVoice",
-    "stargazers_count": 8868,
-    "open_issues_count": 24,
-    "forks_count": 1025
+    "stargazers_count": 8992,
+    "open_issues_count": 25,
+    "forks_count": 1049
   },
   {
     "full_name": "github/spec-kit",
-    "stargazers_count": 18547,
-    "open_issues_count": 138,
-    "forks_count": 1434
+    "stargazers_count": 21469,
+    "open_issues_count": 180,
+    "forks_count": 1686
   },
   {
     "full_name": "little-book-of/linear-algebra",
-    "stargazers_count": 1654,
+    "stargazers_count": 1667,
     "open_issues_count": 3,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "woheller69/FreeDroidWarn",
-    "stargazers_count": 139,
+    "stargazers_count": 141,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "HermanMartinus/bearlytics",
-    "stargazers_count": 215,
+    "stargazers_count": 218,
     "open_issues_count": 3,
     "forks_count": 7
   },
   {
     "full_name": "Dimillian/IcySky",
-    "stargazers_count": 470,
+    "stargazers_count": 472,
     "open_issues_count": 4,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "HermanMartinus/bearblog",
-    "stargazers_count": 4099,
-    "open_issues_count": 44,
+    "stargazers_count": 4117,
+    "open_issues_count": 46,
     "forks_count": 133
   },
   {
     "full_name": "simeydotme/pokemon-cards-css",
-    "stargazers_count": 6614,
+    "stargazers_count": 6707,
     "open_issues_count": 5,
-    "forks_count": 630
-  },
-  {
-    "full_name": "mattt/iMCP",
-    "stargazers_count": 820,
-    "open_issues_count": 16,
-    "forks_count": 34
-  },
-  {
-    "full_name": "mattt/emcee",
-    "stargazers_count": 295,
-    "open_issues_count": 0,
-    "forks_count": 21
-  },
-  {
-    "full_name": "jj-for-everyone/jj-for-everyone.github.io",
-    "stargazers_count": 126,
-    "open_issues_count": 2,
-    "forks_count": 11
+    "forks_count": 632
   }
 ]
