@@ -1,62 +1,68 @@
 [
   {
+    "full_name": "landley/toybox",
+    "stargazers_count": 2864,
+    "open_issues_count": 117,
+    "forks_count": 365
+  },
+  {
     "full_name": "anyrun-org/anyrun",
-    "stargazers_count": 977,
-    "open_issues_count": 64,
+    "stargazers_count": 984,
+    "open_issues_count": 65,
     "forks_count": 74
   },
   {
     "full_name": "abenz1267/walker",
-    "stargazers_count": 1554,
-    "open_issues_count": 12,
-    "forks_count": 60
+    "stargazers_count": 1586,
+    "open_issues_count": 10,
+    "forks_count": 63
   },
   {
     "full_name": "vicinaehq/vicinae",
-    "stargazers_count": 2692,
-    "open_issues_count": 45,
-    "forks_count": 61
+    "stargazers_count": 2800,
+    "open_issues_count": 46,
+    "forks_count": 65
   },
   {
     "full_name": "andmpel/macos-all-in-one-update-script",
-    "stargazers_count": 81,
+    "stargazers_count": 83,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "github/copilot-cli",
-    "stargazers_count": 2803,
-    "open_issues_count": 113,
-    "forks_count": 123
+    "stargazers_count": 3094,
+    "open_issues_count": 140,
+    "forks_count": 143
   },
   {
     "full_name": "trueadm/ripple",
-    "stargazers_count": 5473,
-    "open_issues_count": 23,
-    "forks_count": 213
+    "stargazers_count": 5543,
+    "open_issues_count": 22,
+    "forks_count": 218
   },
   {
     "full_name": "JerryZLiu/Dayflow",
-    "stargazers_count": 2918,
-    "open_issues_count": 9,
-    "forks_count": 111
+    "stargazers_count": 3106,
+    "open_issues_count": 13,
+    "forks_count": 129
   },
   {
     "full_name": "humanlayer/advanced-context-engineering-for-coding-agents",
-    "stargazers_count": 702,
+    "stargazers_count": 730,
     "open_issues_count": 2,
-    "forks_count": 52
+    "forks_count": 55
   },
   {
     "full_name": "capnproto/capnproto",
-    "stargazers_count": 12534,
+    "stargazers_count": 12535,
     "open_issues_count": 276,
-    "forks_count": 984
+    "forks_count": 985
   },
   {
     "full_name": "cloudflare/capnweb",
-    "stargazers_count": 2864,
-    "open_issues_count": 25,
+    "stargazers_count": 2912,
+    "open_issues_count": 26,
     "forks_count": 87
   },
   {
@@ -67,55 +73,55 @@
   },
   {
     "full_name": "mhogomchungu/media-downloader",
-    "stargazers_count": 3022,
-    "open_issues_count": 14,
-    "forks_count": 218
+    "stargazers_count": 3313,
+    "open_issues_count": 16,
+    "forks_count": 230
   },
   {
     "full_name": "hiyouga/LLaMA-Factory",
-    "stargazers_count": 59636,
-    "open_issues_count": 676,
-    "forks_count": 7306
+    "stargazers_count": 59749,
+    "open_issues_count": 677,
+    "forks_count": 7323
   },
   {
     "full_name": "sagesolar/Corpus-of-Taylor-Swift",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "imputnet/helium-macos",
-    "stargazers_count": 781,
-    "open_issues_count": 2,
+    "stargazers_count": 791,
+    "open_issues_count": 5,
     "forks_count": 17
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 68928,
-    "open_issues_count": 2243,
-    "forks_count": 2070
+    "stargazers_count": 69233,
+    "open_issues_count": 2258,
+    "forks_count": 2080
   },
   {
     "full_name": "carthage-software/mago",
-    "stargazers_count": 1764,
-    "open_issues_count": 79,
-    "forks_count": 63
+    "stargazers_count": 1832,
+    "open_issues_count": 85,
+    "forks_count": 68
   },
   {
     "full_name": "mmulet/term.everything",
-    "stargazers_count": 6157,
+    "stargazers_count": 6225,
     "open_issues_count": 18,
-    "forks_count": 133
+    "forks_count": 134
   },
   {
     "full_name": "firebase/genkit",
-    "stargazers_count": 4259,
-    "open_issues_count": 665,
-    "forks_count": 477
+    "stargazers_count": 4391,
+    "open_issues_count": 670,
+    "forks_count": 491
   },
   {
     "full_name": "juhovh/tailguard",
-    "stargazers_count": 434,
+    "stargazers_count": 436,
     "open_issues_count": 0,
     "forks_count": 15
   },
@@ -127,56 +133,50 @@
   },
   {
     "full_name": "PicoTrex/Awesome-Nano-Banana-images",
-    "stargazers_count": 13582,
+    "stargazers_count": 14081,
     "open_issues_count": 11,
-    "forks_count": 1394
+    "forks_count": 1464
   },
   {
     "full_name": "google-gemini/veo-3-nano-banana-gemini-api-quickstart",
-    "stargazers_count": 224,
+    "stargazers_count": 227,
     "open_issues_count": 3,
-    "forks_count": 52
+    "forks_count": 55
   },
   {
     "full_name": "csskit/csskit",
     "stargazers_count": 109,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 3
   },
   {
     "full_name": "yoavf/absolutelyright",
-    "stargazers_count": 295,
+    "stargazers_count": 297,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "navidrome/navidrome",
-    "stargazers_count": 16742,
-    "open_issues_count": 215,
-    "forks_count": 1190
+    "stargazers_count": 16810,
+    "open_issues_count": 217,
+    "forks_count": 1193
   },
   {
     "full_name": "facebook/lexical",
-    "stargazers_count": 22241,
+    "stargazers_count": 22262,
     "open_issues_count": 542,
-    "forks_count": 2013
+    "forks_count": 2015
   },
   {
     "full_name": "basecamp/lexxy",
-    "stargazers_count": 722,
-    "open_issues_count": 17,
-    "forks_count": 39
+    "stargazers_count": 733,
+    "open_issues_count": 24,
+    "forks_count": 41
   },
   {
     "full_name": "dagger/container-use",
-    "stargazers_count": 3109,
-    "open_issues_count": 57,
-    "forks_count": 159
-  },
-  {
-    "full_name": "microsoft/BASIC-M6502",
-    "stargazers_count": 4171,
-    "open_issues_count": 0,
-    "forks_count": 458
+    "stargazers_count": 3115,
+    "open_issues_count": 58,
+    "forks_count": 158
   }
 ]
