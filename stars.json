@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "jorycz/iMac-5K-display-convert",
+    "stargazers_count": 8,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "imputnet/helium",
-    "stargazers_count": 6103,
-    "open_issues_count": 113,
-    "forks_count": 96
+    "stargazers_count": 6207,
+    "open_issues_count": 112,
+    "forks_count": 98
   },
   {
     "full_name": "deepseek-ai/DeepSeek-OCR",
-    "stargazers_count": 17939,
-    "open_issues_count": 143,
-    "forks_count": 1167
+    "stargazers_count": 18746,
+    "open_issues_count": 173,
+    "forks_count": 1259
   },
   {
     "full_name": "MikeBeas/switchblade",
@@ -19,9 +25,9 @@
   },
   {
     "full_name": "ente-io/ente",
-    "stargazers_count": 22492,
-    "open_issues_count": 445,
-    "forks_count": 1302
+    "stargazers_count": 22531,
+    "open_issues_count": 451,
+    "forks_count": 1308
   },
   {
     "full_name": "Selta/goodbye-github",
@@ -31,33 +37,33 @@
   },
   {
     "full_name": "webmachinelearning/webmcp",
-    "stargazers_count": 313,
+    "stargazers_count": 319,
     "open_issues_count": 25,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "deskflow/deskflow",
-    "stargazers_count": 21111,
-    "open_issues_count": 236,
-    "forks_count": 4247
+    "stargazers_count": 21179,
+    "open_issues_count": 212,
+    "forks_count": 4252
   },
   {
     "full_name": "cloudflare/sandbox-sdk",
-    "stargazers_count": 442,
-    "open_issues_count": 20,
-    "forks_count": 28
+    "stargazers_count": 450,
+    "open_issues_count": 23,
+    "forks_count": 32
   },
   {
     "full_name": "synthetic-lab/octofriend",
-    "stargazers_count": 706,
+    "stargazers_count": 753,
     "open_issues_count": 12,
-    "forks_count": 54
+    "forks_count": 57
   },
   {
     "full_name": "tkafka/detect-electron-apps-on-mac",
-    "stargazers_count": 137,
-    "open_issues_count": 0,
-    "forks_count": 5
+    "stargazers_count": 143,
+    "open_issues_count": 1,
+    "forks_count": 7
   },
   {
     "full_name": "efck-chat-keyboard/efck",
@@ -67,21 +73,21 @@
   },
   {
     "full_name": "outline/outline",
-    "stargazers_count": 35607,
-    "open_issues_count": 87,
-    "forks_count": 2921
+    "stargazers_count": 35666,
+    "open_issues_count": 89,
+    "forks_count": 2930
   },
   {
     "full_name": "karpathy/nanochat",
-    "stargazers_count": 33617,
-    "open_issues_count": 105,
-    "forks_count": 3717
+    "stargazers_count": 34580,
+    "open_issues_count": 74,
+    "forks_count": 3879
   },
   {
     "full_name": "manaflow-ai/cmux",
-    "stargazers_count": 169,
-    "open_issues_count": 71,
-    "forks_count": 15
+    "stargazers_count": 236,
+    "open_issues_count": 75,
+    "forks_count": 16
   },
   {
     "full_name": "fspoettel/linkding-on-fly",
@@ -103,56 +109,56 @@
   },
   {
     "full_name": "yang991178/fluent-reader",
-    "stargazers_count": 8734,
+    "stargazers_count": 8738,
     "open_issues_count": 381,
     "forks_count": 483
   },
   {
     "full_name": "bepaald/signalbackup-tools",
-    "stargazers_count": 1160,
-    "open_issues_count": 6,
-    "forks_count": 57
+    "stargazers_count": 1165,
+    "open_issues_count": 7,
+    "forks_count": 58
   },
   {
     "full_name": "carderne/signal-export",
-    "stargazers_count": 651,
-    "open_issues_count": 11,
-    "forks_count": 72
+    "stargazers_count": 652,
+    "open_issues_count": 12,
+    "forks_count": 73
   },
   {
     "full_name": "ChromeDevTools/chrome-devtools-mcp",
-    "stargazers_count": 12918,
-    "open_issues_count": 44,
-    "forks_count": 754
+    "stargazers_count": 13325,
+    "open_issues_count": 43,
+    "forks_count": 786
   },
   {
     "full_name": "everywall/ladder",
-    "stargazers_count": 5980,
+    "stargazers_count": 5986,
     "open_issues_count": 24,
-    "forks_count": 267
+    "forks_count": 269
   },
   {
     "full_name": "landley/toybox",
-    "stargazers_count": 2919,
-    "open_issues_count": 122,
-    "forks_count": 371
+    "stargazers_count": 2942,
+    "open_issues_count": 121,
+    "forks_count": 373
   },
   {
     "full_name": "anyrun-org/anyrun",
-    "stargazers_count": 1024,
+    "stargazers_count": 1029,
     "open_issues_count": 58,
     "forks_count": 76
   },
   {
     "full_name": "abenz1267/walker",
-    "stargazers_count": 1961,
-    "open_issues_count": 12,
-    "forks_count": 72
+    "stargazers_count": 1983,
+    "open_issues_count": 17,
+    "forks_count": 74
   },
   {
     "full_name": "vicinaehq/vicinae",
-    "stargazers_count": 3305,
-    "open_issues_count": 64,
+    "stargazers_count": 3381,
+    "open_issues_count": 72,
     "forks_count": 76
   },
   {
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "github/copilot-cli",
-    "stargazers_count": 4156,
-    "open_issues_count": 228,
-    "forks_count": 236
+    "stargazers_count": 4329,
+    "open_issues_count": 236,
+    "forks_count": 268
   },
   {
     "full_name": "trueadm/ripple",
-    "stargazers_count": 5755,
-    "open_issues_count": 21,
-    "forks_count": 227
-  },
-  {
-    "full_name": "JerryZLiu/Dayflow",
-    "stargazers_count": 3716,
-    "open_issues_count": 13,
-    "forks_count": 153
+    "stargazers_count": 5762,
+    "open_issues_count": 18,
+    "forks_count": 226
   }
 ]
