@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "kavishdevar/librepods",
+    "stargazers_count": 6421,
+    "open_issues_count": 49,
+    "forks_count": 122
+  },
+  {
+    "full_name": "permissionlesstech/bitchat",
+    "stargazers_count": 23331,
+    "open_issues_count": 219,
+    "forks_count": 2165
+  },
+  {
     "full_name": "wesbos/sticker-dream",
-    "stargazers_count": 416,
+    "stargazers_count": 439,
     "open_issues_count": 3,
-    "forks_count": 55
+    "forks_count": 61
   },
   {
     "full_name": "grobertson/Rosey-Robot",
@@ -25,13 +37,13 @@
   },
   {
     "full_name": "sayyadirfanali/Myna",
-    "stargazers_count": 1053,
-    "open_issues_count": 7,
-    "forks_count": 10
+    "stargazers_count": 1150,
+    "open_issues_count": 5,
+    "forks_count": 12
   },
   {
     "full_name": "openpcc/openpcc",
-    "stargazers_count": 819,
+    "stargazers_count": 848,
     "open_issues_count": 0,
     "forks_count": 25
   },
@@ -43,27 +55,27 @@
   },
   {
     "full_name": "useplunk/plunk",
-    "stargazers_count": 4652,
+    "stargazers_count": 4665,
     "open_issues_count": 50,
-    "forks_count": 276
+    "forks_count": 277
   },
   {
     "full_name": "Gioman101/FlipperAmiibo",
-    "stargazers_count": 3369,
+    "stargazers_count": 3373,
     "open_issues_count": 11,
     "forks_count": 277
   },
   {
     "full_name": "UberGuidoZ/Flipper",
-    "stargazers_count": 16162,
+    "stargazers_count": 16171,
     "open_issues_count": 26,
-    "forks_count": 3651
+    "forks_count": 3656
   },
   {
     "full_name": "the-ora/browser",
-    "stargazers_count": 1090,
+    "stargazers_count": 1094,
     "open_issues_count": 52,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "xsalazar/wow-emoji",
@@ -74,7 +86,7 @@
   {
     "full_name": "mikeeeyy04/GitShift",
     "stargazers_count": 13,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
@@ -91,9 +103,9 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 77915,
+    "stargazers_count": 77975,
     "open_issues_count": 54,
-    "forks_count": 8467
+    "forks_count": 8475
   },
   {
     "full_name": "jorycz/iMac-5K-display-convert",
@@ -103,15 +115,15 @@
   },
   {
     "full_name": "imputnet/helium",
-    "stargazers_count": 6792,
-    "open_issues_count": 134,
-    "forks_count": 118
+    "stargazers_count": 7116,
+    "open_issues_count": 139,
+    "forks_count": 126
   },
   {
     "full_name": "deepseek-ai/DeepSeek-OCR",
-    "stargazers_count": 20391,
-    "open_issues_count": 231,
-    "forks_count": 1654
+    "stargazers_count": 20583,
+    "open_issues_count": 240,
+    "forks_count": 1776
   },
   {
     "full_name": "MikeBeas/switchblade",
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "ente-io/ente",
-    "stargazers_count": 22773,
-    "open_issues_count": 447,
-    "forks_count": 1321
+    "stargazers_count": 22838,
+    "open_issues_count": 457,
+    "forks_count": 1327
   },
   {
     "full_name": "Selta/goodbye-github",
@@ -133,50 +145,38 @@
   },
   {
     "full_name": "webmachinelearning/webmcp",
-    "stargazers_count": 336,
-    "open_issues_count": 31,
+    "stargazers_count": 350,
+    "open_issues_count": 32,
     "forks_count": 18
   },
   {
     "full_name": "deskflow/deskflow",
-    "stargazers_count": 21397,
-    "open_issues_count": 216,
-    "forks_count": 4274
+    "stargazers_count": 21474,
+    "open_issues_count": 205,
+    "forks_count": 4278
   },
   {
     "full_name": "cloudflare/sandbox-sdk",
-    "stargazers_count": 476,
-    "open_issues_count": 23,
+    "stargazers_count": 482,
+    "open_issues_count": 25,
     "forks_count": 36
   },
   {
     "full_name": "synthetic-lab/octofriend",
-    "stargazers_count": 770,
+    "stargazers_count": 777,
     "open_issues_count": 17,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "tkafka/detect-electron-apps-on-mac",
-    "stargazers_count": 163,
+    "stargazers_count": 165,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "efck-chat-keyboard/efck",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 15,
     "forks_count": 3
-  },
-  {
-    "full_name": "outline/outline",
-    "stargazers_count": 35918,
-    "open_issues_count": 87,
-    "forks_count": 2944
-  },
-  {
-    "full_name": "karpathy/nanochat",
-    "stargazers_count": 36639,
-    "open_issues_count": 46,
-    "forks_count": 4408
   }
 ]
