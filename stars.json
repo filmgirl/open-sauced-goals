@@ -1,111 +1,117 @@
 [
   {
+    "full_name": "daniel-j/send2ereader",
+    "stargazers_count": 848,
+    "open_issues_count": 31,
+    "forks_count": 136
+  },
+  {
     "full_name": "satnaing/astro-paper",
-    "stargazers_count": 4113,
+    "stargazers_count": 4133,
     "open_issues_count": 36,
-    "forks_count": 857
+    "forks_count": 861
   },
   {
     "full_name": "pierceboggan/primer",
-    "stargazers_count": 181,
-    "open_issues_count": 3,
-    "forks_count": 9
+    "stargazers_count": 477,
+    "open_issues_count": 6,
+    "forks_count": 36
   },
   {
     "full_name": "steveyegge/beads",
-    "stargazers_count": 13611,
-    "open_issues_count": 156,
-    "forks_count": 817
+    "stargazers_count": 14409,
+    "open_issues_count": 188,
+    "forks_count": 858
   },
   {
     "full_name": "mixmark-io/turndown",
-    "stargazers_count": 10723,
+    "stargazers_count": 10737,
     "open_issues_count": 147,
-    "forks_count": 959
+    "forks_count": 960
   },
   {
     "full_name": "Pickle-Pixel/netflix-force-4k",
-    "stargazers_count": 64,
-    "open_issues_count": 0,
-    "forks_count": 3
+    "stargazers_count": 80,
+    "open_issues_count": 1,
+    "forks_count": 5
   },
   {
     "full_name": "Godzilla675/clip-js-copilot",
-    "stargazers_count": 4,
-    "open_issues_count": 1,
+    "stargazers_count": 7,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "steveyegge/gastown",
-    "stargazers_count": 6631,
-    "open_issues_count": 283,
-    "forks_count": 565
+    "stargazers_count": 7771,
+    "open_issues_count": 338,
+    "forks_count": 616
   },
   {
     "full_name": "Arthur742Ramos/repo-bootcamp",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
+    "stargazers_count": 6,
+    "open_issues_count": 7,
     "forks_count": 1
   },
   {
     "full_name": "smestern/treepilot",
-    "stargazers_count": 9,
+    "stargazers_count": 30,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 3
   },
   {
     "full_name": "SchwarziLukas/braindump-butler",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "iwangbowen/cyber-chess-roast",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "adirh3/copilot-discord-bot",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "kasuken/vscode-shipit",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ivproduced/SYSAdmin-CoPilot",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "brenbuilds1/copilot-app-factory",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Hunter-Thompson/stardew-mcp",
     "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
+    "full_name": "iwangbowen/cyber-chess-roast",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "adirh3/copilot-discord-bot",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "kasuken/vscode-shipit",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ivproduced/SYSAdmin-CoPilot",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "brenbuilds1/copilot-app-factory",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Hunter-Thompson/stardew-mcp",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "HoppouAI/OctoBrowser",
-    "stargazers_count": 11,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "arrowtype/recursive",
-    "stargazers_count": 3698,
+    "stargazers_count": 3700,
     "open_issues_count": 39,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "BoscoDomingo/best-coding-fonts",
@@ -115,68 +121,62 @@
   },
   {
     "full_name": "shaunsingh/SFMono-Nerd-Font-Ligaturized",
-    "stargazers_count": 1004,
+    "stargazers_count": 1003,
     "open_issues_count": 6,
     "forks_count": 69
   },
   {
     "full_name": "tldev/posturr",
-    "stargazers_count": 1581,
-    "open_issues_count": 4,
-    "forks_count": 36
+    "stargazers_count": 1768,
+    "open_issues_count": 3,
+    "forks_count": 42
   },
   {
-    "full_name": "moltbot/moltbot",
-    "stargazers_count": 104913,
-    "open_issues_count": 1215,
-    "forks_count": 14729
+    "full_name": "openclaw/openclaw",
+    "stargazers_count": 152144,
+    "open_issues_count": 2216,
+    "forks_count": 23183
   },
   {
     "full_name": "raine/Lolgato",
-    "stargazers_count": 114,
+    "stargazers_count": 119,
     "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "cryptocode/terminal-doom",
-    "stargazers_count": 376,
+    "stargazers_count": 378,
     "open_issues_count": 2,
     "forks_count": 15
   },
   {
     "full_name": "github/copilot-sdk",
-    "stargazers_count": 6319,
-    "open_issues_count": 82,
-    "forks_count": 683
+    "stargazers_count": 6646,
+    "open_issues_count": 99,
+    "forks_count": 754
   },
   {
     "full_name": "lukilabs/craft-agents-oss",
-    "stargazers_count": 1901,
-    "open_issues_count": 48,
-    "forks_count": 266
+    "stargazers_count": 2197,
+    "open_issues_count": 74,
+    "forks_count": 310
   },
   {
     "full_name": "badlogic/pi-mono",
-    "stargazers_count": 3481,
-    "open_issues_count": 12,
-    "forks_count": 411
+    "stargazers_count": 5616,
+    "open_issues_count": 7,
+    "forks_count": 581
   },
   {
     "full_name": "cjpais/Handy",
-    "stargazers_count": 13614,
-    "open_issues_count": 92,
-    "forks_count": 904
+    "stargazers_count": 13910,
+    "open_issues_count": 90,
+    "forks_count": 930
   },
   {
     "full_name": "er-bharat/Win8DE",
-    "stargazers_count": 448,
+    "stargazers_count": 457,
     "open_issues_count": 3,
     "forks_count": 9
-  },
-  {
-    "full_name": "torvalds/AudioNoise",
-    "stargazers_count": 4145,
-    "open_issues_count": 28,
-    "forks_count": 194
   }
 ]
