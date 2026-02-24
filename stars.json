@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "cpcloud/micasa",
+    "stargazers_count": 868,
+    "open_issues_count": 51,
+    "forks_count": 29
+  },
+  {
     "full_name": "backnotprop/plannotator",
-    "stargazers_count": 2050,
-    "open_issues_count": 36,
-    "forks_count": 126
+    "stargazers_count": 2175,
+    "open_issues_count": 35,
+    "forks_count": 128
   },
   {
     "full_name": "edit2/LowEndStorage",
@@ -13,67 +19,67 @@
   },
   {
     "full_name": "cassidoo/fancygist",
-    "stargazers_count": 39,
-    "open_issues_count": 14,
-    "forks_count": 3
+    "stargazers_count": 49,
+    "open_issues_count": 17,
+    "forks_count": 5
   },
   {
     "full_name": "nearai/ironclaw",
-    "stargazers_count": 2432,
-    "open_issues_count": 109,
-    "forks_count": 215
+    "stargazers_count": 3225,
+    "open_issues_count": 131,
+    "forks_count": 344
   },
   {
     "full_name": "rasmuslos/ShelfPlayer",
-    "stargazers_count": 531,
-    "open_issues_count": 90,
+    "stargazers_count": 533,
+    "open_issues_count": 85,
     "forks_count": 58
   },
   {
     "full_name": "papercomputeco/tapes",
-    "stargazers_count": 118,
-    "open_issues_count": 15,
-    "forks_count": 8
+    "stargazers_count": 135,
+    "open_issues_count": 19,
+    "forks_count": 11
   },
   {
     "full_name": "entireio/cli",
-    "stargazers_count": 2753,
-    "open_issues_count": 100,
-    "forks_count": 184
+    "stargazers_count": 2937,
+    "open_issues_count": 102,
+    "forks_count": 196
   },
   {
     "full_name": "daniel-j/send2ereader",
-    "stargazers_count": 869,
+    "stargazers_count": 876,
     "open_issues_count": 31,
     "forks_count": 141
   },
   {
     "full_name": "satnaing/astro-paper",
-    "stargazers_count": 4226,
+    "stargazers_count": 4245,
     "open_issues_count": 38,
-    "forks_count": 877
+    "forks_count": 880
   },
   {
     "full_name": "pierceboggan/primer",
-    "stargazers_count": 617,
-    "open_issues_count": 8,
-    "forks_count": 40
+    "stargazers_count": 621,
+    "open_issues_count": 9,
+    "forks_count": 41
   },
   {
     "full_name": "steveyegge/beads",
-    "stargazers_count": 16759,
-    "open_issues_count": 248,
-    "forks_count": 1021
+    "stargazers_count": 17058,
+    "open_issues_count": 95,
+    "forks_count": 1057
   },
   {
     "full_name": "mixmark-io/turndown",
-    "stargazers_count": 10813,
+    "stargazers_count": 10836,
     "open_issues_count": 148,
     "forks_count": 963
   },
   {
     "full_name": "Pickle-Pixel/netflix-force-4k",
-    "stargazers_count": 93,
+    "stargazers_count": 97,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -85,73 +91,73 @@
   },
   {
     "full_name": "steveyegge/gastown",
-    "stargazers_count": 9805,
-    "open_issues_count": 81,
-    "forks_count": 759
+    "stargazers_count": 10136,
+    "open_issues_count": 68,
+    "forks_count": 803
   },
   {
     "full_name": "Arthur742Ramos/repo-bootcamp",
-    "stargazers_count": 22,
+    "stargazers_count": 27,
     "open_issues_count": 7,
     "forks_count": 1
   },
   {
     "full_name": "smestern/treepilot",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "SchwarziLukas/braindump-butler",
-    "stargazers_count": 18,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "iwangbowen/cyber-chess-roast",
-    "stargazers_count": 15,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "adirh3/copilot-discord-bot",
-    "stargazers_count": 14,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "kasuken/vscode-shipit",
     "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
+    "full_name": "iwangbowen/cyber-chess-roast",
+    "stargazers_count": 17,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "adirh3/copilot-discord-bot",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "kasuken/vscode-shipit",
+    "stargazers_count": 22,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "ivproduced/SYSAdmin-CoPilot",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "brenbuilds1/copilot-app-factory",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Hunter-Thompson/stardew-mcp",
-    "stargazers_count": 19,
+    "stargazers_count": 23,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "HoppouAI/OctoBrowser",
-    "stargazers_count": 33,
+    "stargazers_count": 35,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "arrowtype/recursive",
-    "stargazers_count": 3720,
+    "stargazers_count": 3723,
     "open_issues_count": 39,
     "forks_count": 59
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "shaunsingh/SFMono-Nerd-Font-Ligaturized",
-    "stargazers_count": 1005,
+    "stargazers_count": 1007,
     "open_issues_count": 6,
     "forks_count": 69
   },
   {
     "full_name": "tldev/dorso",
-    "stargazers_count": 2018,
+    "stargazers_count": 2031,
     "open_issues_count": 8,
     "forks_count": 52
-  },
-  {
-    "full_name": "openclaw/openclaw",
-    "stargazers_count": 212041,
-    "open_issues_count": 8292,
-    "forks_count": 39341
   }
 ]
