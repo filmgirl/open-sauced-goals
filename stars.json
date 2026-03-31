@@ -1,39 +1,111 @@
 [
   {
+    "full_name": "coast-guard/coasts",
+    "stargazers_count": 202,
+    "open_issues_count": 19,
+    "forks_count": 12
+  },
+  {
+    "full_name": "luongnv89/claude-howto",
+    "stargazers_count": 10091,
+    "open_issues_count": 13,
+    "forks_count": 1004
+  },
+  {
+    "full_name": "onecli/onecli",
+    "stargazers_count": 1536,
+    "open_issues_count": 9,
+    "forks_count": 66
+  },
+  {
+    "full_name": "brave/adblock-rust",
+    "stargazers_count": 2259,
+    "open_issues_count": 76,
+    "forks_count": 199
+  },
+  {
+    "full_name": "austin-weeks/miasma",
+    "stargazers_count": 692,
+    "open_issues_count": 6,
+    "forks_count": 12
+  },
+  {
+    "full_name": "supabitapp/supacode",
+    "stargazers_count": 631,
+    "open_issues_count": 15,
+    "forks_count": 66
+  },
+  {
+    "full_name": "sidequery/ghostree",
+    "stargazers_count": 126,
+    "open_issues_count": 7,
+    "forks_count": 6
+  },
+  {
+    "full_name": "max-sixty/worktrunk",
+    "stargazers_count": 4020,
+    "open_issues_count": 34,
+    "forks_count": 129
+  },
+  {
+    "full_name": "neurosnap/zmx",
+    "stargazers_count": 1160,
+    "open_issues_count": 19,
+    "forks_count": 54
+  },
+  {
+    "full_name": "Uzaaft/awesome-libghostty",
+    "stargazers_count": 385,
+    "open_issues_count": 0,
+    "forks_count": 17
+  },
+  {
+    "full_name": "wavetermdev/waveterm",
+    "stargazers_count": 18994,
+    "open_issues_count": 382,
+    "forks_count": 867
+  },
+  {
+    "full_name": "dmars8047/handymkv",
+    "stargazers_count": 97,
+    "open_issues_count": 4,
+    "forks_count": 6
+  },
+  {
     "full_name": "zsviczian/obsidian-excalidraw-plugin",
-    "stargazers_count": 6496,
-    "open_issues_count": 957,
-    "forks_count": 402
+    "stargazers_count": 6542,
+    "open_issues_count": 958,
+    "forks_count": 406
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 119636,
-    "open_issues_count": 2886,
-    "forks_count": 13017
+    "stargazers_count": 119876,
+    "open_issues_count": 2915,
+    "forks_count": 13056
   },
   {
     "full_name": "garrytan/gstack",
-    "stargazers_count": 50148,
-    "open_issues_count": 214,
-    "forks_count": 6406
+    "stargazers_count": 57987,
+    "open_issues_count": 290,
+    "forks_count": 7564
   },
   {
     "full_name": "royalbhati/HopTab",
-    "stargazers_count": 237,
-    "open_issues_count": 3,
-    "forks_count": 2
+    "stargazers_count": 247,
+    "open_issues_count": 6,
+    "forks_count": 3
   },
   {
     "full_name": "MrKai77/Loop",
-    "stargazers_count": 10288,
-    "open_issues_count": 44,
-    "forks_count": 219
+    "stargazers_count": 10303,
+    "open_issues_count": 43,
+    "forks_count": 218
   },
   {
     "full_name": "raskrebs/sonar",
-    "stargazers_count": 747,
-    "open_issues_count": 6,
-    "forks_count": 22
+    "stargazers_count": 846,
+    "open_issues_count": 9,
+    "forks_count": 24
   },
   {
     "full_name": "mostpinkest/pam-watchid",
@@ -43,140 +115,68 @@
   },
   {
     "full_name": "danveloper/flash-moe",
-    "stargazers_count": 2059,
-    "open_issues_count": 12,
-    "forks_count": 203
+    "stargazers_count": 2581,
+    "open_issues_count": 15,
+    "forks_count": 264
   },
   {
     "full_name": "karpathy/jobs",
-    "stargazers_count": 1230,
-    "open_issues_count": 11,
-    "forks_count": 258
+    "stargazers_count": 1279,
+    "open_issues_count": 12,
+    "forks_count": 276
   },
   {
     "full_name": "OpenJelly/Open-Jellycuts",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 14,
     "forks_count": 11
   },
   {
     "full_name": "OpenJelly/Open-Jellycore",
-    "stargazers_count": 110,
+    "stargazers_count": 111,
     "open_issues_count": 24,
     "forks_count": 13
   },
   {
     "full_name": "NVIDIA/NemoClaw",
-    "stargazers_count": 17073,
-    "open_issues_count": 443,
-    "forks_count": 1918
+    "stargazers_count": 17820,
+    "open_issues_count": 451,
+    "forks_count": 2054
   },
   {
     "full_name": "RunanywhereAI/RCLI",
-    "stargazers_count": 1316,
-    "open_issues_count": 7,
-    "forks_count": 67
+    "stargazers_count": 1355,
+    "open_issues_count": 8,
+    "forks_count": 69
   },
   {
     "full_name": "ozemin/lazycut",
-    "stargazers_count": 737,
-    "open_issues_count": 6,
-    "forks_count": 23
+    "stargazers_count": 802,
+    "open_issues_count": 5,
+    "forks_count": 24
   },
   {
     "full_name": "vercel-labs/agent-browser",
-    "stargazers_count": 25071,
-    "open_issues_count": 319,
-    "forks_count": 1508
+    "stargazers_count": 25816,
+    "open_issues_count": 345,
+    "forks_count": 1564
   },
   {
     "full_name": "xdevplatform/playground",
     "stargazers_count": 79,
     "open_issues_count": 3,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "theredsix/agent-browser-protocol",
-    "stargazers_count": 420,
+    "stargazers_count": 425,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "UdaraJay/Stats",
     "stargazers_count": 313,
     "open_issues_count": 4,
     "forks_count": 20
-  },
-  {
-    "full_name": "travisvn/stop-tahoe-update",
-    "stargazers_count": 471,
-    "open_issues_count": 8,
-    "forks_count": 36
-  },
-  {
-    "full_name": "imrajyavardhan12/spectre-ghostty-config",
-    "stargazers_count": 136,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "googleworkspace/cli",
-    "stargazers_count": 22674,
-    "open_issues_count": 48,
-    "forks_count": 1090
-  },
-  {
-    "full_name": "obra/superpowers",
-    "stargazers_count": 115997,
-    "open_issues_count": 166,
-    "forks_count": 9300
-  },
-  {
-    "full_name": "taigrr/spank",
-    "stargazers_count": 3579,
-    "open_issues_count": 1,
-    "forks_count": 155
-  },
-  {
-    "full_name": "hadnet/vscode-islands-dark-settings",
-    "stargazers_count": 201,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "vercel-labs/just-bash",
-    "stargazers_count": 2300,
-    "open_issues_count": 39,
-    "forks_count": 139
-  },
-  {
-    "full_name": "symless/synergy",
-    "stargazers_count": 208,
-    "open_issues_count": 7,
-    "forks_count": 34
-  },
-  {
-    "full_name": "ShadowLibraries/shadowlibraries.github.io",
-    "stargazers_count": 143,
-    "open_issues_count": 1,
-    "forks_count": 9
-  },
-  {
-    "full_name": "Ebullioscopic/Atoll",
-    "stargazers_count": 1556,
-    "open_issues_count": 54,
-    "forks_count": 93
-  },
-  {
-    "full_name": "stonerl/Thaw",
-    "stargazers_count": 3296,
-    "open_issues_count": 57,
-    "forks_count": 73
-  },
-  {
-    "full_name": "Kruszoneq/macUSB",
-    "stargazers_count": 678,
-    "open_issues_count": 0,
-    "forks_count": 25
   }
 ]
