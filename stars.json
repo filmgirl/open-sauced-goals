@@ -1,9 +1,51 @@
 [
   {
+    "full_name": "aloshdenny/reverse-SynthID",
+    "stargazers_count": 891,
+    "open_issues_count": 9,
+    "forks_count": 73
+  },
+  {
+    "full_name": "imfing/hextra",
+    "stargazers_count": 2083,
+    "open_issues_count": 98,
+    "forks_count": 408
+  },
+  {
+    "full_name": "bradAGI/awesome-cli-coding-agents",
+    "stargazers_count": 150,
+    "open_issues_count": 9,
+    "forks_count": 40
+  },
+  {
+    "full_name": "obdev/littlesnitch-linux",
+    "stargazers_count": 390,
+    "open_issues_count": 4,
+    "forks_count": 8
+  },
+  {
+    "full_name": "milla-jovovich/mempalace",
+    "stargazers_count": 36147,
+    "open_issues_count": 303,
+    "forks_count": 4535
+  },
+  {
+    "full_name": "heyman/heynote",
+    "stargazers_count": 5224,
+    "open_issues_count": 85,
+    "forks_count": 266
+  },
+  {
+    "full_name": "Arthur-Ficial/apfel",
+    "stargazers_count": 3894,
+    "open_issues_count": 2,
+    "forks_count": 141
+  },
+  {
     "full_name": "matthartman/ghost-pepper",
-    "stargazers_count": 609,
-    "open_issues_count": 7,
-    "forks_count": 26
+    "stargazers_count": 1890,
+    "open_issues_count": 13,
+    "forks_count": 90
   },
   {
     "full_name": "jgbrwn/vibebin",
@@ -13,170 +55,128 @@
   },
   {
     "full_name": "andmarti1424/sc-im",
-    "stargazers_count": 5551,
+    "stargazers_count": 5574,
     "open_issues_count": 111,
-    "forks_count": 229
+    "forks_count": 232
   },
   {
     "full_name": "objective-see/BlockBlock",
-    "stargazers_count": 779,
+    "stargazers_count": 781,
     "open_issues_count": 48,
     "forks_count": 47
   },
   {
     "full_name": "emdash-cms/emdash",
-    "stargazers_count": 7835,
-    "open_issues_count": 168,
-    "forks_count": 577
+    "stargazers_count": 8712,
+    "open_issues_count": 184,
+    "forks_count": 665
   },
   {
     "full_name": "coast-guard/coasts",
-    "stargazers_count": 300,
-    "open_issues_count": 9,
-    "forks_count": 15
+    "stargazers_count": 326,
+    "open_issues_count": 30,
+    "forks_count": 17
   },
   {
     "full_name": "luongnv89/claude-howto",
-    "stargazers_count": 21472,
-    "open_issues_count": 19,
-    "forks_count": 2542
+    "stargazers_count": 24074,
+    "open_issues_count": 21,
+    "forks_count": 2888
   },
   {
     "full_name": "onecli/onecli",
-    "stargazers_count": 1671,
+    "stargazers_count": 1707,
     "open_issues_count": 9,
-    "forks_count": 80
+    "forks_count": 82
   },
   {
     "full_name": "brave/adblock-rust",
-    "stargazers_count": 2285,
+    "stargazers_count": 2291,
     "open_issues_count": 78,
     "forks_count": 199
   },
   {
     "full_name": "austin-weeks/miasma",
-    "stargazers_count": 848,
-    "open_issues_count": 7,
+    "stargazers_count": 863,
+    "open_issues_count": 8,
     "forks_count": 18
   },
   {
     "full_name": "supabitapp/supacode",
-    "stargazers_count": 651,
-    "open_issues_count": 13,
-    "forks_count": 74
+    "stargazers_count": 667,
+    "open_issues_count": 15,
+    "forks_count": 80
   },
   {
     "full_name": "sidequery/ghostree",
-    "stargazers_count": 129,
+    "stargazers_count": 133,
     "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "max-sixty/worktrunk",
-    "stargazers_count": 4220,
-    "open_issues_count": 46,
-    "forks_count": 138
+    "stargazers_count": 4295,
+    "open_issues_count": 29,
+    "forks_count": 141
   },
   {
     "full_name": "neurosnap/zmx",
-    "stargazers_count": 1221,
-    "open_issues_count": 22,
-    "forks_count": 60
+    "stargazers_count": 1231,
+    "open_issues_count": 23,
+    "forks_count": 61
   },
   {
     "full_name": "Uzaaft/awesome-libghostty",
-    "stargazers_count": 399,
-    "open_issues_count": 1,
-    "forks_count": 18
+    "stargazers_count": 409,
+    "open_issues_count": 0,
+    "forks_count": 20
   },
   {
     "full_name": "wavetermdev/waveterm",
-    "stargazers_count": 19278,
-    "open_issues_count": 393,
-    "forks_count": 884
+    "stargazers_count": 19373,
+    "open_issues_count": 405,
+    "forks_count": 893
   },
   {
     "full_name": "dmars8047/handymkv",
-    "stargazers_count": 102,
+    "stargazers_count": 105,
     "open_issues_count": 3,
     "forks_count": 7
   },
   {
     "full_name": "zsviczian/obsidian-excalidraw-plugin",
-    "stargazers_count": 6601,
+    "stargazers_count": 6632,
     "open_issues_count": 960,
-    "forks_count": 408
+    "forks_count": 410
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 120390,
-    "open_issues_count": 2928,
-    "forks_count": 13155
+    "stargazers_count": 120681,
+    "open_issues_count": 2933,
+    "forks_count": 13199
   },
   {
     "full_name": "garrytan/gstack",
-    "stargazers_count": 65562,
-    "open_issues_count": 319,
-    "forks_count": 8982
+    "stargazers_count": 68492,
+    "open_issues_count": 316,
+    "forks_count": 9529
   },
   {
     "full_name": "royalbhati/HopTab",
-    "stargazers_count": 254,
+    "stargazers_count": 256,
     "open_issues_count": 3,
     "forks_count": 3
   },
   {
     "full_name": "MrKai77/Loop",
-    "stargazers_count": 10341,
-    "open_issues_count": 45,
+    "stargazers_count": 10351,
+    "open_issues_count": 46,
     "forks_count": 220
   },
   {
     "full_name": "raskrebs/sonar",
-    "stargazers_count": 901,
-    "open_issues_count": 10,
-    "forks_count": 24
-  },
-  {
-    "full_name": "mostpinkest/pam-watchid",
-    "stargazers_count": 60,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "danveloper/flash-moe",
-    "stargazers_count": 3390,
-    "open_issues_count": 17,
-    "forks_count": 399
-  },
-  {
-    "full_name": "karpathy/jobs",
-    "stargazers_count": 1358,
-    "open_issues_count": 12,
-    "forks_count": 294
-  },
-  {
-    "full_name": "OpenJelly/Open-Jellycuts",
-    "stargazers_count": 116,
-    "open_issues_count": 14,
-    "forks_count": 11
-  },
-  {
-    "full_name": "OpenJelly/Open-Jellycore",
-    "stargazers_count": 111,
-    "open_issues_count": 24,
-    "forks_count": 13
-  },
-  {
-    "full_name": "NVIDIA/NemoClaw",
-    "stargazers_count": 18623,
-    "open_issues_count": 533,
-    "forks_count": 2228
-  },
-  {
-    "full_name": "RunanywhereAI/RCLI",
-    "stargazers_count": 1387,
-    "open_issues_count": 8,
-    "forks_count": 71
+    "stargazers_count": 912,
+    "open_issues_count": 9,
+    "forks_count": 25
   }
 ]
