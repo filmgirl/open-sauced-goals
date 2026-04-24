@@ -1,45 +1,63 @@
 [
   {
+    "full_name": "boldsoftware/exeuntu",
+    "stargazers_count": 52,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "hverlin/mise-vscode",
+    "stargazers_count": 198,
+    "open_issues_count": 8,
+    "forks_count": 15
+  },
+  {
+    "full_name": "getagentseal/codeburn",
+    "stargazers_count": 3484,
+    "open_issues_count": 21,
+    "forks_count": 264
+  },
+  {
     "full_name": "awnist/slop-cop",
-    "stargazers_count": 88,
+    "stargazers_count": 104,
     "open_issues_count": 1,
-    "forks_count": 3
+    "forks_count": 5
   },
   {
     "full_name": "saffron-health/libretto",
-    "stargazers_count": 509,
+    "stargazers_count": 527,
     "open_issues_count": 3,
-    "forks_count": 28
+    "forks_count": 30
   },
   {
     "full_name": "HKUDS/OpenHarness",
-    "stargazers_count": 10605,
-    "open_issues_count": 16,
-    "forks_count": 1802
+    "stargazers_count": 11063,
+    "open_issues_count": 17,
+    "forks_count": 1875
   },
   {
     "full_name": "momenbasel/PureMac",
-    "stargazers_count": 2952,
-    "open_issues_count": 24,
-    "forks_count": 161
+    "stargazers_count": 3273,
+    "open_issues_count": 6,
+    "forks_count": 182
   },
   {
     "full_name": "zolotukhin/zinc",
-    "stargazers_count": 335,
+    "stargazers_count": 345,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "brightbeanxyz/brightbean-studio",
-    "stargazers_count": 1232,
-    "open_issues_count": 10,
-    "forks_count": 247
+    "stargazers_count": 1307,
+    "open_issues_count": 12,
+    "forks_count": 262
   },
   {
     "full_name": "cirruslabs/orchard",
-    "stargazers_count": 380,
+    "stargazers_count": 381,
     "open_issues_count": 19,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "cirruslabs/vetu",
@@ -49,81 +67,81 @@
   },
   {
     "full_name": "linearmouse/linearmouse",
-    "stargazers_count": 5960,
-    "open_issues_count": 94,
-    "forks_count": 120
+    "stargazers_count": 6002,
+    "open_issues_count": 103,
+    "forks_count": 123
   },
   {
     "full_name": "artginzburg/MiddleClick",
-    "stargazers_count": 2662,
+    "stargazers_count": 2675,
     "open_issues_count": 26,
     "forks_count": 121
   },
   {
     "full_name": "ejbills/DockDoor",
-    "stargazers_count": 4570,
+    "stargazers_count": 4620,
     "open_issues_count": 54,
-    "forks_count": 135
+    "forks_count": 140
   },
   {
     "full_name": "xykong/flux-markdown",
-    "stargazers_count": 638,
-    "open_issues_count": 21,
-    "forks_count": 16
+    "stargazers_count": 685,
+    "open_issues_count": 22,
+    "forks_count": 17
   },
   {
     "full_name": "JuliusBrussee/caveman",
-    "stargazers_count": 40796,
-    "open_issues_count": 122,
-    "forks_count": 2053
+    "stargazers_count": 44841,
+    "open_issues_count": 146,
+    "forks_count": 2338
   },
   {
     "full_name": "aloshdenny/reverse-SynthID",
-    "stargazers_count": 3251,
+    "stargazers_count": 3388,
     "open_issues_count": 15,
-    "forks_count": 339
+    "forks_count": 350
   },
   {
     "full_name": "imfing/hextra",
-    "stargazers_count": 2117,
-    "open_issues_count": 101,
+    "stargazers_count": 2126,
+    "open_issues_count": 102,
     "forks_count": 408
   },
   {
     "full_name": "bradAGI/awesome-cli-coding-agents",
-    "stargazers_count": 240,
+    "stargazers_count": 250,
     "open_issues_count": 4,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "obdev/littlesnitch-linux",
-    "stargazers_count": 748,
-    "open_issues_count": 5,
+    "stargazers_count": 766,
+    "open_issues_count": 2,
     "forks_count": 30
   },
   {
     "full_name": "MemPalace/mempalace",
-    "stargazers_count": 48511,
-    "open_issues_count": 429,
-    "forks_count": 6348
+    "stargazers_count": 49289,
+    "open_issues_count": 482,
+    "forks_count": 6460
   },
   {
     "full_name": "heyman/heynote",
-    "stargazers_count": 5242,
-    "open_issues_count": 86,
+    "stargazers_count": 5240,
+    "open_issues_count": 87,
     "forks_count": 267
   },
   {
     "full_name": "Arthur-Ficial/apfel",
-    "stargazers_count": 4810,
-    "open_issues_count": 5,
-    "forks_count": 184
+    "stargazers_count": 4878,
+    "open_issues_count": 2,
+    "forks_count": 188
   },
   {
     "full_name": "matthartman/ghost-pepper",
-    "stargazers_count": 2287,
-    "open_issues_count": 27,
-    "forks_count": 118
+    "stargazers_count": 2332,
+    "open_issues_count": 29,
+    "forks_count": 122
   },
   {
     "full_name": "jgbrwn/vibebin",
@@ -133,7 +151,7 @@
   },
   {
     "full_name": "andmarti1424/sc-im",
-    "stargazers_count": 5582,
+    "stargazers_count": 5588,
     "open_issues_count": 111,
     "forks_count": 233
   },
@@ -145,38 +163,20 @@
   },
   {
     "full_name": "emdash-cms/emdash",
-    "stargazers_count": 9852,
-    "open_issues_count": 138,
-    "forks_count": 809
+    "stargazers_count": 9981,
+    "open_issues_count": 153,
+    "forks_count": 839
   },
   {
     "full_name": "coast-guard/coasts",
-    "stargazers_count": 350,
+    "stargazers_count": 352,
     "open_issues_count": 10,
     "forks_count": 17
   },
   {
     "full_name": "luongnv89/claude-howto",
-    "stargazers_count": 27875,
-    "open_issues_count": 30,
-    "forks_count": 3408
-  },
-  {
-    "full_name": "onecli/onecli",
-    "stargazers_count": 1837,
-    "open_issues_count": 18,
-    "forks_count": 91
-  },
-  {
-    "full_name": "brave/adblock-rust",
-    "stargazers_count": 2313,
-    "open_issues_count": 78,
-    "forks_count": 202
-  },
-  {
-    "full_name": "austin-weeks/miasma",
-    "stargazers_count": 937,
-    "open_issues_count": 7,
-    "forks_count": 20
+    "stargazers_count": 28467,
+    "open_issues_count": 34,
+    "forks_count": 3489
   }
 ]
