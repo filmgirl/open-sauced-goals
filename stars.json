@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "kageroumado/phosphene",
+    "stargazers_count": 546,
+    "open_issues_count": 9,
+    "forks_count": 13
+  },
+  {
+    "full_name": "wiltodelta/remove-ai-watermarks",
+    "stargazers_count": 1454,
+    "open_issues_count": 6,
+    "forks_count": 90
+  },
+  {
     "full_name": "Parachord/parachord",
-    "stargazers_count": 161,
-    "open_issues_count": 66,
+    "stargazers_count": 168,
+    "open_issues_count": 67,
     "forks_count": 15
   },
   {
     "full_name": "corbindavenport/link-cleaner",
-    "stargazers_count": 193,
+    "stargazers_count": 194,
     "open_issues_count": 4,
     "forks_count": 17
   },
   {
     "full_name": "hrvach/deskhop",
-    "stargazers_count": 7576,
-    "open_issues_count": 113,
-    "forks_count": 273
+    "stargazers_count": 7584,
+    "open_issues_count": 115,
+    "forks_count": 274
   },
   {
     "full_name": "electricalice/Ao3-tide",
@@ -31,33 +43,33 @@
   },
   {
     "full_name": "antirez/ds4",
-    "stargazers_count": 10662,
-    "open_issues_count": 84,
-    "forks_count": 873
+    "stargazers_count": 11193,
+    "open_issues_count": 97,
+    "forks_count": 928
   },
   {
     "full_name": "humanwhocodes/crosspost",
-    "stargazers_count": 542,
-    "open_issues_count": 24,
-    "forks_count": 24
+    "stargazers_count": 543,
+    "open_issues_count": 25,
+    "forks_count": 25
   },
   {
     "full_name": "github/app",
-    "stargazers_count": 550,
-    "open_issues_count": 154,
-    "forks_count": 18
+    "stargazers_count": 726,
+    "open_issues_count": 295,
+    "forks_count": 27
   },
   {
     "full_name": "darrylmorley/whatcable",
-    "stargazers_count": 3669,
-    "open_issues_count": 11,
-    "forks_count": 96
+    "stargazers_count": 3918,
+    "open_issues_count": 7,
+    "forks_count": 104
   },
   {
     "full_name": "cactus-compute/needle",
-    "stargazers_count": 2238,
+    "stargazers_count": 2368,
     "open_issues_count": 20,
-    "forks_count": 141
+    "forks_count": 155
   },
   {
     "full_name": "sugardaddyapp/geocities-boilerplate",
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "orhun/ratty",
-    "stargazers_count": 2165,
-    "open_issues_count": 32,
-    "forks_count": 52
+    "stargazers_count": 2283,
+    "open_issues_count": 36,
+    "forks_count": 54
   },
   {
     "full_name": "Wolfbatcat/ao3-rose-pine",
@@ -79,21 +91,21 @@
   },
   {
     "full_name": "espressoplease/SDocs",
-    "stargazers_count": 82,
+    "stargazers_count": 83,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "spotify/save-to-spotify",
-    "stargazers_count": 311,
-    "open_issues_count": 9,
-    "forks_count": 12
+    "stargazers_count": 322,
+    "open_issues_count": 7,
+    "forks_count": 13
   },
   {
     "full_name": "openclaw/clawsweeper",
-    "stargazers_count": 1657,
-    "open_issues_count": 4,
-    "forks_count": 215
+    "stargazers_count": 1670,
+    "open_issues_count": 7,
+    "forks_count": 218
   },
   {
     "full_name": "finnvoor/yap",
@@ -103,39 +115,39 @@
   },
   {
     "full_name": "logancyang/obsidian-copilot",
-    "stargazers_count": 7018,
-    "open_issues_count": 203,
-    "forks_count": 651
+    "stargazers_count": 7037,
+    "open_issues_count": 204,
+    "forks_count": 655
   },
   {
     "full_name": "aattaran/deepclaude",
-    "stargazers_count": 1900,
+    "stargazers_count": 1926,
     "open_issues_count": 24,
-    "forks_count": 110
+    "forks_count": 113
   },
   {
     "full_name": "openai/symphony",
-    "stargazers_count": 24160,
-    "open_issues_count": 5,
-    "forks_count": 2347
+    "stargazers_count": 24401,
+    "open_issues_count": 3,
+    "forks_count": 2398
   },
   {
     "full_name": "zombocom/rundoc",
     "stargazers_count": 95,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 9
   },
   {
     "full_name": "dirac-run/dirac",
-    "stargazers_count": 1212,
-    "open_issues_count": 24,
+    "stargazers_count": 1232,
+    "open_issues_count": 25,
     "forks_count": 67
   },
   {
     "full_name": "Dicklesworthstone/destructive_command_guard",
-    "stargazers_count": 1027,
-    "open_issues_count": 2,
-    "forks_count": 59
+    "stargazers_count": 1046,
+    "open_issues_count": 0,
+    "forks_count": 60
   },
   {
     "full_name": "fluffypony/uhoh",
@@ -145,15 +157,15 @@
   },
   {
     "full_name": "fluffypony/yojam",
-    "stargazers_count": 1067,
+    "stargazers_count": 1068,
     "open_issues_count": 10,
     "forks_count": 417
   },
   {
     "full_name": "nex-crm/wuphf",
-    "stargazers_count": 1040,
-    "open_issues_count": 45,
-    "forks_count": 75
+    "stargazers_count": 1067,
+    "open_issues_count": 66,
+    "forks_count": 74
   },
   {
     "full_name": "boldsoftware/exeuntu",
@@ -166,17 +178,5 @@
     "stargazers_count": 207,
     "open_issues_count": 10,
     "forks_count": 18
-  },
-  {
-    "full_name": "getagentseal/codeburn",
-    "stargazers_count": 6704,
-    "open_issues_count": 38,
-    "forks_count": 508
-  },
-  {
-    "full_name": "awnist/slop-cop",
-    "stargazers_count": 145,
-    "open_issues_count": 0,
-    "forks_count": 10
   }
 ]
