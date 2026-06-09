@@ -1,31 +1,49 @@
 [
   {
+    "full_name": "koreader/koreader",
+    "stargazers_count": 27168,
+    "open_issues_count": 1272,
+    "forks_count": 1740
+  },
+  {
+    "full_name": "microsoft/pg_durable",
+    "stargazers_count": 1705,
+    "open_issues_count": 53,
+    "forks_count": 41
+  },
+  {
+    "full_name": "samuelclay/crabigator",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "anthropics/defending-code-reference-harness",
-    "stargazers_count": 1137,
-    "open_issues_count": 1,
-    "forks_count": 89
+    "stargazers_count": 5370,
+    "open_issues_count": 6,
+    "forks_count": 361
   },
   {
     "full_name": "cyberpapiii/chipotlai-max",
-    "stargazers_count": 912,
-    "open_issues_count": 6,
-    "forks_count": 49
+    "stargazers_count": 1128,
+    "open_issues_count": 10,
+    "forks_count": 63
   },
   {
     "full_name": "chopratejas/headroom",
-    "stargazers_count": 12709,
-    "open_issues_count": 164,
-    "forks_count": 821
+    "stargazers_count": 19022,
+    "open_issues_count": 217,
+    "forks_count": 1211
   },
   {
     "full_name": "pewdiepie-archdaemon/odysseus",
-    "stargazers_count": 51516,
-    "open_issues_count": 825,
-    "forks_count": 6011
+    "stargazers_count": 63939,
+    "open_issues_count": 1042,
+    "forks_count": 7819
   },
   {
     "full_name": "highpost/tailscale-macos-vm",
-    "stargazers_count": 126,
+    "stargazers_count": 128,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -43,7 +61,7 @@
   },
   {
     "full_name": "memorizingthedigitsofpi/Glowy-Dark-Mode-site-skin",
-    "stargazers_count": 68,
+    "stargazers_count": 70,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -51,42 +69,42 @@
     "full_name": "thevalkyrieismakingao3skinsig/constellations-ao3-skin",
     "stargazers_count": 47,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "NVIDIA/OpenShell",
-    "stargazers_count": 6777,
-    "open_issues_count": 224,
-    "forks_count": 805
+    "stargazers_count": 6944,
+    "open_issues_count": 250,
+    "forks_count": 832
   },
   {
     "full_name": "anomalyco/models.dev",
-    "stargazers_count": 4678,
-    "open_issues_count": 195,
-    "forks_count": 1064
+    "stargazers_count": 4877,
+    "open_issues_count": 206,
+    "forks_count": 1083
   },
   {
     "full_name": "microsoft/Build26-LAB500-terminal-to-party-live-coding-with-github-copilot-cli-and-hydra",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "kageroumado/phosphene",
-    "stargazers_count": 733,
+    "stargazers_count": 744,
     "open_issues_count": 9,
     "forks_count": 19
   },
   {
     "full_name": "wiltodelta/remove-ai-watermarks",
-    "stargazers_count": 2917,
+    "stargazers_count": 3056,
     "open_issues_count": 6,
-    "forks_count": 250
+    "forks_count": 262
   },
   {
     "full_name": "Parachord/parachord",
-    "stargazers_count": 178,
-    "open_issues_count": 73,
+    "stargazers_count": 179,
+    "open_issues_count": 62,
     "forks_count": 15
   },
   {
@@ -97,9 +115,9 @@
   },
   {
     "full_name": "hrvach/deskhop",
-    "stargazers_count": 7600,
+    "stargazers_count": 7604,
     "open_issues_count": 117,
-    "forks_count": 277
+    "forks_count": 278
   },
   {
     "full_name": "electricalice/Ao3-tide",
@@ -115,9 +133,9 @@
   },
   {
     "full_name": "antirez/ds4",
-    "stargazers_count": 12947,
-    "open_issues_count": 156,
-    "forks_count": 1129
+    "stargazers_count": 13257,
+    "open_issues_count": 164,
+    "forks_count": 1164
   },
   {
     "full_name": "humanwhocodes/crosspost",
@@ -127,21 +145,21 @@
   },
   {
     "full_name": "github/app",
-    "stargazers_count": 1360,
-    "open_issues_count": 665,
-    "forks_count": 57
+    "stargazers_count": 1439,
+    "open_issues_count": 716,
+    "forks_count": 62
   },
   {
     "full_name": "darrylmorley/whatcable",
-    "stargazers_count": 5386,
-    "open_issues_count": 18,
-    "forks_count": 165
+    "stargazers_count": 5603,
+    "open_issues_count": 20,
+    "forks_count": 170
   },
   {
     "full_name": "cactus-compute/needle",
-    "stargazers_count": 2556,
+    "stargazers_count": 2586,
     "open_issues_count": 18,
-    "forks_count": 170
+    "forks_count": 174
   },
   {
     "full_name": "sugardaddyapp/geocities-boilerplate",
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "orhun/ratty",
-    "stargazers_count": 2803,
-    "open_issues_count": 44,
-    "forks_count": 73
+    "stargazers_count": 2875,
+    "open_issues_count": 43,
+    "forks_count": 78
   },
   {
     "full_name": "Wolfbatcat/ao3-rose-pine",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 1,
     "forks_count": 2
-  },
-  {
-    "full_name": "espressoplease/SDocs",
-    "stargazers_count": 85,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "spotify/save-to-spotify",
-    "stargazers_count": 358,
-    "open_issues_count": 7,
-    "forks_count": 17
-  },
-  {
-    "full_name": "openclaw/clawsweeper",
-    "stargazers_count": 1705,
-    "open_issues_count": 16,
-    "forks_count": 230
   }
 ]
