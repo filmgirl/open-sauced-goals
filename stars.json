@@ -1,20 +1,20 @@
 [
   {
     "full_name": "crmne/ruby_llm",
-    "stargazers_count": 4209,
-    "open_issues_count": 67,
-    "forks_count": 470
+    "stargazers_count": 4220,
+    "open_issues_count": 73,
+    "forks_count": 473
   },
   {
     "full_name": "nubjs/nub",
-    "stargazers_count": 2421,
-    "open_issues_count": 9,
-    "forks_count": 29
+    "stargazers_count": 2558,
+    "open_issues_count": 13,
+    "forks_count": 34
   },
   {
     "full_name": "blackboardsh/electrobun",
-    "stargazers_count": 12405,
-    "open_issues_count": 243,
+    "stargazers_count": 12428,
+    "open_issues_count": 246,
     "forks_count": 344
   },
   {
@@ -25,50 +25,50 @@
   },
   {
     "full_name": "jeremyfa/loreline",
-    "stargazers_count": 273,
+    "stargazers_count": 278,
     "open_issues_count": 14,
     "forks_count": 6
   },
   {
     "full_name": "EpicGames/lore",
-    "stargazers_count": 7348,
-    "open_issues_count": 71,
-    "forks_count": 315
+    "stargazers_count": 7578,
+    "open_issues_count": 78,
+    "forks_count": 330
   },
   {
     "full_name": "sarensw/MacPacker",
-    "stargazers_count": 459,
+    "stargazers_count": 467,
     "open_issues_count": 9,
     "forks_count": 21
   },
   {
     "full_name": "NousResearch/hermes-agent",
-    "stargazers_count": 205787,
-    "open_issues_count": 24507,
-    "forks_count": 37180
+    "stargazers_count": 208088,
+    "open_issues_count": 25104,
+    "forks_count": 37865
   },
   {
     "full_name": "luke8086/gentleos",
-    "stargazers_count": 243,
+    "stargazers_count": 253,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "luke8086/gentleos32",
-    "stargazers_count": 851,
+    "stargazers_count": 864,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "microsoft/intelligent-terminal",
-    "stargazers_count": 1298,
-    "open_issues_count": 65,
-    "forks_count": 93
+    "stargazers_count": 1339,
+    "open_issues_count": 62,
+    "forks_count": 94
   },
   {
     "full_name": "microsoft/WindowsDeveloperConfig",
-    "stargazers_count": 1724,
-    "open_issues_count": 15,
+    "stargazers_count": 1746,
+    "open_issues_count": 16,
     "forks_count": 131
   },
   {
@@ -79,26 +79,26 @@
   },
   {
     "full_name": "devenjarvis/lathe",
-    "stargazers_count": 1551,
+    "stargazers_count": 1557,
     "open_issues_count": 2,
     "forks_count": 43
   },
   {
     "full_name": "microsoft/agent-governance-toolkit",
-    "stargazers_count": 4550,
-    "open_issues_count": 63,
-    "forks_count": 653
+    "stargazers_count": 4608,
+    "open_issues_count": 74,
+    "forks_count": 665
   },
   {
     "full_name": "koreader/koreader",
-    "stargazers_count": 27475,
-    "open_issues_count": 1277,
-    "forks_count": 1770
+    "stargazers_count": 27527,
+    "open_issues_count": 1279,
+    "forks_count": 1772
   },
   {
     "full_name": "microsoft/pg_durable",
-    "stargazers_count": 2119,
-    "open_issues_count": 33,
+    "stargazers_count": 2123,
+    "open_issues_count": 29,
     "forks_count": 61
   },
   {
@@ -109,27 +109,27 @@
   },
   {
     "full_name": "anthropics/defending-code-reference-harness",
-    "stargazers_count": 6276,
-    "open_issues_count": 8,
-    "forks_count": 493
+    "stargazers_count": 6314,
+    "open_issues_count": 10,
+    "forks_count": 496
   },
   {
     "full_name": "cyberpapiii/chipotlai-max",
-    "stargazers_count": 1335,
+    "stargazers_count": 1361,
     "open_issues_count": 12,
-    "forks_count": 81
+    "forks_count": 84
   },
   {
     "full_name": "headroomlabs-ai/headroom",
-    "stargazers_count": 53944,
-    "open_issues_count": 441,
-    "forks_count": 3874
+    "stargazers_count": 55867,
+    "open_issues_count": 486,
+    "forks_count": 4055
   },
   {
     "full_name": "pewdiepie-archdaemon/odysseus",
-    "stargazers_count": 79359,
-    "open_issues_count": 1504,
-    "forks_count": 10369
+    "stargazers_count": 80235,
+    "open_issues_count": 1544,
+    "forks_count": 10515
   },
   {
     "full_name": "highpost/tailscale-macos-vm",
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "thevalkyrieismakingao3skinsig/constellations-ao3-skin",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "NVIDIA/OpenShell",
-    "stargazers_count": 7316,
-    "open_issues_count": 286,
-    "forks_count": 898
+    "stargazers_count": 7361,
+    "open_issues_count": 305,
+    "forks_count": 911
   },
   {
     "full_name": "anomalyco/models.dev",
-    "stargazers_count": 5564,
-    "open_issues_count": 172,
-    "forks_count": 1198
+    "stargazers_count": 5670,
+    "open_issues_count": 192,
+    "forks_count": 1229
   },
   {
     "full_name": "microsoft/Build26-LAB500-terminal-to-party-live-coding-with-github-copilot-cli-and-hydra",
