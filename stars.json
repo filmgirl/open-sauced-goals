@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "wouterdebie/davit",
+    "stargazers_count": 732,
+    "open_issues_count": 2,
+    "forks_count": 9
+  },
+  {
     "full_name": "maximqaxd/wince-dc",
-    "stargazers_count": 95,
+    "stargazers_count": 100,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "ZlibraryKO/zlibrary.koplugin",
-    "stargazers_count": 472,
+    "stargazers_count": 481,
     "open_issues_count": 2,
     "forks_count": 28
   },
   {
     "full_name": "crmne/ruby_llm",
-    "stargazers_count": 4225,
-    "open_issues_count": 47,
-    "forks_count": 473
+    "stargazers_count": 4235,
+    "open_issues_count": 34,
+    "forks_count": 472
   },
   {
     "full_name": "nubjs/nub",
-    "stargazers_count": 2662,
-    "open_issues_count": 14,
-    "forks_count": 37
+    "stargazers_count": 2777,
+    "open_issues_count": 10,
+    "forks_count": 41
   },
   {
     "full_name": "blackboardsh/electrobun",
-    "stargazers_count": 12466,
-    "open_issues_count": 248,
-    "forks_count": 346
+    "stargazers_count": 12503,
+    "open_issues_count": 252,
+    "forks_count": 347
   },
   {
     "full_name": "burkeholland/cli-news",
@@ -37,81 +43,81 @@
   },
   {
     "full_name": "jeremyfa/loreline",
-    "stargazers_count": 282,
+    "stargazers_count": 283,
     "open_issues_count": 12,
     "forks_count": 6
   },
   {
     "full_name": "EpicGames/lore",
-    "stargazers_count": 7725,
-    "open_issues_count": 81,
-    "forks_count": 341
+    "stargazers_count": 7802,
+    "open_issues_count": 82,
+    "forks_count": 347
   },
   {
     "full_name": "sarensw/MacPacker",
-    "stargazers_count": 473,
-    "open_issues_count": 8,
+    "stargazers_count": 478,
+    "open_issues_count": 10,
     "forks_count": 21
   },
   {
     "full_name": "NousResearch/hermes-agent",
-    "stargazers_count": 210413,
-    "open_issues_count": 26335,
-    "forks_count": 38549
+    "stargazers_count": 212256,
+    "open_issues_count": 27336,
+    "forks_count": 39112
   },
   {
     "full_name": "luke8086/gentleos",
-    "stargazers_count": 258,
+    "stargazers_count": 260,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "luke8086/gentleos32",
-    "stargazers_count": 873,
+    "stargazers_count": 875,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "microsoft/intelligent-terminal",
-    "stargazers_count": 1420,
-    "open_issues_count": 65,
-    "forks_count": 98
+    "stargazers_count": 1523,
+    "open_issues_count": 68,
+    "forks_count": 104
   },
   {
     "full_name": "microsoft/WindowsDeveloperConfig",
-    "stargazers_count": 1767,
-    "open_issues_count": 17,
-    "forks_count": 132
+    "stargazers_count": 1782,
+    "open_issues_count": 15,
+    "forks_count": 135
   },
   {
     "full_name": "tripplyons/pokeemerald-wasm",
     "stargazers_count": 293,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 23
   },
   {
     "full_name": "devenjarvis/lathe",
-    "stargazers_count": 1564,
+    "stargazers_count": 1573,
     "open_issues_count": 2,
-    "forks_count": 43
+    "forks_count": 42
   },
   {
     "full_name": "microsoft/agent-governance-toolkit",
-    "stargazers_count": 4667,
-    "open_issues_count": 86,
-    "forks_count": 678
+    "stargazers_count": 4730,
+    "open_issues_count": 91,
+    "forks_count": 719
   },
   {
     "full_name": "koreader/koreader",
-    "stargazers_count": 27619,
-    "open_issues_count": 1286,
-    "forks_count": 1777
+    "stargazers_count": 27672,
+    "open_issues_count": 1280,
+    "forks_count": 1779
   },
   {
     "full_name": "microsoft/pg_durable",
-    "stargazers_count": 2205,
+    "stargazers_count": 2219,
     "open_issues_count": 29,
-    "forks_count": 61
+    "forks_count": 62
   },
   {
     "full_name": "samuelclay/crabigator",
@@ -121,31 +127,31 @@
   },
   {
     "full_name": "anthropics/defending-code-reference-harness",
-    "stargazers_count": 6392,
-    "open_issues_count": 10,
-    "forks_count": 509
+    "stargazers_count": 6416,
+    "open_issues_count": 8,
+    "forks_count": 514
   },
   {
     "full_name": "cyberpapiii/chipotlai-max",
-    "stargazers_count": 1371,
+    "stargazers_count": 1384,
     "open_issues_count": 12,
-    "forks_count": 86
+    "forks_count": 87
   },
   {
     "full_name": "headroomlabs-ai/headroom",
-    "stargazers_count": 57177,
-    "open_issues_count": 550,
-    "forks_count": 4204
+    "stargazers_count": 58192,
+    "open_issues_count": 480,
+    "forks_count": 4298
   },
   {
     "full_name": "pewdiepie-archdaemon/odysseus",
-    "stargazers_count": 81202,
-    "open_issues_count": 1605,
-    "forks_count": 10648
+    "stargazers_count": 81979,
+    "open_issues_count": 1709,
+    "forks_count": 10759
   },
   {
     "full_name": "highpost/tailscale-macos-vm",
-    "stargazers_count": 135,
+    "stargazers_count": 134,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "thevalkyrieismakingao3skinsig/constellations-ao3-skin",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 0,
     "forks_count": 9
-  },
-  {
-    "full_name": "NVIDIA/OpenShell",
-    "stargazers_count": 7433,
-    "open_issues_count": 320,
-    "forks_count": 919
   }
 ]
