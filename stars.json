@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "agent-substrate/substrate",
+    "stargazers_count": 1048,
+    "open_issues_count": 295,
+    "forks_count": 211
+  },
+  {
     "full_name": "Automattic/harper-obsidian-plugin",
-    "stargazers_count": 158,
+    "stargazers_count": 159,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "wrenger/obsidian-languagetool",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 14,
     "forks_count": 8
   },
@@ -15,19 +21,19 @@
     "full_name": "kevboh/longform",
     "stargazers_count": 948,
     "open_issues_count": 118,
-    "forks_count": 64
+    "forks_count": 65
   },
   {
     "full_name": "saberzero1/quartz-themes",
-    "stargazers_count": 255,
-    "open_issues_count": 16,
+    "stargazers_count": 256,
+    "open_issues_count": 17,
     "forks_count": 9
   },
   {
     "full_name": "SublerApp/Subler",
-    "stargazers_count": 228,
-    "open_issues_count": 47,
-    "forks_count": 30
+    "stargazers_count": 230,
+    "open_issues_count": 48,
+    "forks_count": 32
   },
   {
     "full_name": "jeffsand/delivered-releases",
@@ -37,15 +43,15 @@
   },
   {
     "full_name": "northpolesec/santa",
-    "stargazers_count": 713,
-    "open_issues_count": 29,
+    "stargazers_count": 716,
+    "open_issues_count": 28,
     "forks_count": 55
   },
   {
     "full_name": "bholmesdev/hubble.md",
-    "stargazers_count": 1198,
+    "stargazers_count": 1213,
     "open_issues_count": 28,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "TortugaPower/bookplayer-api",
@@ -61,73 +67,73 @@
   },
   {
     "full_name": "tonikelope/megabasterd",
-    "stargazers_count": 5664,
+    "stargazers_count": 5665,
     "open_issues_count": 223,
     "forks_count": 648
   },
   {
     "full_name": "garrytan/gbrain",
-    "stargazers_count": 27693,
-    "open_issues_count": 287,
-    "forks_count": 4055
+    "stargazers_count": 27870,
+    "open_issues_count": 328,
+    "forks_count": 4078
   },
   {
     "full_name": "vignesh07/aside",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "palmier-io/palmier-pro",
-    "stargazers_count": 13039,
-    "open_issues_count": 91,
-    "forks_count": 969
+    "stargazers_count": 13167,
+    "open_issues_count": 90,
+    "forks_count": 980
   },
   {
     "full_name": "can1357/oh-my-pi",
-    "stargazers_count": 21604,
-    "open_issues_count": 997,
-    "forks_count": 2057
+    "stargazers_count": 22516,
+    "open_issues_count": 1096,
+    "forks_count": 2134
   },
   {
     "full_name": "Blaizzy/mlx-audio-swift",
-    "stargazers_count": 744,
-    "open_issues_count": 16,
+    "stargazers_count": 747,
+    "open_issues_count": 17,
     "forks_count": 143
   },
   {
     "full_name": "Blaizzy/nativ",
-    "stargazers_count": 1095,
-    "open_issues_count": 47,
-    "forks_count": 66
+    "stargazers_count": 1150,
+    "open_issues_count": 30,
+    "forks_count": 67
   },
   {
     "full_name": "ActionRetro/ArtfulType",
-    "stargazers_count": 87,
+    "stargazers_count": 89,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "github-samples/copilot-workshops",
-    "stargazers_count": 67,
+    "stargazers_count": 68,
     "open_issues_count": 2,
     "forks_count": 60
   },
   {
     "full_name": "momenbasel/Phosphor",
-    "stargazers_count": 487,
-    "open_issues_count": 6,
+    "stargazers_count": 493,
+    "open_issues_count": 7,
     "forks_count": 36
   },
   {
     "full_name": "JustVugg/colibri",
-    "stargazers_count": 22491,
-    "open_issues_count": 103,
-    "forks_count": 2406
+    "stargazers_count": 23033,
+    "open_issues_count": 98,
+    "forks_count": 2475
   },
   {
     "full_name": "wouterdebie/davit",
-    "stargazers_count": 1248,
+    "stargazers_count": 1256,
     "open_issues_count": 2,
     "forks_count": 26
   },
@@ -135,30 +141,30 @@
     "full_name": "maximqaxd/wince-dc",
     "stargazers_count": 111,
     "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "ZlibraryKO/zlibrary.koplugin",
-    "stargazers_count": 564,
+    "stargazers_count": 571,
     "open_issues_count": 0,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "crmne/ruby_llm",
-    "stargazers_count": 4278,
-    "open_issues_count": 54,
+    "stargazers_count": 4284,
+    "open_issues_count": 56,
     "forks_count": 481
   },
   {
     "full_name": "nubjs/nub",
-    "stargazers_count": 3764,
-    "open_issues_count": 36,
+    "stargazers_count": 3894,
+    "open_issues_count": 37,
     "forks_count": 55
   },
   {
     "full_name": "blackboardsh/electrobun",
-    "stargazers_count": 12635,
-    "open_issues_count": 83,
+    "stargazers_count": 12646,
+    "open_issues_count": 88,
     "forks_count": 351
   },
   {
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "jeremyfa/loreline",
-    "stargazers_count": 289,
+    "stargazers_count": 291,
     "open_issues_count": 13,
     "forks_count": 7
-  },
-  {
-    "full_name": "EpicGames/lore",
-    "stargazers_count": 8282,
-    "open_issues_count": 107,
-    "forks_count": 392
   }
 ]
