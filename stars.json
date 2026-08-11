@@ -1,9 +1,51 @@
 [
   {
+    "full_name": "ayghri/i-have-adhd",
+    "stargazers_count": 19187,
+    "open_issues_count": 15,
+    "forks_count": 1148
+  },
+  {
+    "full_name": "Jayy001/codexctl",
+    "stargazers_count": 186,
+    "open_issues_count": 24,
+    "forks_count": 25
+  },
+  {
+    "full_name": "CrazyWolf13/streamlink-webui",
+    "stargazers_count": 30,
+    "open_issues_count": 4,
+    "forks_count": 2
+  },
+  {
+    "full_name": "omnigent-ai/omnigent",
+    "stargazers_count": 8497,
+    "open_issues_count": 879,
+    "forks_count": 1287
+  },
+  {
+    "full_name": "pingdotgg/t3code",
+    "stargazers_count": 18046,
+    "open_issues_count": 1497,
+    "forks_count": 4076
+  },
+  {
+    "full_name": "boldsoftware/exe.dev",
+    "stargazers_count": 138,
+    "open_issues_count": 136,
+    "forks_count": 7
+  },
+  {
+    "full_name": "IeuanWalker/Cockpit",
+    "stargazers_count": 8,
+    "open_issues_count": 24,
+    "forks_count": 0
+  },
+  {
     "full_name": "agent-substrate/substrate",
-    "stargazers_count": 1048,
-    "open_issues_count": 295,
-    "forks_count": 211
+    "stargazers_count": 1197,
+    "open_issues_count": 312,
+    "forks_count": 224
   },
   {
     "full_name": "Automattic/harper-obsidian-plugin",
@@ -19,9 +61,9 @@
   },
   {
     "full_name": "kevboh/longform",
-    "stargazers_count": 948,
+    "stargazers_count": 950,
     "open_issues_count": 118,
-    "forks_count": 65
+    "forks_count": 64
   },
   {
     "full_name": "saberzero1/quartz-themes",
@@ -31,9 +73,9 @@
   },
   {
     "full_name": "SublerApp/Subler",
-    "stargazers_count": 230,
-    "open_issues_count": 48,
-    "forks_count": 32
+    "stargazers_count": 232,
+    "open_issues_count": 54,
+    "forks_count": 33
   },
   {
     "full_name": "jeffsand/delivered-releases",
@@ -43,15 +85,15 @@
   },
   {
     "full_name": "northpolesec/santa",
-    "stargazers_count": 716,
-    "open_issues_count": 28,
-    "forks_count": 55
+    "stargazers_count": 721,
+    "open_issues_count": 32,
+    "forks_count": 56
   },
   {
     "full_name": "bholmesdev/hubble.md",
-    "stargazers_count": 1213,
-    "open_issues_count": 28,
-    "forks_count": 70
+    "stargazers_count": 1255,
+    "open_issues_count": 24,
+    "forks_count": 76
   },
   {
     "full_name": "TortugaPower/bookplayer-api",
@@ -67,49 +109,49 @@
   },
   {
     "full_name": "tonikelope/megabasterd",
-    "stargazers_count": 5665,
+    "stargazers_count": 5673,
     "open_issues_count": 223,
     "forks_count": 648
   },
   {
     "full_name": "garrytan/gbrain",
-    "stargazers_count": 27870,
-    "open_issues_count": 328,
-    "forks_count": 4078
+    "stargazers_count": 28169,
+    "open_issues_count": 428,
+    "forks_count": 4132
   },
   {
     "full_name": "vignesh07/aside",
     "stargazers_count": 2,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "palmier-io/palmier-pro",
-    "stargazers_count": 13167,
-    "open_issues_count": 90,
-    "forks_count": 980
+    "stargazers_count": 13368,
+    "open_issues_count": 91,
+    "forks_count": 1000
   },
   {
     "full_name": "can1357/oh-my-pi",
-    "stargazers_count": 22516,
-    "open_issues_count": 1096,
-    "forks_count": 2134
+    "stargazers_count": 23645,
+    "open_issues_count": 1280,
+    "forks_count": 2242
   },
   {
     "full_name": "Blaizzy/mlx-audio-swift",
-    "stargazers_count": 747,
-    "open_issues_count": 17,
-    "forks_count": 143
+    "stargazers_count": 752,
+    "open_issues_count": 19,
+    "forks_count": 145
   },
   {
     "full_name": "Blaizzy/nativ",
-    "stargazers_count": 1150,
-    "open_issues_count": 30,
-    "forks_count": 67
+    "stargazers_count": 1187,
+    "open_issues_count": 32,
+    "forks_count": 72
   },
   {
     "full_name": "ActionRetro/ArtfulType",
-    "stargazers_count": 89,
+    "stargazers_count": 92,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -117,66 +159,24 @@
     "full_name": "github-samples/copilot-workshops",
     "stargazers_count": 68,
     "open_issues_count": 2,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "momenbasel/Phosphor",
-    "stargazers_count": 493,
+    "stargazers_count": 504,
     "open_issues_count": 7,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "JustVugg/colibri",
-    "stargazers_count": 23033,
-    "open_issues_count": 98,
-    "forks_count": 2475
+    "stargazers_count": 23747,
+    "open_issues_count": 105,
+    "forks_count": 2571
   },
   {
     "full_name": "wouterdebie/davit",
-    "stargazers_count": 1256,
-    "open_issues_count": 2,
-    "forks_count": 26
-  },
-  {
-    "full_name": "maximqaxd/wince-dc",
-    "stargazers_count": 111,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "ZlibraryKO/zlibrary.koplugin",
-    "stargazers_count": 571,
+    "stargazers_count": 1273,
     "open_issues_count": 0,
-    "forks_count": 32
-  },
-  {
-    "full_name": "crmne/ruby_llm",
-    "stargazers_count": 4284,
-    "open_issues_count": 56,
-    "forks_count": 481
-  },
-  {
-    "full_name": "nubjs/nub",
-    "stargazers_count": 3894,
-    "open_issues_count": 37,
-    "forks_count": 55
-  },
-  {
-    "full_name": "blackboardsh/electrobun",
-    "stargazers_count": 12646,
-    "open_issues_count": 88,
-    "forks_count": 351
-  },
-  {
-    "full_name": "burkeholland/cli-news",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "jeremyfa/loreline",
-    "stargazers_count": 291,
-    "open_issues_count": 13,
-    "forks_count": 7
+    "forks_count": 27
   }
 ]
