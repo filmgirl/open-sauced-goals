@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "AprilNEA/OpenLogi",
+    "stargazers_count": 11953,
+    "open_issues_count": 208,
+    "forks_count": 325
+  },
+  {
+    "full_name": "jeff-schumann/EasyDMG",
+    "stargazers_count": 174,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
     "full_name": "dantheman213/media-archiver",
     "stargazers_count": 171,
     "open_issues_count": 9,
@@ -9,37 +21,37 @@
     "full_name": "FoxRefire/wvg",
     "stargazers_count": 795,
     "open_issues_count": 26,
-    "forks_count": 142
+    "forks_count": 141
   },
   {
     "full_name": "hughhowey/neo",
-    "stargazers_count": 181,
-    "open_issues_count": 13,
-    "forks_count": 10
+    "stargazers_count": 197,
+    "open_issues_count": 10,
+    "forks_count": 12
   },
   {
     "full_name": "mirendev/runtime",
-    "stargazers_count": 101,
-    "open_issues_count": 8,
+    "stargazers_count": 103,
+    "open_issues_count": 7,
     "forks_count": 5
   },
   {
     "full_name": "electron/osx-sign",
     "stargazers_count": 628,
-    "open_issues_count": 26,
+    "open_issues_count": 25,
     "forks_count": 112
   },
   {
     "full_name": "davebcn87/pi-autoresearch",
-    "stargazers_count": 7625,
-    "open_issues_count": 12,
-    "forks_count": 441
+    "stargazers_count": 7657,
+    "open_issues_count": 13,
+    "forks_count": 442
   },
   {
     "full_name": "deepseek-ai/deepseek-harness",
-    "stargazers_count": 151125,
+    "stargazers_count": 175082,
     "open_issues_count": 0,
-    "forks_count": 15538
+    "forks_count": 18939
   },
   {
     "full_name": "sweetpad-dev/sweetpad",
@@ -49,20 +61,20 @@
   },
   {
     "full_name": "antirez/h3.c",
-    "stargazers_count": 2157,
-    "open_issues_count": 37,
-    "forks_count": 139
+    "stargazers_count": 2304,
+    "open_issues_count": 40,
+    "forks_count": 155
   },
   {
     "full_name": "ayghri/i-have-adhd",
-    "stargazers_count": 21525,
-    "open_issues_count": 19,
-    "forks_count": 1367
+    "stargazers_count": 22685,
+    "open_issues_count": 20,
+    "forks_count": 1451
   },
   {
     "full_name": "Jayy001/codexctl",
     "stargazers_count": 186,
-    "open_issues_count": 24,
+    "open_issues_count": 25,
     "forks_count": 25
   },
   {
@@ -73,20 +85,20 @@
   },
   {
     "full_name": "omnigent-ai/omnigent",
-    "stargazers_count": 8995,
-    "open_issues_count": 1021,
-    "forks_count": 1361
+    "stargazers_count": 9109,
+    "open_issues_count": 1095,
+    "forks_count": 1389
   },
   {
     "full_name": "pingdotgg/t3code",
-    "stargazers_count": 19112,
-    "open_issues_count": 1501,
-    "forks_count": 4433
+    "stargazers_count": 19784,
+    "open_issues_count": 1660,
+    "forks_count": 4633
   },
   {
     "full_name": "boldsoftware/exe.dev",
-    "stargazers_count": 140,
-    "open_issues_count": 136,
+    "stargazers_count": 142,
+    "open_issues_count": 139,
     "forks_count": 7
   },
   {
@@ -97,9 +109,9 @@
   },
   {
     "full_name": "agent-substrate/substrate",
-    "stargazers_count": 1237,
-    "open_issues_count": 374,
-    "forks_count": 233
+    "stargazers_count": 1413,
+    "open_issues_count": 391,
+    "forks_count": 252
   },
   {
     "full_name": "Automattic/harper-obsidian-plugin",
@@ -109,26 +121,26 @@
   },
   {
     "full_name": "wrenger/obsidian-languagetool",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 14,
     "forks_count": 8
   },
   {
     "full_name": "kevboh/longform",
-    "stargazers_count": 950,
+    "stargazers_count": 951,
     "open_issues_count": 119,
     "forks_count": 65
   },
   {
     "full_name": "saberzero1/quartz-themes",
-    "stargazers_count": 259,
+    "stargazers_count": 262,
     "open_issues_count": 17,
     "forks_count": 9
   },
   {
     "full_name": "SublerApp/Subler",
-    "stargazers_count": 236,
-    "open_issues_count": 54,
+    "stargazers_count": 237,
+    "open_issues_count": 48,
     "forks_count": 35
   },
   {
@@ -139,15 +151,15 @@
   },
   {
     "full_name": "northpolesec/santa",
-    "stargazers_count": 725,
+    "stargazers_count": 727,
     "open_issues_count": 28,
     "forks_count": 57
   },
   {
     "full_name": "bholmesdev/hubble.md",
-    "stargazers_count": 1366,
-    "open_issues_count": 30,
-    "forks_count": 81
+    "stargazers_count": 1391,
+    "open_issues_count": 29,
+    "forks_count": 87
   },
   {
     "full_name": "TortugaPower/bookplayer-api",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "LeoKlaus/plappa",
-    "stargazers_count": 542,
-    "open_issues_count": 198,
+    "stargazers_count": 544,
+    "open_issues_count": 199,
     "forks_count": 11
   },
   {
     "full_name": "tonikelope/megabasterd",
-    "stargazers_count": 5699,
-    "open_issues_count": 221,
+    "stargazers_count": 5703,
+    "open_issues_count": 222,
     "forks_count": 651
-  },
-  {
-    "full_name": "garrytan/gbrain",
-    "stargazers_count": 28623,
-    "open_issues_count": 437,
-    "forks_count": 4213
-  },
-  {
-    "full_name": "vignesh07/aside",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
