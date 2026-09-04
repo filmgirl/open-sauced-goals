@@ -1,97 +1,115 @@
 [
   {
+    "full_name": "githubnext/agentics",
+    "stargazers_count": 938,
+    "open_issues_count": 15,
+    "forks_count": 139
+  },
+  {
+    "full_name": "GeeJeeEU/The-Sims-On-MacOS",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "SwiftDevStudent/GroxConnect-Releases",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "omarshahine/apple-pim",
-    "stargazers_count": 34,
+    "stargazers_count": 50,
     "open_issues_count": 4,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "zackb/tether",
-    "stargazers_count": 1079,
-    "open_issues_count": 14,
-    "forks_count": 22
+    "stargazers_count": 1217,
+    "open_issues_count": 11,
+    "forks_count": 25
   },
   {
     "full_name": "Lakr233/vphone-cli",
-    "stargazers_count": 10100,
-    "open_issues_count": 22,
-    "forks_count": 1312
+    "stargazers_count": 10374,
+    "open_issues_count": 23,
+    "forks_count": 1342
   },
   {
     "full_name": "ps5-linux/ps5-linux-loader",
-    "stargazers_count": 2336,
-    "open_issues_count": 1,
-    "forks_count": 162
+    "stargazers_count": 2341,
+    "open_issues_count": 2,
+    "forks_count": 163
   },
   {
-    "full_name": "themartiano/try-omarchy",
-    "stargazers_count": 1063,
-    "open_issues_count": 10,
-    "forks_count": 45
+    "full_name": "omacom/try-omarchy",
+    "stargazers_count": 1468,
+    "open_issues_count": 29,
+    "forks_count": 68
   },
   {
     "full_name": "getpaseo/paseo",
-    "stargazers_count": 15664,
-    "open_issues_count": 1178,
-    "forks_count": 1701
+    "stargazers_count": 15935,
+    "open_issues_count": 1239,
+    "forks_count": 1756
   },
   {
     "full_name": "tailscale/tailcat",
-    "stargazers_count": 4917,
-    "open_issues_count": 13,
-    "forks_count": 159
+    "stargazers_count": 6105,
+    "open_issues_count": 16,
+    "forks_count": 232
   },
   {
     "full_name": "pbakaus/impeccable",
-    "stargazers_count": 64394,
-    "open_issues_count": 39,
-    "forks_count": 3968
+    "stargazers_count": 65355,
+    "open_issues_count": 27,
+    "forks_count": 4020
   },
   {
     "full_name": "vorssaintapp/vorssaint-utils",
-    "stargazers_count": 14232,
-    "open_issues_count": 339,
-    "forks_count": 482
+    "stargazers_count": 15030,
+    "open_issues_count": 331,
+    "forks_count": 530
   },
   {
     "full_name": "nix-darwin/nix-darwin",
-    "stargazers_count": 5892,
+    "stargazers_count": 5902,
     "open_issues_count": 475,
     "forks_count": 659
   },
   {
     "full_name": "kaitranntt/ccs",
-    "stargazers_count": 2835,
-    "open_issues_count": 23,
-    "forks_count": 262
+    "stargazers_count": 2837,
+    "open_issues_count": 24,
+    "forks_count": 261
   },
   {
     "full_name": "HEUDavid/shadow-ai",
-    "stargazers_count": 67,
+    "stargazers_count": 68,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "router-for-me/Cli-Proxy-API-Management-Center",
-    "stargazers_count": 4056,
-    "open_issues_count": 18,
-    "forks_count": 1205
+    "stargazers_count": 4094,
+    "open_issues_count": 8,
+    "forks_count": 1215
   },
   {
     "full_name": "router-for-me/CLIProxyAPI",
-    "stargazers_count": 49647,
-    "open_issues_count": 489,
-    "forks_count": 7592
+    "stargazers_count": 50200,
+    "open_issues_count": 530,
+    "forks_count": 7659
   },
   {
     "full_name": "AprilNEA/OpenLogi",
-    "stargazers_count": 18190,
-    "open_issues_count": 424,
-    "forks_count": 538
+    "stargazers_count": 18894,
+    "open_issues_count": 462,
+    "forks_count": 571
   },
   {
     "full_name": "jeff-schumann/EasyDMG",
-    "stargazers_count": 213,
+    "stargazers_count": 215,
     "open_issues_count": 1,
     "forks_count": 6
   },
@@ -103,80 +121,62 @@
   },
   {
     "full_name": "FoxRefire/wvg",
-    "stargazers_count": 801,
+    "stargazers_count": 802,
     "open_issues_count": 26,
     "forks_count": 143
   },
   {
     "full_name": "hughhowey/neo",
-    "stargazers_count": 309,
-    "open_issues_count": 10,
-    "forks_count": 19
+    "stargazers_count": 379,
+    "open_issues_count": 6,
+    "forks_count": 28
   },
   {
     "full_name": "mirendev/runtime",
-    "stargazers_count": 110,
-    "open_issues_count": 2,
+    "stargazers_count": 111,
+    "open_issues_count": 12,
     "forks_count": 5
   },
   {
     "full_name": "electron/osx-sign",
-    "stargazers_count": 629,
+    "stargazers_count": 630,
     "open_issues_count": 26,
     "forks_count": 113
   },
   {
     "full_name": "davebcn87/pi-autoresearch",
-    "stargazers_count": 7944,
-    "open_issues_count": 8,
-    "forks_count": 450
+    "stargazers_count": 7985,
+    "open_issues_count": 6,
+    "forks_count": 451
   },
   {
     "full_name": "deepseek-ai/deepseek-harness",
-    "stargazers_count": 206580,
+    "stargazers_count": 211083,
     "open_issues_count": 0,
-    "forks_count": 23990
+    "forks_count": 24713
   },
   {
     "full_name": "sweetpad-dev/sweetpad",
-    "stargazers_count": 1874,
+    "stargazers_count": 1875,
     "open_issues_count": 6,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "antirez/h3.c",
-    "stargazers_count": 2522,
-    "open_issues_count": 51,
-    "forks_count": 186
+    "stargazers_count": 2552,
+    "open_issues_count": 52,
+    "forks_count": 192
   },
   {
     "full_name": "ayghri/i-have-adhd",
-    "stargazers_count": 26087,
-    "open_issues_count": 23,
-    "forks_count": 1638
+    "stargazers_count": 26970,
+    "open_issues_count": 20,
+    "forks_count": 1689
   },
   {
     "full_name": "Jayy001/codexctl",
     "stargazers_count": 186,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "forks_count": 25
-  },
-  {
-    "full_name": "CrazyWolf13/streamlink-webui",
-    "stargazers_count": 30,
-    "open_issues_count": 4,
-    "forks_count": 2
-  },
-  {
-    "full_name": "omnigent-ai/omnigent",
-    "stargazers_count": 9564,
-    "open_issues_count": 1174,
-    "forks_count": 1476
-  },
-  {
-    "full_name": "pingdotgg/t3code",
-    "stargazers_count": 21220,
-    "open_issues_count": 1481,
-    "forks_count": 5119
   }
 ]
