@@ -1,69 +1,105 @@
 [
   {
+    "full_name": "firelex/jeff",
+    "stargazers_count": 342,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
+    "full_name": "floci-io/floci-gcp",
+    "stargazers_count": 423,
+    "open_issues_count": 40,
+    "forks_count": 91
+  },
+  {
+    "full_name": "floci-io/floci-az",
+    "stargazers_count": 717,
+    "open_issues_count": 38,
+    "forks_count": 129
+  },
+  {
+    "full_name": "floci-io/floci",
+    "stargazers_count": 26033,
+    "open_issues_count": 145,
+    "forks_count": 2804
+  },
+  {
+    "full_name": "ministackorg/ministack",
+    "stargazers_count": 4747,
+    "open_issues_count": 14,
+    "forks_count": 466
+  },
+  {
+    "full_name": "ollaya-dev/ollaya",
+    "stargazers_count": 884,
+    "open_issues_count": 6,
+    "forks_count": 44
+  },
+  {
     "full_name": "githubnext/monaspace",
-    "stargazers_count": 19662,
-    "open_issues_count": 64,
-    "forks_count": 323
+    "stargazers_count": 19675,
+    "open_issues_count": 63,
+    "forks_count": 322
   },
   {
     "full_name": "CharlesWiltgen/Axiom",
-    "stargazers_count": 1176,
+    "stargazers_count": 1180,
     "open_issues_count": 3,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "asciimoo/hister",
-    "stargazers_count": 5659,
-    "open_issues_count": 65,
-    "forks_count": 242
+    "stargazers_count": 5787,
+    "open_issues_count": 70,
+    "forks_count": 253
   },
   {
     "full_name": "Homebrew/BrewUI",
-    "stargazers_count": 2237,
-    "open_issues_count": 14,
-    "forks_count": 66
+    "stargazers_count": 2340,
+    "open_issues_count": 9,
+    "forks_count": 73
   },
   {
     "full_name": "fif7y/pelmet",
-    "stargazers_count": 641,
-    "open_issues_count": 9,
-    "forks_count": 15
+    "stargazers_count": 699,
+    "open_issues_count": 5,
+    "forks_count": 17
   },
   {
     "full_name": "tsvb/post-peek",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "www1z4rd/cloaq",
-    "stargazers_count": 165,
+    "stargazers_count": 169,
     "open_issues_count": 14,
     "forks_count": 30
   },
   {
     "full_name": "Osmantic/ODS",
-    "stargazers_count": 6815,
-    "open_issues_count": 3670,
-    "forks_count": 962
+    "stargazers_count": 6882,
+    "open_issues_count": 3757,
+    "forks_count": 965
   },
   {
     "full_name": "microsoft/aspire",
-    "stargazers_count": 6321,
-    "open_issues_count": 2416,
-    "forks_count": 995
+    "stargazers_count": 6324,
+    "open_issues_count": 2448,
+    "forks_count": 998
   },
   {
     "full_name": "m1k1o/neko-rooms",
-    "stargazers_count": 764,
+    "stargazers_count": 767,
     "open_issues_count": 28,
     "forks_count": 91
   },
   {
     "full_name": "m1k1o/neko",
-    "stargazers_count": 22380,
+    "stargazers_count": 22402,
     "open_issues_count": 149,
-    "forks_count": 1631
+    "forks_count": 1629
   },
   {
     "full_name": "GeekTrainer/northridge-video",
@@ -73,7 +109,7 @@
   },
   {
     "full_name": "githubnext/agentics",
-    "stargazers_count": 961,
+    "stargazers_count": 963,
     "open_issues_count": 14,
     "forks_count": 142
   },
@@ -91,92 +127,56 @@
   },
   {
     "full_name": "omarshahine/apple-pim",
-    "stargazers_count": 56,
-    "open_issues_count": 4,
-    "forks_count": 11
-  },
-  {
-    "full_name": "zackb/tether",
-    "stargazers_count": 1385,
-    "open_issues_count": 10,
-    "forks_count": 30
-  },
-  {
-    "full_name": "Lakr233/vphone-cli",
-    "stargazers_count": 14351,
-    "open_issues_count": 30,
-    "forks_count": 1693
-  },
-  {
-    "full_name": "omacom/try-omarchy",
-    "stargazers_count": 2320,
-    "open_issues_count": 30,
-    "forks_count": 120
-  },
-  {
-    "full_name": "getpaseo/paseo",
-    "stargazers_count": 18471,
-    "open_issues_count": 905,
-    "forks_count": 2117
-  },
-  {
-    "full_name": "tailscale/tailcat",
-    "stargazers_count": 7703,
-    "open_issues_count": 25,
-    "forks_count": 328
-  },
-  {
-    "full_name": "pbakaus/impeccable",
-    "stargazers_count": 70809,
-    "open_issues_count": 43,
-    "forks_count": 4297
-  },
-  {
-    "full_name": "vorssaint/vorssaint-utils",
-    "stargazers_count": 21250,
-    "open_issues_count": 533,
-    "forks_count": 789
-  },
-  {
-    "full_name": "nix-darwin/nix-darwin",
-    "stargazers_count": 5950,
-    "open_issues_count": 479,
-    "forks_count": 659
-  },
-  {
-    "full_name": "kaitranntt/ccs",
-    "stargazers_count": 2859,
-    "open_issues_count": 19,
-    "forks_count": 264
-  },
-  {
-    "full_name": "HEUDavid/shadow-ai",
-    "stargazers_count": 72,
-    "open_issues_count": 0,
+    "stargazers_count": 58,
+    "open_issues_count": 5,
     "forks_count": 12
   },
   {
-    "full_name": "router-for-me/Cli-Proxy-API-Management-Center",
-    "stargazers_count": 4329,
-    "open_issues_count": 26,
-    "forks_count": 1286
+    "full_name": "zackb/tether",
+    "stargazers_count": 1400,
+    "open_issues_count": 10,
+    "forks_count": 32
   },
   {
-    "full_name": "router-for-me/CLIProxyAPI",
-    "stargazers_count": 53141,
-    "open_issues_count": 642,
-    "forks_count": 8021
+    "full_name": "Lakr233/vphone-cli",
+    "stargazers_count": 14639,
+    "open_issues_count": 16,
+    "forks_count": 1722
   },
   {
-    "full_name": "AprilNEA/OpenLogi",
-    "stargazers_count": 22121,
-    "open_issues_count": 611,
-    "forks_count": 726
+    "full_name": "omacom/try-omarchy",
+    "stargazers_count": 2399,
+    "open_issues_count": 41,
+    "forks_count": 125
   },
   {
-    "full_name": "jeff-schumann/EasyDMG",
-    "stargazers_count": 232,
-    "open_issues_count": 0,
-    "forks_count": 6
+    "full_name": "getpaseo/paseo",
+    "stargazers_count": 18905,
+    "open_issues_count": 962,
+    "forks_count": 2175
+  },
+  {
+    "full_name": "tailscale/tailcat",
+    "stargazers_count": 7792,
+    "open_issues_count": 23,
+    "forks_count": 334
+  },
+  {
+    "full_name": "pbakaus/impeccable",
+    "stargazers_count": 72138,
+    "open_issues_count": 61,
+    "forks_count": 4359
+  },
+  {
+    "full_name": "vorssaint/vorssaint-utils",
+    "stargazers_count": 21952,
+    "open_issues_count": 682,
+    "forks_count": 860
+  },
+  {
+    "full_name": "nix-darwin/nix-darwin",
+    "stargazers_count": 5961,
+    "open_issues_count": 479,
+    "forks_count": 660
   }
 ]
