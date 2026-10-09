@@ -1,39 +1,93 @@
 [
   {
+    "full_name": "storytold/pdfcraft",
+    "stargazers_count": 4633,
+    "open_issues_count": 135,
+    "forks_count": 1572
+  },
+  {
+    "full_name": "storytold/filmcraft",
+    "stargazers_count": 5419,
+    "open_issues_count": 177,
+    "forks_count": 1832
+  },
+  {
+    "full_name": "storytold/lightcraft",
+    "stargazers_count": 5742,
+    "open_issues_count": 88,
+    "forks_count": 1658
+  },
+  {
+    "full_name": "storytold/artcraft",
+    "stargazers_count": 8135,
+    "open_issues_count": 75,
+    "forks_count": 1159
+  },
+  {
+    "full_name": "storytold/photocraft",
+    "stargazers_count": 27462,
+    "open_issues_count": 369,
+    "forks_count": 3783
+  },
+  {
+    "full_name": "docker/docker-agent",
+    "stargazers_count": 4241,
+    "open_issues_count": 45,
+    "forks_count": 494
+  },
+  {
+    "full_name": "omlahore/RemoveMacAI",
+    "stargazers_count": 3796,
+    "open_issues_count": 3,
+    "forks_count": 102
+  },
+  {
+    "full_name": "kaishi00/hermes-conduit",
+    "stargazers_count": 230,
+    "open_issues_count": 25,
+    "forks_count": 38
+  },
+  {
+    "full_name": "anurmatov/mac-studio-server",
+    "stargazers_count": 366,
+    "open_issues_count": 8,
+    "forks_count": 39
+  },
+  {
     "full_name": "jaskirat1616/mactap-app",
-    "stargazers_count": 596,
+    "stargazers_count": 634,
     "open_issues_count": 7,
     "forks_count": 21
   },
   {
     "full_name": "lab421/forel",
-    "stargazers_count": 692,
-    "open_issues_count": 26,
-    "forks_count": 22
+    "stargazers_count": 733,
+    "open_issues_count": 30,
+    "forks_count": 23
   },
   {
     "full_name": "FuzzyIdeas/Clop",
-    "stargazers_count": 1793,
+    "stargazers_count": 1815,
     "open_issues_count": 4,
     "forks_count": 77
   },
   {
     "full_name": "f/textream",
-    "stargazers_count": 3951,
-    "open_issues_count": 70,
-    "forks_count": 272
+    "stargazers_count": 3983,
+    "open_issues_count": 72,
+    "forks_count": 275
   },
   {
     "full_name": "TRaSH-Guides/Guides",
-    "stargazers_count": 3196,
+    "stargazers_count": 3202,
     "open_issues_count": 11,
     "forks_count": 321
   },
   {
     "full_name": "edde746/plezy",
-    "stargazers_count": 3612,
-    "open_issues_count": 290,
-    "forks_count": 351
+    "stargazers_count": 3641,
+    "open_issues_count": 300,
+    "forks_count": 359
   },
   {
     "full_name": "nilaoda/iina-avs",
@@ -49,134 +103,80 @@
   },
   {
     "full_name": "crmne/spotifast",
-    "stargazers_count": 5485,
-    "open_issues_count": 61,
-    "forks_count": 263
+    "stargazers_count": 6876,
+    "open_issues_count": 148,
+    "forks_count": 344
   },
   {
     "full_name": "automatic-ripping-machine/automatic-ripping-machine",
-    "stargazers_count": 5273,
-    "open_issues_count": 157,
-    "forks_count": 504
+    "stargazers_count": 5280,
+    "open_issues_count": 158,
+    "forks_count": 506
   },
   {
     "full_name": "ninjahawk/livenerf",
-    "stargazers_count": 1297,
+    "stargazers_count": 1393,
     "open_issues_count": 2,
-    "forks_count": 17
+    "forks_count": 19
   },
   {
     "full_name": "OpenMinis/MinisSkills",
-    "stargazers_count": 439,
+    "stargazers_count": 444,
     "open_issues_count": 5,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "OpenMinis/AwesomeMinis",
-    "stargazers_count": 283,
+    "stargazers_count": 285,
     "open_issues_count": 2,
     "forks_count": 17
   },
   {
     "full_name": "OpenMinis/OpenMinis",
-    "stargazers_count": 4932,
-    "open_issues_count": 204,
-    "forks_count": 610
+    "stargazers_count": 5005,
+    "open_issues_count": 210,
+    "forks_count": 626
   },
   {
     "full_name": "Desert-Ant-Labs/desert-ant-core",
-    "stargazers_count": 370,
-    "open_issues_count": 10,
-    "forks_count": 17
+    "stargazers_count": 381,
+    "open_issues_count": 7,
+    "forks_count": 19
   },
   {
     "full_name": "jundot/omlx",
-    "stargazers_count": 22548,
-    "open_issues_count": 1301,
-    "forks_count": 1969
+    "stargazers_count": 22644,
+    "open_issues_count": 636,
+    "forks_count": 1987
   },
   {
     "full_name": "firelex/jeff",
-    "stargazers_count": 1397,
-    "open_issues_count": 9,
-    "forks_count": 68
+    "stargazers_count": 1471,
+    "open_issues_count": 1,
+    "forks_count": 70
   },
   {
     "full_name": "floci-io/floci-gcp",
-    "stargazers_count": 438,
-    "open_issues_count": 54,
-    "forks_count": 97
+    "stargazers_count": 446,
+    "open_issues_count": 50,
+    "forks_count": 101
   },
   {
     "full_name": "floci-io/floci-az",
-    "stargazers_count": 741,
-    "open_issues_count": 39,
-    "forks_count": 131
+    "stargazers_count": 753,
+    "open_issues_count": 21,
+    "forks_count": 132
   },
   {
     "full_name": "floci-io/floci",
-    "stargazers_count": 26412,
-    "open_issues_count": 201,
-    "forks_count": 2856
+    "stargazers_count": 26600,
+    "open_issues_count": 239,
+    "forks_count": 2884
   },
   {
     "full_name": "ministackorg/ministack",
-    "stargazers_count": 4838,
-    "open_issues_count": 30,
-    "forks_count": 484
-  },
-  {
-    "full_name": "ollaya-dev/ollaya",
-    "stargazers_count": 1207,
-    "open_issues_count": 8,
-    "forks_count": 69
-  },
-  {
-    "full_name": "githubnext/monaspace",
-    "stargazers_count": 19694,
-    "open_issues_count": 63,
-    "forks_count": 324
-  },
-  {
-    "full_name": "CharlesWiltgen/Axiom",
-    "stargazers_count": 1189,
-    "open_issues_count": 5,
-    "forks_count": 86
-  },
-  {
-    "full_name": "asciimoo/hister",
-    "stargazers_count": 5908,
-    "open_issues_count": 62,
-    "forks_count": 263
-  },
-  {
-    "full_name": "Homebrew/BrewUI",
-    "stargazers_count": 2445,
-    "open_issues_count": 9,
-    "forks_count": 76
-  },
-  {
-    "full_name": "fif7y/pelmet",
-    "stargazers_count": 774,
-    "open_issues_count": 3,
-    "forks_count": 17
-  },
-  {
-    "full_name": "tsvb/post-peek",
-    "stargazers_count": 53,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "www1z4rd/cloaq",
-    "stargazers_count": 170,
-    "open_issues_count": 13,
-    "forks_count": 30
-  },
-  {
-    "full_name": "Osmantic/ODS",
-    "stargazers_count": 7038,
-    "open_issues_count": 794,
-    "forks_count": 1002
+    "stargazers_count": 4913,
+    "open_issues_count": 20,
+    "forks_count": 496
   }
 ]
