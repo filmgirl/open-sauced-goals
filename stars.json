@@ -1,123 +1,123 @@
 [
   {
     "full_name": "pfeifferj/archlinuxarm-proart-p16",
-    "stargazers_count": 44,
+    "stargazers_count": 49,
     "open_issues_count": 0,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "NVIDIA/local-ai-inference-recipes",
-    "stargazers_count": 17,
+    "stargazers_count": 20,
     "open_issues_count": 4,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "nolabs-ai/nono",
-    "stargazers_count": 4686,
-    "open_issues_count": 284,
-    "forks_count": 322
+    "stargazers_count": 4756,
+    "open_issues_count": 283,
+    "forks_count": 321
   },
   {
     "full_name": "rociiu/talorys",
-    "stargazers_count": 1391,
-    "open_issues_count": 9,
-    "forks_count": 125
+    "stargazers_count": 1417,
+    "open_issues_count": 10,
+    "forks_count": 134
   },
   {
     "full_name": "smol-machines/smolvm",
-    "stargazers_count": 6840,
-    "open_issues_count": 80,
-    "forks_count": 341
+    "stargazers_count": 6879,
+    "open_issues_count": 84,
+    "forks_count": 342
   },
   {
     "full_name": "storytold/pdfcraft",
-    "stargazers_count": 18064,
-    "open_issues_count": 2198,
-    "forks_count": 6889
+    "stargazers_count": 18644,
+    "open_issues_count": 2592,
+    "forks_count": 7039
   },
   {
     "full_name": "storytold/filmcraft",
-    "stargazers_count": 16431,
-    "open_issues_count": 1838,
-    "forks_count": 6861
+    "stargazers_count": 16869,
+    "open_issues_count": 2038,
+    "forks_count": 6983
   },
   {
     "full_name": "storytold/lightcraft",
-    "stargazers_count": 14765,
-    "open_issues_count": 1276,
-    "forks_count": 5681
+    "stargazers_count": 15056,
+    "open_issues_count": 1477,
+    "forks_count": 5772
   },
   {
     "full_name": "storytold/artcraft",
-    "stargazers_count": 36949,
-    "open_issues_count": 549,
-    "forks_count": 5848
+    "stargazers_count": 37665,
+    "open_issues_count": 583,
+    "forks_count": 5947
   },
   {
     "full_name": "storytold/photocraft",
-    "stargazers_count": 73409,
-    "open_issues_count": 3287,
-    "forks_count": 12988
+    "stargazers_count": 74854,
+    "open_issues_count": 3503,
+    "forks_count": 13221
   },
   {
     "full_name": "docker/docker-agent",
-    "stargazers_count": 4611,
-    "open_issues_count": 68,
-    "forks_count": 533
+    "stargazers_count": 4622,
+    "open_issues_count": 70,
+    "forks_count": 541
   },
   {
     "full_name": "omlahore/RemoveMacAI",
-    "stargazers_count": 5337,
+    "stargazers_count": 5561,
     "open_issues_count": 17,
-    "forks_count": 156
+    "forks_count": 160
   },
   {
     "full_name": "kaishi00/hermes-conduit",
-    "stargazers_count": 462,
-    "open_issues_count": 26,
-    "forks_count": 60
+    "stargazers_count": 483,
+    "open_issues_count": 36,
+    "forks_count": 64
   },
   {
     "full_name": "anurmatov/mac-studio-server",
     "stargazers_count": 376,
     "open_issues_count": 8,
-    "forks_count": 39
+    "forks_count": 37
   },
   {
     "full_name": "jaskirat1616/mactap-app",
-    "stargazers_count": 727,
+    "stargazers_count": 737,
     "open_issues_count": 8,
     "forks_count": 25
   },
   {
     "full_name": "lab421/forel",
-    "stargazers_count": 896,
+    "stargazers_count": 909,
     "open_issues_count": 24,
     "forks_count": 38
   },
   {
     "full_name": "FuzzyIdeas/Clop",
-    "stargazers_count": 1855,
+    "stargazers_count": 1857,
     "open_issues_count": 4,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "f/textream",
-    "stargazers_count": 4141,
-    "open_issues_count": 78,
-    "forks_count": 291
+    "stargazers_count": 4166,
+    "open_issues_count": 79,
+    "forks_count": 298
   },
   {
     "full_name": "TRaSH-Guides/Guides",
-    "stargazers_count": 3224,
-    "open_issues_count": 9,
-    "forks_count": 323
+    "stargazers_count": 3229,
+    "open_issues_count": 11,
+    "forks_count": 322
   },
   {
     "full_name": "edde746/plezy",
-    "stargazers_count": 3957,
-    "open_issues_count": 345,
-    "forks_count": 430
+    "stargazers_count": 4005,
+    "open_issues_count": 367,
+    "forks_count": 442
   },
   {
     "full_name": "nilaoda/iina-avs",
@@ -133,50 +133,50 @@
   },
   {
     "full_name": "crmne/spotifast",
-    "stargazers_count": 9237,
-    "open_issues_count": 121,
-    "forks_count": 541
+    "stargazers_count": 9391,
+    "open_issues_count": 125,
+    "forks_count": 554
   },
   {
     "full_name": "automatic-ripping-machine/automatic-ripping-machine",
-    "stargazers_count": 5386,
-    "open_issues_count": 199,
-    "forks_count": 515
+    "stargazers_count": 5392,
+    "open_issues_count": 201,
+    "forks_count": 518
   },
   {
     "full_name": "ninjahawk/livenerf",
-    "stargazers_count": 1583,
+    "stargazers_count": 1609,
     "open_issues_count": 3,
     "forks_count": 20
   },
   {
     "full_name": "OpenMinis/MinisSkills",
-    "stargazers_count": 572,
+    "stargazers_count": 580,
     "open_issues_count": 9,
-    "forks_count": 92
+    "forks_count": 95
   },
   {
     "full_name": "OpenMinis/AwesomeMinis",
-    "stargazers_count": 316,
+    "stargazers_count": 321,
     "open_issues_count": 1,
     "forks_count": 19
   },
   {
     "full_name": "OpenMinis/OpenMinis",
-    "stargazers_count": 5518,
-    "open_issues_count": 257,
-    "forks_count": 688
+    "stargazers_count": 5600,
+    "open_issues_count": 266,
+    "forks_count": 707
   },
   {
     "full_name": "Desert-Ant-Labs/desert-ant-core",
-    "stargazers_count": 420,
-    "open_issues_count": 8,
-    "forks_count": 22
+    "stargazers_count": 429,
+    "open_issues_count": 9,
+    "forks_count": 23
   },
   {
     "full_name": "jundot/omlx",
-    "stargazers_count": 23078,
-    "open_issues_count": 573,
-    "forks_count": 2067
+    "stargazers_count": 23172,
+    "open_issues_count": 602,
+    "forks_count": 2074
   }
 ]
