@@ -1,141 +1,147 @@
 [
   {
+    "full_name": "morluto/rea",
+    "stargazers_count": 434512,
+    "open_issues_count": 1621,
+    "forks_count": 107846
+  },
+  {
     "full_name": "nianeyna/ao3downloader",
-    "stargazers_count": 483,
+    "stargazers_count": 486,
     "open_issues_count": 29,
     "forks_count": 36
   },
   {
     "full_name": "neosubhamoy/neodlp",
     "stargazers_count": 587,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 28
   },
   {
     "full_name": "CherryHQ/cherry-studio",
-    "stargazers_count": 53204,
-    "open_issues_count": 2414,
-    "forks_count": 5164
+    "stargazers_count": 53293,
+    "open_issues_count": 2539,
+    "forks_count": 5185
   },
   {
     "full_name": "Lake1059/FFmpegFreeUI",
-    "stargazers_count": 8485,
+    "stargazers_count": 8495,
     "open_issues_count": 2,
     "forks_count": 506
   },
   {
     "full_name": "arminask/windows-arm-apps",
     "stargazers_count": 192,
-    "open_issues_count": 15,
+    "open_issues_count": 12,
     "forks_count": 53
   },
   {
     "full_name": "peazip/PeaZip",
-    "stargazers_count": 8060,
+    "stargazers_count": 8080,
     "open_issues_count": 17,
-    "forks_count": 422
+    "forks_count": 424
   },
   {
     "full_name": "cebeuq/Synthid-Bypass",
-    "stargazers_count": 1008,
+    "stargazers_count": 1012,
     "open_issues_count": 17,
     "forks_count": 142
   },
   {
     "full_name": "froggeric/gemini-watermark-and-synthid-remover",
-    "stargazers_count": 115,
+    "stargazers_count": 118,
     "open_issues_count": 2,
     "forks_count": 21
   },
   {
     "full_name": "guillaumemeyer/watermarks-remover",
-    "stargazers_count": 26024,
-    "open_issues_count": 41,
-    "forks_count": 2965
+    "stargazers_count": 26416,
+    "open_issues_count": 46,
+    "forks_count": 3019
   },
   {
     "full_name": "getarcaneapp/arcane",
-    "stargazers_count": 8159,
-    "open_issues_count": 19,
-    "forks_count": 345
+    "stargazers_count": 8198,
+    "open_issues_count": 9,
+    "forks_count": 347
   },
   {
     "full_name": "pfeifferj/archlinuxarm-proart-p16",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "NVIDIA/local-ai-inference-recipes",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 4,
     "forks_count": 3
   },
   {
     "full_name": "nolabs-ai/nono",
-    "stargazers_count": 4809,
-    "open_issues_count": 287,
-    "forks_count": 326
+    "stargazers_count": 4864,
+    "open_issues_count": 300,
+    "forks_count": 327
   },
   {
     "full_name": "rociiu/talorys",
-    "stargazers_count": 1435,
+    "stargazers_count": 1442,
     "open_issues_count": 7,
-    "forks_count": 138
+    "forks_count": 142
   },
   {
     "full_name": "smol-machines/smolvm",
-    "stargazers_count": 6907,
-    "open_issues_count": 83,
-    "forks_count": 351
+    "stargazers_count": 6957,
+    "open_issues_count": 87,
+    "forks_count": 355
   },
   {
     "full_name": "storytold/pdfcraft",
-    "stargazers_count": 19251,
-    "open_issues_count": 2890,
-    "forks_count": 7224
+    "stargazers_count": 19712,
+    "open_issues_count": 3214,
+    "forks_count": 7361
   },
   {
     "full_name": "storytold/filmcraft",
-    "stargazers_count": 17319,
-    "open_issues_count": 1948,
-    "forks_count": 7158
+    "stargazers_count": 17612,
+    "open_issues_count": 2062,
+    "forks_count": 7257
   },
   {
     "full_name": "storytold/lightcraft",
-    "stargazers_count": 15340,
-    "open_issues_count": 1453,
-    "forks_count": 5892
+    "stargazers_count": 15553,
+    "open_issues_count": 1484,
+    "forks_count": 5973
   },
   {
     "full_name": "storytold/artcraft",
-    "stargazers_count": 38377,
-    "open_issues_count": 629,
-    "forks_count": 6054
+    "stargazers_count": 39003,
+    "open_issues_count": 660,
+    "forks_count": 6157
   },
   {
     "full_name": "storytold/photocraft",
-    "stargazers_count": 76232,
-    "open_issues_count": 3865,
-    "forks_count": 13514
+    "stargazers_count": 77224,
+    "open_issues_count": 3646,
+    "forks_count": 13690
   },
   {
     "full_name": "docker/docker-agent",
-    "stargazers_count": 4648,
-    "open_issues_count": 73,
-    "forks_count": 546
+    "stargazers_count": 4657,
+    "open_issues_count": 74,
+    "forks_count": 552
   },
   {
     "full_name": "omlahore/RemoveMacAI",
-    "stargazers_count": 5761,
-    "open_issues_count": 18,
-    "forks_count": 165
+    "stargazers_count": 5878,
+    "open_issues_count": 11,
+    "forks_count": 169
   },
   {
     "full_name": "kaishi00/hermes-conduit",
-    "stargazers_count": 512,
-    "open_issues_count": 44,
-    "forks_count": 70
+    "stargazers_count": 524,
+    "open_issues_count": 49,
+    "forks_count": 77
   },
   {
     "full_name": "anurmatov/mac-studio-server",
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "jaskirat1616/mactap-app",
-    "stargazers_count": 752,
+    "stargazers_count": 761,
     "open_issues_count": 8,
     "forks_count": 28
   },
   {
     "full_name": "lab421/forel",
-    "stargazers_count": 915,
-    "open_issues_count": 23,
-    "forks_count": 39
+    "stargazers_count": 922,
+    "open_issues_count": 21,
+    "forks_count": 41
   },
   {
     "full_name": "FuzzyIdeas/Clop",
-    "stargazers_count": 1860,
+    "stargazers_count": 1864,
     "open_issues_count": 4,
     "forks_count": 83
   },
   {
     "full_name": "f/textream",
-    "stargazers_count": 4218,
-    "open_issues_count": 79,
-    "forks_count": 303
+    "stargazers_count": 4240,
+    "open_issues_count": 80,
+    "forks_count": 304
   },
   {
     "full_name": "TRaSH-Guides/Guides",
-    "stargazers_count": 3234,
-    "open_issues_count": 12,
-    "forks_count": 322
-  },
-  {
-    "full_name": "edde746/plezy",
-    "stargazers_count": 4068,
-    "open_issues_count": 378,
-    "forks_count": 456
+    "stargazers_count": 3243,
+    "open_issues_count": 10,
+    "forks_count": 324
   }
 ]
